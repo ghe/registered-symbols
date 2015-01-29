@@ -218,6 +218,7 @@ ANGL|Market Vectors Fallen Angel High Yield Bond|P|ANGL|Y|100|N|ANGL
 ANH|Anworth Mortgage Asset Corporation Common Stock|N|ANH|N|100|N|ANH
 ANH$A|Anworth Mortgage Asset Corporation Series A Preferred Stock|N|ANHpA|N|100|N|ANH-A
 ANH$B|Anworth Mortgage Asset  Corporation Preferred Stock Series B 6.25%|N|ANHpB|N|100|N|ANH-B
+ANH$C|Anworth Mortgage Asset  Corporation 7.625% Series C Cumulative Redeemable  Preferred Stock|N|ANHpC|N|100|N|ANH-C
 ANN|ANN INC. Common Stock|N|ANN|N|100|N|ANN
 ANR|Alpha Natural Resources, inc. comm stock|N|ANR|N|100|N|ANR
 ANTM|Anthem, Inc. Common Stock|N|ANTM|N|100|N|ANTM
@@ -242,7 +243,7 @@ APF|Morgan Stanley Asia-Pacific Fund, Inc.|N|APF|N|100|N|APF
 APH|Amphenol Corporation Common Stock|N|APH|N|100|N|APH
 API|Advanced Photonix, Inc. Class A Common Stock|A|API|N|100|N|API
 APL|Atlas Pipeline Partners, L.P. Common Units, No Par Value|N|APL|N|100|N|APL
-APL$E|Atlas Pipeline Partners, L.P. Cumulative Redeemable Perpetual Preferred Units Class E|N|APLpE|N|100|N|APL-E
+APL$E|Atlas Pipeline Partners, L.P. Cumulative Redeemable Perpetual Preferred Units Class E|N|APLpE/CL|N|100|N|APL-E*
 APO|Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests|N|APO|N|100|N|APO
 APP|American Apparel Inc Common Stock|A|APP|N|100|N|APP
 APT|Alpha Pro Tech, Ltd. Common Stock|A|APT|N|100|N|APT
@@ -376,6 +377,7 @@ BAC$E|Bank of America Corporation Depositary Sh repstg 1/1000th Perp Pfd Ser E|N
 BAC$I|Bank Amer Corp Dep Sh Repstg 1/1000th Pfd Ser I|N|BACpI|N|100|N|BAC-I
 BAC$L|Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L|N|BACpL|N|10|N|BAC-L
 BAC$W|Bank of America Corporation Depository Shares Representing 1/1000th Preferred Series W|N|BACpW|N|100|N|BAC-W
+BAC$Y|Bank of America Corporation Depositary Shares, each representing a 1/1,000 th interest in a share of Bank of America Corporation 6.500% Non-Cumulative Preferred Stock, Series Y|N|BACpY|N|100|N|BAC-Y
 BAC$Z|Bank of America Corporation BAC Capital Trust VIII 6% Capital Securities|N|BACpZ|N|100|N|BAC-Z
 BAC.A|Bank of America Corporation Class A Warrant expiring January 16, 2019|N|BAC/WS/A|N|100|N|BAC+A
 BAC.B|Bank of America Corporation Class B Warrants expiring 10/28/2018|N|BAC/WS/B|N|100|N|BAC+B
@@ -898,7 +900,6 @@ CORR|CorEnergy Infrastructure Trust, Inc. Common Stock|N|CORR|N|100|N|CORR
 COT|Cott Corporation Common Stock|N|COT|N|100|N|COT
 COTY|Coty Inc. Class A Common Stock|N|COTY|N|100|N|COTY
 COUP|Coupons.com Incorporated Common Stock|N|COUP|N|100|N|COUP
-COV|Covidien plc. Ordinary Shares (Ireland)|N|COV|N|100|N|COV
 COVR|Cover-All Technologies Inc. Common Stock|A|COVR|N|100|N|COVR
 COW|iPath Bloomberg Livestock Total Return Sub-Index ETN|P|COW|N|100|N|COW
 CP|Canadian Pacific Railway Limited Common Stock|N|CP|N|100|N|CP
@@ -1920,7 +1921,6 @@ GFIG|GFI Group Inc. Common Stock|N|GFIG|N|100|N|GFIG
 GFY|Western Asset Variable Rate Strategic Fund Inc. Common Stock|N|GFY|N|100|N|GFY
 GG|Goldcorp Inc. Common Stock|N|GG|N|100|N|GG
 GGB|Gerdau S.A. Common Stock|N|GGB|N|100|N|GGB
-GGBP|AdvisorShares Gartman Gold/Pound ETF|P|GGBP|Y|100|N|GGBP
 GGE|Guggenheim Enhanced Equity Strategy Fund|N|GGE|N|100|N|GGE
 GGG|Graco Inc. Common Stock|N|GGG|N|100|N|GGG
 GGM|Guggenheim Credit Allocation Fund Common Shares of Beneficial Interest|N|GGM|N|100|N|GGM
@@ -1954,7 +1954,6 @@ GJS|Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securiti
 GJT|Synthetic Fixed-Income Securities, Inc. Synthetic Fixed-Income Securities, Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates, Series 2006-3|N|GJT|N|100|N|GJT
 GJV|Synthetic Fixed-Income Securities Inc 7.00% Fixed Rate Structured Repackaged Asset-Backed Trust Securities (STRATS)|N|GJV|N|100|N|GJV
 GLD|SPDR Gold Trust|P|GLD|Y|100|N|GLD
-GLDE|AdvisorShares International Gold ETF|P|GLDE|Y|100|N|GLDE
 GLDX|Global X Gold Explorers ETF|P|GLDX|Y|100|N|GLDX
 GLF|GulfMark Offshore, Inc. New Common Stock|N|GLF|N|100|N|GLF
 GLL|ProShares UltraShort Gold|P|GLL|Y|100|N|GLL
@@ -2944,7 +2943,7 @@ MDLL|Direxion Daily Mid Cap Bull 2X Shares|P|MDLL|Y|100|N|MDLL
 MDLY|Medley Management Inc. Class A Common Stock|N|MDLY|N|100|N|MDLY
 MDP|Meredith Corporation Common Stock|N|MDP|N|100|N|MDP
 MDR|McDermott International, Inc. Common Stock|N|MDR|N|100|N|MDR
-MDT|Medtronic Inc. Common Stock|N|MDT|N|100|N|MDT
+MDT|Medtronic plc. Ordinary Shares|N|MDT|N|100|N|MDT
 MDU|MDU Resources Group, Inc. Common Stock|N|MDU|N|100|N|MDU
 MDW|Midway Gold Corporation Ordinary Shares (Canada)|A|MDW|N|100|N|MDW
 MDY|SPDR MidCap Trust Series I|P|MDY|Y|100|N|MDY
@@ -3492,7 +3491,6 @@ OMI|Owens & Minor, Inc. Common Stock|N|OMI|N|100|N|OMI
 OMN|OMNOVA Solutions Inc. Common Stock|N|OMN|N|100|N|OMN
 ONDK|On Deck Capital, Inc. Common Stock|N|ONDK|N|100|N|ONDK
 ONE|Higher One Holdings, Inc. Common Stock|N|ONE|N|100|N|ONE
-ONEF|Russell Exchange Traded Funds Trust|P|ONEF|Y|100|N|ONEF
 ONEK|SPDR Russell 1000 ETF|P|ONEK|Y|100|N|ONEK
 ONG|iPath Pure Beta Energy ETN|P|ONG|N|100|N|ONG
 ONP|Orient Paper, Inc. NEW Common Stock|A|ONP|N|100|N|ONP
@@ -4120,6 +4118,7 @@ SB$B|Safe Bulkers, Inc 8.00% Series B Cumulative Redeemable Perpetual Preferred 
 SB$C|Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands)|N|SBpC|N|100|N|SB-C
 SB$D|Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)|N|SBpD|N|100|N|SB-D
 SBB|ProShares Short SmallCap600|P|SBB|Y|100|N|SBB
+SBEU|ETFS Diversified-Factor Developed Europe Index Fund|P|SBEU|Y|100|N|SBEU
 SBGL|Sibanye Gold Limited American Depositary Shares (Each representing four ordinary shares)|N|SBGL|N|100|N|SBGL
 SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock|N|SBH|N|100|N|SBH
 SBI|Western Asset Intermediate Muni Fund Inc Common Stock|A|SBI|N|100|N|SBI
@@ -4130,6 +4129,7 @@ SBNB|Scorpio Tankers Inc. 7.50% Senior Notes Due 2017|N|SBNB|N|100|N|SBNB
 SBND|PowerShares DB 3X Short 25 Year Treasury Bond ETN|P|SBND|N|100|N|SBND
 SBR|Sabine Royalty Trust Common Stock|N|SBR|N|100|N|SBR
 SBS|Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares)|N|SBS|N|100|N|SBS
+SBUS|ETFS Diversified-Factor U.S. Large Cap Index Fund|P|SBUS|Y|100|N|SBUS
 SBV|iPath Pure Beta Broad Commodity ETN|P|SBV|N|100|N|SBV
 SBW|Western Asset Worldwide Income Fund Inc. Common Stock|N|SBW|N|100|N|SBW
 SBY|Silver Bay Realty Trust Corp. Common Stock|N|SBY|N|100|N|SBY
@@ -5206,4 +5206,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0126201521:32||||||
+File Creation Time: 0128201521:32||||||
