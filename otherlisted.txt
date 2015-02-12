@@ -1937,6 +1937,7 @@ GGT$B|Gabelli Multi-Media Trust, Inc. (The) Preferred Series B|N|GGTpB|N|100|N|G
 GGZ|Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest|N|GGZ|N|100|N|GGZ
 GHC|Graham Holdings Company Common Stock|N|GHC|N|100|N|GHC
 GHI|Global High Income Fund, Inc. Common Stock|N|GHI|N|100|N|GHI
+GHII|Guggenheim S&P High Income Infrastructure ETF|P|GHII|Y|100|N|GHII
 GHL|Greenhill & Co., Inc. Common Stock|N|GHL|N|100|N|GHL
 GHM|Graham Corporation Common Stock|N|GHM|N|100|N|GHM
 GHY|Prudential Global Short Duration High Yield Fund, Inc. Common Stock|N|GHY|N|100|N|GHY
@@ -5211,4 +5212,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0210201521:33||||||
+File Creation Time: 0211201521:32||||||
