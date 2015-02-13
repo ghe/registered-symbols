@@ -1525,7 +1525,6 @@ ETV|Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund
 ETW|Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest|N|ETW|N|100|N|ETW
 ETX|Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest|N|ETX|N|100|N|ETX
 ETY|Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,|N|ETY|N|100|N|ETY
-EU|WisdomTree Euro Debt  Fund|P|EU|Y|100|N|EU
 EUDG|WisdomTree Europe Dividend Growth Fu|P|EUDG|Y|100|N|EUDG
 EUFX|ProShares Short Euro|P|EUFX|Y|100|N|EUFX
 EUM|ProShares Short MSCI Emerging Markets|P|EUM|Y|100|N|EUM
@@ -3416,6 +3415,7 @@ NVO|Novo Nordisk A/S Common Stock|N|NVO|N|100|N|NVO
 NVR|NVR, Inc. Common Stock|N|NVR|N|100|N|NVR
 NVRO|Nevro Corp. Common Stock|N|NVRO|N|100|N|NVRO
 NVS|Novartis AG Common Stock|N|NVS|N|100|N|NVS
+NVTA|Invitae Corporation Common Stock|N|NVTA|N|100|N|NVTA
 NVX|Nuveen California Dividend Advantage Municipal Fund 2 Share of Beneficial Interest|A|NVX|N|100|N|NVX
 NW$C|Natl Westminster Pfd Preferred Stock|N|NWpC|N|100|N|NW-C
 NWE|NorthWestern Corporation Common Stock|N|NWE|N|100|N|NWE
@@ -5212,4 +5212,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0211201521:32||||||
+File Creation Time: 0212201521:33||||||
