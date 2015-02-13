@@ -1396,6 +1396,7 @@ ININ|Interactive Intelligence Group, Inc. - Common Stock|Q|N|N|100
 INNL|Innocoll AG - American Depositary Share|G|N|N|100
 INO|Inovio Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 INOD|Innodata Inc. - Common Stock|G|N|N|100
+INOV|Inovalon Holdings, Inc. - Class A Common Stock|Q|N|N|100
 INPH|Interphase Corporation - Common Stock|S|N|N|100
 INSM|Insmed, Inc. - Common Stock|Q|N|N|100
 INSY|Insys Therapeutics, Inc. - Common Stock|G|N|N|100
@@ -2264,7 +2265,6 @@ RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100
 RMGN|RMG Networks Holding Corporation - Common Stock|G|N|N|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
-RNA|Prosensa Holding N.V. - Ordinary Shares|Q|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
 RNWK|RealNetworks, Inc. - Common Stock|Q|N|N|100
@@ -2610,7 +2610,6 @@ TFSCU|1347 Capital Corp. - Unit|S|N|N|100
 TFSCW|1347 Capital Corp. - Warrant|S|N|N|100
 TFSL|TFS Financial Corporation - Common Stock|Q|N|N|100
 TGA|Transglobe Energy Corp - Ordinary Shares|Q|N|N|100
-TGE|TGC Industries, Inc. - Common Stock|Q|N|N|100
 TGEN|Tecogen Inc. - Common Stock|S|N|N|100
 TGLS|Tecnoglass Inc. - Ordinary Shares|S|N|N|100
 TGTX|TG Therapeutics, Inc. - Common Stock|S|N|N|100
@@ -2829,7 +2828,7 @@ VRTU|Virtusa Corporation - common stock|Q|N|N|100
 VRTX|Vertex Pharmaceuticals Incorporated - Common Stock|Q|N|N|100
 VSAR|Versartis, Inc. - Common Stock|Q|N|N|100
 VSAT|ViaSat, Inc. - Common Stock|Q|N|N|100
-VSCI|Vision-Sciences, Inc. - Common Stock|S|N|N|100
+VSCI|Vision-Sciences, Inc. - Common Stock|S|N|D|100
 VSCP|VirtualScopics, Inc. - Common Stock|S|N|N|100
 VSEC|VSE Corporation - Common Stock|Q|N|N|100
 VSTM|Verastem, Inc. - Common Stock|G|N|N|100
@@ -2975,4 +2974,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0211201521:32|||||
+File Creation Time: 0212201521:33|||||
