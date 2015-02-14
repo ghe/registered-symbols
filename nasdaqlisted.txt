@@ -179,7 +179,6 @@ APOL|Apollo Education Group, Inc. - Class A Common Stock|Q|N|N|100
 APPS|Digital Turbine, Inc. - Common Stock|S|N|N|100
 APPY|Venaxis, Inc. - Common Stock|S|N|N|100
 APRI|Apricus Biosciences, Inc - Common Stock|S|N|N|100
-APSA|Alto Palermo S.A. - American Depository Shares, each representing forty shares of Common Stock|Q|N|N|100
 APTO|Aptose Biosciences, Inc. - Common Shares|S|N|N|100
 APWC|Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share|G|N|N|100
 AQXP|Aquinox Pharmaceuticals, Inc. - Common Stock|G|N|N|100
@@ -345,6 +344,7 @@ BLIN|Bridgeline Digital, Inc. - Common Stock|S|N|D|100
 BLKB|Blackbaud, Inc. - Common Stock|Q|N|N|100
 BLMN|Bloomin' Brands, Inc. - Common Stock|Q|N|N|100
 BLMT|BSB Bancorp, Inc. - Common Stock|S|N|N|100
+BLPH|Bellerophon Therapeutics, Inc. - Common Stock|G|N|N|100
 BLRX|BioLineRx Ltd. - American Depositary Shares|S|N|N|100
 BLUE|bluebird bio, Inc. - Common Stock|Q|N|N|100
 BLVD|Boulevard Acquisition Corp. - Common Stock|S|N|N|100
@@ -455,7 +455,7 @@ CBDE|CBD Energy Limited - Ordinary Shares|S|N|K|100
 CBF|Capital Bank Financial Corp. - Class A Common Stock|Q|N|N|100
 CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100
 CBIN|Community Bank Shares of Indiana, Inc. - Common Stock|S|N|N|100
-CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|D|100
+CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|N|100
 CBMG|Cellular Biomedicine Group, Inc. - Common Stock|S|N|N|100
 CBMX|CombiMatrix Corporation - Common Stock|S|N|N|100
 CBNJ|Cape Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -609,7 +609,7 @@ CNYD|China Yida Holding, Co. - Common Stock|S|N|N|100
 COB|CommunityOne Bancorp - Common Stock|S|N|N|100
 COBK|Colonial Financial Services, Inc. - Common Stock|G|N|N|100
 COBZ|CoBiz Financial Inc. - Common Stock|Q|N|N|100
-COCO|Corinthian Colleges, Inc. - Common Stock|S|N|H|100
+COCO|Corinthian Colleges, Inc. - Common Stock|S|N|N|100
 COHR|Coherent, Inc. - Common Stock|Q|N|N|100
 COHU|Cohu, Inc. - Common Stock|Q|N|N|100
 COKE|Coca-Cola Bottling Co. Consolidated - Common Stock|Q|N|N|100
@@ -787,7 +787,6 @@ DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100
 DPRX|Dipexium Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 DRAD|Digirad Corporation - Common Stock|G|N|N|100
 DRAM|Dataram Corporation - Common Stock|S|N|D|100
-DRIV|Digital River, Inc. - Common Stock|Q|N|N|100
 DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 DRRX|DURECT Corporation - Common Stock|G|N|D|100
 DRWI|DragonWave Inc - Common Shares|Q|N|N|100
@@ -1423,6 +1422,7 @@ IPWR|Ideal Power Inc. - Common Stock|S|N|N|100
 IPXL|Impax Laboratories, Inc. - Common Stock|Q|N|N|100
 IQNT|Inteliquent, Inc. - Common Stock|Q|N|N|100
 IRBT|iRobot Corporation - Common Stock|Q|N|N|100
+IRCP|IRSA Propiedades Comerciales S.A. - American Depository Shares, each representing forty shares of Common Stock|Q|N|N|100
 IRDM|Iridium Communications Inc - Common Stock|Q|N|N|100
 IRDMB|Iridium Communications Inc - 6.75% Series B Cumulative Perpetual Convertible Preferred Stock|Q|N|N|100
 IRDMZ|Iridium Communications Inc - Warrants 02/14/2015|Q|N|N|100
@@ -2109,7 +2109,6 @@ PRGS|Progress Software Corporation - Common Stock|Q|N|N|100
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100
 PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100
 PRKR|ParkerVision, Inc. - Common Stock|S|N|N|100
-PRLS|Peerless Systems Corporation - Common Stock|S|N|N|100
 PRMW|Primo Water Corporation - Common Stock|G|N|N|100
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
@@ -2974,4 +2973,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0212201521:33|||||
+File Creation Time: 0213201521:33|||||
