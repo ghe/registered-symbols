@@ -140,6 +140,7 @@ AIW|Arlington Asset Investment Corp 6.625% Notes due 2023|N|AIW|N|100|N|AIW
 AIY|Apollo Investment Corporation 6.875% Senior Notes due 2043|N|AIY|N|100|N|AIY
 AIZ|Assurant, Inc. Common Stock|N|AIZ|N|100|N|AIZ
 AJG|Arthur J. Gallagher & Co. Common Stock|N|AJG|N|100|N|AJG
+AJX|Great Ajax Corp. Common Stock|N|AJX|N|100|N|AJX
 AKG|Asanko Gold Inc.|A|AKG|N|100|N|AKG
 AKO.A|Embotelladora Andina S.A. Common Stock|N|AKO/A|N|100|N|AKO.A
 AKO.B|Embotelladora Andina S.A. Common Stock|N|AKO/B|N|100|N|AKO.B
@@ -270,7 +271,7 @@ ARKW|ARK Web x.0 ETF|P|ARKW|Y|100|N|ARKW
 ARL|American Realty Investors, Inc. Common Stock|N|ARL|N|100|N|ARL
 ARMF|Ares Multi-Strategy Credit Fund, Inc. Common Stock|N|ARMF|N|100|N|ARMF
 ARMK|Aramark Common Stock|N|ARMK|N|100|N|ARMK
-ARN|Ares Capital Corporation 7.00% Senior Notes due 2022|N|ARN|N|100|N|ARN
+ARN|Ares Capital Corporation 7.00% Senior Notes due 2022|N|ARN/CL|N|100|N|ARN*
 ARO|Aeropostale Inc Common Stock|N|ARO|N|100|N|ARO
 ARP|Atlas Resource Partners, L.P. Common Units representing Limited Partner Interests|N|ARP|N|100|N|ARP
 ARP$D|Atlas Resource Partners, L.P. CUM RED PERP PDF UNIT CL D %|N|ARPpD|N|100|N|ARP-D
@@ -1889,6 +1890,8 @@ GCV$B|Gabelli Convertible and Income Securities Fund, Inc. (The) Series B 6.00% 
 GD|General Dynamics Corporation Common Stock|N|GD|N|100|N|GD
 GDAY|ProShares Ultra Australian Dollar|P|GDAY|Y|100|N|GDAY
 GDF|Western Asset Global Partners Income Fund, Inc. Common Stock|N|GDF|N|100|N|GDF
+GDJJ|ProShares Ultra Junior Miners|P|GDJJ|Y|100|N|GDJJ
+GDJS|ProShares UltraShort Junior Miners ETF|P|GDJS|Y|100|N|GDJS
 GDL|GDL Fund, The Common Shares of Beneficial Interest|N|GDL|N|100|N|GDL
 GDL$B|The GDL Fund Series B Cumulative Puttable and Callable Preferred Shares|N|GDLpB|N|100|N|GDL-B
 GDO|Western Asset Global Corporate Defined Opportunity Fund Inc. Western Asset Global Corporate Defined Opportunity Fund Inc.|N|GDO|N|100|N|GDO
@@ -1901,6 +1904,8 @@ GDV$A|Gabelli Dividend & Income Tr Preferred Series A|N|GDVpA|N|100|N|GDV-A
 GDV$D|Gabelli Dividend Pfd Series D|N|GDVpD|N|100|N|GDV-D
 GDX|Market Vectors Gold Miners ETF|P|GDX|Y|100|N|GDX
 GDXJ|Market Vectors Junior Gold Miners ETF|P|GDXJ|Y|100|N|GDXJ
+GDXS|ProShares UltraShort Gold Miners ETF|P|GDXS|Y|100|N|GDXS
+GDXX|ProShares Ultra Gold Miners ETF|P|GDXX|Y|100|N|GDXX
 GE|General Electric Company Common Stock|N|GE|N|100|N|GE
 GEB|General Electric Company 4.875% Notes due October 15, 2052|N|GEB|N|100|N|GEB
 GEF|Greif Inc. Class A Common Stock|N|GEF|N|100|N|GEF
@@ -2698,6 +2703,7 @@ KED|Kayne Anderson Energy Development Company Common Stock|N|KED|N|100|N|KED
 KEF|Korea Equity Fund, Inc. Common Stock|N|KEF|N|100|N|KEF
 KEG|Key Energy Services, Inc. Common Stock|N|KEG|N|100|N|KEG
 KEM|Kemet Corporation New Common Stock|N|KEM|N|100|N|KEM
+KEMP|KraneShares FTSE Emerging Markets Plus ETF|Z|KEMP|Y|100|N|KEMP
 KEN|Kenon Holdings Ltd. Ordinary Shares|N|KEN|N|100|N|KEN
 KEP|Korea Electric Power Corporation Common Stock|N|KEP|N|100|N|KEP
 KEX|Kirby Corporation Common Stock|N|KEX|N|100|N|KEX
@@ -5212,4 +5218,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0212201521:33||||||
+File Creation Time: 0213201521:33||||||
