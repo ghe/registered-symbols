@@ -609,7 +609,6 @@ CNYD|China Yida Holding, Co. - Common Stock|S|N|N|100
 COB|CommunityOne Bancorp - Common Stock|S|N|N|100
 COBK|Colonial Financial Services, Inc. - Common Stock|G|N|N|100
 COBZ|CoBiz Financial Inc. - Common Stock|Q|N|N|100
-COCO|Corinthian Colleges, Inc. - Common Stock|S|N|N|100
 COHR|Coherent, Inc. - Common Stock|Q|N|N|100
 COHU|Cohu, Inc. - Common Stock|Q|N|N|100
 COKE|Coca-Cola Bottling Co. Consolidated - Common Stock|Q|N|N|100
@@ -1425,7 +1424,6 @@ IRBT|iRobot Corporation - Common Stock|Q|N|N|100
 IRCP|IRSA Propiedades Comerciales S.A. - American Depository Shares, each representing forty shares of Common Stock|Q|N|N|100
 IRDM|Iridium Communications Inc - Common Stock|Q|N|N|100
 IRDMB|Iridium Communications Inc - 6.75% Series B Cumulative Perpetual Convertible Preferred Stock|Q|N|N|100
-IRDMZ|Iridium Communications Inc - Warrants 02/14/2015|Q|N|N|100
 IRG|Ignite Restaurant Group, Inc. - Common Stock|Q|N|N|100
 IRIX|IRIDEX Corporation - Common Stock|G|N|N|100
 IRMD|iRadimed Corporation - Common Stock|S|N|N|100
@@ -1838,6 +1836,7 @@ NFLX|Netflix, Inc. - Common Stock|Q|N|N|100
 NGHC|National General Holdings Corp - Common Stock|G|N|N|100
 NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A|G|N|N|100
 NHTB|New Hampshire Thrift Bancshares, Inc. - Common Stock|G|N|N|100
+NHTC|Natural Health Trends Corp. - Commn Stock|S|N|N|100
 NICE|NICE-Systems Limited - American Depositary Shares each representing one Ordinary Share|Q|N|N|100
 NICK|Nicholas Financial, Inc. - Common Stock|Q|N|N|100
 NILE|Blue Nile, Inc. - Common Stock|Q|N|N|100
@@ -2290,7 +2289,7 @@ RPTP|Raptor Pharmaceutical Corp. - Common Stock|G|N|N|100
 RPXC|RPX Corporation - Common Stock|Q|N|N|100
 RRD|R.R. Donnelley & Sons Company - Common Stock|Q|N|N|100
 RRGB|Red Robin Gourmet Burgers, Inc. - Common Stock|Q|N|N|100
-RRST|RRSat Global Communications Network Ltd. - Ordinary Shares|Q|N|N|100
+RRM|RR Media Ltd. - Ordinary Shares|Q|N|N|100
 RSTI|Rofin-Sinar Technologies, Inc. - Common Stock|Q|N|N|100
 RSYS|RadiSys Corporation - Common Stock|Q|N|N|100
 RTGN|Ruthigen, Inc. - Common Stock|S|N|N|100
@@ -2557,7 +2556,7 @@ SWSH|Swisher Hygiene, Inc. - Common Stock|S|N|N|100
 SYBT|Stock Yards Bancorp, Inc. - Common Stock|Q|N|N|100
 SYKE|Sykes Enterprises, Incorporated - Common Stock|Q|N|N|100
 SYMC|Symantec Corporation - Common Stock|Q|N|N|100
-SYMX|Synthesis Energy Systems, Inc. - Common Stock|G|N|N|100
+SYMX|Synthesis Energy Systems, Inc. - Common Stock|G|N|D|100
 SYNA|Synaptics Incorporated - Common Stock|Q|N|N|100
 SYNC|Synacor, Inc. - Common Stock|G|N|N|100
 SYNL|Synalloy Corporation - Common Stock|G|N|N|100
@@ -2820,7 +2819,7 @@ VRNS|Varonis Systems, Inc. - Common Stock|Q|N|N|100
 VRNT|Verint Systems Inc. - Common Stock|Q|N|N|100
 VRSK|Verisk Analytics, Inc. - Class A Common Stock|Q|N|N|100
 VRSN|VeriSign, Inc. - Common Stock|Q|N|N|100
-VRTA|Vestin Realty Mortgage I, Inc. - Common Stock|G|N|N|100
+VRTA|Vestin Realty Mortgage I, Inc. - Common Stock|G|N|D|100
 VRTB|Vestin Realty Mortgage II, Inc. - Common Stock|Q|N|N|100
 VRTS|Virtus Investment Partners, Inc. - Common Stock|Q|N|N|100
 VRTU|Virtusa Corporation - common stock|Q|N|N|100
@@ -2921,7 +2920,7 @@ XBKS|Xenith Bankshares, Inc. - Common Stock|S|N|N|100
 XCRA|Xcerra Corporation - Common Stock|Q|N|N|100
 XENE|Xenon Pharmaceuticals Inc. - Common Shares|G|N|N|100
 XENT|Intersect ENT, Inc. - Common Stock|G|N|N|100
-XGTI|XG Technology, Inc - Common Stock|S|N|N|100
+XGTI|XG Technology, Inc - Common Stock|S|N|D|100
 XGTIW|XG Technology, Inc - Warrants|S|N|N|100
 XIV|Credit Suisse AG - VelocityShares Daily Inverse VIX Short Term ETN|G|N|N|100
 XLNX|Xilinx, Inc. - Common Stock|Q|N|N|100
@@ -2973,4 +2972,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0213201521:33|||||
+File Creation Time: 0217201521:32|||||
