@@ -2479,7 +2479,6 @@ IR|Ingersoll-Rand plc (Ireland)|N|IR|N|100|N|IR
 IRC|Inland Real Estate Corporation Common Stock|N|IRC|N|100|N|IRC
 IRC$A|Inland Real Estate Corporation 8.125% Series A Cumulative Redeemable Preferred Stock, $0.01 par value|N|IRCpA|N|100|N|IRC-A
 IRC$B|Inland Real Estate Corporation Redeemable Preferred Series B|N|IRCpB|N|100|N|IRC-B
-IRE|Governor and Company of the Bank of Ireland (The) Common Stock|N|IRE|N|100|N|IRE
 IRET|Investors Real Estate Trust Shares of Beneficial Interest|N|IRET|N|100|N|IRET
 IRET$|Investors Real Estate Trust Series A Cumulative Redeemable Preferred Shares of Beneficial Interest|N|IRETp|N|100|N|IRET-
 IRET$B|Investors Real Estate Trust 7.95% Series B Cumulative Redeemable Preferred Shares|N|IRETpB|N|100|N|IRET-B
@@ -3486,7 +3485,6 @@ OIBR.C|Oi S.A. American Depositary Shares, (Each representing 1 Common Share)|N|
 OIH|Market Vectors Oil Services ETF|P|OIH|Y|100|N|OIH
 OII|Oceaneering International, Inc. Common Stock|N|OII|N|100|N|OII
 OIL|Barclays Bank Plc iPath Exchange Traded Notes Linked to Goldman Sachs Crude Oil Total Return|P|OIL|N|100|N|OIL
-OILT|Oiltanking Partners, L.P. Common Units Representing Limited Partnership Interests|N|OILT|N|100|N|OILT
 OIS|Oil States International, Inc. Common Stock|N|OIS|N|100|N|OIS
 OKE|ONEOK, Inc. Common Stock|N|OKE|N|100|N|OKE
 OKS|ONEOK Partners, L.P. Common Stock|N|OKS|N|100|N|OKS
@@ -5044,7 +5042,6 @@ WGO|Winnebago Industries, Inc. Common Stock|N|WGO|N|100|N|WGO
 WGP|Western Gas Equity Partners, LP Common Units Representing Limited Partner Interests|N|WGP|N|100|N|WGP
 WHG|Westwood Holdings Group Inc Common Stock|N|WHG|N|100|N|WHG
 WHR|Whirlpool Corporation Common Stock|N|WHR|N|100|N|WHR
-WHX|Whiting USA Trust I Whiting USA Trust I|N|WHX|N|100|N|WHX
 WHZ|Whiting USA Trust II Units of Beneficial Interest|N|WHZ|N|100|N|WHZ
 WIA|Western Asset/Claymore Inflation-Linked Securities & Income Fund Common Shares of Beneficial Interest|N|WIA|N|100|N|WIA
 WIL|Barclays PLC Barclays Women in Leadership ETN|P|WIL|N|100|N|WIL
@@ -5218,4 +5215,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0213201521:33||||||
+File Creation Time: 0217201521:32||||||
