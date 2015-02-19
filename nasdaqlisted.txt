@@ -84,7 +84,6 @@ AGEN|Agenus Inc. - Common Stock|S|N|N|100
 AGII|Argo Group International Holdings, Ltd. - Common Stock|Q|N|N|100
 AGIIL|Argo Group International Holdings, Ltd. - 6.5% Senior Notes Due 2042|Q|N|N|100
 AGIO|Agios Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
-AGMX|AutoGenomics, Inc. - Common Stock|G|N|N|100
 AGNC|American Capital Agency Corp. - Common Stock|Q|N|N|100
 AGNCB|American Capital Agency Corp. - Depositary Shares representing 1/1000th Series B Preferred Stock|Q|N|N|100
 AGNCP|American Capital Agency Corp. - Cumulative Preferred Series A|Q|N|N|100
@@ -230,7 +229,7 @@ ASUR|Asure Software Inc - Common Stock|S|N|N|100
 ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100
 ATAI|ATA Inc. - American Depositary Shares, each representing two common shares|G|N|N|100
 ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests|Q|N|N|100
-ATEA|Astea International, Inc. - Common Stock|S|N|D|100
+ATEA|Astea International, Inc. - Common Stock|S|N|N|100
 ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100
 ATHN|athenahealth, Inc. - Common Stock|Q|N|N|100
 ATHX|Athersys, Inc. - Common Stock|S|N|N|100
@@ -1342,7 +1341,6 @@ ICON|Iconix Brand Group, Inc. - Common Stock|Q|N|N|100
 ICPT|Intercept Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 ICUI|ICU Medical, Inc. - Common Stock|Q|N|N|100
 IDCC|InterDigital, Inc. - Common Stock|Q|N|N|100
-IDGX|AltheaDx, Inc. - Common Stock|G|N|N|100
 IDRA|Idera Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 IDSA|Industrial Services of America, Inc. - Common Stock|S|N|N|100
 IDSY|I.D. Systems, Inc. - Common Stock|G|N|N|100
@@ -2377,7 +2375,7 @@ SGMO|Sangamo BioSciences, Inc. - Common Stock|Q|N|N|100
 SGMS|Scientific Games Corp - Class A Common Stock|Q|N|N|100
 SGNL|Signal Genetics, Inc. - Common Stock|S|N|N|100
 SGNT|Sagent Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
-SGOC|SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)|S|N|N|100
+SGOC|SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)|S|N|D|100
 SGRP|SPAR Group, Inc. - Common Stock|S|N|N|100
 SGYP|Synergy Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 SGYPU|Synergy Pharmaceuticals, Inc. - Unit|S|N|N|100
@@ -2805,7 +2803,6 @@ VNRAP|Vanguard Natural Resources LLC - 7.875% Series A Cumulative Redeemable Per
 VNRBP|Vanguard Natural Resources LLC - 7.625% Series B Cumulative Redeemable Perpetual Preferred Unit|Q|N|N|100
 VNRCP|Vanguard Natural Resources LLC - 7.75% Series C Cumulative Redeemable Perpetual Preferred Unit|Q|N|N|100
 VOD|Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares|Q|N|N|100
-VOLC|Volcano Corporation - Common Stock|Q|N|N|100
 VONE|Vanguard Russell 1000 ETF|G|N|N|100
 VONG|Vanguard Russell 1000 Growth ETF|G|N|N|100
 VONV|Vanguard Russell 1000 Value ETF|G|N|N|100
@@ -2944,7 +2941,7 @@ YORW|The York Water Company - Common Stock|Q|N|N|100
 YPRO|AdvisorShares YieldPro ETF|G|N|N|100
 YRCW|YRC Worldwide, Inc. - Common Stock|Q|N|N|100
 YY|YY Inc. - American Depositary Shares|Q|N|N|100
-Z|Zillow, Inc. - Class A Common Stock|Q|N|N|100
+Z|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
 ZAGG|ZAGG Inc - Common Stock|Q|N|N|100
 ZAZA|ZaZa Energy Corporation - Common Stock|S|N|N|100
 ZBRA|Zebra Technologies Corporation - Class A Common Stock|Q|N|N|100
@@ -2972,4 +2969,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0217201521:32|||||
+File Creation Time: 0218201521:32|||||
