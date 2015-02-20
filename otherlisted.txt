@@ -199,7 +199,6 @@ AMP|Ameriprise Financial, Inc. Common Stock|N|AMP|N|100|N|AMP
 AMPE|Ampio Pharmaceuticals, Inc.|A|AMPE|N|100|N|AMPE
 AMPS|iShares Utilities Bond ETF|P|AMPS|Y|100|N|AMPS
 AMRC|Ameresco, Inc. Class A Common Stock|N|AMRC|N|100|N|AMRC
-AMRE|AmREIT, Inc. Common stock|N|AMRE|N|100|N|AMRE
 AMS|American Shared Hospital Services Common Stock|A|AMS|N|100|N|AMS
 AMT|American Tower Corporation (REIT) Common Stock|N|AMT|N|100|N|AMT
 AMT$A|American Tower Corporation (REIT) Pfd Conv Ser A|N|AMTpA|N|100|N|AMT-A
@@ -1000,7 +999,6 @@ CUZ|Cousins Properties Incorporated Common Stock|N|CUZ|N|100|N|CUZ
 CVA|Covanta Holding Corporation Common Stock|N|CVA|N|100|N|CVA
 CVB|Lehman ABS Corporation 7.75% Corp Backed Tr Ctfs, Kinder Morgan Debenture-Backed  series 2002-6|N|CVB|N|100|N|CVB
 CVC|Cablevision Systems Corporation Class A Common Stock|N|CVC|N|100|N|CVC
-CVD|Covance Inc. Common Stock|N|CVD|N|100|N|CVD
 CVE|Cenovus Energy Inc Common Stock|N|CVE|N|100|N|CVE
 CVEO|Civeo Corporation Common Stock|N|CVEO|N|100|N|CVEO
 CVG|Convergys Corporation Common Stock|N|CVG|N|100|N|CVG
@@ -1496,6 +1494,7 @@ EROS|Eros International PLC A Ordinary Shares|N|EROS|N|100|N|EROS
 ERUS|iShares MSCI Russia Capped ETF New|P|ERUS|Y|100|N|ERUS
 ERX|Direxion Energy Bull 3X Shares|P|ERX|Y|100|N|ERX
 ERY|Direxion Daily Energy Bear 3X Shares|P|ERY|Y|100|N|ERY
+ES|Eversource Energy (D/B/A) Common Stock|N|ES|N|100|N|ES
 ESBA|Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests|P|ESBA|N|100|N|ESBA
 ESD|Western Asset Emerging Markets Debt Fund Inc Common Stock|N|ESD|N|100|N|ESD
 ESE|ESCO Technologies Inc. Common Stock|N|ESE|N|100|N|ESE
@@ -1726,6 +1725,7 @@ FLO|Flowers Foods, Inc. Common Stock|N|FLO|N|100|N|FLO
 FLOT|iShares Floating Rate Bond ETF|P|FLOT|Y|100|N|FLOT
 FLR|Fluor Corporation Common Stock|N|FLR|N|100|N|FLR
 FLRN|SPDR Barclays Investment Grade Floating Rate ETF|P|FLRN|Y|100|N|FLRN
+FLRT|AdvisorShares Pacific Asset Enhanced Floating Rate ETF|P|FLRT|Y|100|N|FLRT
 FLS|Flowserve Corporation Common Stock|N|FLS|N|100|N|FLS
 FLT|FleetCor Technologies, Inc. Common Stock|N|FLT|N|100|N|FLT
 FLTB|Fidelity Limited Term Bond ETF|P|FLTB|Y|100|N|FLTB
@@ -3406,7 +3406,6 @@ NTT|Nippon Telegraph and Telephone Corporation Common Stock|N|NTT|N|100|N|NTT
 NTX|Nuveen Texas Quality Income Municipal Fund Common Stock|N|NTX|N|100|N|NTX
 NTX$C|Nuveen Texas Quality Income Municipal Fund Munifund Term Pfd Shs Ser 2013|N|NTXpC|N|100|N|NTX-C
 NTZ|Natuzzi, S.p.A.|N|NTZ|N|100|N|NTZ
-NU|Northeast Utilities Common Stock|N|NU|N|100|N|NU
 NUE|Nucor Corporation Common Stock|N|NUE|N|100|N|NUE
 NUGT|Direxion Daily Gold Miners Bull 3X Shares|P|NUGT|Y|100|N|NUGT
 NUM|Nuveen Michigan Quality Income Municipal Fund Common Stock|N|NUM|N|100|N|NUM
@@ -3984,6 +3983,7 @@ RINF|ProShares 30 Year TIPS TYS Spread|P|RINF|Y|100|N|RINF
 RING|iShares MSCI Global Gold Miners Fund|P|RING|Y|100|N|RING
 RIO|Rio Tinto Plc Common Stock|N|RIO|N|100|N|RIO
 RIOM|Rio Alto Mining Limited Common Shares (Canada)|N|RIOM|N|100|N|RIOM
+RISE|Sit Rising Rate ETF|P|RISE|Y|100|N|RISE
 RIT|LMP Real Estate Income Fund Inc Common Stock|N|RIT|N|100|N|RIT
 RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product|P|RJA|N|100|N|RJA
 RJD|Raymond James Financial, Inc. 6.90% Senior Notes Due 2042|N|RJD|N|100|N|RJD
@@ -5214,4 +5214,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0218201521:32||||||
+File Creation Time: 0219201521:32||||||
