@@ -229,7 +229,6 @@ ASUR|Asure Software Inc - Common Stock|S|N|N|100
 ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100
 ATAI|ATA Inc. - American Depositary Shares, each representing two common shares|G|N|N|100
 ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests|Q|N|N|100
-ATEA|Astea International, Inc. - Common Stock|S|N|N|100
 ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100
 ATHN|athenahealth, Inc. - Common Stock|Q|N|N|100
 ATHX|Athersys, Inc. - Common Stock|S|N|N|100
@@ -519,6 +518,7 @@ CHCI|Comstock Holding Companies, Inc. - Class A Common Stock|S|N|N|100
 CHCO|City Holding Company - Common Stock|Q|N|N|100
 CHDN|Churchill Downs, Incorporated - Common Stock|Q|N|N|100
 CHEF|The Chefs' Warehouse, Inc. - Common Stock|Q|N|N|100
+CHEKU|Check-Cap Ltd. - Unit|S|N|N|100
 CHEV|Cheviot Financial Corp - Common Stock|S|N|N|100
 CHFC|Chemical Financial Corporation - Common Stock|Q|N|N|100
 CHFN|Charter Financial Corp. - Common Stock|S|N|N|100
@@ -2881,7 +2881,6 @@ WINA|Winmark Corporation - Common Stock|G|N|N|100
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100
 WLB|Westmoreland Coal Company - Common Stock|G|N|N|100
-WLBPZ|Westmoreland Coal Company - Depositary Shares, rep. 1/4 of a share of Ser. A Preferred Stock|G|N|N|100
 WLDN|Willdan Group, Inc. - Common Stock|G|N|N|100
 WLFC|Willis Lease Finance Corporation - Common Stock|G|N|N|100
 WLRH|WL Ross Holding Corp. - Common Stock|S|N|N|100
@@ -2969,4 +2968,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0218201521:32|||||
+File Creation Time: 0219201521:32|||||
