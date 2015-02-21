@@ -249,7 +249,6 @@ APP|American Apparel Inc Common Stock|A|APP|N|100|N|APP
 APT|Alpha Pro Tech, Ltd. Common Stock|A|APT|N|100|N|APT
 APTS|Preferred Apartment Communities, Inc. Common Stock|A|APTS|N|100|N|APTS
 APU|AmeriGas Partners, L.P. Common Stock|N|APU|N|100|N|APU
-AQQ|American Spectrum Realty, Inc. Common Stock|A|AQQ|N|100|N|AQQ
 AR|Antero Resources Corporation Common Stock|N|AR|N|100|N|AR
 ARC|ARC Document Solutions, Inc. Common Stock|N|ARC|N|100|N|ARC
 ARCO|Arcos Dorados Holdings Inc. Class A Shares|N|ARCO|N|100|N|ARCO
@@ -1243,7 +1242,6 @@ DTLA$|Brookfield DTLA Inc. 7.625% Series A Cumulative Redeemable Preferred Stock
 DTN|WisdomTree Dividend Ex-Financials Fund|P|DTN|Y|100|N|DTN
 DTO|PowerShares DB Crude Oil Double Short ETN|P|DTO|N|100|N|DTO
 DTQ|DTE Energy Company 2012 Series C 5.25% Junior Subordinate Debentures due December 1, 2062|N|DTQ|N|100|N|DTQ
-DTT|Deutsche Bank Cap Fdg Tr IX Guaranteed Trust Preferred Securities|N|DTT/CL|N|100|N|DTT*
 DTZ|DTE Energy Company 2011 Series I 6.50% Junior Subordinate Debentures due 2061|N|DTZ|N|100|N|DTZ
 DUA|Deutsche Bank Cap Fdg Tr VIII 6.375% Tr Pfd Secs|N|DUA|N|100|N|DUA
 DUC|Duff & Phelps Utility & Corporate Bond Trust, Inc. Common Stock|N|DUC|N|100|N|DUC
@@ -3871,7 +3869,6 @@ QLTC|iShares B Ca Rated Corporate Bond ETF|Z|QLTC|Y|100|N|QLTC
 QMEX|SPDR MSCI Mexico Quality Mix ETF|P|QMEX|Y|100|N|QMEX
 QMN|IQ Hedge Market Neutral Tracker ETF|P|QMN|Y|100|N|QMN
 QQQE|Direxion NASDAQ-100 Equal Weighted Index Shares|P|QQQE|Y|100|N|QQQE
-QRM|Quest Rare Minerals Ltd Common Shares (Canada)|A|QRM|N|100|N|QRM
 QSR|Restaurant Brands International Inc. Common Shares|N|QSR|N|100|N|QSR
 QTM|Quantum Corporation Common Stock|N|QTM|N|100|N|QTM
 QTS|QTS Realty Trust, Inc. Class A Common Stock|N|QTS|N|100|N|QTS
@@ -4635,6 +4632,7 @@ TOFR|Stock Split Index Fund ETF|P|TOFR|Y|100|N|TOFR
 TOK|iShares MSCI KLD 400 Social ETF|P|TOK|Y|100|N|TOK
 TOL|Toll Brothers Inc. Common Stock|N|TOL|N|100|N|TOL
 TOLZ|ProShares DJ Brookfield Global Infrastructure ETF|P|TOLZ|Y|100|N|TOLZ
+TONS|GreenHaven Coal Fund ETV|P|TONS|Y|100|N|TONS
 TOO|Teekay Offshore Partners L.P. Common Units representing Limited Partner Interests|N|TOO|N|100|N|TOO
 TOO$A|Teekay Offshore Partners L.P. 7.25% Series A Redeemable Preferred Units|N|TOOpA|N|100|N|TOO-A
 TOT|Total S.A.|N|TOT|N|100|N|TOT
@@ -5214,4 +5212,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0219201521:32||||||
+File Creation Time: 0220201521:33||||||
