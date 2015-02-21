@@ -1467,7 +1467,7 @@ JDSU|JDS Uniphase Corporation - Common Stock|Q|N|N|100
 JGBB|WisdomTree Japan Interest Rate Strategy Fund|G|N|N|100
 JIVE|Jive Software, Inc. - Common Stock|Q|N|N|100
 JJSF|J & J Snack Foods Corp. - Common Stock|Q|N|N|100
-JKHY|Jack Henry & Associates, Inc. - Common Stock|Q|N|N|100
+JKHY|Jack Henry & Associates, Inc. - Common Stock|Q|N|E|100
 JMBA|Jamba, Inc. - Common Stock|G|N|N|100
 JOBS|51job, Inc. - American Depositary Shares, each representing two common shares|Q|N|N|100
 JOEZ|Joe's Jeans Inc. - Common Stock|S|N|D|100
@@ -2968,4 +2968,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0219201521:32|||||
+File Creation Time: 0220201521:33|||||
