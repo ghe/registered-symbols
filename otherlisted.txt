@@ -303,6 +303,7 @@ ATHM|Autohome Inc. American Depositary Shares, each representing one class A ord
 ATI|Allegheny Technologies Incorporated Common Stock|N|ATI|N|100|N|ATI
 ATL|Atlatsa Resources Corporation|A|ATL|N|100|N|ATL
 ATLS|Atlas Energy, L.P. Common Units|N|ATLS|N|100|N|ATLS
+ATLS.V|Atlas Energy, L.P. Common Units representing limited liability company interests When Issued|N|ATLSw|N|100|N|ATLS#
 ATMP|Barclays ETN Plus Select MLP|P|ATMP|N|100|N|ATMP
 ATNM|Actinium Pharmaceuticals, Inc. (Delaware) Common Stock|A|ATNM|N|100|N|ATNM
 ATO|Atmos Energy Corporation Common Stock|N|ATO|N|100|N|ATO
@@ -3678,7 +3679,7 @@ PKO|Pimco Income Opportunity Fund Common Shares of Beneficial Interest|N|PKO|N|1
 PKW|PowerShares Buyback Achievers|P|PKW|Y|100|N|PKW
 PKX|POSCO Common Stock|N|PKX|N|100|N|PKX
 PKY|Parkway Properties, Inc. Common Stock|N|PKY|N|100|N|PKY
-PL$B|Protective Life Corporation PLC Capital Trust V Trust Originated Preferred Securities (TOPRS)|N|PLpB|N|100|N|PL-B
+PL$B|Protective Life Corporation PLC Capital Trust V Trust Originated Preferred Securities (TOPRS)|N|PLpB/CL|N|100|N|PL-B*
 PL$C|Protective Life Corporation 6.25% Subordinated Debentures due 2042|N|PLpC|N|100|N|PL-C
 PL$E|Protective Life Corporation 6.00% Subordinated Debentures due 2042|N|PLpE|N|100|N|PL-E
 PLD|ProLogis, Inc. Common Stock|N|PLD|N|100|N|PLD
@@ -4637,6 +4638,7 @@ TONS|GreenHaven Coal Fund ETV|P|TONS|Y|100|N|TONS
 TOO|Teekay Offshore Partners L.P. Common Units representing Limited Partner Interests|N|TOO|N|100|N|TOO
 TOO$A|Teekay Offshore Partners L.P. 7.25% Series A Redeemable Preferred Units|N|TOOpA|N|100|N|TOO-A
 TOT|Total S.A.|N|TOT|N|100|N|TOT
+TOTL|SPDR DoubleLine Total Return Tactical ETF|P|TOTL|Y|100|N|TOTL
 TOTS|Direxion Daily Total Market Bear 1X Shares|P|TOTS|Y|100|N|TOTS
 TOWR|Tower International, Inc. Common stock|N|TOWR|N|100|N|TOWR
 TPC|Tutor Perini Corporation Common Stock|N|TPC|N|100|N|TPC
@@ -5213,4 +5215,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0223201521:32||||||
+File Creation Time: 0224201521:33||||||
