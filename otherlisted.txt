@@ -1103,7 +1103,6 @@ DEA|Easterly Government Properties, Inc. Common Stock|N|DEA|N|100|N|DEA
 DECK|Deckers Outdoor Corporation Common Stock|N|DECK|N|100|N|DECK
 DEE|DB Commodity DB Commodity Double Short ETN|P|DEE|N|100|N|DEE
 DEF|Guggenheim Defensive Equity ETF|P|DEF|Y|100|N|DEF
-DEFL|PowerShares DB US Deflation ETN|P|DEFL|N|100|N|DEFL
 DEG|Etablissements Delhaize Freres et Cie "Le Lion" S.A. Common Stock|N|DEG|N|100|N|DEG
 DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
 DEJ|Dejour Energy Inc. Ltd Ordinary Shares (Canada) New|A|DEJ|N|100|N|DEJ
@@ -2425,7 +2424,6 @@ IND|ING Group, N.V. Perpetual Debt Securities|N|IND|N|100|N|IND
 INDA|Ishares MSCI India ETF|Z|INDA|Y|100|N|INDA
 INDL|Direxion Daily India Bull 3x Shares|P|INDL|Y|100|N|INDL
 INF|Brookfield Global Listed Infrastructure Income Fund Closed End Fund|N|INF|N|100|N|INF
-INFL|PowerShares DB US Inflation ETN|P|INFL|N|100|N|INFL
 INFU|InfuSystems Holdings, Inc. Common Stock|A|INFU|N|100|N|INFU
 INFY|Infosys Limited American Depositary Shares|N|INFY|N|100|N|INFY
 ING|ING Group, N.V. Common Stock|N|ING|N|100|N|ING
@@ -2510,8 +2508,6 @@ ITF|iShares Japn Large-Cap ETF|P|ITF|Y|100|N|ITF
 ITG|Investment Technology Group, Inc. Common Stock|N|ITG|N|100|N|ITG
 ITI|Iteris, Inc. Common Stock|A|ITI|N|100|N|ITI
 ITIP|iShares International Inflation-Linked Bond ETF|P|ITIP|Y|100|N|ITIP
-ITLT|PowerShares DB 3X Italian Treasury Bond Futures ETN|P|ITLT|N|100|N|ITLT
-ITLY|PowerShares DB Italian Treasury Bond Futures ETN|P|ITLY|N|100|N|ITLY
 ITM|Market Vectors Intermediate Municipal Index ETF|P|ITM|Y|100|N|ITM
 ITOT|iShares Core S&P Total U.S. Stock Market ETF|P|ITOT|Y|100|N|ITOT
 ITR|SPDR Barclays Intermediate Term Corporate Bond ETF (based on Barclays Capital Intermediate U.S. Corporate Index symbol LD06TRUU|P|ITR|Y|100|N|ITR
@@ -4760,7 +4756,6 @@ UCI|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloo
 UCO|ProShares Ultra Bloomberg Crude Oil|P|UCO|Y|100|N|UCO
 UCP|UCP, Inc. Class A Common Stock|N|UCP|N|100|N|UCP
 UDN|PowerShares DB USD Index Bearish|P|UDN|Y|100|N|UDN
-UDNT|PowerShares DB 3X Short US Dollar Index Futures ETN due October 31, 2020|P|UDNT|N|100|N|UDNT
 UDOW|ProShares UltraPro Dow30|P|UDOW|Y|100|N|UDOW
 UDR|UDR, Inc. Common Stock|N|UDR|N|100|N|UDR
 UE|Urban Edge Properties Common Shares of Beneficial Interest|N|UE|N|100|N|UE
@@ -4841,7 +4836,6 @@ UTLT|Deutsche X-trackers Regulated Utilities ETF|P|UTLT|Y|100|N|UTLT
 UTX|United Technologies Corporation Common Stock|N|UTX|N|100|N|UTX
 UTX$A|United Technologies Corp Corp Unit|N|UTXpA|N|100|N|UTX-A
 UUP|PowerShares DB USD Index Bullish|P|UUP|Y|100|N|UUP
-UUPT|PowerShares DB 3X Long US Dollar Index Futures ETN due October 31, 2020|P|UUPT|N|100|N|UUPT
 UUU|Universal Security Instruments, Inc. Common Stock|A|UUU|N|100|N|UUU
 UUUU|Energy Fuels Inc Ordinary Shares (Canada)|A|UUUU|N|100|N|UUUU
 UVE|UNIVERSAL INSURANCE HOLDINGS INC Common Stock|N|UVE|N|100|N|UVE
@@ -5215,4 +5209,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0224201521:33||||||
+File Creation Time: 0225201521:32||||||
