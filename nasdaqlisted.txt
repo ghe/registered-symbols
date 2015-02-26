@@ -16,7 +16,7 @@ ABCO|The Advisory Board Company - Common Stock|Q|N|N|100
 ABCW|Anchor BanCorp Wisconsin Inc. - Common Stock|Q|N|N|100
 ABDC|Alcentra Capital Corp. - Common Stock|Q|N|N|100
 ABGB|Abengoa, S.A. - American Depositary Shares|Q|N|N|100
-ABIO|ARCA biopharma, Inc. - Common Stock|S|N|N|100
+ABIO|ARCA biopharma, Inc. - Common Stock|S|N|D|100
 ABMD|ABIOMED, Inc. - Common Stock|Q|N|N|100
 ABTL|Autobytel Inc. - Common Stock|S|N|N|100
 ABY|Abengoa Yield plc - Ordinary Shares|Q|N|N|100
@@ -334,6 +334,8 @@ BKEPP|Blueknight Energy Partners L.P., L.L.C. - Series A Preferred Units|G|N|N|1
 BKMU|Bank Mutual Corporation - Common Stock|Q|N|N|100
 BKSC|Bank of South Carolina Corp. - Common Stock|S|N|N|100
 BKYF|The Bank of Kentucky Financial Corp. - Common Stock|Q|N|N|100
+BLBD|Blue Bird Corporation - Common Stock|S|N|D|100
+BLBDW|Blue Bird Corporation - Warrant|S|N|D|100
 BLCM|Bellicum Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 BLDP|Ballard Power Systems, Inc. - Common Shares|G|N|N|100
 BLDR|Builders FirstSource, Inc. - Common Stock|Q|N|N|100
@@ -382,7 +384,6 @@ BRKL|Brookline Bancorp, Inc. - Common Stock|Q|N|N|100
 BRKR|Bruker Corporation - Common Stock|Q|N|N|100
 BRKS|Brooks Automation, Inc. - Common Stock|Q|N|N|100
 BRLI|Bio-Reference Laboratories, Inc. - Common Stock|Q|N|D|100
-BSDM|BSD Medical Corporation - Common Stock|S|N|D|100
 BSET|Bassett Furniture Industries, Incorporated - Common Stock|Q|N|N|100
 BSF|Bear State Financial, Inc. - Common Stock|G|N|N|100
 BSFT|BroadSoft, Inc. - Common Stock|Q|N|N|100
@@ -1230,9 +1231,6 @@ HBNC|Horizon Bancorp (IN) - Common Stock|Q|N|N|100
 HBNK|Hampden Bancorp, Inc. - common stock|G|N|N|100
 HBOS|Heritage Financial Group - Common Stock|Q|N|N|100
 HBP|Huttig Building Products, Inc. - Common Stock|S|N|N|100
-HCAC|Hennessy Capital Acquisition Corp. - Common Stock|S|N|D|100
-HCACU|Hennessy Capital Acquisition Corp. - Unit|S|N|N|100
-HCACW|Hennessy Capital Acquisition Corp. - Warrant|S|N|D|100
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100
 HCAPL|Harvest Capital Credit Corporation - 7.00% Notes due 2020|G|N|N|100
 HCBK|Hudson City Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -1785,7 +1783,6 @@ MTSN|Mattson Technology, Inc. - Common Stock|Q|N|N|100
 MU|Micron Technology, Inc. - Common Stock|Q|N|N|100
 MULT|AdvisorShares Sunrise Global Multi-Strategy ETF|G|N|N|100
 MVIS|Microvision, Inc. - Common Stock|G|N|N|100
-MWIV|MWI Veterinary Supply, Inc. - common stock|Q|N|N|100
 MXIM|Maxim Integrated Products, Inc. - Common Stock|Q|N|N|100
 MXWL|Maxwell Technologies, Inc. - Common Stock|Q|N|N|100
 MYGN|Myriad Genetics, Inc. - Common Stock|Q|N|N|100
@@ -1901,7 +1898,6 @@ NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|D|100
 NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100
-OCAT|Ocata Therapeutics, Inc. - Common Stock|S|N|N|100
 OCC|Optical Cable Corporation - Common Stock|G|N|N|100
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100
 OCLR|Oclaro, Inc. - Common Stock|Q|N|N|100
@@ -2110,6 +2106,7 @@ PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
 PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100
+PRSN|Perseon Corporation - Common Stock|S|N|D|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
 PRTA|Prothena Corporation plc - Ordinary Shares|Q|N|N|100
 PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100
@@ -2684,6 +2681,7 @@ TTWO|Take-Two Interactive Software, Inc. - Common Stock|Q|N|N|100
 TUBE|TubeMogul, Inc. - Common Stock|Q|N|N|100
 TUES|Tuesday Morning Corp. - Common Stock|Q|N|N|100
 TUSA|First Trust Total US Market AlphaDEX ETF|G|N|N|100
+TUTT|Tuttle Tactical Management U.S. Core ETF|G|N|N|100
 TVIX|Credit Suisse AG - VelocityShares Daily 2x VIX Short Term ETN|G|N|N|100
 TVIZ|Credit Suisse AG - VelocityShares Daily 2x VIX Medium Term ETN|G|N|N|100
 TWER|Towerstream Corporation - Common Stock|S|N|N|100
@@ -2967,4 +2965,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0224201521:33|||||
+File Creation Time: 0225201521:32|||||
