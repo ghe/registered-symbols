@@ -133,7 +133,7 @@ AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|N|100
 AMCN|AirMedia Group Inc - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 AMCX|AMC Networks Inc. - Class A Common Stock|Q|N|N|100
 AMD|Advanced Micro Devices, Inc. - Common Stock|S|N|N|100
-AMDA|Amedica Corporation - Common Stock|S|N|N|100
+AMDA|Amedica Corporation - Common Stock|S|N|D|100
 AMED|Amedisys Inc - Common Stock|Q|N|N|100
 AMGN|Amgen Inc. - Common Stock|Q|N|N|100
 AMIC|American Independence Corp. - Common Stock|G|N|N|100
@@ -267,7 +267,7 @@ AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
 AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100
 AXGN|AxoGen, Inc. - Common Stock|S|N|N|100
 AXJS|iShares MSCI All Country Asia ex Japan Small Cap Index Fund|G|N|N|100
-AXPW|Axion Power International, Inc. - Common Stock|S|N|N|100
+AXPW|Axion Power International, Inc. - Common Stock|S|N|D|100
 AXPWW|Axion Power International, Inc. - Series A Warrants|S|N|N|100
 AXTI|AXT Inc - Common Stock|Q|N|N|100
 AZPN|Aspen Technology, Inc. - Common Stock|Q|N|N|100
@@ -1534,6 +1534,7 @@ LARK|Landmark Bancorp Inc. - Common Stock|G|N|N|100
 LAWS|Lawson Products, Inc. - Common Stock|Q|N|N|100
 LAYN|Layne Christensen Company - Common Stock|Q|N|N|100
 LBAI|Lakeland Bancorp, Inc. - Common Stock|Q|N|N|100
+LBIO|Lion Biotechnologies, Inc. - Common Stock|G|N|N|100
 LBIX|Leading Brands Inc - Common Shares|S|N|N|100
 LBRDA|Liberty Broadband Corporation - Class A Common Stock|Q|N|N|100
 LBRDK|Liberty Broadband Corporation - Class C Common Stock|Q|N|N|100
@@ -1569,7 +1570,7 @@ LIVE|LiveDeal, Inc. - Common Stock|S|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
 LKQ|LKQ Corporation - Common Stock|Q|N|N|100
-LLEX|Lilis Energy, Inc. - Common Stock|G|N|H|100
+LLEX|Lilis Energy, Inc. - Common Stock|G|N|E|100
 LLNW|Limelight Networks, Inc. - Common Stock|Q|N|N|100
 LLTC|Linear Technology Corporation - Common Stock|Q|N|N|100
 LMAT|LeMaitre Vascular, Inc. - Common Stock|G|N|N|100
@@ -1898,6 +1899,7 @@ NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|D|100
 NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100
+OCAT|Ocata Therapeutics, Inc. - Common Stock|G|N|N|100
 OCC|Optical Cable Corporation - Common Stock|G|N|N|100
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100
 OCLR|Oclaro, Inc. - Common Stock|Q|N|N|100
@@ -2965,4 +2967,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0225201521:32|||||
+File Creation Time: 0226201521:32|||||
