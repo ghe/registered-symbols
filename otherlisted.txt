@@ -50,7 +50,7 @@ ADPT|Adeptus Health Inc. Common Stock|N|ADPT|N|100|N|ADPT
 ADS|Alliance Data Systems Corporation Common Stock|N|ADS|N|100|N|ADS
 ADT|ADT Corporation Common Stock|N|ADT|N|100|N|ADT
 ADX|Adams Express Company (The)|N|ADX|N|100|N|ADX
-ADZ|DB Agriculture Short ETN DB Agriculture Short ETN|P|ADZ|N|100|N|ADZ
+ADZ|DB Agriculture Short ETN due April 1, 2038|P|ADZ|N|100|N|ADZ
 AE|Adams Resources & Energy, Inc. Common Stock|A|AE|N|100|N|AE
 AEB|AEGON N.V. Perp. Cap. Secs. Floating Rate (Netherlands)|N|AEB|N|100|N|AEB
 AEC|Associated Estates Realty Corporation Common Stock|N|AEC|N|100|N|AEC
@@ -85,11 +85,11 @@ AFSI$C|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Pr
 AFT|Apollo Senior Floating Rate Fund Inc. Common Stock|N|AFT|N|100|N|AFT
 AFW|American Financial Group, Inc. 6 3/8% Senior Notes due 2042|N|AFW|N|100|N|AFW
 AG|First Majestic Silver Corp. Ordinary Shares (Canada)|N|AG|N|100|N|AG
-AGA|DB Agriculture Short ETN DB Agriculture Double Short ETN|P|AGA|N|100|N|AGA
+AGA|DB Agriculture Double Short ETN due April 1, 2038|P|AGA|N|100|N|AGA
 AGC|Advent Claymore Convertible Securities and Income Fund Common Shares of Beneficial Interest|N|AGC|N|100|N|AGC
 AGCO|AGCO Corporation Common Stock|N|AGCO|N|100|N|AGCO
 AGD|Alpine Global Dynamic Dividend Fund Shares of Beneficial Interest|N|AGD|N|100|N|AGD
-AGF|DB Agriculture Long ETN DB Agriculture Long ETN|P|AGF|N|100|N|AGF
+AGF|DB Agriculture Long ETN due April 1, 2038|P|AGF|N|100|N|AGF
 AGG|iShares Core U.S. Aggregate Bond ETF|P|AGG|Y|100|N|AGG
 AGI|Alamos Gold Inc Ordinary Shares|N|AGI|N|100|N|AGI
 AGLS|Accuvest Global Long Short ETF|P|AGLS|Y|100|N|AGLS
@@ -431,8 +431,8 @@ BCX|BlackRock Resources Common Shares of Beneficial Interest|N|BCX|N|100|N|BCX
 BDC|Belden Inc Common Stock|N|BDC|N|100|N|BDC
 BDCL|2xLeveraged Long Exchange Traded Access Securities (E-TRACS) Linked to the Wells Fargo Business Development Company Index due May 24, 2041|P|BDCL|N|100|N|BDCL
 BDCS|UBS AG Exchange Traded Access Securities (E TRACS) Linked to the Wells Fargo Business Development Company Index due April 26, 2041|P|BDCS|N|100|N|BDCS
-BDD|PowerShares DB Base Metals Double Long ETN|P|BDD|N|100|N|BDD
-BDG|PowerShares DB Base Metals Long ETN|P|BDG|N|100|N|BDG
+BDD|DB Base Metals Double Long Exchange Traded Notes due June 1, 2038|P|BDD|N|100|N|BDD
+BDG|DB Base Metals Long Exchange Traded Notes due June 1, 2038|P|BDG|N|100|N|BDG
 BDJ|Blackrock Enhanced Equity Dividend Trust|N|BDJ|N|100|N|BDJ
 BDL|Flanigan's Enterprises, Inc. Common Stock|A|BDL|N|100|N|BDL
 BDN|Brandywine Realty Trust Common Stock|N|BDN|N|100|N|BDN
@@ -544,12 +544,12 @@ BOE|Blackrock Global Blackrock Global Opportunities Equity Trust Common Shares o
 BOH|Bank of Hawaii Corporation Common Stock|N|BOH|N|100|N|BOH
 BOI|Brookfield Mortgage Opportunity Income Fund Inc. Common Stock|N|BOI|N|100|N|BOI
 BOIL|ProShares Ultra Bloomberg Natural Gas|P|BOIL|Y|100|N|BOIL
-BOM|PowerShares DB Base Metals Double Short ETN|P|BOM|N|100|N|BOM
+BOM|DB Base Metals Double Short Exchange Traded Notes due June 1, 2038|P|BOM|N|100|N|BOM
 BOND|PIMCO Total Return Active Exchange-Traded Fund|P|BOND|Y|100|N|BOND
 BONE|Bacterin International Holdings, Inc. Common Stock|A|BONE|N|100|N|BONE
 BOOT|Boot Barn Holdings, Inc. Common Stock|N|BOOT|N|100|N|BOOT
 BORN|China New Borun Corporation American Depositary Shares|N|BORN|N|100|N|BORN
-BOS|PowerShares DB Base Metals Short ETN|P|BOS|N|100|N|BOS
+BOS|DB Base Metals Short Exchange Traded Notes due June 1, 2038|P|BOS|N|100|N|BOS
 BOX|Box, Inc. Class A Common Stock|N|BOX|N|100|N|BOX
 BOXC|Brookfield Canada Office Properties|N|BOXC|N|100|N|BOXC
 BP|BP p.l.c. Common Stock|N|BP|N|100|N|BP
@@ -625,8 +625,8 @@ BTX.W|BioTime, Inc. Warrant (Expiring 10/1/2018)|A|BTX/WS|N|100|N|BTX+
 BTZ|BlackRock Credit Allocation Income Trust|N|BTZ|N|100|N|BTZ
 BUD|Anheuser-Busch Inbev SA Sponsored ADR (Belgium)|N|BUD|N|100|N|BUD
 BUI|BlackRock Utility and Infrastructure Trust Common Shares of Beneficial Interest|N|BUI|N|100|N|BUI
-BUNL|PowerShares DB German Bund Futures ETN|P|BUNL|N|100|N|BUNL
-BUNT|PowerShares DB 3X German Bund Futures ETN|P|BUNT|N|100|N|BUNT
+BUNL|DB German Bund Futures Exchange Traded Notes due March 31, 2021|P|BUNL|N|100|N|BUNL
+BUNT|DB 3x German Bund Futures Exchange Traded Notes due March 31, 2021|P|BUNT|N|100|N|BUNT
 BURL|Burlington Stores, Inc. Common Stock|N|BURL|N|100|N|BURL
 BVN|Buenaventura Mining Company Inc.|N|BVN|N|100|N|BVN
 BVX|Bovie Medical Corporation Common Stock|A|BVX|N|100|N|BVX
@@ -1042,7 +1042,7 @@ CZA|Guggenheim Mid-Cap Core ETF|P|CZA|Y|100|N|CZA
 CZZ|Cosan Limited Class A Common Stock|N|CZZ|N|100|N|CZZ
 D|Dominion Resources, Inc. Common Stock|N|D|N|100|N|D
 DAC|Danaos Corporation Common Stock|N|DAC|N|100|N|DAC
-DAG|DB Agriculture Double Long ETN DB Agriculture Double Long ETN|P|DAG|N|100|N|DAG
+DAG|DB Agriculture Double Long ETN due April 1, 2038|P|DAG|N|100|N|DAG
 DAKP|Dakota Plains Holdings, Inc. Common Stock|A|DAKP|N|100|N|DAKP
 DAL|Delta Air Lines, Inc. Common Stock|N|DAL|N|100|N|DAL
 DAN|Dana Holding Corporation Common Stock When-Issued|N|DAN|N|100|N|DAN
@@ -1092,7 +1092,7 @@ DDE|Dover Downs Gaming & Entertainment Inc Common Stock|N|DDE|N|100|N|DDE
 DDF|Delaware Investments Dividend & Income Fund, Inc. Common Stock|N|DDF|N|100|N|DDF
 DDG|ProShares Short Oil & Gas|P|DDG|Y|100|N|DDG
 DDM|ProShares Ultra Dow30|P|DDM|Y|100|N|DDM
-DDP|DB Commodity DB Commodity Short ETN|P|DDP|N|100|N|DDP
+DDP|DB Commodity Short ETN due April 1, 2038|P|DDP|N|100|N|DDP
 DDR|DDR Corp. Common Stock|N|DDR|N|100|N|DDR
 DDR$J|DDR Corporation Dep Shs Repstg 1/20th Pfd Cl J|N|DDRpJ|N|100|N|DDR-J
 DDR$K|DDR Corp. DEPOSITARY SH REPSTG 1/20TH PDF CL K % (United States)|N|DDRpK|N|100|N|DDR-K
@@ -1101,7 +1101,7 @@ DDT|Dillard's Capital Trust I|N|DDT|N|100|N|DDT
 DE|Deere & Company Common Stock|N|DE|N|100|N|DE
 DEA|Easterly Government Properties, Inc. Common Stock|N|DEA|N|100|N|DEA
 DECK|Deckers Outdoor Corporation Common Stock|N|DECK|N|100|N|DECK
-DEE|DB Commodity DB Commodity Double Short ETN|P|DEE|N|100|N|DEE
+DEE|DB Commodity Double Short ETN due April 1, 2038|P|DEE|N|100|N|DEE
 DEF|Guggenheim Defensive Equity ETF|P|DEF|Y|100|N|DEF
 DEG|Etablissements Delhaize Freres et Cie "Le Lion" S.A. Common Stock|N|DEG|N|100|N|DEG
 DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
@@ -1126,13 +1126,13 @@ DG|Dollar General Corporation Common Stock|N|DG|N|100|N|DG
 DGAZ|VelocityShares 3X Inverse Natural Gas ETN linked to the S&P GSCI Natural Gas INdex Excess Return|P|DGAZ|N|100|N|DGAZ
 DGI|DigitalGlobe, Inc Common Stock|N|DGI|N|100|N|DGI
 DGL|PowerShares DB Gold Fund|P|DGL|Y|100|N|DGL
-DGP|Deutsche Bank AG PowerShares DB Gold Double Long ETN|P|DGP|N|100|N|DGP
+DGP|DB Gold Double Long ETN due February 15, 2038|P|DGP|N|100|N|DGP
 DGRO|iShares Core Dividend Growth ETF|P|DGRO|Y|100|N|DGRO
 DGS|WisdomTree Emerging Market SmallCap Fund|P|DGS|Y|100|N|DGS
 DGSE|DGSE Companies, Inc. Common Stock|A|DGSE|N|100|N|DGSE
 DGT|SPDR Global Dow ETF (based on The Global Dow)|P|DGT|Y|100|N|DGT
 DGX|Quest Diagnostics Incorporated Common Stock|N|DGX|N|100|N|DGX
-DGZ|Deutsche Bank AG DB Gold Short ETN|P|DGZ|N|100|N|DGZ
+DGZ|DB Gold Short ETN due February 15, 2038|P|DGZ|N|100|N|DGZ
 DHF|Dreyfus High Yield Strategies Fund Common Stock|N|DHF|N|100|N|DHF
 DHG|Deutsche High Income Opportunities Fund, Inc  New Common Stock|N|DHG|N|100|N|DHG
 DHI|D.R. Horton, Inc. Common Stock|N|DHI|N|100|N|DHI
@@ -1204,7 +1204,7 @@ DPK|Direxion Developed Markets Bear 3x Shares|P|DPK|Y|100|N|DPK
 DPLO|Diplomat Pharmacy, Inc. Common Stock|N|DPLO|N|100|N|DPLO
 DPM|DCP Midstream Partners, LP DCP Midstream Partnership, LP Common Units|N|DPM|N|100|N|DPM
 DPS|Dr Pepper Snapple Group, Inc Dr Pepper Snapple Group, Inc  Common Stock|N|DPS|N|100|N|DPS
-DPU|DB Commodity DB Commodity Long ETN|P|DPU|N|100|N|DPU
+DPU|DB Commodity Long ETN due April 1, 2038|P|DPU|N|100|N|DPU
 DPW|Digital Power Corporation Common Stock|A|DPW|N|100|N|DPW
 DPZ|Domino's Pizza Inc Common Stock|N|DPZ|N|100|N|DPZ
 DQ|DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares|N|DQ|N|100|N|DQ
@@ -1240,7 +1240,7 @@ DTH|WisdomTree DEFA High-Yielding Equity Fund|P|DTH|Y|100|N|DTH
 DTK|Deutsche Bk Contingent Cap Tr III Tr Pfd Secs|N|DTK|N|100|N|DTK
 DTLA$|Brookfield DTLA Inc. 7.625% Series A Cumulative Redeemable Preferred Stock|N|DTLAp|N|100|N|DTLA-
 DTN|WisdomTree Dividend Ex-Financials Fund|P|DTN|Y|100|N|DTN
-DTO|PowerShares DB Crude Oil Double Short ETN|P|DTO|N|100|N|DTO
+DTO|DB Crude Oil Double Short ETN due June 1, 2038|P|DTO|N|100|N|DTO
 DTQ|DTE Energy Company 2012 Series C 5.25% Junior Subordinate Debentures due December 1, 2062|N|DTQ|N|100|N|DTQ
 DTZ|DTE Energy Company 2011 Series I 6.50% Junior Subordinate Debentures due 2061|N|DTZ|N|100|N|DTZ
 DUA|Deutsche Bank Cap Fdg Tr VIII 6.375% Tr Pfd Secs|N|DUA|N|100|N|DUA
@@ -1283,9 +1283,9 @@ DY|Dycom Industries, Inc. Common Stock|N|DY|N|100|N|DY
 DYN|Dynegy Inc. Common Stock|N|DYN|N|100|N|DYN
 DYN$A|Dynegy Inc. Mandatory Preferred Convertible Series A%|N|DYNpA|N|100|N|DYN-A
 DYN.W|Dynegy Inc. Warrant expiring October 2, 2017|N|DYN/WS|N|100|N|DYN+
-DYY|DB Commodity DB Commodity Double Long ETN|P|DYY|N|100|N|DYY
+DYY|DB Commodity Double Long ETN due April 1, 2038|P|DYY|N|100|N|DYY
 DZK|Direxion Developed Markets Bull 3x Shares|P|DZK|Y|100|N|DZK
-DZZ|Deutsche Bank AG DB Gold Double Short ETN|P|DZZ|N|100|N|DZZ
+DZZ|DB Gold Double Short ETN due February 15, 2038|P|DZZ|N|100|N|DZZ
 E|ENI S.p.A. Common Stock|N|E|N|100|N|E
 EAA|Entergy Arkansas, Inc. First Mortgage Bonds, 5.75% Series Due November 1, 2040|N|EAA|N|100|N|EAA
 EAB|Entergy Arkansas, Inc. First Mortgage Bonds, 4.90% Series Due December 1, 2052|N|EAB|N|100|N|EAB
@@ -2419,6 +2419,7 @@ IMS|IMS Health Holdings, Inc. Common Stock|N|IMS|N|100|N|IMS
 IMTM|iShares MSCI International Momentum Factor ETF|P|IMTM|Y|100|N|IMTM
 IMUC|ImmunoCellular Therapeutics, Ltd. Common Stock|A|IMUC|N|100|N|IMUC
 INB|Cohen & Steers Global Income Builder, Inc. Common Shares of Beneficial Interest|N|INB|N|100|N|INB
+INC|iShares U.S. Fixed Income Balanced Risk ETF|Z|INC|Y|100|N|INC
 INCO|EG Shares India Consumer ETF|P|INCO|Y|100|N|INCO
 IND|ING Group, N.V. Perpetual Debt Securities|N|IND|N|100|N|IND
 INDA|Ishares MSCI India ETF|Z|INDA|Y|100|N|INDA
@@ -2583,10 +2584,10 @@ JEM|iPath GEMS Index ETN|P|JEM|N|100|N|JEM
 JEQ|Aberdeen Japan Equity Fund, Inc.  Common Stock|N|JEQ|N|100|N|JEQ
 JFC|JPMorgan China Region  Fund, Inc. Common Stock|N|JFC|N|100|N|JFC
 JFR|Nuveen Floating Rate Income Fund Common Stock|N|JFR|N|100|N|JFR
-JGBD|PowerShares DB 3X Inverse Govt Bond Futures ETN|P|JGBD|N|100|N|JGBD
-JGBL|PowerShares DB Japanese Govt Bond Futures ETN|P|JGBL|N|100|N|JGBL
-JGBS|PowerShares DB Inverse Japanese Govt Bond Futures ETN|P|JGBS|N|100|N|JGBS
-JGBT|PowerShares DB 3X Japanese Govt Bond Futures ETN|P|JGBT|N|100|N|JGBT
+JGBD|DB 3x Inverse Japanese Govt Bond Futures Exchange Traded Notes due November 30, 2021|P|JGBD|N|100|N|JGBD
+JGBL|DB Japanese Govt Bond Futures ETN|P|JGBL|N|100|N|JGBL
+JGBS|DB Inverse Japanese Govt Bond Futures ETN|P|JGBS|N|100|N|JGBS
+JGBT|DB 3X Japanese Govt Bond Futures ETN|P|JGBT|N|100|N|JGBT
 JGH|Nuveen Global High Income Fund Common Shares of Beneficial Interest|N|JGH|N|100|N|JGH
 JGV|Nuveen Global Equity Income Fund|N|JGV|N|100|N|JGV
 JGW|J.G. Wentworth Company (The) Class A Common Stock|N|JGW|N|100|N|JGW
@@ -2800,7 +2801,7 @@ LB|L Brands, Inc.|N|LB|N|100|N|LB
 LBF|Deutsche Global High Income Fund, Inc. Common Stock|N|LBF|N|100|N|LBF
 LBJ|Direxion Daily Latin America 3x Bull Shares|P|LBJ|Y|100|N|LBJ
 LBMH|Liberator Medical Holdings, Inc. Common Stock|A|LBMH|N|100|N|LBMH
-LBND|PowerShares DB 3x Long 25 Year Treasury Bond ETN|P|LBND|N|100|N|LBND
+LBND|DB 3x Long 25 Year Treasury Bond ETN|P|LBND|N|100|N|LBND
 LBY|Libbey, Inc. Common Stock|A|LBY|N|100|N|LBY
 LC|LendingClub Corporation Common Stock|N|LC|N|100|N|LC
 LCI|Lannett Co Inc Common Stock|N|LCI|N|100|N|LCI
@@ -3485,7 +3486,7 @@ OKE|ONEOK, Inc. Common Stock|N|OKE|N|100|N|OKE
 OKS|ONEOK Partners, L.P. Common Stock|N|OKS|N|100|N|OKS
 OLEM|iPath Pure Beta Crude Oil ETN|P|OLEM|N|100|N|OLEM
 OLN|Olin Corporation Common Stock|N|OLN|N|100|N|OLN
-OLO|PowerShares DB Crude Oil Long ETN|P|OLO|N|100|N|OLO
+OLO|DB Crude Oil Long Exchange Traded Notes due June 1, 2038|P|OLO|N|100|N|OLO
 OLP|One Liberty Properties, Inc. Common Stock|N|OLP|N|100|N|OLP
 OMAM|OM Asset Management plc Ordinary Shares|N|OMAM|N|100|N|OMAM
 OMC|Omnicom Group Inc. Common Stock|N|OMC|N|100|N|OMC
@@ -4013,7 +4014,9 @@ RNP|Cohen & Steers Reit and Preferred Income Fund Inc Common Shares|N|RNP|N|100|
 RNR|RenaissanceRe Holdings Ltd. Common Stock|N|RNR|N|100|N|RNR
 RNR$C|RenaissanceRe Holdings Ltd. 6.08% Series C Preference Shares|N|RNRpC|N|100|N|RNR-C
 RNR$E|RenaissanceRe Holdings Ltd. 5.375% Series E Preference Shares|N|RNRpE|N|100|N|RNR-E
+ROAM|Lattice Emerging Markets Strategy ETF|P|ROAM|Y|100|N|ROAM
 RODI|Barclays Return on Disability ETN|P|RODI|N|100|N|RODI
+RODM|Lattice Developed Markets (ex-US) Strategy ETF|P|RODM|Y|100|N|RODM
 ROG|Rogers Corporation Common Stock|N|ROG|N|100|N|ROG
 ROK|Rockwell Automation, Inc. Common Stock|N|ROK|N|100|N|ROK
 ROL|Rollins, Inc. Common Stock|N|ROL|N|100|N|ROL
@@ -4022,6 +4025,7 @@ ROM|ProShares Ultra Technology|P|ROM|Y|100|N|ROM
 ROOF|IQ US Real Estate Small Cap ETF|P|ROOF|Y|100|N|ROOF
 ROP|Roper Industries, Inc. Common Stock|N|ROP|N|100|N|ROP
 RORO|SPDR SSgA Risk Aware ETF|P|RORO|Y|100|N|RORO
+ROUS|Lattice U.S. Equity Strategy ETF|P|ROUS|Y|100|N|ROUS
 ROX|Castle Brands, Inc. Castle Brands, Inc. Common Stock|A|ROX|N|100|N|ROX
 ROYT|Pacific Coast Oil Trust Units of Beneficial Interest|N|ROYT|N|100|N|ROYT
 RPAI|Retail Properties of America, Inc. Class A Common Stock|N|RPAI|N|100|N|RPAI
@@ -4128,7 +4132,7 @@ SBIO|ALPS Medical Breakthroughs ETF|P|SBIO|Y|100|N|SBIO
 SBM|Short Basic Materials|P|SBM|Y|100|N|SBM
 SBNA|Scorpio Tankers Inc. 6.75% Senior Notes due 2020|N|SBNA|N|100|N|SBNA
 SBNB|Scorpio Tankers Inc. 7.50% Senior Notes Due 2017|N|SBNB|N|100|N|SBNB
-SBND|PowerShares DB 3X Short 25 Year Treasury Bond ETN|P|SBND|N|100|N|SBND
+SBND|DB 3X Short 25 Year Treasury Bond ETN|P|SBND|N|100|N|SBND
 SBR|Sabine Royalty Trust Common Stock|N|SBR|N|100|N|SBR
 SBS|Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares)|N|SBS|N|100|N|SBS
 SBUS|ETFS Diversified-Factor U.S. Large Cap Index Fund|P|SBUS|Y|100|N|SBUS
@@ -4474,7 +4478,7 @@ SYX|Systemax Inc. Common Stock|N|SYX|N|100|N|SYX
 SYY|Sysco Corporation Common Stock|N|SYY|N|100|N|SYY
 SZC|Cushing Renaissance Fund (The) Common Shares of Beneficial Interest|N|SZC|N|100|N|SZC
 SZK|ProShares UltraShort Consumer Goods|P|SZK|Y|100|N|SZK
-SZO|PowerShares DB Crude Oil Short ETN|P|SZO|N|100|N|SZO
+SZO|DB Crude Oil Short ETN due June 1, 2038|P|SZO|N|100|N|SZO
 T|AT&T Inc.|N|T|N|100|N|T
 TA|TravelCenters of America LLC Common Stock|N|TA|N|100|N|TA
 TAC|TransAlta Corporation Ordinary Shares|N|TAC|N|100|N|TAC
@@ -5209,4 +5213,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0225201521:32||||||
+File Creation Time: 0226201521:32||||||
