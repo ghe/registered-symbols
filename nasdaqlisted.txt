@@ -694,6 +694,7 @@ CTRE|CareTrust REIT, Inc. - Common Stock|Q|N|N|100
 CTRL|Control4 Corporation - Common Stock|Q|N|N|100
 CTRN|Citi Trends, Inc. - Common Stock|Q|N|N|100
 CTRP|Ctrip.com International, Ltd. - American Depositary Shares|Q|N|N|100
+CTRV|ContraVir Pharmaceuticals Inc - Common Stock|S|N|N|100
 CTRX|Catamaran Corporation - Common Stock|Q|N|N|100
 CTSH|Cognizant Technology Solutions Corporation - Class A Common Stock|Q|N|N|100
 CTSO|Cytosorbents Corporation - Common Stock|S|N|N|100
@@ -914,7 +915,7 @@ ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
 ESCR|Escalera Resources Co. - Common Stock|Q|N|D|100
 ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|Q|N|N|100
 ESEA|Euroseas Ltd. - Common Stock|Q|N|D|100
-ESGR|Enstar Group Limited - Ordinary Shares|Q|N|D|100
+ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100
 ESIO|Electro Scientific Industries, Inc. - Common Stock|Q|N|N|100
 ESLT|Elbit Systems Ltd. - Ordinary Shares|Q|N|N|100
 ESMC|Escalon Medical Corp. - Common Stock|S|N|N|100
@@ -1355,7 +1356,7 @@ IFON|InfoSonics Corp - Common Stock|S|N|N|100
 IFV|First Trust Dorsey Wright International Focus 5 ETF|G|N|N|100
 IGLD|Internet Gold Golden Lines Ltd. - Ordinary Shares|Q|N|N|100
 IGOV|iShares S&P/Citigroup International Treasury Bond Fund|G|N|N|100
-IGTE|iGATE Corporation - Common Stock|Q|N|N|100
+IGTE|IGATE Corporation - Common Stock|Q|N|N|100
 III|Information Services Group, Inc. - Common Stock|G|N|N|100
 IIIN|Insteel Industries, Inc. - Common Stock|Q|N|N|100
 IIJI|Internet Initiative Japan, Inc. - ADS represents common stock|Q|N|N|100
@@ -1445,7 +1446,7 @@ ITIC|Investors Title Company - Common Stock|Q|N|N|100
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
 IVAC|Intevac, Inc. - Common Stock|Q|N|N|100
-IVAN|Ivanhoe Energy, Inc. - Common Shares|S|N|D|100
+IVAN|Ivanhoe Energy, Inc. - Common Shares|S|N|G|100
 IXYS|IXYS Corporation - Common Stock|Q|N|N|100
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100
 JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|N|100
@@ -1482,7 +1483,7 @@ JYNT|The Joint Corp. - Common Stock|S|N|N|100
 KALU|Kaiser Aluminum Corporation - Common Stock|Q|N|N|100
 KANG|iKang Healthcare Group, Inc. - American Depositary Shares|Q|N|N|100
 KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100
-KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|N|100
+KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|D|100
 KBSF|KBS Fashion Group Limited - Common Stock|S|N|N|100
 KCAP|KCAP Financial, Inc. - common stock|Q|N|N|100
 KCLI|Kansas City Life Insurance Company - Common Stock|S|N|N|100
@@ -1570,7 +1571,7 @@ LIVE|LiveDeal, Inc. - Common Stock|S|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
 LKQ|LKQ Corporation - Common Stock|Q|N|N|100
-LLEX|Lilis Energy, Inc. - Common Stock|G|N|E|100
+LLEX|Lilis Energy, Inc. - Common Stock|G|N|N|100
 LLNW|Limelight Networks, Inc. - Common Stock|Q|N|N|100
 LLTC|Linear Technology Corporation - Common Stock|Q|N|N|100
 LMAT|LeMaitre Vascular, Inc. - Common Stock|G|N|N|100
@@ -2967,4 +2968,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0226201521:32|||||
+File Creation Time: 0227201521:33|||||
