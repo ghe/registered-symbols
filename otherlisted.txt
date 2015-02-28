@@ -1356,7 +1356,6 @@ EFZ|ProShares Short MSCI EAFE|P|EFZ|Y|100|N|EFZ
 EGAS|Gas Natural Inc. Common Stock (OH)|A|EGAS|N|100|N|EGAS
 EGF|Blackrock Enhanced Government Fund, Inc. Common Stock|N|EGF|N|100|N|EGF
 EGI|Entree Gold Inc Ordinary Shares|A|EGI|N|100|N|EGI
-EGL|Engility Holdings, Inc. Common Stock|N|EGL|N|100|N|EGL
 EGN|Energen Corporation Common Stock|N|EGN|N|100|N|EGN
 EGO|Eldorado Gold Corporation Ordinary Shares|N|EGO|N|100|N|EGO
 EGP|EastGroup Properties, Inc. Common Stock|N|EGP|N|100|N|EGP
@@ -3876,6 +3875,7 @@ QTWO|Q2 Holdings, Inc. Common Stock|N|QTWO|N|100|N|QTWO
 QUAD|Quad Graphics, Inc Class A Common Stock|N|QUAD|N|100|N|QUAD
 QUAL|iShares MSCI USA Quality Factor ETF|P|QUAL|Y|100|N|QUAL
 QVAL|ValueShares U.S. Quantitative Value ETF ETF|Z|QVAL|Y|100|N|QVAL
+QVM|Arrow QVM Equity Factor ETF|P|QVM|Y|100|N|QVM
 QWLD|SPDR MSCI World Quality Mix ETF|P|QWLD|Y|100|N|QWLD
 QXUS|Market Vectors MSCI Int'l Qlty|P|QXUS|Y|100|N|QXUS
 R|Ryder System, Inc. Common Stock|N|R|N|100|N|R
@@ -4301,7 +4301,6 @@ SMM|Salient Midstream Common Shares of Beneficial Interest|N|SMM|N|100|N|SMM
 SMMU|Short Term Municipal Bond Active Exchange-Traded Fund|P|SMMU|Y|100|N|SMMU
 SMN|ProShares UltraShort Basic Materials|P|SMN|Y|100|N|SMN
 SMP|Standard Motor Products, Inc. Common Stock|N|SMP|N|100|N|SMP
-SMU|Bank of America Corporation MITTS Linked to S&P 500|P|SMU|N|100|N|SMU
 SN|Sanchez Energy Corporation Common Stock|N|SN|N|100|N|SN
 SNA|Snap-On Incorporated Common Stock|N|SNA|N|100|N|SNA
 SNE|Sony Corporation Common Stock|N|SNE|N|100|N|SNE
@@ -5213,4 +5212,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0226201521:32||||||
+File Creation Time: 0227201521:33||||||
