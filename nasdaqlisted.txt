@@ -569,7 +569,7 @@ CLNT|Cleantech Solutions International, Inc. - Common Stock|S|N|N|100
 CLRB|Cellectar Biosciences, Inc. - Common Stock|S|N|N|100
 CLRBW|Cellectar Biosciences, Inc. - Warrants|S|N|N|100
 CLRO|ClearOne, Inc. - Common Stock|S|N|N|100
-CLRX|CollabRx, Inc. - Common Stock|S|N|D|100
+CLRX|CollabRx, Inc. - Common Stock|S|N|N|100
 CLSN|Celsion Corporation - Common Stock|S|N|N|100
 CLTX|Celsus Therapeutics Plc - American Depositary Shares|S|N|N|100
 CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|N|100
@@ -658,7 +658,7 @@ CRMT|America's Car-Mart, Inc. - Common Stock|Q|N|N|100
 CRNT|Ceragon Networks Ltd. - Ordinary Shares|Q|N|N|100
 CROX|Crocs, Inc. - Common Stock|Q|N|N|100
 CRRC|Courier Corporation - Common Stock|Q|N|N|100
-CRRS|Corporate Resource Services, Inc. - Common Stock|S|N|N|100
+CRRS|Corporate Resource Services, Inc. - Common Stock|S|N|D|100
 CRTN|Cartesian, Inc. - Common Stock|G|N|N|100
 CRTO|Criteo S.A. - American Depositary Shares|Q|N|N|100
 CRUS|Cirrus Logic, Inc. - Common Stock|Q|N|N|100
@@ -1446,7 +1446,7 @@ ITIC|Investors Title Company - Common Stock|Q|N|N|100
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
 IVAC|Intevac, Inc. - Common Stock|Q|N|N|100
-IVAN|Ivanhoe Energy, Inc. - Common Shares|S|N|G|100
+IVAN|Ivanhoe Energy, Inc. - Common Shares|S|N|N|100
 IXYS|IXYS Corporation - Common Stock|Q|N|N|100
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100
 JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|N|100
@@ -1788,7 +1788,7 @@ MVIS|Microvision, Inc. - Common Stock|G|N|N|100
 MXIM|Maxim Integrated Products, Inc. - Common Stock|Q|N|N|100
 MXWL|Maxwell Technologies, Inc. - Common Stock|Q|N|N|100
 MYGN|Myriad Genetics, Inc. - Common Stock|Q|N|N|100
-MYL|Mylan Inc. - Common Stock|Q|N|N|100
+MYL|Mylan N.V. - Common Stock|Q|N|N|100
 MYOS|MYOS Corporation - Common Stock|S|N|N|100
 MYRG|MYR Group, Inc. - Common Stock|Q|N|N|100
 MZOR|Mazor Robotics Ltd. - American Depositary Shares|G|N|N|100
@@ -1832,6 +1832,7 @@ NFEC|NF Energy Saving Corporation - Common Stock|S|N|N|100
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100
 NGHC|National General Holdings Corp - Common Stock|G|N|N|100
 NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A|G|N|N|100
+NHLD|National Holdings Corporation - Common Stock| |N|N|100
 NHTB|New Hampshire Thrift Bancshares, Inc. - Common Stock|G|N|N|100
 NHTC|Natural Health Trends Corp. - Commn Stock|S|N|N|100
 NICE|NICE-Systems Limited - American Depositary Shares each representing one Ordinary Share|Q|N|N|100
@@ -2436,7 +2437,6 @@ SMED|Sharps Compliance Corp - Common Stock|S|N|N|100
 SMIT|Schmitt Industries, Inc. - Common Stock|S|N|N|100
 SMLR|Semler Scientific, Inc. - Common Stock|S|N|N|100
 SMMF|Summit Financial Group, Inc. - Common Stock|S|N|N|100
-SMPL|Simplicity Bancorp Inc. - Common Stock|Q|N|N|100
 SMRT|Stein Mart, Inc. - Common Stock|Q|N|N|100
 SMSI|Smith Micro Software, Inc. - Common Stock|Q|N|N|100
 SMT|SMART Technologies Inc. - Common Shares|Q|N|N|100
@@ -2968,4 +2968,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0227201521:33|||||
+File Creation Time: 0302201521:33|||||
