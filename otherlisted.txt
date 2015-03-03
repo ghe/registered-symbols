@@ -242,8 +242,6 @@ APD|Air Products and Chemicals, Inc. Common Stock|N|APD|N|100|N|APD
 APF|Morgan Stanley Asia-Pacific Fund, Inc.|N|APF|N|100|N|APF
 APH|Amphenol Corporation Common Stock|N|APH|N|100|N|APH
 API|Advanced Photonix, Inc. Class A Common Stock|A|API|N|100|N|API
-APL|Atlas Pipeline Partners, L.P. Common Units, No Par Value|N|APL|N|100|N|APL
-APL$E|Atlas Pipeline Partners, L.P. Cumulative Redeemable Perpetual Preferred Units Class E|N|APLpE/CL|N|100|N|APL-E*
 APO|Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests|N|APO|N|100|N|APO
 APP|American Apparel Inc Common Stock|A|APP|N|100|N|APP
 APT|Alpha Pro Tech, Ltd. Common Stock|A|APT|N|100|N|APT
@@ -302,8 +300,7 @@ ATEN|A10 Networks, Inc. Common Stock|N|ATEN|N|100|N|ATEN
 ATHM|Autohome Inc. American Depositary Shares, each representing one class A ordinary share.|N|ATHM|N|100|N|ATHM
 ATI|Allegheny Technologies Incorporated Common Stock|N|ATI|N|100|N|ATI
 ATL|Atlatsa Resources Corporation|A|ATL|N|100|N|ATL
-ATLS|Atlas Energy, L.P. Common Units|N|ATLS|N|100|N|ATLS
-ATLS.V|Atlas Energy, L.P. Common Units representing limited liability company interests When Issued|N|ATLSw|N|100|N|ATLS#
+ATLS|Atlas Energy, L.P. Common Units representing limited liability company interests|N|ATLS|N|100|N|ATLS
 ATMP|Barclays ETN Plus Select MLP|P|ATMP|N|100|N|ATMP
 ATNM|Actinium Pharmaceuticals, Inc. (Delaware) Common Stock|A|ATNM|N|100|N|ATNM
 ATO|Atmos Energy Corporation Common Stock|N|ATO|N|100|N|ATO
@@ -1356,6 +1353,7 @@ EFZ|ProShares Short MSCI EAFE|P|EFZ|Y|100|N|EFZ
 EGAS|Gas Natural Inc. Common Stock (OH)|A|EGAS|N|100|N|EGAS
 EGF|Blackrock Enhanced Government Fund, Inc. Common Stock|N|EGF|N|100|N|EGF
 EGI|Entree Gold Inc Ordinary Shares|A|EGI|N|100|N|EGI
+EGL|Engility Holdings, Inc. Common Stock|N|EGL|N|100|N|EGL
 EGN|Energen Corporation Common Stock|N|EGN|N|100|N|EGN
 EGO|Eldorado Gold Corporation Ordinary Shares|N|EGO|N|100|N|EGO
 EGP|EastGroup Properties, Inc. Common Stock|N|EGP|N|100|N|EGP
@@ -2645,7 +2643,7 @@ JPIN|JPMorgan Diversified Return International Equity ETF|P|JPIN|Y|100|N|JPIN
 JPM|JP Morgan Chase & Co. Common Stock|N|JPM|N|100|N|JPM
 JPM$A|J P Morgan Chase & Co Depositary Shs Repstg 1/400 Pfd Ser P|N|JPMpA|N|100|N|JPM-A
 JPM$B|JP Morgan Chase & Co Depositary Shares Representing 1/400th Preferred Series T|N|JPMpB|N|100|N|JPM-B
-JPM$C|JPMorgan Chase Capital XXIX 6.70% Capital Securities, Series CC|N|JPMpC|N|100|N|JPM-C
+JPM$C|JPMorgan Chase Capital XXIX 6.70% Capital Securities, Series CC|N|JPMpC/CL|N|100|N|JPM-C*
 JPM$D|JPMorgan Chase Bank N A London Branch Depositary Shs Repstg 1/400th Pfd Ser O|N|JPMpD|N|100|N|JPM-D
 JPM$E|J P Morgan Chase & Co Depository Shares Representing 1/400th Int Perp Pfd Ser W|N|JPMpE|N|100|N|JPM-E
 JPM$F|J P Morgan Chase & Co Depositary Shares, each representing 1/400th interest in a share of 6.125% Non-Cumulative Preferred Stock, Series Y|N|JPMpF|N|100|N|JPM-F
@@ -5212,4 +5210,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0227201521:33||||||
+File Creation Time: 0302201521:33||||||
