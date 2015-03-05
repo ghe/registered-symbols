@@ -121,7 +121,7 @@ ALOT|Astro-Med, Inc. - Common Stock|G|N|N|100
 ALQA|Alliqua BioMedical, Inc. - Common Stock|S|N|N|100
 ALSK|Alaska Communications Systems Group, Inc. - Common Stock|Q|N|N|100
 ALTR|Altera Corporation - Common Stock|Q|N|N|100
-ALXA|Alexza Pharmaceuticals, Inc. - Common Stock|G|N|D|100
+ALXA|Alexza Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 AMAG|AMAG Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 AMAT|Applied Materials, Inc. - Common Stock|Q|N|N|100
@@ -157,7 +157,7 @@ AMWD|American Woodmark Corporation - Common Stock|Q|N|N|100
 AMZN|Amazon.com, Inc. - Common Stock|Q|N|N|100
 ANAC|Anacor Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANAD|ANADIGICS, Inc. - Common Stock|Q|N|N|100
-ANAT|American National Insurance Company - Common Stock|Q|N|D|100
+ANAT|American National Insurance Company - Common Stock|Q|N|N|100
 ANCB|Anchor Bancorp - Common Stock|G|N|N|100
 ANCI|American Caresource Holdings Inc - Common Stock|S|N|D|100
 ANCX|Access National Corporation - Common Stock|G|N|N|100
@@ -185,8 +185,8 @@ ARAY|Accuray Incorporated - Common Stock|Q|N|N|100
 ARCB|ArcBest Corporation - Common Stock|Q|N|N|100
 ARCC|Ares Capital Corporation - Closed End Fund|Q|N|N|100
 ARCI|Appliance Recycling Centers of America, Inc. - Common Stock|S|N|N|100
-ARCP|American Realty Capital Properties, Inc. - Common Stock|Q|N|E|100
-ARCPP|American Realty Capital Properties, Inc. - 6.70% Series F Cumulative Redeemable Preferred Stock|Q|N|E|100
+ARCP|American Realty Capital Properties, Inc. - Common Stock|Q|N|N|100
+ARCPP|American Realty Capital Properties, Inc. - 6.70% Series F Cumulative Redeemable Preferred Stock|Q|N|N|100
 ARCW|ARC Group Worldwide, Inc. - Common Stock|S|N|N|100
 ARDM|Aradigm Corporation - Common Stock|S|N|N|100
 ARDX|Ardelyx, Inc. - Common Stock|G|N|N|100
@@ -409,9 +409,9 @@ CAAS|China Automotive Systems, Inc. - Common Stock|S|N|N|100
 CAC|Camden National Corporation - Common Stock|Q|N|N|100
 CACB|Cascade Bancorp - Common Stock|S|N|N|100
 CACC|Credit Acceptance Corporation - Common Stock|Q|N|N|100
-CACG|Chart Acquisition Corp. - Common Stock|S|N|D|100
-CACGU|Chart Acquisition Corp. - Units|S|N|D|100
-CACGW|Chart Acquisition Corp. - Warrants|S|N|D|100
+CACG|Chart Acquisition Corp. - Common Stock|S|N|N|100
+CACGU|Chart Acquisition Corp. - Units|S|N|N|100
+CACGW|Chart Acquisition Corp. - Warrants|S|N|N|100
 CACQ|Caesars Acquisition Company - Class A Common Stock|Q|N|N|100
 CADC|China Advanced Construction Materials Group, Inc. - Common Stock|S|N|N|100
 CADT|DT Asia Investments Limited - Ordinary Shares|S|N|N|100
@@ -529,7 +529,7 @@ CHKP|Check Point Software Technologies Ltd. - Ordinary Shares|Q|N|N|100
 CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|D|100
 CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100
 CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100
-CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|N|100
+CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|D|100
 CHRS|Coherus BioSciences, Inc. - Common Stock|G|N|N|100
 CHRW|C.H. Robinson Worldwide, Inc. - Common Stock|Q|N|N|100
 CHSCL|CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4|Q|N|N|100
@@ -658,7 +658,6 @@ CRMT|America's Car-Mart, Inc. - Common Stock|Q|N|N|100
 CRNT|Ceragon Networks Ltd. - Ordinary Shares|Q|N|N|100
 CROX|Crocs, Inc. - Common Stock|Q|N|N|100
 CRRC|Courier Corporation - Common Stock|Q|N|N|100
-CRRS|Corporate Resource Services, Inc. - Common Stock|S|N|D|100
 CRTN|Cartesian, Inc. - Common Stock|G|N|N|100
 CRTO|Criteo S.A. - American Depositary Shares|Q|N|N|100
 CRUS|Cirrus Logic, Inc. - Common Stock|Q|N|N|100
@@ -1120,6 +1119,7 @@ GBIM|GlobeImmune, Inc. - Common Stock|S|N|N|100
 GBLI|Global Indemnity plc - Class A Common Shares|Q|N|N|100
 GBNK|Guaranty Bancorp - Common Stock|Q|N|N|100
 GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|N|100
+GBSNU|Great Basin Scientific, Inc. - Units|S|N|N|100
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100
 GCVRZ|Sanofi - Contingent Value Right (Expiring 12/31/2020)|G|N|N|100
 GDEF|Global Defense & National Security Systems, Inc. - Common Stock|S|N|D|100
@@ -1363,7 +1363,7 @@ IIJI|Internet Initiative Japan, Inc. - ADS represents common stock|Q|N|N|100
 IILG|Interval Leisure Group, Inc. - Common Stock|Q|N|N|100
 IIN|IntriCon Corporation - Common Stock|G|N|N|100
 IIVI|II-VI Incorporated - Common Stock|Q|N|N|100
-IKAN|Ikanos Communications, Inc. - Common Stock|S|N|D|100
+IKAN|Ikanos Communications, Inc. - Common Stock|S|N|N|100
 IKGH|Iao Kun Group Holding Company Limited - Ordinary Shares (Cayman Islands)|G|N|N|100
 IKNX|Ikonics Corporation - Common Stock|S|N|N|100
 ILMN|Illumina, Inc. - Common Stock|Q|N|N|100
@@ -1446,7 +1446,6 @@ ITIC|Investors Title Company - Common Stock|Q|N|N|100
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
 IVAC|Intevac, Inc. - Common Stock|Q|N|N|100
-IVAN|Ivanhoe Energy, Inc. - Common Shares|S|N|N|100
 IXYS|IXYS Corporation - Common Stock|Q|N|N|100
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100
 JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|N|100
@@ -1508,7 +1507,7 @@ KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100
 KNDI|Kandi Technologies Group, Inc. - Common Stock|Q|N|N|100
 KONA|Kona Grill, Inc. - Common Stock|G|N|N|100
 KONE|Kingtone Wirelessinfo Solution Holding Ltd - American Depositary Shares|S|N|N|100
-KOOL|Cesca Therapeutics Inc. - Common Stock|S|N|N|100
+KOOL|Cesca Therapeutics Inc. - Common Stock|S|N|E|100
 KOPN|Kopin Corporation - Common Stock|Q|N|N|100
 KOSS|Koss Corporation - Common Stock|S|N|N|100
 KPTI|Karyopharm Therapeutics Inc. - Common Stock|Q|N|N|100
@@ -1590,7 +1589,7 @@ LNCE|Snyder's-Lance, Inc. - Common Stock|Q|N|N|100
 LNCO|Linn Co, LLC - Common Shares|Q|N|N|100
 LNDC|Landec Corporation - Common Stock|Q|N|N|100
 LOAN|Manhattan Bridge Capital, Inc - Common Stock|S|N|N|100
-LOCM|Local Corporation - Common Stock|S|N|N|100
+LOCM|Local Corporation - Common Stock|S|N|D|100
 LOCO|El Pollo Loco Holdings, Inc. - Common Stock|Q|N|N|100
 LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100
 LOGM|LogMein, Inc. - Common Stock|Q|N|N|100
@@ -1832,7 +1831,7 @@ NFEC|NF Energy Saving Corporation - Common Stock|S|N|N|100
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100
 NGHC|National General Holdings Corp - Common Stock|G|N|N|100
 NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A|G|N|N|100
-NHLD|National Holdings Corporation - Common Stock| |N|N|100
+NHLD|National Holdings Corporation - Common Stock|S|N|N|100
 NHTB|New Hampshire Thrift Bancshares, Inc. - Common Stock|G|N|N|100
 NHTC|Natural Health Trends Corp. - Commn Stock|S|N|N|100
 NICE|NICE-Systems Limited - American Depositary Shares each representing one Ordinary Share|Q|N|N|100
@@ -2426,6 +2425,7 @@ SLMBP|SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B|Q
 SLP|Simulations Plus, Inc. - Common Stock|S|N|N|100
 SLRC|Solar Capital Ltd. - Common Stock|Q|N|N|100
 SLTC|Selectica, Inc. - Common Stock|S|N|N|100
+SLTD|Solar3D, Inc. - Common Stock|S|N|N|100
 SLVO|Credit Suisse AG - Credit Suisse Silver Shares Covered Call Exchange Traded Notes|G|N|N|100
 SLXP|Salix Pharmaceuticals, Ltd. - Common Stock|Q|N|N|100
 SMAC|Sino Mercury Acquisition Corp. - Common Stock|S|N|N|100
@@ -2755,7 +2755,7 @@ UTMD|Utah Medical Products, Inc. - Common Stock|Q|N|N|100
 UTSI|UTStarcom Holdings Corp - Ordinary Shares|Q|N|N|100
 UVSP|Univest Corporation of Pennsylvania - Common Stock|Q|N|N|100
 VA|Virgin America Inc. - Common Stock|Q|N|N|100
-VALU|Value Line, Inc. - Common Stock|G|N|N|100
+VALU|Value Line, Inc. - Common Stock|S|N|N|100
 VALX|Validea Market Legends ETF|G|N|N|100
 VASC|Vascular Solutions, Inc. - Common Stock|Q|N|N|100
 VBFC|Village Bank and Trust Financial Corp. - Common Stock|S|N|D|100
@@ -2968,4 +2968,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0302201521:33|||||
+File Creation Time: 0304201521:33|||||
