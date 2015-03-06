@@ -409,9 +409,6 @@ CAAS|China Automotive Systems, Inc. - Common Stock|S|N|N|100
 CAC|Camden National Corporation - Common Stock|Q|N|N|100
 CACB|Cascade Bancorp - Common Stock|S|N|N|100
 CACC|Credit Acceptance Corporation - Common Stock|Q|N|N|100
-CACG|Chart Acquisition Corp. - Common Stock|S|N|N|100
-CACGU|Chart Acquisition Corp. - Units|S|N|N|100
-CACGW|Chart Acquisition Corp. - Warrants|S|N|N|100
 CACQ|Caesars Acquisition Company - Class A Common Stock|Q|N|N|100
 CADC|China Advanced Construction Materials Group, Inc. - Common Stock|S|N|N|100
 CADT|DT Asia Investments Limited - Ordinary Shares|S|N|N|100
@@ -2437,6 +2434,7 @@ SMED|Sharps Compliance Corp - Common Stock|S|N|N|100
 SMIT|Schmitt Industries, Inc. - Common Stock|S|N|N|100
 SMLR|Semler Scientific, Inc. - Common Stock|S|N|N|100
 SMMF|Summit Financial Group, Inc. - Common Stock|S|N|N|100
+SMMT|Summit Therapeutics plc - American Depositary Shares|G|N|N|100
 SMRT|Stein Mart, Inc. - Common Stock|Q|N|N|100
 SMSI|Smith Micro Software, Inc. - Common Stock|Q|N|N|100
 SMT|SMART Technologies Inc. - Common Shares|Q|N|N|100
@@ -2942,7 +2940,7 @@ YRCW|YRC Worldwide, Inc. - Common Stock|Q|N|N|100
 YY|YY Inc. - American Depositary Shares|Q|N|N|100
 Z|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
 ZAGG|ZAGG Inc - Common Stock|Q|N|N|100
-ZAZA|ZaZa Energy Corporation - Common Stock|S|N|N|100
+ZAZA|ZaZa Energy Corporation - Common Stock|S|N|D|100
 ZBRA|Zebra Technologies Corporation - Class A Common Stock|Q|N|N|100
 ZEUS|Olympic Steel, Inc. - Common Stock|Q|N|N|100
 ZFGN|Zafgen, Inc. - Common Stock|Q|N|N|100
@@ -2968,4 +2966,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0304201521:33|||||
+File Creation Time: 0305201521:33|||||
