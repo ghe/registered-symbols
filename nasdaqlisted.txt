@@ -315,7 +315,10 @@ BFIN|BankFinancial Corporation - Common Stock|Q|N|N|100
 BGCP|BGC Partners, Inc. - Class A Common Stock|Q|N|N|100
 BGFV|Big 5 Sporting Goods Corporation - Common Stock|Q|N|N|100
 BGMD|BG Medicine, Inc. - Common Stock|S|N|D|100
+BHAC|Barington/Hilco Acquisition Corp. - Common Stock|S|N|N|100
+BHACR|Barington/Hilco Acquisition Corp. - Rights|S|N|N|100
 BHACU|Barington/Hilco Acquisition Corp. - Units|S|N|N|100
+BHACW|Barington/Hilco Acquisition Corp. - Warrants|S|N|N|100
 BHBK|Blue Hills Bancorp, Inc. - Common Stock|Q|N|N|100
 BIB|ProShares Ultra Nasdaq Biotechnology|G|N|N|100
 BICK|First Trust BICK Index Fund|G|N|N|100
@@ -428,6 +431,7 @@ CAMP|CalAmp Corp. - Common Stock|Q|N|N|100
 CAMT|Camtek Ltd. - Ordinary Shares|G|N|N|100
 CAPN|Capnia, Inc. - Common Stock|S|N|N|100
 CAPNW|Capnia, Inc. - Series A Warrant|S|N|N|100
+CAPR|Capricor Therapeutics, Inc. - Common Stock|S|N|N|100
 CAR|Avis Budget Group, Inc. - Common Stock|Q|N|N|100
 CARA|Cara Therapeutics, Inc. - Common Stock|G|N|N|100
 CARB|Carbonite, Inc. - Common Stock|G|N|N|100
@@ -1621,7 +1625,7 @@ LUNA|Luna Innovations Incorporated - Common Stock|S|N|N|100
 LVNTA|Liberty Interactive Corporation - Series A Liberty Ventures Common Stock|Q|N|N|100
 LVNTB|Liberty Interactive Corporation - Series B Liberty Ventures Common Stock|Q|N|N|100
 LWAY|Lifeway Foods, Inc. - Common Stock|G|N|N|100
-LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
+LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock|Q|N|D|100
 LYTS|LSI Industries Inc. - Common Stock|Q|N|N|100
 MACK|Merrimack Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 MAG|Magnetek, Inc. - Common Stock|G|N|N|100
@@ -2966,4 +2970,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0305201521:33|||||
+File Creation Time: 0306201521:32|||||
