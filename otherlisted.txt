@@ -37,7 +37,7 @@ ACN|Accenture plc. Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
 ACP|Avenue Income Credit Strategies Fund Common Shares|N|ACP|N|100|N|ACP
 ACRE|Ares Commercial Real Estate Corporation Common Stock|N|ACRE|N|100|N|ACRE
 ACT|Actavis plc Ordinary Shares|N|ACT|N|100|N|ACT
-ACT$A|Actavis, Inc. 5.50% Mandatory Convertible Preferred Shares, Series A|N|ACTpA|N|100|N|ACT-A
+ACT$A|Actavis, Inc. 5.50% Mandatory Convertible Preferred Shares, Series A|N|ACTpA|N|10|N|ACT-A
 ACU|Acme United Corporation. Common Stock|A|ACU|N|100|N|ACU
 ACW|Accuride Corporation Common Stock|N|ACW|N|100|N|ACW
 ACWV|iShares MSCI All Country World Minimum Volatility Index Fund|P|ACWV|Y|100|N|ACWV
@@ -3195,6 +3195,7 @@ MXE|Mexico Equity and Income Fund, Inc. (The) Common Stock|N|MXE|N|100|N|MXE
 MXF|Mexico Fund, Inc. (The) Common Stock|N|MXF|N|100|N|MXF
 MXI|iShares Global Materials ETF|P|MXI|Y|100|N|MXI
 MXL|MaxLinear, Inc Class A Common Stock|N|MXL|N|100|N|MXL
+MXPT|MaxPoint Interactive, Inc. Common Stock|N|MXPT|N|100|N|MXPT
 MY|China Ming Yang Wind Power Group Limited American Depositary Shares, each representing one ordinary share $0.001 par value|N|MY|N|100|N|MY
 MYC|Blackrock MuniYield California Fund, Inc. Common Stock|N|MYC|N|100|N|MYC
 MYCC|ClubCorp Holdings, Inc. Common Stock|N|MYCC|N|100|N|MYCC
@@ -5213,4 +5214,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0305201521:33||||||
+File Creation Time: 0306201521:32||||||
