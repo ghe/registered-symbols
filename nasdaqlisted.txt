@@ -331,7 +331,7 @@ BIOL|Biolase, Inc. - Common Stock|S|N|N|100
 BIOS|BioScrip, Inc. - Common Stock|Q|N|N|100
 BIS|ProShares UltraShort Nasdaq Biotechnology|G|N|N|100
 BJRI|BJ's Restaurants, Inc. - Common Stock|Q|N|N|100
-BKCC|BlackRock Kelso Capital Corporation - Common Stock|Q|N|N|100
+BKCC|BlackRock Capital Investment Corporation - Common Stock|Q|N|N|100
 BKEP|Blueknight Energy Partners L.P., L.L.C. - Common Units representing Limited Partner Interests|G|N|N|100
 BKEPP|Blueknight Energy Partners L.P., L.L.C. - Series A Preferred Units|G|N|N|100
 BKMU|Bank Mutual Corporation - Common Stock|Q|N|N|100
@@ -386,7 +386,7 @@ BRID|Bridgford Foods Corporation - Common Stock|G|N|N|100
 BRKL|Brookline Bancorp, Inc. - Common Stock|Q|N|N|100
 BRKR|Bruker Corporation - Common Stock|Q|N|N|100
 BRKS|Brooks Automation, Inc. - Common Stock|Q|N|N|100
-BRLI|Bio-Reference Laboratories, Inc. - Common Stock|Q|N|D|100
+BRLI|Bio-Reference Laboratories, Inc. - Common Stock|Q|N|N|100
 BSET|Bassett Furniture Industries, Incorporated - Common Stock|Q|N|N|100
 BSF|Bear State Financial, Inc. - Common Stock|G|N|N|100
 BSFT|BroadSoft, Inc. - Common Stock|Q|N|N|100
@@ -788,8 +788,8 @@ DPRX|Dipexium Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 DRAD|Digirad Corporation - Common Stock|G|N|N|100
 DRAM|Dataram Corporation - Common Stock|S|N|D|100
 DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
-DRRX|DURECT Corporation - Common Stock|G|N|D|100
-DRWI|DragonWave Inc - Common Shares|Q|N|N|100
+DRRX|DURECT Corporation - Common Stock|G|N|N|100
+DRWI|DragonWave Inc - Common Shares|Q|N|D|100
 DRWIW|DragonWave Inc - Warrants|Q|N|N|100
 DRYS|DryShips Inc. - Common Stock|Q|N|N|100
 DSCI|Derma Sciences, Inc. - Common Stock|S|N|N|100
@@ -1093,7 +1093,7 @@ FULL|Full Circle Capital Corporation - Common Stock|G|N|N|100
 FULLL|Full Circle Capital Corporation - 8.25% Notes due 2020|G|N|N|100
 FULT|Fulton Financial Corporation - Common Stock|Q|N|N|100
 FUNC|First United Corporation - Common Stock|Q|N|N|100
-FUND|Royce Focus Trust, Inc. - Closed End Fund|Q|N|N|100
+FUND|Sprott Focus Trust, Inc. - Closed End Fund|Q|N|N|100
 FV|First Trust Dorsey Wright Focus 5 ETF|G|N|N|100
 FWM|Fairway Group Holdings Corp. - Class A Common Stock|G|N|N|100
 FWP|Forward Pharma A/S - American Depositary Shares|Q|N|N|100
@@ -1807,7 +1807,6 @@ NBIX|Neurocrine Biosciences, Inc. - Common Stock|Q|N|N|100
 NBN|Northeast Bancorp - Common Stock|G|N|N|100
 NBS|Neostem, Inc. - Common Stock|S|N|N|100
 NBTB|NBT Bancorp Inc. - Common Stock|Q|N|N|100
-NBTF|NB&T FINANCIAL GROUP INC - Common Stock|S|N|N|100
 NCIT|NCI, Inc. - Class A Common Stock|Q|N|N|100
 NCLH|Norwegian Cruise Line Holdings Ltd. - Ordinary Shares|Q|N|N|100
 NCMI|National CineMedia, Inc. - Common Stock|Q|N|N|100
@@ -2179,7 +2178,9 @@ QLTI|QLT Inc. - Common Shares|Q|N|N|100
 QLTY|Quality Distribution, Inc. - Common Stock|G|N|N|100
 QLYS|Qualys, Inc. - Common Stock|Q|N|N|100
 QNST|QuinStreet, Inc. - Common Stock|Q|N|N|100
+QPAC|Quinpario Acquisition Corp. 2 - Common Stock|S|N|N|100
 QPACU|Quinpario Acquisition Corp. 2 - Unit|S|N|N|100
+QPACW|Quinpario Acquisition Corp. 2 - Warrant|S|N|N|100
 QQEW|First Trust NASDAQ-100 Equal Weighted Index Fund|G|N|N|100
 QQQ|PowerShares QQQ Trust, Series 1|G|N|N|100
 QQQC|Global X NASDAQ China Technology ETF|G|N|N|100
@@ -2293,7 +2294,7 @@ RSYS|RadiSys Corporation - Common Stock|Q|N|N|100
 RTGN|Ruthigen, Inc. - Common Stock|S|N|N|100
 RTIX|RTI Surgical, Inc. - Common Stock|Q|N|N|100
 RTK|Rentech, Inc. - Common Stock|S|N|N|100
-RTRX|Retrophin, Inc. - Common Stock|G|N|D|100
+RTRX|Retrophin, Inc. - Common Stock|G|N|N|100
 RUSHA|Rush Enterprises, Inc. - Class A Common Stock|Q|N|N|100
 RUSHB|Rush Enterprises, Inc. - Class B Common Stock|Q|N|N|100
 RUTH|Ruth's Hospitality Group, Inc. - Common Stock|Q|N|N|100
@@ -2970,4 +2971,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0306201521:32|||||
+File Creation Time: 0309201521:32|||||
