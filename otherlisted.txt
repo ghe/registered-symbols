@@ -854,7 +854,7 @@ CMS|CMS Energy Corporation Common Stock|N|CMS|N|100|N|CMS
 CMS$B|CMS Energy Corporation Preferred Stock|N|CMSpB|N|10|N|CMS-B
 CMT|Core Molding Technologies Inc Common Stock|A|CMT|N|100|N|CMT
 CMU|MFS Municipal Income Trust Common Stock|N|CMU|N|100|N|CMU
-CN|Deutsche X-trackers Harvest MSCI All China ETF|P|CN|Y|100|N|CN
+CN|Deutsche X-trackers MSCI All China Equity ETF|P|CN|Y|100|N|CN
 CNA|CNA Financial Corporation Common Stock|N|CNA|N|100|N|CNA
 CNC|Centene Corporation Common Stock|N|CNC|N|100|N|CNC
 CNCO|Cencosud S.A. American Depositary Shares (Each representing three Common Shares)|N|CNCO|N|100|N|CNCO
@@ -3833,7 +3833,6 @@ PYS|Merrill Lynch Depositor Inc PPlus Tr Ser RRD-1 Tr Ctf Cl A|N|PYS|N|100|N|PYS
 PYT|PPlus Tr GSC-2 Tr Ctf Fltg Rate|N|PYT|N|100|N|PYT
 PYZ|PowerShares DWA Basic Materials Momentum Portfolio|P|PYZ|Y|100|N|PYZ
 PZA|PowerShares National AMT-Free Municipal Bond Portfolio|P|PZA|Y|100|N|PZA
-PZB|Merrill Lynch Depositor, Inc. Merrill Lynch Depositor, Inc. PPLUS Class A 6.7% Callable Trust Certificates, Series LTD-1 (Issues by Limited Brands, Inc.)|N|PZB/CL|N|100|N|PZB*
 PZC|PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest|N|PZC|N|100|N|PZC
 PZD|PowerShares Cleantech Portfolio|P|PZD|Y|100|N|PZD
 PZE|Petrobras Argentina S.A. ADS|N|PZE|N|100|N|PZE
@@ -4344,7 +4343,7 @@ SPLP|Steel Partners Holdings LP LTD PARTNERSHIP UNIT|N|SPLP|N|100|N|SPLP
 SPLV|PowerShares S&P 500 Low Volatility Portfolio ETF|P|SPLV|Y|100|N|SPLV
 SPLX|ETRACS Monthly Reset 2xLeveraged S&P 500 Total Return ETN|P|SPLX|N|100|N|SPLX
 SPN|Superior Energy Services, Inc. Common Stock|N|SPN|N|100|N|SPN
-SPP|Sanchez Production Partners, LLC Common Stock|A|SPP|N|100|N|SPP
+SPP|Sanchez Production Partners LP Common Stock|A|SPP|N|100|N|SPP
 SPPP|Sprott Physical Platinum and Palladium Trust|P|SPPP|Y|100|N|SPPP
 SPR|Spirit Aerosystems Holdings, Inc. Common Stock|N|SPR|N|100|N|SPR
 SPUU|Direxion Daily S&P 500 Bull 2X Shares|P|SPUU|Y|100|N|SPUU
@@ -5214,4 +5213,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0306201521:32||||||
+File Creation Time: 0309201521:32||||||
