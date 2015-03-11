@@ -543,7 +543,6 @@ CHUY|Chuy's Holdings, Inc. - Common Stock|Q|N|N|100
 CHW|Calamos Global Dynamic Income Fund - Common Stock|Q|N|N|100
 CHXF|WisdomTree China Dividend Ex-Financials Fund|G|N|N|100
 CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
-CHYR|ChyronHego Corporation - Common Stock|G|N|N|100
 CIDM|Cinedigm Corp - Class A Common Stock|G|N|N|100
 CIFC|CIFC Corp. - Common Stock|S|N|N|100
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100
@@ -680,7 +679,7 @@ CSPI|CSP Inc. - Common Stock|G|N|N|100
 CSQ|Calamos Strategic Total Return Fund - Common Stock|Q|N|N|100
 CSRE|CSR plc - American Depositary Shares|Q|N|N|100
 CSTE|CaesarStone Sdot-Yam Ltd. - Ordinary Shares|Q|N|N|100
-CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|H|100
+CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|N|100
 CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -892,7 +891,7 @@ ENT|Global Eagle Entertainment Inc. - Common Stock|S|N|N|100
 ENTA|Enanta Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 ENTG|Entegris, Inc. - Common Stock|Q|N|N|100
 ENTL|Entellus Medical, Inc. - Common Stock|G|N|N|100
-ENTR|Entropic Communications, Inc. - Common Stock|Q|N|N|100
+ENTR|Entropic Communications, Inc. - Common Stock|S|N|N|100
 ENVI|Envivio, Inc. - Common Stock|Q|N|N|100
 ENZN|Enzon Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 ENZY|Enzymotec Ltd. - Ordinary Shares|Q|N|N|100
@@ -1044,7 +1043,7 @@ FOLD|Amicus Therapeutics, Inc. - Common Stock|G|N|N|100
 FOMX|Foamix Pharmaceuticals Ltd. - Ordinary Shares|G|N|N|100
 FONE|First Trust NASDAQ CEA Smartphone Index Fund|G|N|N|100
 FONR|Fonar Corporation - Common Stock|S|N|N|100
-FORD|Forward Industries, Inc. - Common Stock|S|N|N|100
+FORD|Forward Industries, Inc. - Common Stock|S|N|D|100
 FORM|FormFactor, Inc. - Common Stock|Q|N|N|100
 FORR|Forrester Research, Inc. - Common Stock|Q|N|N|100
 FORTY|Formula Systems (1985) Ltd. - ADS represents 1 ordinary shares|Q|N|N|100
@@ -2570,7 +2569,7 @@ TACT|TransAct Technologies Incorporated - Common Stock|G|N|N|100
 TAIT|Taitron Components Incorporated - Class A Common Stock|S|N|N|100
 TAPR|Barclays PLC - Barclays Inverse US Treasury Composite ETN|G|N|N|100
 TASR|TASER International, Inc. - Common Stock|Q|N|N|100
-TAST|Carrols Restaurant Group, Inc. - Common Stock|Q|N|N|100
+TAST|Carrols Restaurant Group, Inc. - Common Stock|Q|N|D|100
 TATT|TAT Technologies Ltd. - Ordinary Shares|G|N|N|100
 TAX|Liberty Tax, Inc. - Class A Common Stock|Q|N|N|100
 TAXI|Medallion Financial Corp. - Common Stock|Q|N|N|100
@@ -2819,7 +2818,7 @@ VRNS|Varonis Systems, Inc. - Common Stock|Q|N|N|100
 VRNT|Verint Systems Inc. - Common Stock|Q|N|N|100
 VRSK|Verisk Analytics, Inc. - Class A Common Stock|Q|N|N|100
 VRSN|VeriSign, Inc. - Common Stock|Q|N|N|100
-VRTA|Vestin Realty Mortgage I, Inc. - Common Stock|G|N|D|100
+VRTA|Vestin Realty Mortgage I, Inc. - Common Stock|S|N|N|100
 VRTB|Vestin Realty Mortgage II, Inc. - Common Stock|Q|N|N|100
 VRTS|Virtus Investment Partners, Inc. - Common Stock|Q|N|N|100
 VRTU|Virtusa Corporation - common stock|Q|N|N|100
@@ -2971,4 +2970,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0309201521:32|||||
+File Creation Time: 0310201521:33|||||
