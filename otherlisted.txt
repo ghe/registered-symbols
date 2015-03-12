@@ -224,7 +224,6 @@ ANH$C|Anworth Mortgage Asset  Corporation 7.625% Series C Cumulative Redeemable 
 ANN|ANN INC. Common Stock|N|ANN|N|100|N|ANN
 ANR|Alpha Natural Resources, inc. comm stock|N|ANR|N|100|N|ANR
 ANTM|Anthem, Inc. Common Stock|N|ANTM|N|100|N|ANTM
-ANV|Allied Nevada Gold Corp.|A|ANV|N|100|N|ANV
 ANW|Aegean Marine Petroleum Network Inc. Common Stock|N|ANW|N|100|N|ANW
 AOA|iShares Core Aggressive Allocation ETF|P|AOA|Y|100|N|AOA
 AOD|Alpine Total Dynamic Dividend Fund Common Stock|N|AOD|N|100|N|AOD
@@ -2136,7 +2135,6 @@ HDG|ProShares Hedge Replication ETF|P|HDG|Y|100|N|HDG
 HDGE|Ranger Equity Bear Bear ETF|P|HDGE|Y|100|N|HDGE
 HDLV|ETRACS Montly Pay 2xLeveraged US High Dividend Low Volatility ETN due September 30, 2044|P|HDLV|N|100|N|HDLV
 HDV|iShares Core High Dividend ETF|P|HDV|Y|100|N|HDV
-HDY|HyperDynamics Corporation Common Stock|N|HDY|N|100|N|HDY
 HE|Hawaiian Electric Industries, Inc. Common Stock|N|HE|N|100|N|HE
 HE$U|Hawaiian Electric Industries, Inc. 6.5 % Cum QUIPS|N|HEpU|N|100|N|HE-U
 HEB|Hemispherx BioPharma, Inc. Common Stock|A|HEB|N|100|N|HEB
@@ -2202,6 +2200,8 @@ HNT|Health Net Inc. Common Stock|N|HNT|N|100|N|HNT
 HNW|Pioneer Diversified High Income Trust Pioneer Diversified High Income Trust Common Shares of Beneficial Interest|A|HNW|N|100|N|HNW
 HOG|Harley-Davidson, Inc. Common Stock|N|HOG|N|100|N|HOG
 HOLD|AdvisorShares Sage Core Reserves ETF|P|HOLD|Y|100|N|HOLD
+HOML|ETRACS Monthly Reset 2xLeveraged ISE Exclusively Homebuilders ETN due March 13, 2045|P|HOML|N|100|N|HOML
+HOMX|ETRACS ISE Exclusively Homebuilders ETN due March 13, 2045|P|HOMX|N|100|N|HOMX
 HON|Honeywell International Inc. Common Stock|N|HON|N|100|N|HON
 HOS|Hornbeck Offshore Services Common Stock|N|HOS|N|100|N|HOS
 HOT|Starwood Hotels & Resorts Worldwide, Inc. Common Stock|N|HOT|N|100|N|HOT
@@ -2221,7 +2221,7 @@ HQL|TeklaLife Sciences Investors Common Stock|N|HQL|N|100|N|HQL
 HR|Healthcare Realty Trust Incorporated Common Stock|N|HR|N|100|N|HR
 HRB|H&R Block, Inc. Common Stock|N|HRB|N|100|N|HRB
 HRC|Hill-Rom Holdings Inc Common Stock|N|HRC|N|100|N|HRC
-HRG|Harbinger Group Inc Common Stock|N|HRG|N|100|N|HRG
+HRG|HRG Group, Inc. Common Stock|N|HRG|N|100|N|HRG
 HRL|Hormel Foods Corporation Common Stock|N|HRL|N|100|N|HRL
 HRS|Harris Corporation Common Stock|N|HRS|N|100|N|HRS
 HRT|Arrhythmia Research Technology Inc. Common Stock|A|HRT|N|100|N|HRT
@@ -4908,9 +4908,12 @@ VIXY|ProShares Trust VIX Short-Term Futures ETF|P|VIXY|Y|100|N|VIXY
 VJET|voxeljet AG American Depositary Shares, each representing one-fifth of an ordinary share/|N|VJET|N|100|N|VJET
 VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)|A|VKI|N|100|N|VKI
 VKQ|Invesco Municipal Trust Common Stock|N|VKQ|N|100|N|VKQ
+VLLV|Direxion Value Line Conservative Equity ETF|P|VLLV|Y|100|N|VLLV
+VLML|Direxion Value Line Mid- and Large-Cap High Dividend ETF|P|VLML|Y|100|N|VLML
 VLO|Valero Energy Corporation Common Stock|N|VLO|N|100|N|VLO
 VLP|Valero Energy Partners LP Common Units representing limited partner interests|N|VLP|N|100|N|VLP
 VLRS|Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates|N|VLRS|N|100|N|VLRS
+VLSM|Direxion Value Line Small- and Mid-Cap High Dividend ETF|P|VLSM|Y|100|N|VLSM
 VLT|Invesco High Income Trust II|N|VLT|N|100|N|VLT
 VLU|SPDR S&P 1500 Value Tilt ETF|P|VLU|Y|100|N|VLU
 VLUE|iShares MSCI USA Value Factor|P|VLUE|Y|100|N|VLUE
@@ -5213,4 +5216,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0310201521:33||||||
+File Creation Time: 0311201521:33||||||
