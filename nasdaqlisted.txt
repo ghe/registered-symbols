@@ -2401,7 +2401,6 @@ SIGA|SIGA Technologies Inc. - Common Stock|G|N|Q|100
 SIGI|Selective Insurance Group, Inc. - Common Stock|Q|N|N|100
 SIGM|Sigma Designs, Inc. - Common Stock|Q|N|N|100
 SILC|Silicom Ltd - Ordinary Shares|Q|N|N|100
-SIMG|Silicon Image, Inc. - Common Stock|Q|N|N|100
 SIMO|Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares|Q|N|N|100
 SINA|Sina Corporation - Ordinary Shares|Q|N|N|100
 SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|N|100
@@ -2735,7 +2734,7 @@ UNTD|United Online, Inc. - Common Stock|Q|N|N|100
 UNTY|Unity Bancorp, Inc. - Common Stock|G|N|N|100
 UNXL|Uni-Pixel, Inc. - Common Stock|S|N|N|100
 UPI|Uroplasty, Inc. - Common Stock|S|N|N|100
-UPIP|Unwired Planet, Inc. - Common Stock|Q|N|N|100
+UPIP|Unwired Planet, Inc. - Common Stock|Q|N|D|100
 UPLD|Upland Software, Inc. - Common Stock|G|N|N|100
 URBN|Urban Outfitters, Inc. - Common Stock|Q|N|N|100
 URRE|Uranium Resources, Inc. - Common Stock|S|N|N|100
@@ -2970,4 +2969,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0310201521:33|||||
+File Creation Time: 0311201521:33|||||
