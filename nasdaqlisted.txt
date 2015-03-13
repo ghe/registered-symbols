@@ -731,7 +731,7 @@ CYOU|Changyou.com Limited - American Depositary Shares, each representing two Cl
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100
 CYTK|Cytokinetics, Incorporated - Common Stock|S|N|N|100
 CYTR|CytRx Corporation - Common Stock|S|N|N|100
-CYTX|Cytori Therapeutics Inc - Common Stock|G|N|D|100
+CYTX|Cytori Therapeutics Inc - Common Stock|G|N|N|100
 CZFC|Citizens First Corporation - Common Stock|G|N|N|100
 CZNC|Citizens & Northern Corp - Common Stock|S|N|N|100
 CZR|Caesars Entertainment Corporation - Common Stock|Q|N|N|100
@@ -859,7 +859,7 @@ EGLT|Egalet Corporation - Common Stock|G|N|N|100
 EGOV|NIC Inc. - Common Stock|Q|N|N|100
 EGRW|iShares MSCI Emerging Markets Growth Index Fund|G|N|N|100
 EGRX|Eagle Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-EGT|Entertainment Gaming Asia Incorporated - Common Stock|S|N|D|100
+EGT|Entertainment Gaming Asia Incorporated - Common Stock|S|N|N|100
 EHTH|eHealth, Inc. - Common Stock|Q|N|N|100
 EIGI|Endurance International Group Holdings, Inc. - Common Stock|Q|N|N|100
 ELGX|Endologix, Inc. - Common Stock|Q|N|N|100
@@ -2024,12 +2024,10 @@ PEGA|Pegasystems Inc. - Common Stock|Q|N|N|100
 PEGI|Pattern Energy Group Inc. - Class A Common Stock|Q|N|N|100
 PEIX|Pacific Ethanol, Inc. - Common Stock|S|N|N|100
 PENN|Penn National Gaming, Inc. - Common Stock|Q|N|N|100
-PENX|Penford Corporation - Common Stock|G|N|N|100
 PERF|Perfumania Holdings, Inc - Common Stock|S|N|N|100
 PERI|Perion Network Ltd - ordinary shares|Q|N|N|100
 PERY|Perry Ellis International Inc. - Common Stock|Q|N|N|100
 PESI|Perma-Fix Environmental Services, Inc. - Common Stock|S|N|N|100
-PETM|PetSmart, Inc - Common Stock|Q|N|N|100
 PETS|PetMed Express, Inc. - Common Stock|Q|N|N|100
 PETX|Aratana Therapeutics, Inc. - Common Stock|G|N|N|100
 PFBC|Preferred Bank - Common Stock|Q|N|N|100
@@ -2969,4 +2967,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0311201521:33|||||
+File Creation Time: 0312201521:33|||||
