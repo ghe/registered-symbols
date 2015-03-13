@@ -84,6 +84,7 @@ AFSI$A|AmTrust Financial Services, Inc. Preferred Series A|N|AFSIpA|N|100|N|AFSI
 AFSI$B|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series B|N|AFSIpB|N|100|N|AFSI-B
 AFSI$C|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series C|N|AFSIpC|N|100|N|AFSI-C
 AFT|Apollo Senior Floating Rate Fund Inc. Common Stock|N|AFT|N|100|N|AFT
+AFTY|CSOP FTSE China A50 ETF|P|AFTY|Y|100|N|AFTY
 AFW|American Financial Group, Inc. 6 3/8% Senior Notes due 2042|N|AFW|N|100|N|AFW
 AG|First Majestic Silver Corp. Ordinary Shares (Canada)|N|AG|N|100|N|AG
 AGA|DB Agriculture Double Short ETN due April 1, 2038|P|AGA|N|100|N|AGA
@@ -2308,7 +2309,14 @@ IBDC|iShares iBonds Mar 2020 Corporate Term ETF|P|IBDC|Y|100|N|IBDC
 IBDD|iShares iBonds Mar 2023 Corporate Term ETF|P|IBDD|Y|100|N|IBDD
 IBDF|iShares iBonds Dec 2016 Corporate ETF|P|IBDF|Y|100|N|IBDF
 IBDH|iShares iBonds Dec 2018 Corporate Term ETF|P|IBDH|Y|100|N|IBDH
+IBDJ|iShares iBonds Dec 2017 Corporate ETF|P|IBDJ|Y|100|N|IBDJ
+IBDK|iShares iBonds Dec 2019 Corporate ETF|P|IBDK|Y|100|N|IBDK
 IBDL|iShares iBonds Dec 2020 Corporate ETF|P|IBDL|Y|100|N|IBDL
+IBDM|iShares iBonds Dec 2021 Corporate ETF|P|IBDM|Y|100|N|IBDM
+IBDN|iShares iBonds Dec 2022 Corporate ETF|P|IBDN|Y|100|N|IBDN
+IBDO|iShares iBonds Dec 2023 Corporate ETF|P|IBDO|Y|100|N|IBDO
+IBDP|iShares iBonds Dec 2024 Corporate ETF|P|IBDP|Y|100|N|IBDP
+IBDQ|iShares iBonds Dec 2025 Corporate ETF|P|IBDQ|Y|100|N|IBDQ
 IBIO|iBio, Inc. Common Stock|A|IBIO|N|100|N|IBIO
 IBLN|Direxion iBillionaire Index ETF|P|IBLN|Y|100|N|IBLN
 IBM|International Business Machines Corporation Common Stock|N|IBM|N|100|N|IBM
@@ -4435,6 +4443,7 @@ SUB|iShares Short Term National AMT-Free Muni Bond ETF|P|SUB|Y|100|N|SUB
 SUBD|Deutsche X-trackers Solactive Investment Grade Subordinated Debt ETF|P|SUBD|Y|100|N|SUBD
 SUI|Sun Communities, Inc. Common Stock|N|SUI|N|100|N|SUI
 SUI$A|Sun Communities, Inc. Preferred Series A|N|SUIpA|N|100|N|SUI-A
+SUM|Summit Materials, Inc. Class A Common Stock|N|SUM|N|100|N|SUM
 SUN|Sunoco LP Common Units representing limited partner interests|N|SUN|N|100|N|SUN
 SUNE|SunEdison, Inc. Common Stock|N|SUNE|N|100|N|SUNE
 SUP|Superior Industries International, Inc. Common Stock|N|SUP|N|100|N|SUP
@@ -5216,4 +5225,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0311201521:33||||||
+File Creation Time: 0312201521:33||||||
