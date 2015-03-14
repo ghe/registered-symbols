@@ -875,7 +875,6 @@ CNXT|Market Vectors ChinaAMC SME-ChNext ETF|P|CNXT|Y|100|N|CNXT
 CNY|Market Vectors Chinese Renminbi/USD ETN|P|CNY|N|100|N|CNY
 CO|China Cord Blood Corporation Common Stock|N|CO|N|100|N|CO
 COBO|ProShares USD Covered Bond|P|COBO|Y|100|N|COBO
-CODE|Spansion Inc Common Stock Class A New|N|CODE|N|100|N|CODE
 CODI|Compass Diversified Holdings Shares of Beneficial Interest|N|CODI|N|100|N|CODI
 COF|Capital One Financial Corporation Common Stock|N|COF|N|100|N|COF
 COF$C|Capital One Financial Corp Depository Shares Representing 1/40th Int Perp Pfd Ser C%|N|COFpC|N|100|N|COF-C
@@ -3759,7 +3758,7 @@ PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
 PRY|Prospect Capital Corporation 6.95% Senior Notes due 2022|N|PRY|N|100|N|PRY
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
 PSA$A|Public Storage Depositary Shares each representing 1/1,000 of a 5.875% Cumulative Preferred SBI, Series A|N|PSApA|N|100|N|PSA-A
-PSA$O|Public Storage Depositary Shares Representing 1/1000% Cumulative Pfd Sh Ben Int Series O|N|PSApO|N|100|N|PSA-O
+PSA$O|Public Storage Depositary Shares Representing 1/1000% Cumulative Pfd Sh Ben Int Series O|N|PSApO/CL|N|100|N|PSA-O*
 PSA$P|Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)|N|PSApP|N|100|N|PSA-P
 PSA$Q|Public Storage DEPOSITARY SHS REPSTG 1/1000TH PFD SHS BEN INT SER Q|N|PSApQ|N|100|N|PSA-Q
 PSA$R|Public Storage Depository Sh Repstg 1/1000th Pfd Ser R|N|PSApR|N|100|N|PSA-R
@@ -4717,7 +4716,6 @@ TV|Grupo Televisa S.A. Common Stock|N|TV|N|100|N|TV
 TVC|Tennessee Valley Authority Common Stock|N|TVC|N|100|N|TVC
 TVE|Tennessee Valley Authority|N|TVE|N|100|N|TVE
 TVPT|Travelport Worldwide Limited Common Shares|N|TVPT|N|100|N|TVPT
-TW|Towers Watson & Co Common Stock Class A|N|TW|N|100|N|TW
 TWC|Time Warner Cable Inc Common Stock|N|TWC|N|100|N|TWC
 TWI|Titan International, Inc. Common Stock|N|TWI|N|100|N|TWI
 TWM|ProShares UltraShort Russell2000|P|TWM|Y|100|N|TWM
@@ -5081,7 +5079,7 @@ WNS|WNS (Holdings) Limited Sponsored ADR (Jersey)|N|WNS|N|100|N|WNS
 WOR|Worthington Industries, Inc. Common Stock|N|WOR|N|100|N|WOR
 WPC|W.P. Carey Inc. REIT|N|WPC|N|100|N|WPC
 WPG|WP Glimcher Inc. Common Stock|N|WPG|N|100|N|WPG
-WPG$G|Washington Prime Group Inc. 8.125% Series G Cumulative Redeemable Preferred SBI|N|WPGpG|N|100|N|WPG-G
+WPG$G|Washington Prime Group Inc. 8.125% Series G Cumulative Redeemable Preferred SBI|N|WPGpG/CL|N|100|N|WPG-G*
 WPG$H|Washington Prime Group Inc. 7.5% Series H Cumulative Redeemable Preferred SBI|N|WPGpH|N|100|N|WPG-H
 WPG$I|Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Preferred SBI|N|WPGpI|N|100|N|WPG-I
 WPP|Wausau Paper Corp. Common Stock|N|WPP|N|100|N|WPP
@@ -5225,4 +5223,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0312201521:33||||||
+File Creation Time: 0313201521:33||||||
