@@ -254,7 +254,7 @@ AUMAU|AR Capital Acquisition Corp. - Units|S|N|N|100
 AUMAW|AR Capital Acquisition Corp. - Warrants|S|N|N|100
 AUPH|Aurinia Pharmaceuticals Inc - Common Shares|G|N|N|100
 AVAV|AeroVironment, Inc. - Common Stock|Q|N|N|100
-AVEO|AVEO Pharmaceuticals, Inc. - Common Stock|Q|N|D|100
+AVEO|AVEO Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 AVGO|Avago Technologies Limited - Ordinary Shares|Q|N|N|100
 AVGR|Avinger, Inc. - Common Stock|G|N|N|100
 AVHI|A V Homes, Inc. - Common Stock|Q|N|N|100
@@ -1903,7 +1903,7 @@ OCAT|Ocata Therapeutics, Inc. - Common Stock|G|N|N|100
 OCC|Optical Cable Corporation - Common Stock|G|N|N|100
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100
 OCLR|Oclaro, Inc. - Common Stock|Q|N|N|100
-OCLS|Oculus Innovative Sciences, Inc. - Common Stock|S|N|N|100
+OCLS|Oculus Innovative Sciences, Inc. - Common Stock|S|N|D|100
 OCLSW|Oculus Innovative Sciences, Inc. - Warrants|S|N|N|100
 OCRX|Ocera Therapeutics, Inc. - Common Stock|G|N|N|100
 OCUL|Ocular Therapeutix, Inc. - Common Stock|G|N|N|100
@@ -2686,6 +2686,7 @@ TUSA|First Trust Total US Market AlphaDEX ETF|G|N|N|100
 TUTT|Tuttle Tactical Management U.S. Core ETF|G|N|N|100
 TVIX|Credit Suisse AG - VelocityShares Daily 2x VIX Short Term ETN|G|N|N|100
 TVIZ|Credit Suisse AG - VelocityShares Daily 2x VIX Medium Term ETN|G|N|N|100
+TW|Towers Watson & Co. - Common Stock Class A|Q|N|N|100
 TWER|Towerstream Corporation - Common Stock|S|N|N|100
 TWIN|Twin Disc, Incorporated - Common Stock|Q|N|N|100
 TWMC|Trans World Entertainment Corp. - Common Stock|G|N|N|100
@@ -2967,4 +2968,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0312201521:33|||||
+File Creation Time: 0313201521:33|||||
