@@ -269,7 +269,6 @@ ARKW|ARK Web x.0 ETF|P|ARKW|Y|100|N|ARKW
 ARL|American Realty Investors, Inc. Common Stock|N|ARL|N|100|N|ARL
 ARMF|Ares Multi-Strategy Credit Fund, Inc. Common Stock|N|ARMF|N|100|N|ARMF
 ARMK|Aramark Common Stock|N|ARMK|N|100|N|ARMK
-ARN|Ares Capital Corporation 7.00% Senior Notes due 2022|N|ARN/CL|N|100|N|ARN*
 ARO|Aeropostale Inc Common Stock|N|ARO|N|100|N|ARO
 ARP|Atlas Resource Partners, L.P. Common Units representing Limited Partner Interests|N|ARP|N|100|N|ARP
 ARP$D|Atlas Resource Partners, L.P. CUM RED PERP PDF UNIT CL D %|N|ARPpD|N|100|N|ARP-D
@@ -571,7 +570,6 @@ BRK.A|Berkshire Hathaway Inc. Common Stock|N|BRK/A|N|1|N|BRK.A
 BRK.B|Berkshire Hathaway Inc. New Common Stock|N|BRK/B|N|100|N|BRK.B
 BRN|Barnwell Industries, Inc. Common Stock|A|BRN|N|100|N|BRN
 BRO|Brown & Brown, Inc. Common Stock|N|BRO|N|100|N|BRO
-BRP|Brookfield Residential Properties Inc. Common Stock|N|BRP|N|100|N|BRP
 BRS|Bristow Group Inc. Common Stock|N|BRS|N|100|N|BRS
 BRSS|Global Brass and Copper Holdings, Inc. Common Stock|N|BRSS|N|100|N|BRSS
 BRT|BRT Realty Trust Common Stock|N|BRT|N|100|N|BRT
@@ -2832,7 +2830,7 @@ LEMB|iShares Emerging Markets Local Currency Bond|P|LEMB|Y|100|N|LEMB
 LEN|Lennar Corporation Class A Common Stock|N|LEN|N|100|N|LEN
 LEN.B|Lennar Corporation Class B|N|LEN/B|N|100|N|LEN.B
 LEO|Dreyfus Strategic Municipals, Inc. Common Stock|N|LEO|N|100|N|LEO
-LEU|Centrus Energy Corp. Class A Common Stock|N|LEU|N|100|N|LEU
+LEU|Centrus Energy Corp. Class A Common Stock|A|LEU|N|100|N|LEU
 LF|Leapfrog Enterprises Inc Common Stock|N|LF|N|100|N|LF
 LFC|China Life Insurance Company Limited American Depositary Shares|N|LFC|N|100|N|LFC
 LFL|LATAM Airlines Group S.A.|N|LFL|N|100|N|LFL
@@ -3834,7 +3832,7 @@ PXR|PowerShares Global Emerging Markets Infrastructure|P|PXR|Y|100|N|PXR
 PXSC|PowerShares Fundamental Pure Small Core Portfolio|P|PXSC|Y|100|N|PXSC
 PXSG|PowerShares Fundamental Pure Small Growth Portfolio|P|PXSG|Y|100|N|PXSG
 PXSV|PowerShares Fundamental Pure Small Value Portfolio|P|PXSV|Y|100|N|PXSV
-PYB|PPlus Trust Series GSG-2 Tr Ctf Cl A|N|PYB|N|100|N|PYB
+PYB|PPlus Trust Series GSG-2 Tr Ctf Cl A|N|PYB/CL|N|100|N|PYB*
 PYN|PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest|N|PYN|N|100|N|PYN
 PYS|Merrill Lynch Depositor Inc PPlus Tr Ser RRD-1 Tr Ctf Cl A|N|PYS|N|100|N|PYS
 PYT|PPlus Tr GSC-2 Tr Ctf Fltg Rate|N|PYT|N|100|N|PYT
@@ -5223,4 +5221,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0313201521:33||||||
+File Creation Time: 0316201521:32||||||
