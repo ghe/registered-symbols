@@ -226,7 +226,7 @@ ASTC|Astrotech Corporation - Common Stock|S|N|N|100
 ASTE|Astec Industries, Inc. - Common Stock|Q|N|N|100
 ASTI|Ascent Solar Technologies, Inc. - Common Stock|S|N|N|100
 ASUR|Asure Software Inc - Common Stock|S|N|N|100
-ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100
+ASYS|Amtech Systems, Inc. - Common Stock|Q|N|D|100
 ATAI|ATA Inc. - American Depositary Shares, each representing two common shares|G|N|N|100
 ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests|Q|N|N|100
 ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100
@@ -467,7 +467,7 @@ CBRX|Columbia Laboratories, Inc. - Common Stock|S|N|N|100
 CBSH|Commerce Bancshares, Inc. - Common Stock|Q|N|N|100
 CBSHP|Commerce Bancshares, Inc. - Depositary Shares, each representing a 1/1000th interest of 6.00% Series B Non-Cumulative Perpetual Preferred Stock|Q|N|N|100
 CCBG|Capital City Bank Group - Common Stock|Q|N|N|100
-CCCL|China Ceramics Co., Ltd. - Common Stock|G|N|D|100
+CCCL|China Ceramics Co., Ltd. - Common Stock|G|N|N|100
 CCCR|China Commercial Credit, Inc. - Common Stock|S|N|E|100
 CCIH|ChinaCache International Holdings Ltd. - American Depositary Shares|Q|N|N|100
 CCLP|CSI Compressco LP - common units|Q|N|N|100
@@ -649,7 +649,7 @@ CRDC|Cardica, Inc. - Common Stock|G|N|D|100
 CRDS|Crossroads Systems, Inc. - Common Stock|S|N|N|100
 CRDT|WisdomTree Strategic Corporate Bond Fund|G|N|N|100
 CREE|Cree, Inc. - Common Stock|Q|N|N|100
-CREG|China Recycling Energy Corporation - Common Stock|G|N|D|100
+CREG|China Recycling Energy Corporation - Common Stock|G|N|N|100
 CRESW|Cresud S.A.C.I.F. y A. - Warrants 5/22/2015|Q|N|N|100
 CRESY|Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock|Q|N|N|100
 CRIS|Curis, Inc. - Common Stock|G|N|N|100
@@ -1925,7 +1925,7 @@ OMAB|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary S
 OMCL|Omnicell, Inc. - Common Stock|Q|N|N|100
 OMED|OncoMed Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 OMER|Omeros Corporation - Common Stock|G|N|N|100
-OMEX|Odyssey Marine Exploration, Inc. - Common Stock|S|N|N|100
+OMEX|Odyssey Marine Exploration, Inc. - Common Stock|S|N|D|100
 ONB|Old National Bancorp - Common Stock|Q|N|N|100
 ONCE|Spark Therapeutics, Inc. - Common Stock|Q|N|N|100
 ONCY|Oncolytics Biotech, Inc. - Common Shares|S|N|D|100
@@ -2968,4 +2968,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0313201521:33|||||
+File Creation Time: 0316201521:32|||||
