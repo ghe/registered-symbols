@@ -100,7 +100,6 @@ AGM$A|Federal Agricultural Mortgage Corporation 5.875% Non-CUmulative Preferred 
 AGM$B|Federal Agricultural Mortgage Corporation Non Cumulative Preferred Stock Series B|N|AGMpB|N|100|N|AGM-B
 AGM$C|Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg|N|AGMpC|N|100|N|AGM-C
 AGM.A|Federal Agricultural Mortgage Corporation Common Stock|N|AGM/A|N|100|N|AGM.A
-AGN|Allergan, Inc. Common Stock|N|AGN|N|100|N|AGN
 AGO|Assured Guaranty Ltd. Common Stock|N|AGO|N|100|N|AGO
 AGO$B|Assured Guaranty Ltd.|N|AGOpB|N|100|N|AGO-B
 AGO$E|Assured Guaranty Ltd.|N|AGOpE|N|100|N|AGO-E
@@ -740,6 +739,7 @@ CELP|Cypress Energy Partners, L.P. Common Units representing limited partner int
 CEM|ClearBridge Energy MLP Fund Inc. Common Stock|N|CEM|N|100|N|CEM
 CEMB|iShares Emerging Markets Corporate Bond ETF|Z|CEMB|Y|100|N|CEMB
 CEN|Center Coast MLP & Infrastructure Fund Common Shares of Beneficial Interest|N|CEN|N|100|N|CEN
+CEN.V|Center Coast MLP & Infrastructure Fund Rights When Issued|N|CENrw|N|100|N|CEN^#
 CEO|CNOOC Limited Common Stock|N|CEO|N|100|N|CEO
 CEQP|Crestwood Equity Partners LP|N|CEQP|N|100|N|CEQP
 CET|Central Securities Corporation Common Stock|A|CET|N|100|N|CET
@@ -751,7 +751,6 @@ CFC$B|Countrywide Capital V (New) 7.00% Capital Securities|N|CFCpB|N|100|N|CFC-B
 CFD|Nuveen Diversified Commodity Fund Common Units of Beneficial Interest|A|CFD|N|100|N|CFD
 CFG|Citizens Financial Group, Inc. Common Stock|N|CFG|N|100|N|CFG
 CFI|Culp, Inc. Common Stock|N|CFI|N|100|N|CFI
-CFN|CareFusion Corporation Common Stock|N|CFN|N|100|N|CFN
 CFP|Cornerstone Progressive Return Fund Common Shares of beneficial interest|A|CFP|N|100|N|CFP
 CFR|Cullen/Frost Bankers, Inc. Common Stock|N|CFR|N|100|N|CFR
 CFR$A|Cullen/Frost Bankers, Inc. Perpetual Preferred Series A|N|CFRpA|N|100|N|CFR-A
@@ -1242,7 +1241,7 @@ DUC|Duff & Phelps Utility & Corporate Bond Trust, Inc. Common Stock|N|DUC|N|100|
 DUG|ProShares UltraShort Oil & Gas|P|DUG|Y|100|N|DUG
 DUK|Duke Energy Corporation (Holding Company) Common Stock|N|DUK|N|100|N|DUK
 DUKH|Duke Energy Corporation 5.125% Junior Subordinated Debentures due 2073|N|DUKH|N|100|N|DUKH
-DUST|Direxion Daily Gold Miners Bear 3X Shares|P|DUST|Y|100|N|DUST
+DUST|Direxion Daily Gold Miners Index Bear 3X Shares|P|DUST|Y|100|N|DUST
 DV|DeVry Education Group Inc. Common Stock|N|DV|N|100|N|DV
 DVA|DaVita HealthCare Partners Inc. Common Stock|N|DVA|N|100|N|DVA
 DVD|Dover Motorsports, Inc. Common Stock|N|DVD|N|100|N|DVD
@@ -3412,7 +3411,7 @@ NTX|Nuveen Texas Quality Income Municipal Fund Common Stock|N|NTX|N|100|N|NTX
 NTX$C|Nuveen Texas Quality Income Municipal Fund Munifund Term Pfd Shs Ser 2013|N|NTXpC|N|100|N|NTX-C
 NTZ|Natuzzi, S.p.A.|N|NTZ|N|100|N|NTZ
 NUE|Nucor Corporation Common Stock|N|NUE|N|100|N|NUE
-NUGT|Direxion Daily Gold Miners Bull 3X Shares|P|NUGT|Y|100|N|NUGT
+NUGT|Direxion Daily Gold Miners Index Bull 3X Shares|P|NUGT|Y|100|N|NUGT
 NUM|Nuveen Michigan Quality Income Municipal Fund Common Stock|N|NUM|N|100|N|NUM
 NUO|Nuveen Ohio Quality Income Municipal Fund Common Stock|N|NUO|N|100|N|NUO
 NUS|Nu Skin Enterprises, Inc. Common Stock|N|NUS|N|100|N|NUS
@@ -4191,6 +4190,7 @@ SCZ|iShares MSCI EAFE Small-Cap ETF|P|SCZ|Y|100|N|SCZ
 SD|Sandridge Energy Inc. Common Stock|N|SD|N|100|N|SD
 SDA|Bank of America Corporation Market Index Target Term Securities Linked to the Dow Jones Industrial Average|P|SDA|N|100|N|SDA
 SDD|ProShares UltraShort SmallCap600|P|SDD|Y|100|N|SDD
+SDEM|Global X SuperDividend Emerging Markets ETF|P|SDEM|Y|100|N|SDEM
 SDIV|Global X SuperDividend ETF|P|SDIV|Y|100|N|SDIV
 SDLP|Seadrill Partners LLC Common Units Representing Limited Liability Company Interests|N|SDLP|N|100|N|SDLP
 SDOG|ALPS Sector Dividend Dogs ETF|P|SDOG|Y|100|N|SDOG
@@ -5221,4 +5221,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0316201521:32||||||
+File Creation Time: 0317201521:33||||||
