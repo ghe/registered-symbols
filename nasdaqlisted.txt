@@ -520,7 +520,8 @@ CHCI|Comstock Holding Companies, Inc. - Class A Common Stock|S|N|N|100
 CHCO|City Holding Company - Common Stock|Q|N|N|100
 CHDN|Churchill Downs, Incorporated - Common Stock|Q|N|N|100
 CHEF|The Chefs' Warehouse, Inc. - Common Stock|Q|N|N|100
-CHEKU|Check-Cap Ltd. - Unit|S|N|N|100
+CHEK|Check-Cap Ltd. - Ordinary Share|S|N|N|100
+CHEKW|Check-Cap Ltd. - Series A Warrant|S|N|N|100
 CHEV|Cheviot Financial Corp - Common Stock|S|N|N|100
 CHFC|Chemical Financial Corporation - Common Stock|Q|N|N|100
 CHFN|Charter Financial Corp. - Common Stock|S|N|N|100
@@ -1305,7 +1306,6 @@ HTCH|Hutchinson Technology Incorporated - Common Stock|Q|N|N|100
 HTHT|China Lodging Group, Limited - American Depositary Shares, each representing four Ordinary Shares|Q|N|N|100
 HTLD|Heartland Express, Inc. - Common Stock|Q|N|N|100
 HTLF|Heartland Financial USA, Inc. - Common Stock|Q|N|N|100
-HTWO|HF2 Financial Management Inc. - Class A Common Stock|S|N|D|100
 HTWR|Heartware International, Inc. - Common Stock|Q|N|N|100
 HUBG|Hub Group, Inc. - Class A Common Stock|Q|N|N|100
 HURC|Hurco Companies, Inc. - Common Stock|Q|N|N|100
@@ -2942,6 +2942,7 @@ YRCW|YRC Worldwide, Inc. - Common Stock|Q|N|N|100
 YY|YY Inc. - American Depositary Shares|Q|N|N|100
 Z|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
 ZAGG|ZAGG Inc - Common Stock|Q|N|N|100
+ZAIS|ZAIS Group Holdings, Inc. - Class A Common Stock|S|N|D|100
 ZAZA|ZaZa Energy Corporation - Common Stock|S|N|D|100
 ZBRA|Zebra Technologies Corporation - Class A Common Stock|Q|N|N|100
 ZEUS|Olympic Steel, Inc. - Common Stock|Q|N|N|100
@@ -2968,4 +2969,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0317201521:33|||||
+File Creation Time: 0318201521:33|||||
