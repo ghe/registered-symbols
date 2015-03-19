@@ -1236,7 +1236,7 @@ DTN|WisdomTree Dividend Ex-Financials Fund|P|DTN|Y|100|N|DTN
 DTO|DB Crude Oil Double Short ETN due June 1, 2038|P|DTO|N|100|N|DTO
 DTQ|DTE Energy Company 2012 Series C 5.25% Junior Subordinate Debentures due December 1, 2062|N|DTQ|N|100|N|DTQ
 DTZ|DTE Energy Company 2011 Series I 6.50% Junior Subordinate Debentures due 2061|N|DTZ|N|100|N|DTZ
-DUA|Deutsche Bank Cap Fdg Tr VIII 6.375% Tr Pfd Secs|N|DUA|N|100|N|DUA
+DUA|Deutsche Bank Cap Fdg Tr VIII 6.375% Tr Pfd Secs|N|DUA/CL|N|100|N|DUA*
 DUC|Duff & Phelps Utility & Corporate Bond Trust, Inc. Common Stock|N|DUC|N|100|N|DUC
 DUG|ProShares UltraShort Oil & Gas|P|DUG|Y|100|N|DUG
 DUK|Duke Energy Corporation (Holding Company) Common Stock|N|DUK|N|100|N|DUK
@@ -2045,6 +2045,7 @@ GS$J|Goldman Sachs Group Inc Depositary Shs Repstg 1/1000th Pfd Ser J Fixed to F
 GS$K|Goldman Sachs Group, Inc. (The) Dep Shs Repstg 1/1000 Int Sh Fxd/Fltg Non Cum Pfd Stk Ser K|N|GSpK|N|100|N|GS-K
 GSAT|Globalstar, Inc. Common Stock|A|GSAT|N|100|N|GSAT
 GSB|GlobalSCAPE, Inc. Common Stock|A|GSB|N|100|N|GSB
+GSBD|Goldman Sachs BDC, Inc. Common Stock|N|GSBD|N|100|N|GSBD
 GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index|P|GSC|N|100|N|GSC
 GSF|Goldman Sachs Group, Inc. (The) 6.125% Notes due 2060|N|GSF|N|100|N|GSF
 GSG|iShares GSCI Commodity-Indexed Trust Fund|P|GSG|Y|100|N|GSG
@@ -5221,4 +5222,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0317201521:33||||||
+File Creation Time: 0318201521:33||||||
