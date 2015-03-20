@@ -185,8 +185,8 @@ ARAY|Accuray Incorporated - Common Stock|Q|N|N|100
 ARCB|ArcBest Corporation - Common Stock|Q|N|N|100
 ARCC|Ares Capital Corporation - Closed End Fund|Q|N|N|100
 ARCI|Appliance Recycling Centers of America, Inc. - Common Stock|S|N|N|100
-ARCP|American Realty Capital Properties, Inc. - Common Stock|Q|N|N|100
-ARCPP|American Realty Capital Properties, Inc. - 6.70% Series F Cumulative Redeemable Preferred Stock|Q|N|N|100
+ARCP|American Realty Capital Properties, Inc. - Common Stock|Q|N|E|100
+ARCPP|American Realty Capital Properties, Inc. - 6.70% Series F Cumulative Redeemable Preferred Stock|Q|N|E|100
 ARCW|ARC Group Worldwide, Inc. - Common Stock|S|N|N|100
 ARDM|Aradigm Corporation - Common Stock|S|N|N|100
 ARDX|Ardelyx, Inc. - Common Stock|G|N|N|100
@@ -1203,7 +1203,7 @@ GT|The Goodyear Tire & Rubber Company - Common Stock|Q|N|N|100
 GTIM|Good Times Restaurants Inc. - Common Stock|S|N|N|100
 GTLS|Chart Industries, Inc. - Common Stock|Q|N|N|100
 GTWN|Georgetown Bancorp, Inc. - Common Stock|S|N|N|100
-GTXI|GTx, Inc. - Common Stock|G|N|D|100
+GTXI|GTx, Inc. - Common Stock|S|N|D|100
 GUID|Guidance Software, Inc. - Common Stock|G|N|N|100
 GULF|WisdomTree Middle East Dividend Fund|G|N|N|100
 GULTU|Gulf Coast Ultra Deep Royalty Trust - Royalty Trust Unit|S|N|N|100
@@ -1624,7 +1624,7 @@ LUNA|Luna Innovations Incorporated - Common Stock|S|N|N|100
 LVNTA|Liberty Interactive Corporation - Series A Liberty Ventures Common Stock|Q|N|N|100
 LVNTB|Liberty Interactive Corporation - Series B Liberty Ventures Common Stock|Q|N|N|100
 LWAY|Lifeway Foods, Inc. - Common Stock|G|N|N|100
-LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock|Q|N|D|100
+LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 LYTS|LSI Industries Inc. - Common Stock|Q|N|N|100
 MACK|Merrimack Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 MAG|Magnetek, Inc. - Common Stock|G|N|N|100
@@ -1809,6 +1809,7 @@ NBTB|NBT Bancorp Inc. - Common Stock|Q|N|N|100
 NCIT|NCI, Inc. - Class A Common Stock|Q|N|N|100
 NCLH|Norwegian Cruise Line Holdings Ltd. - Ordinary Shares|Q|N|N|100
 NCMI|National CineMedia, Inc. - Common Stock|Q|N|N|100
+NCOM|National Commerce Corporation - Common Stock|Q|N|N|100
 NCTY|The9 Limited - American Depository Shares representing one ordinary share|Q|N|N|100
 NDAQ|The NASDAQ OMX Group, Inc. - Common Stock|Q|N|N|100
 NDLS|Noodles & Company - Common Stock|Q|N|N|100
@@ -2394,7 +2395,7 @@ SIEB|Siebert Financial Corp. - Common Stock|S|N|N|100
 SIEN|Sientra, Inc. - Common Stock|Q|N|N|100
 SIFI|SI Financial Group, Inc. - Common Stock|G|N|N|100
 SIFY|Sify Technologies Limited - American Depository Shares, each represented by one Equity Share|Q|N|N|100
-SIGA|SIGA Technologies Inc. - Common Stock|G|N|Q|100
+SIGA|SIGA Technologies Inc. - Common Stock|G|N|N|100
 SIGI|Selective Insurance Group, Inc. - Common Stock|Q|N|N|100
 SIGM|Sigma Designs, Inc. - Common Stock|Q|N|N|100
 SILC|Silicom Ltd - Ordinary Shares|Q|N|N|100
@@ -2736,6 +2737,7 @@ UPI|Uroplasty, Inc. - Common Stock|S|N|N|100
 UPIP|Unwired Planet, Inc. - Common Stock|Q|N|D|100
 UPLD|Upland Software, Inc. - Common Stock|G|N|N|100
 URBN|Urban Outfitters, Inc. - Common Stock|Q|N|N|100
+UREE|U.S. Rare Earths, Inc. - Common Stock|S|N|N|100
 URRE|Uranium Resources, Inc. - Common Stock|S|N|N|100
 USAK|USA Truck, Inc. - Common Stock|Q|N|N|100
 USAP|Universal Stainless & Alloy Products, Inc. - Common Stock|Q|N|N|100
@@ -2969,4 +2971,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0318201521:33|||||
+File Creation Time: 0319201521:33|||||
