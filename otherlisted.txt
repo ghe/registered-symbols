@@ -83,6 +83,7 @@ AFSD|Aflac Incorporated 5.50% Subordinated Debentures due September 15, 2052|N|A
 AFSI$A|AmTrust Financial Services, Inc. Preferred Series A|N|AFSIpA|N|100|N|AFSI-A
 AFSI$B|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series B|N|AFSIpB|N|100|N|AFSI-B
 AFSI$C|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series C|N|AFSIpC|N|100|N|AFSI-C
+AFSI$D|AmTrust Financial Services, Inc. Depositary Shares, Each Representing 1/40th Interest in a shares of 7.50% Non-Cumulative Preferred Stock, Series D|N|AFSIpD|N|100|N|AFSI-D
 AFT|Apollo Senior Floating Rate Fund Inc. Common Stock|N|AFT|N|100|N|AFT
 AFTY|CSOP FTSE China A50 ETF|P|AFTY|Y|100|N|AFTY
 AFW|American Financial Group, Inc. 6 3/8% Senior Notes due 2042|N|AFW|N|100|N|AFW
@@ -125,6 +126,7 @@ AHT$E|Ashford Hospitality Trust Inc 9.00% Series E Cumulative Preferred Stock|N|
 AI|Arlington Asset Investment Corp Class A (new)|N|AI|N|100|N|AI
 AIA|iShares Asia 50 ETF|P|AIA|Y|100|N|AIA
 AIB|Apollo Investment Corporation 6.625% Senior Notes due 2042|N|AIB|N|100|N|AIB
+AIC|Arlington Asset Investment Corp 6.750% Notes due 2025|N|AIC|N|100|N|AIC
 AIF|Apollo Tactical Income Fund Inc. Common Stock|N|AIF|N|100|N|AIF
 AIG|American International Group, Inc. New Common Stock|N|AIG|N|100|N|AIG
 AIG.W|American International Group, Inc. Warrant expiring January 19, 2021|N|AIG/WS|N|100|N|AIG+
@@ -2284,7 +2286,7 @@ HYMB|SPDR Nuveen S&P High Yield Municipal Bond ETF|P|HYMB|Y|100|N|HYMB
 HYS|PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund|P|HYS|Y|100|N|HYS
 HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock|N|HYT|N|100|N|HYT
 HYXU|iShares Global ex USD High Yield Corporate Bond ETF|Z|HYXU|Y|100|N|HYXU
-HZO|MarineMax, Inc. Common Stock|N|HZO|N|100|N|HZO
+HZO|MarineMax, Inc.  (FL) Common Stock|N|HZO|N|100|N|HZO
 I|Intelsat S.A. Common Shares|N|I|N|100|N|I
 I$A|Intelsat S.A. Series A mandatory convefrtible junior non-voting preferred shares|N|IpA|N|100|N|I-A
 IAE|Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest|N|IAE|N|100|N|IAE
@@ -2341,7 +2343,7 @@ IDE|Voya Infrastructure, Industrials and Materials Fund Common Shares of Benefic
 IDG|ING GROEP N V PREF CTF 7.3750% Perp Hybrid Cap Secs (Netherlands)|N|IDG|N|100|N|IDG
 IDHB|PowerShares S&P International Developed High Beta Portfolio Exchange Traded Fund|P|IDHB|Y|100|N|IDHB
 IDHQ|PowerShares S&P International Developed High Quality Portfolio (S&P International Developed High Quality Ranking Index--index symbol SPIDHQR)|P|IDHQ|Y|100|N|IDHQ
-IDI|Tiger Media, Inc.|A|IDI|N|100|N|IDI
+IDI|Tiger Media, Inc. (DE)|A|IDI|N|100|N|IDI
 IDLV|PowerShares S&P International Developed Low Volatility Portfolio|P|IDLV|Y|100|N|IDLV
 IDN|Intellicheck Mobilisa, Inc. Common Stock|A|IDN|N|100|N|IDN
 IDOG|ALPS International Sector Dividend Dogs ETF|P|IDOG|Y|100|N|IDOG
@@ -5220,4 +5222,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0319201521:33||||||
+File Creation Time: 0320201521:33||||||
