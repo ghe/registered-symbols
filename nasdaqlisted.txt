@@ -176,7 +176,7 @@ APEI|American Public Education, Inc. - Common Stock|Q|N|N|100
 APOG|Apogee Enterprises, Inc. - Common Stock|Q|N|N|100
 APOL|Apollo Education Group, Inc. - Class A Common Stock|Q|N|N|100
 APPS|Digital Turbine, Inc. - Common Stock|S|N|N|100
-APPY|Venaxis, Inc. - Common Stock|S|N|N|100
+APPY|Venaxis, Inc. - Common Stock|S|N|D|100
 APRI|Apricus Biosciences, Inc - Common Stock|S|N|N|100
 APTO|Aptose Biosciences, Inc. - Common Shares|S|N|N|100
 APWC|Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share|G|N|N|100
@@ -1290,6 +1290,7 @@ HPJ|Highpower International Inc - Common Stock|G|N|N|100
 HPTX|Hyperion Therapeutics, Inc. - Common Stock|Q|N|N|100
 HQCL|Hanwha Q CELLS Co., Ltd.  - American Depository Shares, each representing five ordinary shares|Q|N|N|100
 HQY|HealthEquity, Inc. - Common Stock|Q|N|N|100
+HRMNU|Harmony Merger Corp. - Unit|S|N|N|100
 HRTX|Heron Therapeutics, Inc.   - Common Stock|S|N|N|100
 HRZN|Horizon Technology Finance Corporation - Common Stock|Q|N|N|100
 HSGX|Histogenics Corporation - Common Stock|G|N|N|100
@@ -2395,7 +2396,6 @@ SIEB|Siebert Financial Corp. - Common Stock|S|N|N|100
 SIEN|Sientra, Inc. - Common Stock|Q|N|N|100
 SIFI|SI Financial Group, Inc. - Common Stock|G|N|N|100
 SIFY|Sify Technologies Limited - American Depository Shares, each represented by one Equity Share|Q|N|N|100
-SIGA|SIGA Technologies Inc. - Common Stock|G|N|N|100
 SIGI|Selective Insurance Group, Inc. - Common Stock|Q|N|N|100
 SIGM|Sigma Designs, Inc. - Common Stock|Q|N|N|100
 SILC|Silicom Ltd - Ordinary Shares|Q|N|N|100
@@ -2517,6 +2517,7 @@ STB|Student Transportation Inc - Common shares|Q|N|N|100
 STBA|S&T Bancorp, Inc. - Common Stock|Q|N|N|100
 STBZ|State Bank Financial Corporation. - Common Stock|S|N|N|100
 STCK|Stock Building Supply Holdings, Inc. - Common Stock|Q|N|N|100
+STDY|SteadyMed Ltd. - Ordinary Shares|G|N|N|100
 STEM|StemCells, Inc. - Common Stock|S|N|N|100
 STFC|State Auto Financial Corporation - Common Stock|Q|N|N|100
 STKL|SunOpta, Inc. - Common Stock|Q|N|N|100
@@ -2738,6 +2739,7 @@ UPIP|Unwired Planet, Inc. - Common Stock|Q|N|D|100
 UPLD|Upland Software, Inc. - Common Stock|G|N|N|100
 URBN|Urban Outfitters, Inc. - Common Stock|Q|N|N|100
 UREE|U.S. Rare Earths, Inc. - Common Stock|S|N|N|100
+UREEW|U.S. Rare Earths, Inc. - Warrant|S|N|N|100
 URRE|Uranium Resources, Inc. - Common Stock|S|N|N|100
 USAK|USA Truck, Inc. - Common Stock|Q|N|N|100
 USAP|Universal Stainless & Alloy Products, Inc. - Common Stock|Q|N|N|100
@@ -2793,6 +2795,7 @@ VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
 VLCCF|Knightsbridge Shipping Limited - Common Stock|Q|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
+VLRX|Valeritas, Inc. - Common Stock|G|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|D|100
 VLYWW|Valley National Bancorp - Warrants 07/01/2015|S|N|N|100
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100
@@ -2971,4 +2974,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0319201521:33|||||
+File Creation Time: 0320201521:33|||||
