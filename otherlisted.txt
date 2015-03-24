@@ -609,7 +609,6 @@ BT|BT Group plc Common Stock|N|BT|N|100|N|BT
 BTA|BlackRock Long-Term Municipal Advantage Trust BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest|N|BTA|N|100|N|BTA
 BTAL|QuantShares U.S. Market Neutral Anti Beta Fund ETF|P|BTAL|Y|100|N|BTAL
 BTE|Baytex Energy Corp|N|BTE|N|100|N|BTE
-BTF|Boulder Total Return Fund, Inc. Common Stock|N|BTF|N|100|N|BTF
 BTG|B2Gold Corp Common shares (Canada)|A|BTG|N|100|N|BTG
 BTH|Blyth, Inc. New Common Stock|N|BTH|N|100|N|BTH
 BTI|British American Tobacco  Industries, p.l.c. Common Stock ADR|A|BTI|N|100|N|BTI
@@ -1183,7 +1182,6 @@ DNO|United States Short Oil Fund|P|DNO|Y|100|N|DNO
 DNOW|NOW Inc. Common Stock|N|DNOW|N|100|N|DNOW
 DNP|DNP Select Income Fund, Inc. Common Stock|N|DNP|N|100|N|DNP
 DNR|Denbury Resources Inc. Common Stock|N|DNR|N|100|N|DNR
-DNY|The Denali Fund Inc|N|DNY|N|100|N|DNY
 DO|Diamond Offshore Drilling, Inc. Common Stock|N|DO|N|100|N|DO
 DOC|Physicians Realty Trust Common Shares of Beneficial Interest|N|DOC|N|100|N|DOC
 DOD|Deutsche Bank AG ELEMENTS Dogs of the Dow Total Return Index Note ELEMENTS Dogs of the Dow Linked to the Dow Jones High Yield Select 10 Total Return Index due November 14, 2022|P|DOD|N|100|N|DOD
@@ -2153,7 +2151,6 @@ HEWJ|iShares Currency Hedged MSCI Japan ETF|P|HEWJ|Y|100|N|HEWJ
 HEZU|iShares Trust iShares Currency Hedged MSCI EMU ETF|P|HEZU|Y|100|N|HEZU
 HF|HFF, Inc. Common Stock, Class A|N|HF|N|100|N|HF
 HFC|HollyFrontier Corporation Common Stock|N|HFC|N|100|N|HFC
-HFIN|Horizons S&P Financial Select Sector Covered Call ETF|P|HFIN|Y|100|N|HFIN
 HGG|HHGregg, Inc. Common Stock|N|HGG|N|100|N|HGG
 HGH|Hartford Financial Services Group, Inc. (The) 7.875% Fixed to Floating Rate Junior Subordinated Debentures due 2042|N|HGH|N|100|N|HGH
 HGI|Guggenheim International Multi-Asset Income Index ETF|P|HGI|Y|100|N|HGI
@@ -2626,6 +2623,7 @@ JLL|Jones Lang LaSalle Incorporated Common Stock|N|JLL|N|100|N|JLL
 JLS|Nuveen Mortgage Opportunity Term Fund Nuveen Mortgage Opportunity Term Fund|N|JLS|N|100|N|JLS
 JMEI|Jumei International Holding Limited American Depositary Shares, each representing one Class A ordinary share|N|JMEI|N|100|N|JMEI
 JMF|Nuveen Energy MLP Total Return Fund Common Shares of Beneficial Interest|N|JMF|N|100|N|JMF
+JMG.V|Journal Media Group, Inc. Common Stock When Issued|N|JMGw|N|100|N|JMG#
 JMI|Javelin Mortgage Investment Corp. Common Stock|N|JMI|N|100|N|JMI
 JMLP|Nuveen All Cap Energy MLP Opportunities Fund Common Shares of Beneficial Interest|N|JMLP|N|100|N|JMLP
 JMM|Nuveen Multi-Market Income Fund (MA)|N|JMM|N|100|N|JMM
@@ -3410,7 +3408,7 @@ NTN|NTN Buzztime, Inc. Common Stock|A|NTN|N|100|N|NTN
 NTP|Nam Tai Property Inc. Common Stock|N|NTP|N|100|N|NTP
 NTT|Nippon Telegraph and Telephone Corporation Common Stock|N|NTT|N|100|N|NTT
 NTX|Nuveen Texas Quality Income Municipal Fund Common Stock|N|NTX|N|100|N|NTX
-NTX$C|Nuveen Texas Quality Income Municipal Fund Munifund Term Pfd Shs Ser 2013|N|NTXpC|N|100|N|NTX-C
+NTX$C|Nuveen Texas Quality Income Municipal Fund Munifund Term Pfd Shs Ser 2013|N|NTXpC/CL|N|100|N|NTX-C*
 NTZ|Natuzzi, S.p.A.|N|NTZ|N|100|N|NTZ
 NUE|Nucor Corporation Common Stock|N|NUE|N|100|N|NUE
 NUGT|Direxion Daily Gold Miners Index Bull 3X Shares|P|NUGT|Y|100|N|NUGT
@@ -4014,7 +4012,6 @@ RMD|ResMed Inc. Common Stock|N|RMD|N|100|N|RMD
 RMP|Rice Midstream Partners LP Common Units representing limited partner interests|N|RMP|N|100|N|RMP
 RMT|Royce Micro-Cap Trust, Inc. Common Stock|N|RMT|N|100|N|RMT
 RNDY|Roundy's, Inc. Common Stock|N|RNDY|N|100|N|RNDY
-RNE|Morgan Stanley Eastern Europe Fund, Inc. Common Stock|N|RNE|N|100|N|RNE
 RNF|Rentech Nitrogen Partners, L.P. Common Units representing limited partner interests|N|RNF|N|100|N|RNF
 RNG|Ringcentral, Inc. Class A Common Stock|N|RNG|N|100|N|RNG
 RNN|Rexahn Pharmaceuticals, Inc. Common Stock|A|RNN|N|100|N|RNN
@@ -4387,6 +4384,7 @@ SSN|Samson Oil & Gas Limited Sponsored ADR (Australia)|A|SSN|N|100|N|SSN
 SSNI|Silver Spring Networks, Inc. Common Stock|N|SSNI|N|100|N|SSNI
 SSO|ProShares Ultra S&P500|P|SSO|Y|100|N|SSO
 SSP|E.W. Scripps Company (The) Common Stock|N|SSP|N|100|N|SSP
+SSP.V|E.W. Scripps Company (The) Class A Common Shares Ex-Distributiuon When Issued|N|SSPw|N|100|N|SSP#
 SSS|Sovran Self Storage, Inc. Common Stock|N|SSS|N|100|N|SSS
 SST|SPDR Barclays Short Term Treasury ETF|P|SST|Y|100|N|SST
 SSTK|Shutterstock, Inc. Common Stock|N|SSTK|N|100|N|SSTK
@@ -5165,6 +5163,7 @@ XSD|SPDR S&P Semiconductor ETF|P|XSD|Y|100|N|XSD
 XSLV|PowerShares S&P SmallCap Low Volatility Portfolio|P|XSLV|Y|100|N|XSLV
 XSOE|WisdomTree Emerging Markets Ex-State Owned Enterprises Fund|P|XSOE|Y|100|N|XSOE
 XSW|SPDR S&P Software & Services ETF|P|XSW|Y|100|N|XSW
+XT|iShares Exponential Technologies ETF|P|XT|Y|100|N|XT
 XTL|SPDR S&P Telecom ETF|P|XTL|Y|100|N|XTL
 XTN|SPDR S&P Transportation ETF|P|XTN|Y|100|N|XTN
 XUE|Xueda Education Group American Depositary Shares, each representing two Ordinary Shares, $0.0001 par value|N|XUE|N|100|N|XUE
@@ -5222,4 +5221,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0320201521:33||||||
+File Creation Time: 0323201521:33||||||
