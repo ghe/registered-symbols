@@ -14,7 +14,7 @@ AAV|Advantage Oil & Gas Ltd  Ordinary Shares|N|AAV|N|100|N|AAV
 AB|Allianceberstein Holding L.P.  Units|N|AB|N|100|N|AB
 ABB|ABB Ltd Common Stock|N|ABB|N|100|N|ABB
 ABBV|AbbVie Inc. Common Stock|N|ABBV|N|100|N|ABBV
-ABC|AmerisourceBergen Corporation (Holding Co) Common Stock|N|ABC|N|100|N|ABC
+ABC|AmerisourceBergen Corporation Common Stock|N|ABC|N|100|N|ABC
 ABEV|Ambev S.A. American Depositary Shares (Each representing 1 Common Share)|N|ABEV|N|100|N|ABEV
 ABG|Asbury Automotive Group Inc Common Stock|N|ABG|N|100|N|ABG
 ABM|ABM Industries Incorporated Common Stock|N|ABM|N|100|N|ABM
@@ -2535,7 +2535,7 @@ IVR$A|Invesco Mortgage Capital Inc. Pfd Ser A|N|IVRpA|N|100|N|IVR-A
 IVR$B|Invesco Mortgage Capital Inc. Preferred Series B Cum Fxd to Fltg|N|IVRpB|N|100|N|IVR-B
 IVV|iShares Core S&P 500 ETF|P|IVV|Y|100|N|IVV
 IVW|iShares S&P 500 Growth ETF|P|IVW|Y|100|N|IVW
-IVZ|Invesco Plc New Common Stock|N|IVZ|N|100|N|IVZ
+IVZ|Invesco Ltd Common Stock|N|IVZ|N|100|N|IVZ
 IWB|iShares Russell 1000 ETF|P|IWB|Y|100|N|IWB
 IWC|iShares Microcap ETF|P|IWC|Y|100|N|IWC
 IWD|iShares Russell 1000 Value ETF|P|IWD|Y|100|N|IWD
@@ -3855,6 +3855,7 @@ QDEU|SPDR MSCI Germany Quality Mix ETF|P|QDEU|Y|100|N|QDEU
 QDF|FlexShares Quality Dividend Index Fund|P|QDF|Y|100|N|QDF
 QDXU|Market Vectors MSCI International Quality Dividend ETF|P|QDXU|Y|100|N|QDXU
 QDYN|FlexShares Quality Dynamic Index Fund|P|QDYN|Y|100|N|QDYN
+QED|IQ Hedge Event-Driven Tracker ETF|P|QED|Y|100|N|QED
 QEFA|SPDR EURO STOXX Small Cap ETF|P|QEFA|Y|100|N|QEFA
 QEH|AdvisorShares QAM Equity Hedge|P|QEH|Y|100|N|QEH
 QEM|Market Vectors MSCI Emerging Markets Quality ETF|P|QEM|Y|100|N|QEM
@@ -3868,6 +3869,7 @@ QIHU|Qihoo 360 Technology Co. Ltd. American Depositary Shares, every 2 of which 
 QJPN|SPDR MSCI Japan Quality Mix ETF|P|QJPN|Y|100|N|QJPN
 QKOR|SPDR MSCI South Korea Quality Mix ETF|P|QKOR|Y|100|N|QKOR
 QLD|ProShares Ultra QQQ|P|QLD|Y|100|N|QLD
+QLS|IQ Hedge Long Short Tracker ETF|P|QLS|Y|100|N|QLS
 QLTA|iShares Aaa A Rated Corporate Bond ETF|P|QLTA|Y|100|N|QLTA
 QLTB|iShares Baa Ba Rated Corporate Bond ETF|Z|QLTB|Y|100|N|QLTB
 QLTC|iShares B Ca Rated Corporate Bond ETF|Z|QLTC|Y|100|N|QLTC
@@ -4024,6 +4026,7 @@ ROAM|Lattice Emerging Markets Strategy ETF|P|ROAM|Y|100|N|ROAM
 RODI|Barclays Return on Disability ETN|P|RODI|N|100|N|RODI
 RODM|Lattice Developed Markets (ex-US) Strategy ETF|P|RODM|Y|100|N|RODM
 ROG|Rogers Corporation Common Stock|N|ROG|N|100|N|ROG
+ROGS|Lattice Global Small Cap Strategy ETF|P|ROGS|Y|100|N|ROGS
 ROK|Rockwell Automation, Inc. Common Stock|N|ROK|N|100|N|ROK
 ROL|Rollins, Inc. Common Stock|N|ROL|N|100|N|ROL
 ROLA|iPath Long Extended Russell 1000 TR Index ETN|P|ROLA|N|100|N|ROLA
@@ -5221,4 +5224,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0323201521:33||||||
+File Creation Time: 0324201521:33||||||
