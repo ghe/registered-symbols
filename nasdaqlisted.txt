@@ -168,7 +168,7 @@ ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100
 ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100
 ANTH|Anthera Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-ANY|Sphere 3D Corporation - Common Shares|G|N|N|100
+ANY|Sphere 3D Corp. - Common Shares|G|N|N|100
 AOSL|Alpha and Omega Semiconductor Limited - Common Shares|Q|N|N|100
 APDN|Applied DNA Sciences Inc - Common Stock|S|N|N|100
 APDNW|Applied DNA Sciences Inc - Warrant|S|N|N|100
@@ -323,7 +323,7 @@ BHBK|Blue Hills Bancorp, Inc. - Common Stock|Q|N|N|100
 BIB|ProShares Ultra Nasdaq Biotechnology|G|N|N|100
 BICK|First Trust BICK Index Fund|G|N|N|100
 BIDU|Baidu, Inc. - American Depositary Shares, each representing one tenth Class A ordinary share|Q|N|N|100
-BIIB|Biogen Idec Inc. - Common Stock|Q|N|N|100
+BIIB|Biogen Inc. - Common Stock|Q|N|N|100
 BIND|BIND Therapeutics, Inc. - Common Stock|Q|N|N|100
 BIOC|Biocept, Inc. - Common Stock|S|N|N|100
 BIOD|Biodel Inc. - Common Stock|S|N|N|100
@@ -1290,6 +1290,7 @@ HPJ|Highpower International Inc - Common Stock|G|N|N|100
 HPTX|Hyperion Therapeutics, Inc. - Common Stock|Q|N|N|100
 HQCL|Hanwha Q CELLS Co., Ltd.  - American Depository Shares, each representing five ordinary shares|Q|N|N|100
 HQY|HealthEquity, Inc. - Common Stock|Q|N|N|100
+HRMNU|Harmony Merger Corp. - Unit|S|N|N|100
 HRTX|Heron Therapeutics, Inc.   - Common Stock|S|N|N|100
 HRZN|Horizon Technology Finance Corporation - Common Stock|Q|N|N|100
 HSGX|Histogenics Corporation - Common Stock|G|N|N|100
@@ -2565,6 +2566,7 @@ SZMK|Sizmek Inc. - Common Stock|Q|N|N|100
 SZYM|Solazyme, Inc. - Common Stock|Q|N|N|100
 TACT|TransAct Technologies Incorporated - Common Stock|G|N|N|100
 TAIT|Taitron Components Incorporated - Class A Common Stock|S|N|N|100
+TANH|Tantech Holdings Ltd. - Common Stock|S|N|N|100
 TAPR|Barclays PLC - Barclays Inverse US Treasury Composite ETN|G|N|N|100
 TASR|TASER International, Inc. - Common Stock|Q|N|N|100
 TAST|Carrols Restaurant Group, Inc. - Common Stock|Q|N|D|100
@@ -2973,4 +2975,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0323201521:33|||||
+File Creation Time: 0324201521:33|||||
