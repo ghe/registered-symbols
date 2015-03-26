@@ -563,6 +563,7 @@ CLDN|Celladon Corporation - Common Stock|G|N|N|100
 CLDX|Celldex Therapeutics, Inc. - Common Stock|Q|N|N|100
 CLFD|Clearfield, Inc. - Common Stock|G|N|N|100
 CLIR|ClearSign Combustion Corporation - Common Stock|S|N|N|100
+CLLS|Cellectis S.A. - American Depositary Shares|G|N|N|100
 CLMS|Calamos Asset Management, Inc. - Class A Common Stock|Q|N|N|100
 CLMT|Calumet Specialty Products Partners, L.P. - Common units representing limited partner interests|Q|N|N|100
 CLNE|Clean Energy Fuels Corp. - Common Stock|Q|N|N|100
@@ -1266,7 +1267,7 @@ HILL|Dot Hill Systems Corporation - Common Stock|G|N|N|100
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100
 HKTV|Hong Kong Television Network Limited - American Depositary Shares, each representing 20 Ordinary Shares|Q|N|N|100
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100
-HLSS|Home Loan Servicing Solutions, Ltd. - Ordinary Shares|Q|N|N|100
+HLSS|Home Loan Servicing Solutions, Ltd. - Ordinary Shares|Q|N|E|100
 HMHC|Houghton Mifflin Harcourt Company - Common Stock|Q|N|N|100
 HMIN|Homeinns Hotel Group - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 HMNF|HMN Financial, Inc. - Common Stock|G|N|N|100
@@ -1634,7 +1635,7 @@ MAMS|MAM Software Group, Inc. - Common Stock|S|N|N|100
 MANH|Manhattan Associates, Inc. - Common Stock|Q|N|N|100
 MANT|ManTech International Corporation - Class A Common Stock|Q|N|N|100
 MAR|Marriott International - Class A Common Stock|Q|N|N|100
-MARA|Marathon Patent Group, Inc. - Common Stock|S|N|D|100
+MARA|Marathon Patent Group, Inc. - Common Stock|S|N|N|100
 MARK|Remark Media, Inc. - Common Stock|S|N|N|100
 MARPS|Marine Petroleum Trust - Units of Beneficial Interest|S|N|N|100
 MASI|Masimo Corporation - Common Stock|Q|N|N|100
@@ -1924,7 +1925,7 @@ OKSB|Southwest Bancorp, Inc. - Common Stock|Q|N|N|100
 OLBK|Old Line Bancshares, Inc. - Common Stock|S|N|N|100
 OLED|Universal Display Corporation - Common Stock|Q|N|N|100
 OMAB|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares|Q|N|N|100
-OMCL|Omnicell, Inc. - Common Stock|Q|N|N|100
+OMCL|Omnicell, Inc. - Common Stock|Q|N|E|100
 OMED|OncoMed Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 OMER|Omeros Corporation - Common Stock|G|N|N|100
 OMEX|Odyssey Marine Exploration, Inc. - Common Stock|S|N|D|100
@@ -2796,7 +2797,6 @@ VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
 VLCCF|Knightsbridge Shipping Limited - Common Stock|Q|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
-VLRX|Valeritas, Inc. - Common Stock|G|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|D|100
 VLYWW|Valley National Bancorp - Warrants 07/01/2015|S|N|N|100
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100
@@ -2975,4 +2975,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0324201521:33|||||
+File Creation Time: 0325201521:33|||||
