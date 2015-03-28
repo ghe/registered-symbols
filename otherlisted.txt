@@ -804,7 +804,7 @@ CIT|CIT Group Inc (DEL) Common Stock|N|CIT|N|100|N|CIT
 CIU|iShares Intermediate Credit Bond ETF|P|CIU|Y|100|N|CIU
 CIVI|Civitas Solutions, Inc. Common Stock|N|CIVI|N|100|N|CIVI
 CIX|CompX International Inc. Common Stock|A|CIX|N|100|N|CIX
-CJES|C&J Energy Services, Inc. Common Stock|N|CJES|N|100|N|CJES
+CJES|C&J Energy Services, Ltd. Common Stock|N|CJES|N|100|N|CJES
 CKH|SEACOR Holdings Inc. Common Stock|N|CKH|N|100|N|CKH
 CKP|Checkpoint Systms, Inc. Common Stock|N|CKP|N|100|N|CKP
 CKX|CKX Lands, Inc. Common Stock|A|CKX|N|100|N|CKX
@@ -2578,6 +2578,7 @@ JBL|Jabil Circuit, Inc. Common Stock|N|JBL|N|100|N|JBL
 JBN|Select Asset Inc. Select Asset Inc. on behalf of Corporate Backed Callable Trust Certificates, J.C. Penney Debenture Backed Series 2007-1 Trust|N|JBN|N|100|N|JBN
 JBR|Select Asset Inc. Corporate Backed Callable Trust Certificates, J.C. Penney Debenture-Backed Series 2006-1, Class A-1|N|JBR|N|100|N|JBR
 JBT|John Bean Technologies Corporation Common Stock|N|JBT|N|100|N|JBT
+JCAP|Jernigan Capital, Inc. Common Stock|N|JCAP|N|100|N|JCAP
 JCE|Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest|N|JCE|N|100|N|JCE
 JCI|Johnson Controls, Inc. Common Stock|N|JCI|N|100|N|JCI
 JCP|J.C. Penney Company, Inc. Holding Company Common Stock|N|JCP|N|100|N|JCP
@@ -4191,7 +4192,6 @@ SCTO|Global X JPMorgan US Sector Rotator Index ETF|P|SCTO|Y|100|N|SCTO
 SCX|L.S. Starrett Company (The) Common Stock|N|SCX|N|100|N|SCX
 SCZ|iShares MSCI EAFE Small-Cap ETF|P|SCZ|Y|100|N|SCZ
 SD|Sandridge Energy Inc. Common Stock|N|SD|N|100|N|SD
-SDA|Bank of America Corporation Market Index Target Term Securities Linked to the Dow Jones Industrial Average|P|SDA|N|100|N|SDA
 SDD|ProShares UltraShort SmallCap600|P|SDD|Y|100|N|SDD
 SDEM|Global X SuperDividend Emerging Markets ETF|P|SDEM|Y|100|N|SDEM
 SDIV|Global X SuperDividend ETF|P|SDIV|Y|100|N|SDIV
@@ -5224,4 +5224,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0326201521:33||||||
+File Creation Time: 0327201521:33||||||
