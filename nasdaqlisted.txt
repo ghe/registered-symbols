@@ -469,6 +469,7 @@ CBSHP|Commerce Bancshares, Inc. - Depositary Shares, each representing a 1/1000t
 CCBG|Capital City Bank Group - Common Stock|Q|N|N|100
 CCCL|China Ceramics Co., Ltd. - Common Stock|G|N|N|100
 CCCR|China Commercial Credit, Inc. - Common Stock|S|N|N|100
+CCD|Calamos Dynamic Convertible & Income Fund - Common Shares|Q|N|N|100
 CCIH|ChinaCache International Holdings Ltd. - American Depositary Shares|Q|N|N|100
 CCLP|CSI Compressco LP - common units|Q|N|N|100
 CCMP|Cabot Microelectronics Corporation - Common Stock|Q|N|N|100
@@ -897,7 +898,6 @@ ENTR|Entropic Communications, Inc. - Common Stock|S|N|N|100
 ENVI|Envivio, Inc. - Common Stock|Q|N|N|100
 ENZN|Enzon Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 ENZY|Enzymotec Ltd. - Ordinary Shares|Q|N|N|100
-EOPN|E2open, Inc. - Common Stock|G|N|N|100
 EPAX|Ambassadors Group, Inc. - Common Stock|Q|N|N|100
 EPAY|Bottomline Technologies, Inc. - Common Stock|Q|N|N|100
 EPIQ|EPIQ Systems, Inc. - Common Stock|Q|N|N|100
@@ -1602,7 +1602,7 @@ LOPE|Grand Canyon Education, Inc. - Common Stock|Q|N|N|100
 LORL|Loral Space and Communications, Inc. - Common Stock|Q|N|N|100
 LOXO|Loxo Oncology, Inc. - Common Stock|G|N|N|100
 LPCN|Lipocine Inc. - Common Stock|S|N|N|100
-LPHI|Life Partners Holdings Inc - Common Stock|Q|N|G|100
+LPHI|Life Partners Holdings Inc - Common Stock|Q|N|N|100
 LPLA|LPL Financial Holdings Inc. - Common Stock|Q|N|N|100
 LPNT|LifePoint Hospitals, Inc. - Common Stock|Q|N|N|100
 LPSB|LaPorte Bancorp, Inc. - Common Stock|S|N|N|100
@@ -2977,4 +2977,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0326201521:33|||||
+File Creation Time: 0327201521:33|||||
