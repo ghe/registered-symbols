@@ -1602,7 +1602,6 @@ LOPE|Grand Canyon Education, Inc. - Common Stock|Q|N|N|100
 LORL|Loral Space and Communications, Inc. - Common Stock|Q|N|N|100
 LOXO|Loxo Oncology, Inc. - Common Stock|G|N|N|100
 LPCN|Lipocine Inc. - Common Stock|S|N|N|100
-LPHI|Life Partners Holdings Inc - Common Stock|Q|N|N|100
 LPLA|LPL Financial Holdings Inc. - Common Stock|Q|N|N|100
 LPNT|LifePoint Hospitals, Inc. - Common Stock|Q|N|N|100
 LPSB|LaPorte Bancorp, Inc. - Common Stock|S|N|N|100
@@ -1832,6 +1831,7 @@ NFBK|Northfield Bancorp, Inc. - Common Stock|Q|N|N|100
 NFEC|NF Energy Saving Corporation - Common Stock|S|N|N|100
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100
 NGHC|National General Holdings Corp - Common Stock|G|N|N|100
+NGHCO|National General Holdings Corp - Depositary Shares|G|N|N|100
 NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A|G|N|N|100
 NHLD|National Holdings Corporation - Common Stock|S|N|N|100
 NHTB|New Hampshire Thrift Bancshares, Inc. - Common Stock|G|N|N|100
@@ -2977,4 +2977,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0327201521:33|||||
+File Creation Time: 0330201521:33|||||
