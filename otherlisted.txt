@@ -3789,7 +3789,6 @@ PSR|PowerShares Active U.S. Real Estate Fund|P|PSR|Y|100|N|PSR
 PST|ProShares UltraShort Lehman 7-10 Year Treasury|P|PST|Y|100|N|PST
 PSX|Phillips 66 Common Stock|N|PSX|N|100|N|PSX
 PSXP|Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership|N|PSXP|N|100|N|PSXP
-PT|Portugal Telecom SGPS, S.A . Common Stock|N|PT|N|100|N|PT
 PTF|PowerShares DWA Technology Momentum Portfolio|P|PTF|Y|100|N|PTF
 PTH|PowerShares DWA Healthcare Momentum Portfolio|P|PTH|Y|100|N|PTH
 PTM|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Platinum ETN|P|PTM|N|100|N|PTM
@@ -5224,4 +5223,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0327201521:33||||||
+File Creation Time: 0330201521:33||||||
