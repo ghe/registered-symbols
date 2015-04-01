@@ -185,8 +185,8 @@ ARAY|Accuray Incorporated - Common Stock|Q|N|N|100
 ARCB|ArcBest Corporation - Common Stock|Q|N|N|100
 ARCC|Ares Capital Corporation - Closed End Fund|Q|N|N|100
 ARCI|Appliance Recycling Centers of America, Inc. - Common Stock|S|N|N|100
-ARCP|American Realty Capital Properties, Inc. - Common Stock|Q|N|E|100
-ARCPP|American Realty Capital Properties, Inc. - 6.70% Series F Cumulative Redeemable Preferred Stock|Q|N|E|100
+ARCP|American Realty Capital Properties, Inc. - Common Stock|Q|N|N|100
+ARCPP|American Realty Capital Properties, Inc. - 6.70% Series F Cumulative Redeemable Preferred Stock|Q|N|N|100
 ARCW|ARC Group Worldwide, Inc. - Common Stock|S|N|N|100
 ARDM|Aradigm Corporation - Common Stock|S|N|N|100
 ARDX|Ardelyx, Inc. - Common Stock|G|N|N|100
@@ -2473,7 +2473,7 @@ SPAN|Span-America Medical Systems, Inc. - Common Stock|G|N|N|100
 SPAR|Spartan Motors, Inc. - Common Stock|Q|N|N|100
 SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|N|100
 SPDC|Speed Commerce, Inc. - Common Stock|G|N|N|100
-SPEX|Spherix Incorporated - Common Stock|S|N|N|100
+SPEX|Spherix Incorporated - Common Stock|S|N|D|100
 SPHS|Sophiris Bio, Inc. - Common Shares|G|N|D|100
 SPIL|Siliconware Precision Industries Company, Ltd. - ADS represents common shares|Q|N|N|100
 SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100
@@ -2571,7 +2571,7 @@ TAIT|Taitron Components Incorporated - Class A Common Stock|S|N|N|100
 TANH|Tantech Holdings Ltd. - Common Stock|S|N|N|100
 TAPR|Barclays PLC - Barclays Inverse US Treasury Composite ETN|G|N|N|100
 TASR|TASER International, Inc. - Common Stock|Q|N|N|100
-TAST|Carrols Restaurant Group, Inc. - Common Stock|Q|N|D|100
+TAST|Carrols Restaurant Group, Inc. - Common Stock|Q|N|N|100
 TATT|TAT Technologies Ltd. - Ordinary Shares|G|N|N|100
 TAX|Liberty Tax, Inc. - Class A Common Stock|Q|N|N|100
 TAXI|Medallion Financial Corp. - Common Stock|Q|N|N|100
@@ -2977,4 +2977,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0330201521:33|||||
+File Creation Time: 0331201521:33|||||
