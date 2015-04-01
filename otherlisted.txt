@@ -50,7 +50,7 @@ ADM|Archer-Daniels-Midland Company Common Stock|N|ADM|N|100|N|ADM
 ADPT|Adeptus Health Inc. Common Stock|N|ADPT|N|100|N|ADPT
 ADS|Alliance Data Systems Corporation Common Stock|N|ADS|N|100|N|ADS
 ADT|ADT Corporation Common Stock|N|ADT|N|100|N|ADT
-ADX|Adams Express Company (The)|N|ADX|N|100|N|ADX
+ADX|Adams Diversified Equity Fund Inc.|N|ADX|N|100|N|ADX
 ADZ|DB Agriculture Short ETN due April 1, 2038|P|ADZ|N|100|N|ADZ
 AE|Adams Resources & Energy, Inc. Common Stock|A|AE|N|100|N|AE
 AEB|AEGON N.V. Perp. Cap. Secs. Floating Rate (Netherlands)|N|AEB|N|100|N|AEB
@@ -3603,7 +3603,7 @@ PEI$A|Pennsylvania Real Estate Investment Trust PFD sh CL A|N|PEIpA|N|100|N|PEI-
 PEI$B|Pennsylvania Real Estate Investment Trust Cumulative Redeemable Perpetual Preferred Shares Series B|N|PEIpB|N|100|N|PEI-B
 PEJ|PowerShares Dynamic Leisure & Entertainment Portfolio|P|PEJ|Y|100|N|PEJ
 PEK|Market Vectors ChinaAMC A-Share ETF|P|PEK|Y|100|N|PEK
-PEO|Petroleum Resources Corporation Common Stock|N|PEO|N|100|N|PEO
+PEO|Adams Natural Resources Fund, Inc. Common Stock|N|PEO|N|100|N|PEO
 PEP|Pepsico, Inc. Common Stock|N|PEP|N|100|N|PEP
 PER|SandRidge Permian Trust Common Units of Benficial Interest|N|PER|N|100|N|PER
 PERM|Global X Permanent ETF|P|PERM|Y|100|N|PERM
@@ -4227,6 +4227,7 @@ SFY|Swift Energy Company (Holding Company) Common Stock|N|SFY|N|100|N|SFY
 SGA|Saga Communications, Inc. New Class A Common Stock|A|SGA|N|100|N|SGA
 SGAR|iPath Pure Beta Sugar ETN|P|SGAR|N|100|N|SGAR
 SGB|Southwest Georgia Financial Corporation Common Stock|A|SGB|N|100|N|SGB
+SGDJ|ALPS ETF Trust Sprott Junior Gold Miners ETF|P|SGDJ|Y|100|N|SGDJ
 SGDM|Sprott Gold Miners ETF|P|SGDM|Y|100|N|SGDM
 SGF|Aberdeen Singapore Fund, Inc. Common Stock|N|SGF|N|100|N|SGF
 SGG|iPath Bloomberg Sugar Subindex Total Return Sm Index ETN|P|SGG|N|100|N|SGG
@@ -5223,4 +5224,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0330201521:33||||||
+File Creation Time: 0331201521:33||||||
