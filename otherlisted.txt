@@ -1883,6 +1883,7 @@ GCV|Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock|N|GC
 GCV$B|Gabelli Convertible and Income Securities Fund, Inc. (The) Series B 6.00% Cumulative Preferred Stock|N|GCVpB|N|100|N|GCV-B
 GD|General Dynamics Corporation Common Stock|N|GD|N|100|N|GD
 GDAY|ProShares Ultra Australian Dollar|P|GDAY|Y|100|N|GDAY
+GDDY|GoDaddy Inc. Class A Common Stock|N|GDDY|N|100|N|GDDY
 GDF|Western Asset Global Partners Income Fund, Inc. Common Stock|N|GDF|N|100|N|GDF
 GDJJ|ProShares Ultra Junior Miners|P|GDJJ|Y|100|N|GDJJ
 GDJS|ProShares UltraShort Junior Miners ETF|P|GDJS|Y|100|N|GDJS
@@ -2625,7 +2626,7 @@ JLL|Jones Lang LaSalle Incorporated Common Stock|N|JLL|N|100|N|JLL
 JLS|Nuveen Mortgage Opportunity Term Fund Nuveen Mortgage Opportunity Term Fund|N|JLS|N|100|N|JLS
 JMEI|Jumei International Holding Limited American Depositary Shares, each representing one Class A ordinary share|N|JMEI|N|100|N|JMEI
 JMF|Nuveen Energy MLP Total Return Fund Common Shares of Beneficial Interest|N|JMF|N|100|N|JMF
-JMG.V|Journal Media Group, Inc. Common Stock When Issued|N|JMGw|N|100|N|JMG#
+JMG|Journal Media Group, Inc. Common Stock|N|JMG|N|100|N|JMG
 JMI|Javelin Mortgage Investment Corp. Common Stock|N|JMI|N|100|N|JMI
 JMLP|Nuveen All Cap Energy MLP Opportunities Fund Common Shares of Beneficial Interest|N|JMLP|N|100|N|JMLP
 JMM|Nuveen Multi-Market Income Fund (MA)|N|JMM|N|100|N|JMM
@@ -2666,7 +2667,6 @@ JPW|Nuveen Flexible Investment Income Fund Common Shares of Beneficial Interest|
 JPX|ProShares UltraShort MSCI Pacific ex-Japan|P|JPX|Y|100|N|JPX
 JQC|Nuveen Credit Strategies Income Fund Shares of Beneficial Interest|N|JQC|N|100|N|JQC
 JRI|Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest|N|JRI|N|100|N|JRI
-JRN|Journal Communications, Inc. Class A Common Stock|N|JRN|N|100|N|JRN
 JRO|Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest|N|JRO|N|100|N|JRO
 JRS|Nuveen Real Estate Income Fund Common Shares of Beneficial Interest|A|JRS|N|100|N|JRS
 JSC|SPDR Russell/Nomura Small Cap Japan|P|JSC|Y|100|N|JSC
@@ -3292,7 +3292,6 @@ NGVC|Natural Grocers by Vitamin Cottage, Inc. Common Stock|N|NGVC|N|100|N|NGVC
 NHC|National HealthCare Corporation Common Stock|A|NHC|N|100|N|NHC
 NHC$A|National HealthCare Corporation Series A Convertible Pfd Stk|A|NHCpA|N|100|N|NHC-A
 NHF|NexPoint Credit Strategies Fund|N|NHF|N|100|N|NHF
-NHF.V|NexPoint Credit Strategies Fund Common Shares Ex-Distribution When Issued|N|NHFw|N|100|N|NHF#
 NHI|National Health Investors, Inc. Common Stock|N|NHI|N|100|N|NHI
 NHS|Neuberger Berman High Yield Strategies Fund|A|NHS|N|100|N|NHS
 NI|NiSource Inc Common Stock|N|NI|N|100|N|NI
@@ -3441,7 +3440,7 @@ NXN|Nuveen New York Select Tax-Free Income Portfolio Common Stock|N|NXN|N|100|N|
 NXP|Nuveen Select Tax Free Income Portfolio Common Stock|N|NXP|N|100|N|NXP
 NXQ|Nuveen Select Tax Free Income Portfolio II Common Stock|N|NXQ|N|100|N|NXQ
 NXR|Nuveen Select Tax Free Income Portfolio III Common Stock|N|NXR|N|100|N|NXR
-NXRT.V|NexPoint Residential Trust, Inc. Common Stock When Issued|N|NXRTw|N|100|N|NXRT#
+NXRT|NexPoint Residential Trust, Inc. Common Stock|N|NXRT|N|100|N|NXRT
 NXZ|Nuveen Dividend Advantage Municipal Fund 2 Share of Beneficial Interest|A|NXZ|N|100|N|NXZ
 NYCB|New York Community Bancorp, Inc. Common Stock|N|NYCB|N|100|N|NYCB
 NYCB$U|New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)|N|NYCBpU|N|100|N|NYCB-U
@@ -4387,7 +4386,6 @@ SSN|Samson Oil & Gas Limited Sponsored ADR (Australia)|A|SSN|N|100|N|SSN
 SSNI|Silver Spring Networks, Inc. Common Stock|N|SSNI|N|100|N|SSNI
 SSO|ProShares Ultra S&P500|P|SSO|Y|100|N|SSO
 SSP|E.W. Scripps Company (The) Common Stock|N|SSP|N|100|N|SSP
-SSP.V|E.W. Scripps Company (The) Class A Common Shares Ex-Distributiuon When Issued|N|SSPw|N|100|N|SSP#
 SSS|Sovran Self Storage, Inc. Common Stock|N|SSS|N|100|N|SSS
 SST|SPDR Barclays Short Term Treasury ETF|P|SST|Y|100|N|SST
 SSTK|Shutterstock, Inc. Common Stock|N|SSTK|N|100|N|SSTK
@@ -4707,6 +4705,7 @@ TTF|Thai Fund, Inc. (The) Common Stock|N|TTF|N|100|N|TTF
 TTFS|TrimTabs Float Shrink ETF|P|TTFS|Y|100|N|TTFS
 TTI|Tetra Technologies, Inc. Common Stock|N|TTI|N|100|N|TTI
 TTM|Tata Motors Ltd Tata Motors Limited|N|TTM|N|100|N|TTM
+TTM.V|Tata Motors Ltd Rights When Issued|N|TTMrw|N|100|N|TTM^#
 TTP|Tortoise Pipeline & Energy Fund, Inc. Common Stock|N|TTP|N|100|N|TTP
 TTT|ProShares UltraPro Short 20 Year Treasury|P|TTT|Y|100|N|TTT
 TU|Telus Corporation Ordinary Shares|N|TU|N|100|N|TU
@@ -5224,4 +5223,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0331201521:33||||||
+File Creation Time: 0401201521:32||||||
