@@ -515,6 +515,7 @@ CFRXZ|ContraFect Corporation - Warrant|S|N|N|100
 CG|The Carlyle Group L.P. - Common Units|Q|N|N|100
 CGEN|Compugen Ltd. - Ordinary Shares|G|N|N|100
 CGIX|Cancer Genetics, Inc. - Common Stock|S|N|N|100
+CGNT|Cogentix Medical, Inc. - Common Stock|S|N|D|100
 CGNX|Cognex Corporation - Common Stock|Q|N|N|100
 CGO|Calamos Global Total Return Fund - Common Stock|Q|N|N|100
 CHCI|Comstock Holding Companies, Inc. - Class A Common Stock|S|N|N|100
@@ -1173,6 +1174,7 @@ GNMA|iShares Core GNMA Bond ETF|G|N|N|100
 GNMK|GenMark Diagnostics, Inc. - Common Stock|G|N|N|100
 GNTX|Gentex Corporation - Common Stock|Q|N|N|100
 GNVC|GenVec, Inc. - Common Stock|S|N|N|100
+GOGL|Golden Ocean Group Limited - Common Stock|Q|N|N|100
 GOGO|Gogo Inc. - Common Stock|Q|N|N|100
 GOLD|Randgold Resources Limited - American Depositary Shares each represented by one Ordinary Share|Q|N|N|100
 GOMO|Sungy Mobile Limited - American Depositary Shares|G|N|N|100
@@ -1227,6 +1229,7 @@ HBAN|Huntington Bancshares Incorporated - Common Stock|Q|N|N|100
 HBANP|Huntington Bancshares Incorporated - Non Cumulative Perp Conv Pfd Ser A|Q|N|N|10
 HBCP|Home Bancorp, Inc. - Common Stock|Q|N|N|100
 HBHC|Hancock Holding Company - Common Stock|Q|N|N|100
+HBHCL|Hancock Holding Company - 5.95% Subordinated Notes due 2045|Q|N|N|100
 HBIO|Harvard Bioscience, Inc. - Common Stock|G|N|N|100
 HBK|Hamilton Bancorp, Inc. - Common Stock|S|N|N|100
 HBMD|Howard Bancorp, Inc. - Common Stock|S|N|N|100
@@ -1253,7 +1256,7 @@ HEAR|Turtle Beach Corporation - Common Stock|G|N|N|100
 HEES|H&E Equipment Services, Inc. - Common Stock|Q|N|N|100
 HELE|Helen of Troy Limited - Common Stock|Q|N|N|100
 HEOP|Heritage Oaks Bancorp - Common Stock|S|N|N|100
-HERO|Hercules Offshore, Inc. - Common Stock|Q|N|N|100
+HERO|Hercules Offshore, Inc. - Common Stock|Q|N|D|100
 HFBC|HopFed Bancorp, Inc. - Common Stock|G|N|N|100
 HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock|S|N|N|100
 HFFC|HF Financial Corp. - Common Stock|G|N|N|100
@@ -1925,7 +1928,7 @@ OKSB|Southwest Bancorp, Inc. - Common Stock|Q|N|N|100
 OLBK|Old Line Bancshares, Inc. - Common Stock|S|N|N|100
 OLED|Universal Display Corporation - Common Stock|Q|N|N|100
 OMAB|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares|Q|N|N|100
-OMCL|Omnicell, Inc. - Common Stock|Q|N|E|100
+OMCL|Omnicell, Inc. - Common Stock|Q|N|N|100
 OMED|OncoMed Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 OMER|Omeros Corporation - Common Stock|G|N|N|100
 OMEX|Odyssey Marine Exploration, Inc. - Common Stock|S|N|D|100
@@ -2115,7 +2118,7 @@ PRTA|Prothena Corporation plc - Ordinary Shares|Q|N|N|100
 PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100
 PRTO|Proteon Therapeutics, Inc. - Common Stock|G|N|N|100
 PRTS|U.S. Auto Parts Network, Inc. - Common Stock|Q|N|N|100
-PRXI|Premier Exhibitions, Inc. - Common Stock|S|N|N|100
+PRXI|Premier Exhibitions, Inc. - Common Stock|S|N|D|100
 PRXL|PAREXEL International Corporation - Common Stock|Q|N|N|100
 PSAU|PowerShares Global Gold & Precious Metals Portfolio|G|N|N|100
 PSBH|PSB Holdings, Inc. - Common Stock|S|N|N|100
@@ -2737,7 +2740,6 @@ UNIS|Unilife Corporation - Common Stock|G|N|N|100
 UNTD|United Online, Inc. - Common Stock|Q|N|N|100
 UNTY|Unity Bancorp, Inc. - Common Stock|G|N|N|100
 UNXL|Uni-Pixel, Inc. - Common Stock|S|N|N|100
-UPI|Uroplasty, Inc. - Common Stock|S|N|N|100
 UPIP|Unwired Planet, Inc. - Common Stock|Q|N|D|100
 UPLD|Upland Software, Inc. - Common Stock|G|N|N|100
 URBN|Urban Outfitters, Inc. - Common Stock|Q|N|N|100
@@ -2765,7 +2767,7 @@ VA|Virgin America Inc. - Common Stock|Q|N|N|100
 VALU|Value Line, Inc. - Common Stock|S|N|N|100
 VALX|Validea Market Legends ETF|G|N|N|100
 VASC|Vascular Solutions, Inc. - Common Stock|Q|N|N|100
-VBFC|Village Bank and Trust Financial Corp. - Common Stock|S|N|D|100
+VBFC|Village Bank and Trust Financial Corp. - Common Stock|S|N|N|100
 VBIV|VBI Vaccines Inc. - Common Stock|S|N|N|100
 VBLT|Vascular Biogenics Ltd. - Ordinary Shares|G|N|N|100
 VBND|Vident Core U.S. Bond Strategy Fund|G|N|N|100
@@ -2776,6 +2778,7 @@ VCLT|Vanguard Long-Term Corporate Bond ETF|G|N|N|100
 VCSH|Vanguard Short-Term Corporate Bond ETF|G|N|N|100
 VCYT|Veracyte, Inc. - Common Stock|G|N|N|100
 VDSI|VASCO Data Security International, Inc. - Common Stock|S|N|N|100
+VDTH|Videocon d2h Limited - American Depositary Shares|Q|N|N|100
 VECO|Veeco Instruments Inc. - Common Stock|Q|N|N|100
 VGGL|Viggle Inc. - Common Stock|S|N|N|100
 VGIT|Vanguard Intermediate -Term Government Bond ETF|G|N|N|100
@@ -2796,7 +2799,6 @@ VIP|VimpelCom Ltd. - American Depositary Shares|Q|N|N|100
 VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100
 VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one Common Share|Q|N|N|100
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
-VLCCF|Knightsbridge Shipping Limited - Common Stock|Q|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|D|100
 VLYWW|Valley National Bancorp - Warrants 07/01/2015|S|N|N|100
@@ -2831,7 +2833,6 @@ VRTU|Virtusa Corporation - common stock|Q|N|N|100
 VRTX|Vertex Pharmaceuticals Incorporated - Common Stock|Q|N|N|100
 VSAR|Versartis, Inc. - Common Stock|Q|N|N|100
 VSAT|ViaSat, Inc. - Common Stock|Q|N|N|100
-VSCI|Vision-Sciences, Inc. - Common Stock|S|N|D|100
 VSCP|VirtualScopics, Inc. - Common Stock|S|N|N|100
 VSEC|VSE Corporation - Common Stock|Q|N|N|100
 VSTM|Verastem, Inc. - Common Stock|G|N|N|100
@@ -2899,6 +2900,7 @@ WMGI|Wright Medical Group, Inc. - Common Stock|Q|N|N|100
 WMGIZ|Wright Medical Group, Inc. - Contingent Value Right|G|N|N|100
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100
 WOOF|VCA Inc.  - Common Stock|Q|N|N|100
+WOWO|Wowo Limited - ADS|G|N|N|100
 WPCS|WPCS International Incorporated - Common Stock|S|N|D|100
 WPPGY|WPP plc - American Depositary Shares each representing five Ordinary Shares|Q|N|N|100
 WPRT|Westport Innovations Inc - Ordinary Shares|Q|N|N|100
@@ -2938,7 +2940,7 @@ XOOM|Xoom Corporation - Common Stock|Q|N|N|100
 XPLR|Xplore Technologies Corp - Common Stock|S|N|N|100
 XRAY|DENTSPLY International Inc. - Common Stock|Q|N|N|100
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100
-XXIA|Ixia - Common Stock|Q|N|E|100
+XXIA|Ixia - Common Stock|Q|N|N|100
 YDIV|First Trust International Multi-Asset Diversified Income Index Fund|G|N|N|100
 YDLE|Yodlee, Inc. - Common Stock|Q|N|N|100
 YHOO|Yahoo! Inc. - Common Stock|Q|N|N|100
@@ -2977,4 +2979,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0331201521:33|||||
+File Creation Time: 0401201521:32|||||
