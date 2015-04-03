@@ -325,7 +325,6 @@ AVB|AvalonBay Communities, Inc. Common Stock|N|AVB|N|100|N|AVB
 AVD|American Vanguard Corporation Common Stock ($0.10 Par Value)|N|AVD|N|100|N|AVD
 AVG|AVG Technologies N.V. Ordinary Shares|N|AVG|N|100|N|AVG
 AVH|Avianca Holdings S.A. American Depositary Shares (Each representing 8 preferred Shares)|N|AVH|N|100|N|AVH
-AVIV|Aviv REIT, Inc. Common Stock|N|AVIV|N|100|N|AVIV
 AVK|Advent Claymore Convertible Securities and Income Fund|N|AVK|N|100|N|AVK
 AVL|Avalon Rare Metals, Inc. Ordinary Shares (Canada)|A|AVL|N|100|N|AVL
 AVOL|Avolon Holdings Limited Common Shares|N|AVOL|N|100|N|AVOL
@@ -819,9 +818,9 @@ CLGX|CoreLogic, Inc. Common Stock|N|CLGX|N|100|N|CLGX
 CLH|Clean Harbors, Inc. Common Stock|N|CLH|N|100|N|CLH
 CLI|Mack-Cali Realty Corporation Common Stock|N|CLI|N|100|N|CLI
 CLM|Cornerstone Strategic Value Fund, Inc. New Common Stock|A|CLM|N|100|N|CLM
-CLNY|Colony Financial, Inc Common Stock|N|CLNY|N|100|N|CLNY
-CLNY$A|Colony Finl Inc Cum Red Perp Pfd Ser A %|N|CLNYpA|N|100|N|CLNY-A
-CLNY$B|Colony Financial, Inc Perp Pfd Ser B %|N|CLNYpB|N|100|N|CLNY-B
+CLNY|Colony Capital, Inc. Class A Common Stock|N|CLNY|N|100|N|CLNY
+CLNY$A|Colony Capital Inc. Cum Red Perp Pfd Ser A %|N|CLNYpA|N|100|N|CLNY-A
+CLNY$B|Colony Capital, Inc. Perp Pfd Ser B %|N|CLNYpB|N|100|N|CLNY-B
 CLR|Continental Resources, Inc. Common Stock|N|CLR|N|100|N|CLR
 CLS|Celestica, Inc. Common Stock|N|CLS|N|100|N|CLS
 CLV|Cliffs Natural Resources Inc. Depositary Shares Representing 1/40th Preferred Convertible Series A|N|CLV|N|100|N|CLV
@@ -2654,7 +2653,6 @@ JPIN|JPMorgan Diversified Return International Equity ETF|P|JPIN|Y|100|N|JPIN
 JPM|JP Morgan Chase & Co. Common Stock|N|JPM|N|100|N|JPM
 JPM$A|J P Morgan Chase & Co Depositary Shs Repstg 1/400 Pfd Ser P|N|JPMpA|N|100|N|JPM-A
 JPM$B|JP Morgan Chase & Co Depositary Shares Representing 1/400th Preferred Series T|N|JPMpB|N|100|N|JPM-B
-JPM$C|JPMorgan Chase Capital XXIX 6.70% Capital Securities, Series CC|N|JPMpC/CL|N|100|N|JPM-C*
 JPM$D|JPMorgan Chase Bank N A London Branch Depositary Shs Repstg 1/400th Pfd Ser O|N|JPMpD|N|100|N|JPM-D
 JPM$E|J P Morgan Chase & Co Depository Shares Representing 1/400th Int Perp Pfd Ser W|N|JPMpE|N|100|N|JPM-E
 JPM$F|J P Morgan Chase & Co Depositary Shares, each representing 1/400th interest in a share of 6.125% Non-Cumulative Preferred Stock, Series Y|N|JPMpF|N|100|N|JPM-F
@@ -3986,7 +3984,6 @@ RIGS|RiverFront Strategic Income Fund|P|RIGS|Y|100|N|RIGS
 RINF|ProShares 30 Year TIPS TYS Spread|P|RINF|Y|100|N|RINF
 RING|iShares MSCI Global Gold Miners Fund|P|RING|Y|100|N|RING
 RIO|Rio Tinto Plc Common Stock|N|RIO|N|100|N|RIO
-RIOM|Rio Alto Mining Limited Common Shares (Canada)|N|RIOM|N|100|N|RIOM
 RISE|Sit Rising Rate ETF|P|RISE|Y|100|N|RISE
 RIT|LMP Real Estate Income Fund Inc Common Stock|N|RIT|N|100|N|RIT
 RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product|P|RJA|N|100|N|RJA
@@ -5223,4 +5220,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0401201521:32||||||
+File Creation Time: 0402201521:33||||||
