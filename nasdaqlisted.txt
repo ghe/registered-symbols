@@ -825,7 +825,7 @@ DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|N|100
 DXPS|WisdomTree United Kingdom Hedged Equity Fund|G|N|N|100
 DXYN|The Dixie Group, Inc. - Common Stock|G|N|N|100
 DYAX|Dyax Corp. - Common Stock|G|N|N|100
-DYNT|Dynatronics Corporation - Common Stock|S|N|D|100
+DYNT|Dynatronics Corporation - Common Stock|S|N|N|100
 DYSL|Dynasil Corporation of America - Common Stock|S|N|N|100
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100
 EAC|Erickson Incorporated - Common Stock|G|N|D|100
@@ -1039,7 +1039,9 @@ FNJN|Finjan Holdings, Inc. - Common Stock|S|N|N|100
 FNLC|First Bancorp, Inc (ME) - Common Stock|Q|N|N|100
 FNRG|ForceField Energy Inc. - Common Stock|S|N|N|100
 FNSR|Finisar Corporation - Common Stock|Q|N|N|100
+FNTC|FinTech Acquisition Corp. - Common Stock|S|N|N|100
 FNTCU|FinTech Acquisition Corp. - Units|S|N|N|100
+FNTCW|FinTech Acquisition Corp. - Warrants|S|N|N|100
 FNWB|First Northwest Bancorp - Common Stock|G|N|N|100
 FOLD|Amicus Therapeutics, Inc. - Common Stock|G|N|N|100
 FOMX|Foamix Pharmaceuticals Ltd. - Ordinary Shares|G|N|N|100
@@ -1932,12 +1934,12 @@ OMCL|Omnicell, Inc. - Common Stock|Q|N|N|100
 OMED|OncoMed Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 OMER|Omeros Corporation - Common Stock|G|N|N|100
 OMEX|Odyssey Marine Exploration, Inc. - Common Stock|S|N|D|100
+ON|ON Semiconductor Corporation - Common Stock|Q|N|N|100
 ONB|Old National Bancorp - Common Stock|Q|N|N|100
 ONCE|Spark Therapeutics, Inc. - Common Stock|Q|N|N|100
 ONCY|Oncolytics Biotech, Inc. - Common Shares|S|N|D|100
 ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100
 ONFC|Oneida Financial Corp. - Common Stock|G|N|N|100
-ONNN|ON Semiconductor Corporation - Common Stock|Q|N|N|100
 ONTX|Onconova Therapeutics, Inc. - Common Stock|Q|N|N|100
 ONTY|Oncothyreon Inc. - Common Shares|Q|N|N|100
 ONVI|Onvia, Inc. - Common Stock|S|N|N|100
@@ -2978,4 +2980,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0402201521:33|||||
+File Creation Time: 0406201521:32|||||
