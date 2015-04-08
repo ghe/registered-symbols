@@ -1993,7 +1993,6 @@ GNAT|WisdomTree Global Natural Resources International Index|P|GNAT|Y|100|N|GNAT
 GNC|GNC Holdings, Inc. Class A Common Stock|N|GNC|N|100|N|GNC
 GNE|Genie Energy Ltd. Class B Common Stock Stock|N|GNE|N|100|N|GNE
 GNE$A|Genie Energy Ltd. Series 2012 - A Preferred Stock, $0.01 par value|N|GNEpA|N|100|N|GNE-A
-GNI|Great Northern Iron Ore Properties Common Stock|N|GNI|N|100|N|GNI
 GNR|SPDR S&P Global Natural Resources ETF|P|GNR|Y|100|N|GNR
 GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
 GNT|GAMCO Natural Resources, Gold & Income Trust|N|GNT|N|100|N|GNT
@@ -2384,7 +2383,7 @@ IGM|iShares North American Tech ETF|P|IGM|Y|100|N|IGM
 IGN|iShares North American Tech-Multimedia Networking ETF|P|IGN|Y|100|N|IGN
 IGR|CBRE Clarion Global Real Estate Income Fund Common Stock|N|IGR|N|100|N|IGR
 IGS|ProShares Short Investment Grade Corporate|P|IGS|Y|100|N|IGS
-IGT|International Game Technology Common Stock|N|IGT|N|100|N|IGT
+IGT|International Game Technology Ordinary Shares|N|IGT|N|100|N|IGT
 IGU|ProShares Ultra Investment Grade Corporate ETF|P|IGU|Y|100|N|IGU
 IGV|iShares North American Tech-Software ETF|P|IGV|Y|100|N|IGV
 IGZ|IGZ (Listing Market NYSE Arca Network B F) Common Stock|P|IGZ|N|100|Y|IGZ
@@ -5220,4 +5219,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0406201521:32||||||
+File Creation Time: 0407201521:32||||||
