@@ -466,7 +466,6 @@ CBRL|Cracker Barrel Old Country Store, Inc. - Common Stock|Q|N|N|100
 CBRX|Columbia Laboratories, Inc. - Common Stock|S|N|N|100
 CBSH|Commerce Bancshares, Inc. - Common Stock|Q|N|N|100
 CBSHP|Commerce Bancshares, Inc. - Depositary Shares, each representing a 1/1000th interest of 6.00% Series B Non-Cumulative Perpetual Preferred Stock|Q|N|N|100
-CBYL|Carbylan Therapeutics, Inc. - Common Stock|G|N|N|100
 CCBG|Capital City Bank Group - Common Stock|Q|N|N|100
 CCCL|China Ceramics Co., Ltd. - Common Stock|G|N|N|100
 CCCR|China Commercial Credit, Inc. - Common Stock|S|N|N|100
@@ -1004,7 +1003,7 @@ FFNM|First Federal of Northern Michigan Bancorp, Inc. - Common Stock|S|N|N|100
 FFNW|First Financial Northwest, Inc. - Common Stock|Q|N|N|100
 FFWM|First Foundation Inc. - Common Stock|G|N|N|100
 FGEN|FibroGen, Inc - Common Stock|Q|N|N|100
-FHCO|Female Health Company (The) - Common Stock|S|N|N|100
+FHCO|Female Health Company (The) - Common Stock|S|N|D|100
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100
 FINL|The Finish Line, Inc. - Class A Common Stock|Q|N|N|100
 FISH|Marlin Midstream Partners, LP - Common Units representing Limited Partner Interests.|G|N|N|100
@@ -2729,7 +2728,6 @@ UG|United-Guardian, Inc. - Common Stock|G|N|N|100
 UGLD|Credit Suisse AG - VelocityShares 3x Long Gold ETN|G|N|N|100
 UHAL|Amerco - Common Stock|Q|N|N|100
 UIHC|United Insurance Holdings Corp. - Common Stock|S|N|N|100
-UK|Recon Capital FTSE 100 ETF|G|N|N|100
 ULBI|Ultralife Corporation - Common Stock|G|N|N|100
 ULTA|Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock|Q|N|N|100
 ULTI|The Ultimate Software Group, Inc. - Common Stock|Q|N|N|100
@@ -2980,4 +2978,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0407201521:32|||||
+File Creation Time: 0408201521:33|||||
