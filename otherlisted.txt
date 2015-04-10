@@ -386,6 +386,7 @@ BALT|Baltic Trading Limited Common Stock|N|BALT|N|100|N|BALT
 BAM|Brookfield Asset Management Inc. Common Stock|N|BAM|N|100|N|BAM
 BANC|Banc of California, Inc. Common Stock|N|BANC|N|100|N|BANC
 BANC$C|Banc of California, Inc. Depositary Shares|N|BANCpC|N|100|N|BANC-C
+BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th interest in a share of 7.375% Non-Cumulative Perpetual Preferred Stock, Series D|N|BANCpD|N|100|N|BANC-D
 BAP|Credicorp Ltd. Common Stock|N|BAP|N|100|N|BAP
 BAR|Direxion Daily Gold Bull 3X Shares|P|BAR|Y|100|N|BAR
 BAS|Basic Energy Services, Inc. Common Stock|N|BAS|N|100|N|BAS
@@ -544,7 +545,6 @@ BOI|Brookfield Mortgage Opportunity Income Fund Inc. Common Stock|N|BOI|N|100|N|
 BOIL|ProShares Ultra Bloomberg Natural Gas|P|BOIL|Y|100|N|BOIL
 BOM|DB Base Metals Double Short Exchange Traded Notes due June 1, 2038|P|BOM|N|100|N|BOM
 BOND|PIMCO Total Return Active Exchange-Traded Fund|P|BOND|Y|100|N|BOND
-BONE|Bacterin International Holdings, Inc. Common Stock|A|BONE|N|100|N|BONE
 BOOT|Boot Barn Holdings, Inc. Common Stock|N|BOOT|N|100|N|BOOT
 BORN|China New Borun Corporation American Depositary Shares|N|BORN|N|100|N|BORN
 BOS|DB Base Metals Short Exchange Traded Notes due June 1, 2038|P|BOS|N|100|N|BOS
@@ -1057,6 +1057,7 @@ DBEM|Deutsche X-trackers MSCI Emerging Markets Hedged Equity ETF|P|DBEM|Y|100|N|
 DBEU|Deutsche X-Trackers MSCI Europe Hedged Equity ETF|P|DBEU|Y|100|N|DBEU
 DBEZ|Deutsche X-trackers MSCI EMU Hedged Equity ETF|P|DBEZ|Y|100|N|DBEZ
 DBGR|Deutsche X-trackers MSCI Germany Hedged Equity ETF|P|DBGR|Y|100|N|DBGR
+DBIF|Deutsche X-trackers S&P Hedged Global Infrastructure ETF|P|DBIF|Y|100|N|DBIF
 DBIZ|AdvisorShares Pring Turner Business Cycle ETF|P|DBIZ|Y|100|N|DBIZ
 DBJP|Deutsche X-trackers MSCI Japan Hedged Equity ETF|P|DBJP|Y|100|N|DBJP
 DBKO|Deutsche X-trackers MSCI South Korea Hedged Equity ETF|P|DBKO|Y|100|N|DBKO
@@ -1064,6 +1065,7 @@ DBL|DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest|N|
 DBMX|Deutsche X-trackers MSCI Mexico Hedged Equity ETF|P|DBMX|Y|100|N|DBMX
 DBO|PowerShares DB Oil Fund|P|DBO|Y|100|N|DBO
 DBP|PowerShares DB Precious Metals Fund|P|DBP|Y|100|N|DBP
+DBRE|Deutsche X-trackers Dow Jones Hedged International Real Estate ETF|P|DBRE|Y|100|N|DBRE
 DBS|PowerShares DB Silver Fund|P|DBS|Y|100|N|DBS
 DBU|WisdomTree Global ex-US Utility IndexInternational Utilities Sector Fund|P|DBU|Y|100|N|DBU
 DBUK|Deutsche X-Trackers MSCI United Kingdom Hedged Equity ETF|P|DBUK|Y|100|N|DBUK
@@ -1675,6 +1677,7 @@ FFA|First Trust Enhanced Equity Income Fund|N|FFA|N|100|N|FFA
 FFC|Flaherty & Crumrine Preferred Securities Income Fund Incorporated|N|FFC|N|100|N|FFC
 FFG|FBL Financial Group, Inc. Common Stock|N|FFG|N|100|N|FFG
 FFR|First Trust FTSE EPRA/NAREIT Global Real Estate Index Fund|P|FFR|Y|100|N|FFR
+FFTY|Innovator IBD 50 Fund ETF|P|FFTY|Y|100|N|FFTY
 FGB|First Trust Specialty Finance and Financial Opportunities Fund|N|FGB|N|100|N|FGB
 FGD|First Trust DJ Global Select Dividend|P|FGD|Y|100|N|FGD
 FGL|Fidelity & Guaranty Life Common Stock|N|FGL|N|100|N|FGL
@@ -2597,6 +2600,7 @@ JGBT|DB 3X Japanese Govt Bond Futures ETN|P|JGBT|N|100|N|JGBT
 JGH|Nuveen Global High Income Fund Common Shares of Beneficial Interest|N|JGH|N|100|N|JGH
 JGV|Nuveen Global Equity Income Fund|N|JGV|N|100|N|JGV
 JGW|J.G. Wentworth Company (The) Class A Common Stock|N|JGW|N|100|N|JGW
+JHDG|WisdomTree Japan Hedged Dividend Growth Fund|P|JHDG|Y|100|N|JHDG
 JHI|John Hancock Investors Trust Common Stock|N|JHI|N|100|N|JHI
 JHP|Nuveen Quality Preferred Income Fund 3 Preferred Income 3|N|JHP|N|100|N|JHP
 JHS|John Hancock Income Securities Trust Common Stock|N|JHS|N|100|N|JHS
@@ -5089,7 +5093,7 @@ WRB$B|W.R. Berkley Corporation 5.625% Subordinated Debentures due 2053|N|WRBpB|N
 WRE|Washington Real Estate Investment Trust Common Stock|N|WRE|N|100|N|WRE
 WREI|Wilshire US REIT|P|WREI|Y|100|N|WREI
 WRI|Weingarten Realty Investors Common Stock|N|WRI|N|100|N|WRI
-WRI$F|Weingarten Realty Investors Depository Shares Restg 1/100 Pfd Ser F|N|WRIpF|N|100|N|WRI-F
+WRI$F|Weingarten Realty Investors Depository Shares Restg 1/100 Pfd Ser F|N|WRIpF/CL|N|100|N|WRI-F*
 WRN|Western Copper and Gold Corporation Common Stock|A|WRN|N|100|N|WRN
 WRT|Winthrop Realty Trust 7.75% Senior Notes due 2022|N|WRT|N|100|N|WRT
 WSH|Willis Group Holdings Public Limited (Ireland) Common Stock|N|WSH|N|100|N|WSH
@@ -5154,6 +5158,7 @@ XPL|Solitario Exploration & Royalty Corp Common Stock|A|XPL|N|100|N|XPL
 XPO|XPO Logistics, Inc.|N|XPO|N|100|N|XPO
 XPP|ProShares Ultra FTSE China 50|P|XPP|Y|100|N|XPP
 XRA|Exeter Resource Corporation Ordinary Shares (Canada)|A|XRA|N|100|N|XRA
+XRLV|PowerShares S&P 500 ex-Rate Sensitive Low Volatility Portfolio|P|XRLV|Y|100|N|XRLV
 XRM|Xerium Technologies, Inc. New Common Stock|N|XRM|N|100|N|XRM
 XRS|TAL Education Group American Depositary Shares, each representing 2 Class A common shares|N|XRS|N|100|N|XRS
 XRT|SPDR S&P Retail ETF|P|XRT|Y|100|N|XRT
@@ -5220,4 +5225,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0408201521:33||||||
+File Creation Time: 0409201521:32||||||
