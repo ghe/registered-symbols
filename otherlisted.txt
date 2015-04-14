@@ -554,7 +554,6 @@ BP|BP p.l.c. Common Stock|N|BP|N|100|N|BP
 BPI|Bridgepoint Education, Inc.|N|BPI|N|100|N|BPI
 BPK|Blackrock Municipal 2018 Term Trust Blackrock Municipal 2018 Term Trust|N|BPK|N|100|N|BPK
 BPL|Buckeye Partners L.P. Common Stock|N|BPL|N|100|N|BPL
-BPS|BlackRock Pennsylvania Strategic Municipal Trust (The) Common Shares of Beneficial Interest|A|BPS|N|100|N|BPS
 BPT|BP Prudhoe Bay Royalty Trust Common Stock|N|BPT|N|100|N|BPT
 BPY|Brookfield Property Partners L.P. Limited Partnership Units|N|BPY|N|100|N|BPY
 BQH|Blackrock New York Municipal Bond Trust Common Shares of Beneficial Interest|N|BQH|N|100|N|BQH
@@ -1500,7 +1499,6 @@ ESRT|Empire State Realty Trust, Inc. Class A Common Stock|N|ESRT|N|100|N|ESRT
 ESS|Essex Property Trust, Inc. Common Stock|N|ESS|N|100|N|ESS
 ESS$H|Essex Property Trust, Inc. 7.125% Series H Cumulative Redeemable Preferred Stock|N|ESSpH|N|100|N|ESS-H
 ESTE|Earthstone Energy, Inc. Common Stock|A|ESTE|N|100|N|ESTE
-ESTX|Euro Stoxx 50 ETF|P|ESTX|Y|100|N|ESTX
 ESV|Ensco plc Class A Ordinary Shares|N|ESV|N|100|N|ESV
 ETAK|Elephant Talk Communication Corp. Delaware Common Stock|A|ETAK|N|100|N|ETAK
 ETB|Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest|N|ETB|N|100|N|ETB
@@ -3042,7 +3040,6 @@ MITT$B|AG Mortgage Investment Trust, Inc. Preferred Series B|N|MITTpB|N|100|N|MI
 MIW|Eaton Vance Michigan Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value|A|MIW|N|100|N|MIW
 MIXT|MiX Telematics Limited American Depositary Shares, each representing 25 Ordinary Shares|N|MIXT|N|100|N|MIXT
 MIY|Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock|N|MIY|N|100|N|MIY
-MJI|Blackrock MuniYield New Jersey Quality Fund, Inc. Common Stock|N|MJI|N|100|N|MJI
 MJN|Mead Johnson Nutrition Company Common Stock|N|MJN|N|100|N|MJN
 MKC|McCormick & Company, Incorporated Common Stock|N|MKC|N|100|N|MKC
 MKC.V|McCormick & Company, Incorporated Common Stock|N|MKC/V|N|100|N|MKC.V
@@ -3832,7 +3829,6 @@ PXR|PowerShares Global Emerging Markets Infrastructure|P|PXR|Y|100|N|PXR
 PXSC|PowerShares Fundamental Pure Small Core Portfolio|P|PXSC|Y|100|N|PXSC
 PXSG|PowerShares Fundamental Pure Small Growth Portfolio|P|PXSG|Y|100|N|PXSG
 PXSV|PowerShares Fundamental Pure Small Value Portfolio|P|PXSV|Y|100|N|PXSV
-PYB|PPlus Trust Series GSG-2 Tr Ctf Cl A|N|PYB/CL|N|100|N|PYB*
 PYN|PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest|N|PYN|N|100|N|PYN
 PYS|Merrill Lynch Depositor Inc PPlus Tr Ser RRD-1 Tr Ctf Cl A|N|PYS|N|100|N|PYS
 PYT|PPlus Tr GSC-2 Tr Ctf Fltg Rate|N|PYT|N|100|N|PYT
@@ -4706,7 +4702,7 @@ TTF|Thai Fund, Inc. (The) Common Stock|N|TTF|N|100|N|TTF
 TTFS|TrimTabs Float Shrink ETF|P|TTFS|Y|100|N|TTFS
 TTI|Tetra Technologies, Inc. Common Stock|N|TTI|N|100|N|TTI
 TTM|Tata Motors Ltd Tata Motors Limited|N|TTM|N|100|N|TTM
-TTM.V|Tata Motors Ltd Rights When Issued|N|TTMrw|N|100|N|TTM^#
+TTM.R|Tata Motors Ltd Rights|N|TTMr|N|100|N|TTM^
 TTP|Tortoise Pipeline & Energy Fund, Inc. Common Stock|N|TTP|N|100|N|TTP
 TTT|ProShares UltraPro Short 20 Year Treasury|P|TTT|Y|100|N|TTT
 TU|Telus Corporation Ordinary Shares|N|TU|N|100|N|TU
@@ -5225,4 +5221,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0410201521:32||||||
+File Creation Time: 0413201521:33||||||
