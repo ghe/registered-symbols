@@ -1953,6 +1953,7 @@ OPHT|Ophthotech Corporation - Common Stock|Q|N|N|100
 OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100
 OPTT|Ocean Power Technologies, Inc. - Common Stock|G|N|D|100
 OPXA|Opexa Therapeutics, Inc. - Common Stock|S|N|D|100
+OPXAW|Opexa Therapeutics, Inc. - Warrant|S|N|N|100
 ORBC|ORBCOMM Inc. - Common Stock|Q|N|N|100
 ORBK|Orbotech Ltd. - Ordinary Shares|Q|N|N|100
 OREX|Orexigen Therapeutics, Inc. - Common Stock|Q|N|N|100
@@ -2564,7 +2565,7 @@ SWSH|Swisher Hygiene, Inc. - Common Stock|S|N|N|100
 SYBT|Stock Yards Bancorp, Inc. - Common Stock|Q|N|N|100
 SYKE|Sykes Enterprises, Incorporated - Common Stock|Q|N|N|100
 SYMC|Symantec Corporation - Common Stock|Q|N|N|100
-SYMX|Synthesis Energy Systems, Inc. - Common Stock|G|N|D|100
+SYMX|Synthesis Energy Systems, Inc. - Common Stock|G|N|N|100
 SYNA|Synaptics Incorporated - Common Stock|Q|N|N|100
 SYNC|Synacor, Inc. - Common Stock|G|N|N|100
 SYNL|Synalloy Corporation - Common Stock|G|N|N|100
@@ -2982,4 +2983,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0413201521:33|||||
+File Creation Time: 0414201521:33|||||
