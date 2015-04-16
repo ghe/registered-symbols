@@ -57,6 +57,7 @@ ADP|Automatic Data Processing, Inc. - Common Stock|Q|N|N|100
 ADRA|BLDRS Asia 50 ADR Index Fund|G|N|N|100
 ADRD|BLDRS Developed Markets 100 ADR Index Fund|G|N|N|100
 ADRE|BLDRS Emerging Markets 50 ADR Index Fund|G|N|N|100
+ADRO|Aduro Biotech, Inc. - Common Stock|Q|N|N|100
 ADRU|BLDRS Europe 100 ADR Index Fund|G|N|N|100
 ADSK|Autodesk, Inc. - Common Stock|Q|N|N|100
 ADTN|ADTRAN, Inc. - Common Stock|Q|N|N|100
@@ -483,6 +484,7 @@ CDK|CDK Global, Inc. - Common Stock|Q|N|N|100
 CDNA|CareDx, Inc. - Common Stock|G|N|N|100
 CDNS|Cadence Design Systems, Inc. - Common Stock|Q|N|N|100
 CDTI|Clean Diesel Technologies, Inc. - Common Stock|S|N|N|100
+CDTX|Cidara Therapeutics, Inc. - Common Stock|G|N|N|100
 CDW|CDW Corporation - Common Stock|Q|N|N|100
 CDXS|Codexis, Inc. - Common Stock|Q|N|N|100
 CDZI|Cadiz, Inc. - Common Stock|G|N|N|100
@@ -937,7 +939,7 @@ EVK|Ever-Glory International Group, Inc. - Common Stock|G|N|N|100
 EVLV|EVINE Live Inc. - Common Stock|Q|N|N|100
 EVOK|Evoke Pharma, Inc. - Common Stock|S|N|N|100
 EVOL|Evolving Systems, Inc. - Common Stock|S|N|N|100
-EVRY|EveryWare Global, Inc. - Common Stock|G|N|D|100
+EVRY|EveryWare Global, Inc. - Common Stock|G|N|G|100
 EWBC|East West Bancorp, Inc. - Common Stock|Q|N|N|100
 EXA|Exa Corporation - Common Stock|G|N|N|100
 EXAC|Exactech, Inc. - Common Stock|Q|N|N|100
@@ -1211,7 +1213,7 @@ GTWN|Georgetown Bancorp, Inc. - Common Stock|S|N|N|100
 GTXI|GTx, Inc. - Common Stock|S|N|D|100
 GUID|Guidance Software, Inc. - Common Stock|G|N|N|100
 GULF|WisdomTree Middle East Dividend Fund|G|N|N|100
-GULTU|Gulf Coast Ultra Deep Royalty Trust - Royalty Trust Unit|S|N|N|100
+GULTU|Gulf Coast Ultra Deep Royalty Trust - Royalty Trust Unit|S|N|D|100
 GURE|Gulf Resources, Inc. - Common Stock|Q|N|N|100
 GWGH|GWG Holdings, Inc - Common Stock|S|N|N|100
 GWPH|GW Pharmaceuticals Plc - American Depositary Shares|G|N|N|100
@@ -2926,6 +2928,7 @@ WVVI|Willamette Valley Vineyards, Inc. - Common Stock|S|N|N|100
 WWD|Woodward, Inc. - Common Stock|Q|N|N|100
 WWWW|Web.com Group, Inc. - Common Stock|Q|N|N|100
 WYNN|Wynn Resorts, Limited - Common Stock|Q|N|N|100
+XBIT|XBiotech Inc. - Common Stock|Q|N|N|100
 XBKS|Xenith Bankshares, Inc. - Common Stock|S|N|N|100
 XCRA|Xcerra Corporation - Common Stock|Q|N|N|100
 XENE|Xenon Pharmaceuticals Inc. - Common Shares|G|N|N|100
@@ -2983,4 +2986,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0414201521:33|||||
+File Creation Time: 0415201521:32|||||
