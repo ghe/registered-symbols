@@ -273,6 +273,7 @@ ARMK|Aramark Common Stock|N|ARMK|N|100|N|ARMK
 ARO|Aeropostale Inc Common Stock|N|ARO|N|100|N|ARO
 ARP|Atlas Resource Partners, L.P. Common Units representing Limited Partner Interests|N|ARP|N|100|N|ARP
 ARP$D|Atlas Resource Partners, L.P. CUM RED PERP PDF UNIT CL D %|N|ARPpD|N|100|N|ARP-D
+ARP$E|Atlas Resource Partners, L.P. 10.75% Class E Cumulative Redeemable Perpetual Preferred Units|N|ARPpE|N|100|N|ARP-E
 ARPI|American Residential Properties, Inc. Common Stock|N|ARPI|N|100|N|ARPI
 ARR|ARMOUR Residential REIT, Inc.|N|ARR|N|100|N|ARR
 ARR$A|Armour Residential REIT INC Preferred Series A|N|ARRpA|N|100|N|ARR-A
@@ -820,6 +821,7 @@ CLM|Cornerstone Strategic Value Fund, Inc. New Common Stock|A|CLM|N|100|N|CLM
 CLNY|Colony Capital, Inc. Class A Common Stock|N|CLNY|N|100|N|CLNY
 CLNY$A|Colony Capital Inc. Cum Red Perp Pfd Ser A %|N|CLNYpA|N|100|N|CLNY-A
 CLNY$B|Colony Capital, Inc. Perp Pfd Ser B %|N|CLNYpB|N|100|N|CLNY-B
+CLNY$C|Colony Capital, Inc 7.125% Series C Cumulative Redeemable Perpetual Preferred Stock|N|CLNYpC|N|100|N|CLNY-C
 CLR|Continental Resources, Inc. Common Stock|N|CLR|N|100|N|CLR
 CLS|Celestica, Inc. Common Stock|N|CLS|N|100|N|CLS
 CLV|Cliffs Natural Resources Inc. Depositary Shares Representing 1/40th Preferred Convertible Series A|N|CLV|N|100|N|CLV
@@ -2411,7 +2413,7 @@ IJT|iShares S&P SmallCap 600 Growth ETF|P|IJT|Y|100|N|IJT
 IL|IntraLinks Holdings, Inc. Common Stock $0.001 par value|N|IL|N|100|N|IL
 ILB|PIMCO Global Advantage Inflation Linked Bond Active Exchange-Traded Fund|P|ILB|Y|100|N|ILB
 ILF|iShares Latin America 40 ETF|P|ILF|Y|100|N|ILF
-ILTB|iShares Core Long-Term USD Bond ETF|P|ILTB|Y|100|N|ILTB
+ILTB|iShares Core 10  Year USD Bond ETF|P|ILTB|Y|100|N|ILTB
 IM|Ingram Micro Inc. Common Stock|N|IM|N|100|N|IM
 IMAX|Imax Corporation Common Stock|N|IMAX|N|100|N|IMAX
 IMH|Impac Mortgage Holdings, Inc. Common Stock New|A|IMH|N|100|N|IMH
@@ -2504,7 +2506,7 @@ ISP|ING Groep NV 6.20% Perpetual Debt Securities (Netherlands)|N|ISP|N|100|N|ISP
 ISR|IsoRay, Inc. Common Stock|A|ISR|N|100|N|ISR
 ISRA|Market Vectors Israel ETF|P|ISRA|Y|100|N|ISRA
 IST|SPDR S&P International Telecommunications Sector ETF|P|IST|Y|100|N|IST
-ISTB|iShares Core Short-Term USD Bond ETF|P|ISTB|Y|100|N|ISTB
+ISTB|iShares Core 1-5 Year USD Bond ETF|P|ISTB|Y|100|N|ISTB
 IT|Gartner, Inc. Common Stock|N|IT|N|100|N|IT
 ITA|iShares U.S. Aerospace & Defense ETF|P|ITA|Y|100|N|ITA
 ITB|iShares U.S. Home Construction ETF|P|ITB|Y|100|N|ITB
@@ -3753,7 +3755,6 @@ PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
 PRY|Prospect Capital Corporation 6.95% Senior Notes due 2022|N|PRY|N|100|N|PRY
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
 PSA$A|Public Storage Depositary Shares each representing 1/1,000 of a 5.875% Cumulative Preferred SBI, Series A|N|PSApA|N|100|N|PSA-A
-PSA$O|Public Storage Depositary Shares Representing 1/1000% Cumulative Pfd Sh Ben Int Series O|N|PSApO/CL|N|100|N|PSA-O*
 PSA$P|Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)|N|PSApP|N|100|N|PSA-P
 PSA$Q|Public Storage DEPOSITARY SHS REPSTG 1/1000TH PFD SHS BEN INT SER Q|N|PSApQ|N|100|N|PSA-Q
 PSA$R|Public Storage Depository Sh Repstg 1/1000th Pfd Ser R|N|PSApR|N|100|N|PSA-R
@@ -5074,7 +5075,6 @@ WNS|WNS (Holdings) Limited Sponsored ADR (Jersey)|N|WNS|N|100|N|WNS
 WOR|Worthington Industries, Inc. Common Stock|N|WOR|N|100|N|WOR
 WPC|W.P. Carey Inc. REIT|N|WPC|N|100|N|WPC
 WPG|WP Glimcher Inc. Common Stock|N|WPG|N|100|N|WPG
-WPG$G|Washington Prime Group Inc. 8.125% Series G Cumulative Redeemable Preferred SBI|N|WPGpG/CL|N|100|N|WPG-G*
 WPG$H|Washington Prime Group Inc. 7.5% Series H Cumulative Redeemable Preferred SBI|N|WPGpH|N|100|N|WPG-H
 WPG$I|Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Preferred SBI|N|WPGpI|N|100|N|WPG-I
 WPP|Wausau Paper Corp. Common Stock|N|WPP|N|100|N|WPP
@@ -5220,4 +5220,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0414201521:33||||||
+File Creation Time: 0415201521:32||||||
