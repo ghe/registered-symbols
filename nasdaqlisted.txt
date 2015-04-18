@@ -422,7 +422,7 @@ CADTW|DT Asia Investments Limited - Warrant|S|N|N|100
 CAKE|The Cheesecake Factory Incorporated - Common Stock|Q|N|N|100
 CALA|Calithera Biosciences, Inc. - Common Stock|Q|N|N|100
 CALD|Callidus Software, Inc. - Common Stock|G|N|N|100
-CALI|China Auto Logistics Inc. - Common Stock|G|N|D|100
+CALI|China Auto Logistics Inc. - Common Stock|S|N|N|100
 CALL|magicJack VocalTec Ltd - Ordinary Shares|G|N|N|100
 CALM|Cal-Maine Foods, Inc. - Common Stock|Q|N|N|100
 CAMB|Cambridge Capital Acquisition Corporation - Common Stock|S|N|D|100
@@ -577,7 +577,7 @@ CLRBW|Cellectar Biosciences, Inc. - Warrants|S|N|N|100
 CLRO|ClearOne, Inc. - Common Stock|S|N|N|100
 CLRX|CollabRx, Inc. - Common Stock|S|N|N|100
 CLSN|Celsion Corporation - Common Stock|S|N|N|100
-CLTX|Celsus Therapeutics Plc - American Depositary Shares|S|N|N|100
+CLTX|Celsus Therapeutics Plc - American Depositary Shares|S|N|D|100
 CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|N|100
 CLVS|Clovis Oncology, Inc. - Common Stock|Q|N|N|100
 CLWT|Euro Tech Holdings Company Limited - Ordinary Shares|S|N|N|100
@@ -650,6 +650,7 @@ CPTA|Capitala Finance Corp. - Common Stock|Q|N|N|100
 CPXX|Celator Pharmaceuticals Inc. - Common Stock|S|N|N|100
 CRAI|CRA International,Inc. - Common Stock|Q|N|N|100
 CRAY|Cray Inc - Common Stock|Q|N|N|100
+CRBP|Corbus Pharmaceuticals Holdings, Inc. - Common Stock|S|N|N|100
 CRDC|Cardica, Inc. - Common Stock|G|N|D|100
 CRDS|Crossroads Systems, Inc. - Common Stock|S|N|N|100
 CRDT|WisdomTree Strategic Corporate Bond Fund|G|N|N|100
@@ -746,7 +747,7 @@ DAIO|Data I/O Corporation - Common Stock|S|N|N|100
 DAKT|Daktronics, Inc. - Common Stock|Q|N|N|100
 DARA|DARA Biosciences, Inc. - Common Stock|S|N|D|100
 DATE|Jiayuan.com International Ltd. - American Depositary Shares|Q|N|N|100
-DAVE|Famous Dave's of America, Inc. - Common Stock|Q|N|D|100
+DAVE|Famous Dave's of America, Inc. - Common Stock|Q|N|N|100
 DAX|Recon Capital DAX Germany ETF|G|N|N|100
 DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100
 DCIX|Diana Containerships Inc. - Common Shares|Q|N|N|100
@@ -930,6 +931,7 @@ ESSX|Essex Rental Corporation - Common Stock|S|N|N|100
 ESXB|Community Bankers Trust Corporation. - Common Stock|S|N|N|100
 ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100
 ETRM|EnteroMedics Inc. - Common Stock|S|N|N|100
+ETSY|Etsy, Inc. - Common Stock|Q|N|N|100
 EUFN|iShares MSCI Europe Financials Sector Index Fund|G|N|N|100
 EVAL|iShares MSCI Emerging Markets Value Index Fund|G|N|N|100
 EVAR|Lombard Medical, Inc. - Ordinary Shares|G|N|N|100
@@ -939,7 +941,6 @@ EVK|Ever-Glory International Group, Inc. - Common Stock|G|N|N|100
 EVLV|EVINE Live Inc. - Common Stock|Q|N|N|100
 EVOK|Evoke Pharma, Inc. - Common Stock|S|N|N|100
 EVOL|Evolving Systems, Inc. - Common Stock|S|N|N|100
-EVRY|EveryWare Global, Inc. - Common Stock|G|N|G|100
 EWBC|East West Bancorp, Inc. - Common Stock|Q|N|N|100
 EXA|Exa Corporation - Common Stock|G|N|N|100
 EXAC|Exactech, Inc. - Common Stock|Q|N|N|100
@@ -1516,6 +1517,7 @@ KLAC|KLA-Tencor Corporation - Common Stock|Q|N|N|100
 KLIC|Kulicke and Soffa Industries, Inc. - Common Stock|Q|N|N|100
 KLXI|KLX Inc. - Common Stock|Q|N|N|100
 KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100
+KMPH|KemPharm, Inc. - Common Stock|G|N|N|100
 KNDI|Kandi Technologies Group, Inc. - Common Stock|Q|N|N|100
 KONA|Kona Grill, Inc. - Common Stock|G|N|N|100
 KONE|Kingtone Wirelessinfo Solution Holding Ltd - American Depositary Shares|S|N|N|100
@@ -1892,6 +1894,7 @@ NVEE|NV5 Holdings, Inc. - Common Stock|S|N|N|100
 NVET|Nexvet Biopharma plc - Ordinary Shares|G|N|N|100
 NVFY|Nova Lifestyle, Inc - Common Stock|G|N|N|100
 NVGN|Novogen Limited - American Depositary Shares each representing twenty five Ordinary Shares|S|N|D|100
+NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|S|N|N|100
 NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares|Q|N|N|100
 NVSL|Naugatuck Valley Financial Corporation - Common Stock|G|N|N|100
 NWBI|Northwest Bancshares, Inc. - Common Stock|Q|N|N|100
@@ -2803,6 +2806,7 @@ VIIZ|Credit Suisse AG - VelocityShares VIX Medium Term ETN|G|N|N|100
 VIMC|Vimicro International Corporation - American depositary shares, each representing four ordinary shares|G|N|N|100
 VIP|VimpelCom Ltd. - American Depositary Shares|Q|N|N|100
 VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100
+VIRT|Virtu Financial, Inc. - Class A Common Stock|Q|N|N|100
 VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one Common Share|Q|N|N|100
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
@@ -2986,4 +2990,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0415201521:32|||||
+File Creation Time: 0417201521:32|||||
