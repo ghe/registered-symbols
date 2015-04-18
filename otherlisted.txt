@@ -172,9 +172,9 @@ ALLY|Ally Financial Inc. Common Stock|N|ALLY|N|100|N|ALLY
 ALLY$A|GMAC Capital Trust I Fixed Rate Floating Rate Trust Preferred Securities, Series 2|N|ALLYpA|N|100|N|ALLY-A
 ALLY$B|Ally Financial Inc Fixed Rate Floating Rate Perpetual Preferred Stock, Series A|N|ALLYpB|N|100|N|ALLY-B
 ALN|American Lorain Corporation Common Stock|A|ALN|N|100|N|ALN
-ALP$N|Alabama Power Company Preferred Stock|N|ALPpN|N|100|N|ALP-N
+ALP$N|Alabama Power Company Preferred Stock|N|ALPpN/CL|N|100|N|ALP-N*
 ALP$O|Alabama Power Company Preferred Stock|N|ALPpO|N|100|N|ALP-O
-ALP$P|Alabama Power Company 5.30% Cl A Pfd Stk|N|ALPpP|N|100|N|ALP-P
+ALP$P|Alabama Power Company 5.30% Cl A Pfd Stk|N|ALPpP/CL|N|100|N|ALP-P*
 ALR|Alere Inc. Common Stock|N|ALR|N|100|N|ALR
 ALR$B|Alere Inc. Inverness Medical Innovations, Inc. Series B Convertible Perpetual Preferred Stock|N|ALRpB|N|10|N|ALR-B
 ALSN|Allison Transmission Holdings, Inc. Common Stock|N|ALSN|N|100|N|ALSN
@@ -739,7 +739,6 @@ CELP|Cypress Energy Partners, L.P. Common Units representing limited partner int
 CEM|ClearBridge Energy MLP Fund Inc. Common Stock|N|CEM|N|100|N|CEM
 CEMB|iShares Emerging Markets Corporate Bond ETF|Z|CEMB|Y|100|N|CEMB
 CEN|Center Coast MLP & Infrastructure Fund Common Shares of Beneficial Interest|N|CEN|N|100|N|CEN
-CEN.R|Center Coast MLP & Infrastructure Fund Rights|N|CENr|N|100|N|CEN^
 CEO|CNOOC Limited Common Stock|N|CEO|N|100|N|CEO
 CEQP|Crestwood Equity Partners LP|N|CEQP|N|100|N|CEQP
 CET|Central Securities Corporation Common Stock|A|CET|N|100|N|CET
@@ -761,6 +760,7 @@ CGI|Celadon Group, Inc. Common Stock|N|CGI|N|100|N|CGI
 CGW|Guggenheim S&P Global Water|P|CGW|Y|100|N|CGW
 CH|Aberdeen Chile Fund, Inc. (The) Common Stock|A|CH|N|100|N|CH
 CHA|China Telecom Corp Ltd ADS|N|CHA|N|100|N|CHA
+CHAU|Direxion Daily CSI 300 China A Share Bull 2X Shares|P|CHAU|Y|100|N|CHAU
 CHD|Church & Dwight Company, Inc. Common Stock|N|CHD|N|100|N|CHD
 CHE|Chemed Corp|N|CHE|N|100|N|CHE
 CHEP|QuantShares U.S. Market Neutral Value Fund ETF|P|CHEP|Y|100|N|CHEP
@@ -2185,6 +2185,7 @@ HLF|Herbalife Ltd. Common Stock|N|HLF|N|100|N|HLF
 HLM$|Hillman Group Capital Trust Preferred Stock|A|HLMp|N|100|N|HLM-
 HLS|HealthSouth Corporation Common Stock|N|HLS|N|100|N|HLS
 HLT|Hilton Worldwide Holdings Inc. Common Stock|N|HLT|N|100|N|HLT
+HLTH|Nobilis Health Corp. Common Stock|A|HLTH|N|100|N|HLTH
 HLX|Helix Energy Solutions Group, Inc. Common Stock|N|HLX|N|100|N|HLX
 HMC|Honda Motor Company, Ltd. Common Stock|N|HMC|N|100|N|HMC
 HME|Home Properties, Inc. Common Stock|N|HME|N|100|N|HME
@@ -2432,6 +2433,7 @@ IND|ING Group, N.V. Perpetual Debt Securities|N|IND|N|100|N|IND
 INDA|Ishares MSCI India ETF|Z|INDA|Y|100|N|INDA
 INDL|Direxion Daily India Bull 3x Shares|P|INDL|Y|100|N|INDL
 INF|Brookfield Global Listed Infrastructure Income Fund Closed End Fund|N|INF|N|100|N|INF
+INF.V|Brookfield Global Listed Infrastructure Income Fund Rights Expiring 5/22/2015 (When Issued)|N|INFrw|N|100|N|INF^#
 INFU|InfuSystems Holdings, Inc. Common Stock|A|INFU|N|100|N|INFU
 INFY|Infosys Limited American Depositary Shares|N|INFY|N|100|N|INFY
 ING|ING Group, N.V. Common Stock|N|ING|N|100|N|ING
@@ -2773,8 +2775,8 @@ KRG|Kite Realty Group Trust Common Stock|N|KRG|N|100|N|KRG
 KRG$A|Kite Realty Group Trust PERP PFD SER A|N|KRGpA|N|100|N|KRG-A
 KRO|Kronos Worldwide Inc Common Stock|N|KRO|N|100|N|KRO
 KROO|IQ Australia Small Cap ETF|P|KROO|Y|100|N|KROO
-KRS|ProShares Short KBW Regional Banking|P|KRS|Y|100|N|KRS
-KRU|ProShares Ultra KBW Regional Banking|P|KRU|Y|100|N|KRU
+KRS|ProShares Short S&P Regional Banking|P|KRS|Y|100|N|KRS
+KRU|ProShares Ultra S&P Regional Banking|P|KRU|Y|100|N|KRU
 KS|KapStone Paper and Packaging Corporation Common Stock|N|KS|N|100|N|KS
 KSM|Deutsche Strategic Municiple Income Trust Common Shares of Beneficial Interest|N|KSM|N|100|N|KSM
 KSS|Kohl's Corporation Common Stock|N|KSS|N|100|N|KSS
@@ -3536,7 +3538,6 @@ PAG|Penske Automotive Group, Inc. Common Stock|N|PAG|N|100|N|PAG
 PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests|N|PAGP|N|100|N|PAGP
 PAH|Platform Specialty Products Corporation Common Stock|N|PAH|N|100|N|PAH
 PAI|Western Asset Income Fund Common Stock|N|PAI|N|100|N|PAI
-PAL|North American Palladium, Ltd. Common Stock|A|PAL|N|100|N|PAL
 PALL|ETFS Physical Palladium Shares|P|PALL|Y|100|N|PALL
 PAM|Pampa Energia S.A. Pampa Energia S.A.|N|PAM|N|100|N|PAM
 PANW|Palo Alto Networks, Inc. Common Stock|N|PANW|N|100|N|PANW
@@ -3751,8 +3752,9 @@ PRK|Park National Corporation Common Stock|A|PRK|N|100|N|PRK
 PRLB|Proto Labs, Inc. Common stock|N|PRLB|N|100|N|PRLB
 PRN|PowerShares DWA Industrials Momentum Portfolio|P|PRN|Y|100|N|PRN
 PRO|PROS Holdings, Inc. Common Stock|N|PRO|N|100|N|PRO
+PRTY|Party City Holdco Inc. Common Stock|N|PRTY|N|100|N|PRTY
 PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
-PRY|Prospect Capital Corporation 6.95% Senior Notes due 2022|N|PRY|N|100|N|PRY
+PRY|Prospect Capital Corporation 6.95% Senior Notes due 2022|N|PRY/CL|N|100|N|PRY*
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
 PSA$A|Public Storage Depositary Shares each representing 1/1,000 of a 5.875% Cumulative Preferred SBI, Series A|N|PSApA|N|100|N|PSA-A
 PSA$P|Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)|N|PSApP|N|100|N|PSA-P
@@ -3880,6 +3882,7 @@ QTWN|SPDR MSCI Taiwan Quality Mix ETF|P|QTWN|Y|100|N|QTWN
 QTWO|Q2 Holdings, Inc. Common Stock|N|QTWO|N|100|N|QTWO
 QUAD|Quad Graphics, Inc Class A Common Stock|N|QUAD|N|100|N|QUAD
 QUAL|iShares MSCI USA Quality Factor ETF|P|QUAL|Y|100|N|QUAL
+QUS|SPDR MSCI USA Quality Mix ETF|P|QUS|Y|100|N|QUS
 QVAL|ValueShares U.S. Quantitative Value ETF ETF|Z|QVAL|Y|100|N|QVAL
 QVM|Arrow QVM Equity Factor ETF|P|QVM|Y|100|N|QVM
 QWLD|SPDR MSCI World Quality Mix ETF|P|QWLD|Y|100|N|QWLD
@@ -5220,4 +5223,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0415201521:32||||||
+File Creation Time: 0417201521:32||||||
