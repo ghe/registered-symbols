@@ -671,6 +671,7 @@ CRVL|CorVel Corp. - Common Stock|Q|N|N|100
 CRWN|Crown Media Holdings, Inc. - Class A Common Stock|Q|N|N|100
 CRWS|Crown Crafts, Inc. - Common Stock|S|N|N|100
 CRZO|Carrizo Oil & Gas, Inc. - Common Stock|Q|N|N|100
+CSALV|Communications Sales & Leasing,Inc. - Common Stock When Issued|Q|N|N|100
 CSBK|Clifton Bancorp Inc. - Common Stock|Q|N|N|100
 CSCD|Cascade Microtech, Inc. - Common Stock|G|N|N|100
 CSCO|Cisco Systems, Inc. - Common Stock|Q|N|N|100
@@ -796,7 +797,7 @@ DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 DRRX|DURECT Corporation - Common Stock|G|N|N|100
 DRWI|DragonWave Inc - Common Shares|Q|N|D|100
 DRWIW|DragonWave Inc - Warrants|Q|N|N|100
-DRYS|DryShips Inc. - Common Stock|Q|N|N|100
+DRYS|DryShips Inc. - Common Stock|Q|N|D|100
 DSCI|Derma Sciences, Inc. - Common Stock|S|N|N|100
 DSCO|Discovery Laboratories, Inc. - Common Stock|S|N|N|100
 DSGX|The Descartes Systems Group Inc. - Common Stock|Q|N|N|100
@@ -1239,7 +1240,6 @@ HBIO|Harvard Bioscience, Inc. - Common Stock|G|N|N|100
 HBK|Hamilton Bancorp, Inc. - Common Stock|S|N|N|100
 HBMD|Howard Bancorp, Inc. - Common Stock|S|N|N|100
 HBNC|Horizon Bancorp (IN) - Common Stock|Q|N|N|100
-HBNK|Hampden Bancorp, Inc. - common stock|G|N|N|100
 HBOS|Heritage Financial Group - Common Stock|Q|N|N|100
 HBP|Huttig Building Products, Inc. - Common Stock|S|N|N|100
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100
@@ -1287,7 +1287,7 @@ HMTV|Hemisphere Media Group, Inc. - Class A Common Stock|G|N|N|100
 HNH|Handy & Harman Ltd. - Common Stock|S|N|N|100
 HNNA|Hennessy Advisors, Inc. - Common Stock|S|N|N|100
 HNRG|Hallador Energy Company - Common Stock|S|N|N|100
-HNSN|Hansen Medical, Inc. - Common Stock|G|N|N|100
+HNSN|Hansen Medical, Inc. - Common Stock|G|N|D|100
 HOFT|Hooker Furniture Corporation - Common Stock|Q|N|N|100
 HOLI|Hollysys Automation Technologies, Ltd. - Common Stock|Q|N|N|100
 HOLX|Hologic, Inc. - Common Stock|Q|N|N|100
@@ -2897,6 +2897,7 @@ WILC|G. Willi-Food International,  Ltd. - Ordinary Shares|S|N|N|100
 WILN|Wi-LAN Inc - Common Shares|Q|N|N|100
 WIN|Windstream Holdings, Inc. - Common Stock|Q|N|N|100
 WINA|Winmark Corporation - Common Stock|G|N|N|100
+WINVV|Windstream Holdings, Inc. - Common Stock Ex-Distribution When-Issued|Q|N|N|100
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100
 WLB|Westmoreland Coal Company - Common Stock|G|N|N|100
@@ -2990,4 +2991,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0417201521:32|||||
+File Creation Time: 0420201521:32|||||
