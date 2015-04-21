@@ -1238,7 +1238,6 @@ DTN|WisdomTree Dividend Ex-Financials Fund|P|DTN|Y|100|N|DTN
 DTO|DB Crude Oil Double Short ETN due June 1, 2038|P|DTO|N|100|N|DTO
 DTQ|DTE Energy Company 2012 Series C 5.25% Junior Subordinate Debentures due December 1, 2062|N|DTQ|N|100|N|DTQ
 DTZ|DTE Energy Company 2011 Series I 6.50% Junior Subordinate Debentures due 2061|N|DTZ|N|100|N|DTZ
-DUA|Deutsche Bank Cap Fdg Tr VIII 6.375% Tr Pfd Secs|N|DUA/CL|N|100|N|DUA*
 DUC|Duff & Phelps Utility & Corporate Bond Trust, Inc. Common Stock|N|DUC|N|100|N|DUC
 DUG|ProShares UltraShort Oil & Gas|P|DUG|Y|100|N|DUG
 DUK|Duke Energy Corporation (Holding Company) Common Stock|N|DUK|N|100|N|DUK
@@ -3410,7 +3409,6 @@ NTN|NTN Buzztime, Inc. Common Stock|A|NTN|N|100|N|NTN
 NTP|Nam Tai Property Inc. Common Stock|N|NTP|N|100|N|NTP
 NTT|Nippon Telegraph and Telephone Corporation Common Stock|N|NTT|N|100|N|NTT
 NTX|Nuveen Texas Quality Income Municipal Fund Common Stock|N|NTX|N|100|N|NTX
-NTX$C|Nuveen Texas Quality Income Municipal Fund Munifund Term Pfd Shs Ser 2013|N|NTXpC/CL|N|100|N|NTX-C*
 NTZ|Natuzzi, S.p.A.|N|NTZ|N|100|N|NTZ
 NUE|Nucor Corporation Common Stock|N|NUE|N|100|N|NUE
 NUGT|Direxion Daily Gold Miners Index Bull 3X Shares|P|NUGT|Y|100|N|NUGT
@@ -3839,8 +3837,7 @@ PZA|PowerShares National AMT-Free Municipal Bond Portfolio|P|PZA|Y|100|N|PZA
 PZC|PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest|N|PZC|N|100|N|PZC
 PZD|PowerShares Cleantech Portfolio|P|PZD|Y|100|N|PZD
 PZE|Petrobras Argentina S.A. ADS|N|PZE|N|100|N|PZE
-PZG|Paramount Gold and Silver Corp. Common Stock|A|PZG|N|100|N|PZG
-PZG.V|Paramount Gold Nevada Corp. Common Stock When Issued|A|PZGw|N|100|N|PZG#
+PZG|Paramount Gold Nevada Corp. Common Stock|A|PZG|N|100|N|PZG
 PZI|PowerShares Zacks Micro Cap|P|PZI|Y|100|N|PZI
 PZN|Pzena Investment Management Inc Class A Common Stock|N|PZN|N|100|N|PZN
 PZT|PowerShares New York AMT-Free Municipal Bond Portfolio|P|PZT|Y|100|N|PZT
@@ -5223,4 +5220,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0417201521:32||||||
+File Creation Time: 0420201521:32||||||
