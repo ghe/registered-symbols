@@ -1136,7 +1136,7 @@ DHI|D.R. Horton, Inc. Common Stock|N|DHI|N|100|N|DHI
 DHR|Danaher Corporation Common Stock|N|DHR|N|100|N|DHR
 DHS|WisdomTree High-Yielding Equity Fund|P|DHS|Y|100|N|DHS
 DHT|DHT Holdings, Inc.|N|DHT|N|100|N|DHT
-DHX|Dice Holdings, Inc. Common Stock|N|DHX|N|100|N|DHX
+DHX|DHI Group, Inc. Common Stock|N|DHX|N|100|N|DHX
 DHY|Credit Suisse High Yield Bond Fund Common Stock|A|DHY|N|100|N|DHY
 DI|PIMCO Diversified Income Active Exchange-Traded Fund|P|DI|Y|100|N|DI
 DIA|SPDR Dow Jones Industrial Average ETF|P|DIA|Y|100|N|DIA
@@ -4642,6 +4642,7 @@ TOLZ|ProShares DJ Brookfield Global Infrastructure ETF|P|TOLZ|Y|100|N|TOLZ
 TONS|GreenHaven Coal Fund ETV|P|TONS|Y|100|N|TONS
 TOO|Teekay Offshore Partners L.P. Common Units representing Limited Partner Interests|N|TOO|N|100|N|TOO
 TOO$A|Teekay Offshore Partners L.P. 7.25% Series A Redeemable Preferred Units|N|TOOpA|N|100|N|TOO-A
+TOO$B|Teekay Offshore Partners L.P. 8.50% Series B Cumulative Redeemable Preferred Units, representing limited partner interests|N|TOOpB|N|100|N|TOO-B
 TOT|Total S.A.|N|TOT|N|100|N|TOT
 TOTL|SPDR DoubleLine Total Return Tactical ETF|P|TOTL|Y|100|N|TOTL
 TOTS|Direxion Daily Total Market Bear 1X Shares|P|TOTS|Y|100|N|TOTS
@@ -5220,4 +5221,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0420201521:32||||||
+File Creation Time: 0421201521:32||||||
