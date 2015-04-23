@@ -166,7 +166,7 @@ ANDE|The Andersons, Inc. - Common Stock|Q|N|N|100
 ANGI|Angie's List, Inc. - Common Stock|Q|N|N|100
 ANGO|AngioDynamics, Inc. - Common Stock|Q|N|N|100
 ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100
-ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|N|100
+ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|D|100
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100
 ANTH|Anthera Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANY|Sphere 3D Corp. - Common Shares|G|N|N|100
@@ -227,7 +227,7 @@ ASTC|Astrotech Corporation - Common Stock|S|N|N|100
 ASTE|Astec Industries, Inc. - Common Stock|Q|N|N|100
 ASTI|Ascent Solar Technologies, Inc. - Common Stock|S|N|N|100
 ASUR|Asure Software Inc - Common Stock|S|N|N|100
-ASYS|Amtech Systems, Inc. - Common Stock|Q|N|D|100
+ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100
 ATAI|ATA Inc. - American Depositary Shares, each representing two common shares|G|N|N|100
 ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests|Q|N|N|100
 ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100
@@ -1398,7 +1398,7 @@ INDY|iShares S&P India Nifty 50 Index Fund|G|N|N|100
 INFA|Informatica Corporation - Common Stock|Q|N|N|100
 INFI|Infinity Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 INFN|Infinera Corporation - Common Stock|Q|N|N|100
-INGN|Inogen, Inc - Common Stock|Q|N|N|100
+INGN|Inogen, Inc - Common Stock|Q|N|E|100
 ININ|Interactive Intelligence Group, Inc. - Common Stock|Q|N|N|100
 INNL|Innocoll AG - American Depositary Share|G|N|N|100
 INO|Inovio Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -1911,7 +1911,7 @@ NXTD|NXT-ID Inc. - Common Stock|S|N|N|100
 NXTDW|NXT-ID Inc. - Warrant|S|N|N|100
 NXTM|NxStage Medical, Inc. - Common Stock|Q|N|N|100
 NYMT|New York Mortgage Trust, Inc. - Common Stock|Q|N|N|100
-NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock|S|N|N|100
+NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock|Q|N|N|100
 NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|D|100
 NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100
@@ -2150,7 +2150,7 @@ PSIX|Power Solutions International, Inc. - Common Stock|S|N|D|100
 PSMT|PriceSmart, Inc. - Common Stock|Q|N|N|100
 PSTB|Park Sterling Corporation - Common Stock|Q|N|N|100
 PSTI|Pluristem Therapeutics, Inc. - Common Stock|S|N|N|100
-PSTR|PostRock Energy Corporation - Common Stock|G|N|D|100
+PSTR|PostRock Energy Corporation - Common Stock|G|N|N|100
 PSUN|Pacific Sunwear of California, Inc. - Common Stock|Q|N|N|100
 PTBI|PlasmaTech Biopharmaceuticals, Inc. - Common Stock|S|N|N|100
 PTBIW|PlasmaTech Biopharmaceuticals, Inc. - Warrant|S|N|N|100
@@ -2425,7 +2425,7 @@ SIRO|Sirona Dental Systems, Inc. - Common Stock|Q|N|N|100
 SIVB|SVB Financial Group - Common Stock|Q|N|N|100
 SIVBO|SVB Financial Group - 7% Cumulative Trust Preferred Securities - SVB Capital II|Q|N|N|100
 SIXD|6D Global Technologies, Inc. - Common Stock|S|N|N|100
-SKBI|Skystar Bio-Pharmaceutical Company - Common Stock|S|N|N|100
+SKBI|Skystar Bio-Pharmaceutical Company - Common Stock|S|N|E|100
 SKIS|Peak Resorts, Inc. - Common Stock|G|N|N|100
 SKOR|FlexShares Credit-Scored US Corporate Bond Index Fund|G|N|N|100
 SKUL|Skullcandy, Inc. - Common Stock|Q|N|N|100
@@ -2812,7 +2812,7 @@ VIRT|Virtu Financial, Inc. - Class A Common Stock|Q|N|N|100
 VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one Common Share|Q|N|N|100
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
-VLTC|Voltari Corporation - Common Stock|S|N|D|100
+VLTC|Voltari Corporation - Common Stock|S|N|N|100
 VLYWW|Valley National Bancorp - Warrants 07/01/2015|S|N|N|100
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100
 VNDA|Vanda Pharmaceuticals Inc. - Common Stock|G|N|N|100
@@ -2993,4 +2993,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0421201521:32|||||
+File Creation Time: 0422201521:33|||||
