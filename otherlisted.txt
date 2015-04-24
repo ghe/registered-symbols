@@ -668,7 +668,6 @@ CAFE|iPath Pure Beta Coffee ETN|P|CAFE|N|100|N|CAFE
 CAG|ConAgra Foods, Inc. Common Stock|N|CAG|N|100|N|CAG
 CAH|Cardinal Health, Inc. Common Stock|N|CAH|N|100|N|CAH
 CAJ|Canon, Inc. American Depositary Shares|N|CAJ|N|100|N|CAJ
-CAK|CAMAC Energy Inc.|A|CAK|N|100|N|CAK
 CALX|Calix, Inc Common Stock|N|CALX|N|100|N|CALX
 CAM|Cameron International Corporation Common Stock|N|CAM|N|100|N|CAM
 CANE|Teucrium Sugar Fund ETV|P|CANE|Y|100|N|CANE
@@ -1482,6 +1481,7 @@ ERC|Wells Fargo Advantage Multi-Sector Income Fund Common Stock, no par value|A|
 ERF|Enerplus Corporation Common Stock|N|ERF|N|100|N|ERF
 ERH|Wells Fargo Advantage Utilities and High Income Fund|A|ERH|N|100|N|ERH
 ERJ|Embraer S.A. Common Stock|N|ERJ|N|100|N|ERJ
+ERN|Erin Energy Corp.|A|ERN|N|100|N|ERN
 ERO|Barclays PLC iPath EUR/USD Exchange Rate ETN|P|ERO|N|100|N|ERO
 EROS|Eros International PLC A Ordinary Shares|N|EROS|N|100|N|EROS
 ERUS|iShares MSCI Russia Capped ETF New|P|ERUS|Y|100|N|ERUS
@@ -2432,7 +2432,7 @@ IND|ING Group, N.V. Perpetual Debt Securities|N|IND|N|100|N|IND
 INDA|Ishares MSCI India ETF|Z|INDA|Y|100|N|INDA
 INDL|Direxion Daily India Bull 3x Shares|P|INDL|Y|100|N|INDL
 INF|Brookfield Global Listed Infrastructure Income Fund Closed End Fund|N|INF|N|100|N|INF
-INF.V|Brookfield Global Listed Infrastructure Income Fund Rights Expiring 5/22/2015 (When Issued)|N|INFrw|N|100|N|INF^#
+INF.R|Brookfield Global Listed Infrastructure Income Fund Rights Expiring 5/22/2015|N|INFr|N|100|N|INF^
 INFU|InfuSystems Holdings, Inc. Common Stock|A|INFU|N|100|N|INFU
 INFY|Infosys Limited American Depositary Shares|N|INFY|N|100|N|INFY
 ING|ING Group, N.V. Common Stock|N|ING|N|100|N|ING
@@ -3388,6 +3388,7 @@ NRP|Natural Resource Partners LP Limited Partnership|N|NRP|N|100|N|NRP
 NRT|North European Oil Royality Trust Common Stock|N|NRT|N|100|N|NRT
 NRZ|New Residential Investment Corp. Common Stock|N|NRZ|N|100|N|NRZ
 NS|Nustar Energy L.P.  Common Units|N|NS|N|100|N|NS
+NSA|National Storage Affiliates Trust Common Shares of Beneficial Interest|N|NSA|N|100|N|NSA
 NSAM|NorthStar Asset Management Group, Inc. Common Stock|N|NSAM|N|100|N|NSAM
 NSAT|Norsat International Inc. (NEW) Common Stock|A|NSAT|N|100|N|NSAT
 NSC|Norfolk Southern Corporation Common Stock|N|NSC|N|100|N|NSC
@@ -3536,6 +3537,7 @@ PAG|Penske Automotive Group, Inc. Common Stock|N|PAG|N|100|N|PAG
 PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests|N|PAGP|N|100|N|PAGP
 PAH|Platform Specialty Products Corporation Common Stock|N|PAH|N|100|N|PAH
 PAI|Western Asset Income Fund Common Stock|N|PAI|N|100|N|PAI
+PAK|Global X MSCI Pakistan ETF|P|PAK|Y|100|N|PAK
 PALL|ETFS Physical Palladium Shares|P|PALL|Y|100|N|PALL
 PAM|Pampa Energia S.A. Pampa Energia S.A.|N|PAM|N|100|N|PAM
 PANW|Palo Alto Networks, Inc. Common Stock|N|PANW|N|100|N|PANW
@@ -5221,4 +5223,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0422201521:33||||||
+File Creation Time: 0423201521:32||||||
