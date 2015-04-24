@@ -535,7 +535,7 @@ CHKP|Check Point Software Technologies Ltd. - Ordinary Shares|Q|N|N|100
 CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|D|100
 CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100
 CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100
-CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|D|100
+CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|N|100
 CHRS|Coherus BioSciences, Inc. - Common Stock|G|N|N|100
 CHRW|C.H. Robinson Worldwide, Inc. - Common Stock|Q|N|N|100
 CHSCL|CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4|Q|N|N|100
@@ -1580,7 +1580,7 @@ LINC|Lincoln Educational Services Corporation - Common Stock|Q|N|N|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
 LION|Fidelity Southern Corporation - Common Stock|Q|N|N|100
 LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
-LIQD|Liquid Holdings Group, Inc. - Common Stock|G|N|D|100
+LIQD|Liquid Holdings Group, Inc. - Common Stock|G|N|H|100
 LIVE|LiveDeal, Inc. - Common Stock|S|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
@@ -1866,7 +1866,7 @@ NRIM|Northrim BanCorp Inc - Common Stock|Q|N|N|100
 NRX|NephroGenex, Inc. - Common Stock|S|N|N|100
 NSEC|National Security Group, Inc. - Common Stock|G|N|N|100
 NSIT|Insight Enterprises, Inc. - Common Stock|Q|N|N|100
-NSPH|Nanosphere, Inc. - Common Stock|S|N|D|100
+NSPH|Nanosphere, Inc. - Common Stock|S|N|N|100
 NSSC|NAPCO Security Technologies, Inc. - Common Stock|Q|N|N|100
 NSTG|NanoString Technologies, Inc. - Common Stock|G|N|N|100
 NSYS|Nortech Systems Incorporated - Common Stock|S|N|N|100
@@ -2993,4 +2993,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0422201521:33|||||
+File Creation Time: 0423201521:32|||||
