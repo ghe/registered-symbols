@@ -174,6 +174,7 @@ AOSL|Alpha and Omega Semiconductor Limited - Common Shares|Q|N|N|100
 APDN|Applied DNA Sciences Inc - Common Stock|S|N|N|100
 APDNW|Applied DNA Sciences Inc - Warrant|S|N|N|100
 APEI|American Public Education, Inc. - Common Stock|Q|N|N|100
+APIC|Apigee Corporation - Common Stock|Q|N|N|100
 APOG|Apogee Enterprises, Inc. - Common Stock|Q|N|N|100
 APOL|Apollo Education Group, Inc. - Class A Common Stock|Q|N|N|100
 APPS|Digital Turbine, Inc. - Common Stock|S|N|N|100
@@ -394,7 +395,7 @@ BSFT|BroadSoft, Inc. - Common Stock|Q|N|N|100
 BSPM|Biostar Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 BSQR|BSQUARE Corporation - Common Stock|G|N|N|100
 BSRR|Sierra Bancorp - Common Stock|Q|N|N|100
-BSTC|BioSpecifics Technologies Corp - Common Stock|G|N|D|100
+BSTC|BioSpecifics Technologies Corp - Common Stock|G|N|N|100
 BUR|Burcon NutraScience Corp - Ordinary Shares|G|N|N|100
 BUSE|First Busey Corporation - Common Stock|Q|N|N|100
 BV|Bazaarvoice, Inc. - Common Stock|Q|N|N|100
@@ -497,7 +498,7 @@ CEMP|Cempra, Inc. - Common Stock|Q|N|N|100
 CENT|Central Garden & Pet Company - Common Stock|Q|N|N|100
 CENTA|Central Garden & Pet Company - Class A Common Stock Nonvoting|Q|N|N|100
 CENX|Century Aluminum Company - Common Stock|Q|N|N|100
-CERE|Ceres, Inc. - Common Stock|S|N|D|100
+CERE|Ceres, Inc. - Common Stock|S|N|N|100
 CERN|Cerner Corporation - Common Stock|Q|N|N|100
 CERS|Cerus Corporation - Common Stock|G|N|N|100
 CERU|Cerulean Pharma Inc. - Common Stock|G|N|N|100
@@ -2811,6 +2812,7 @@ VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100
 VIRT|Virtu Financial, Inc. - Class A Common Stock|Q|N|N|100
 VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one Common Share|Q|N|N|100
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
+VKTX|Viking Therapeutics, Inc. - Common Stock|G|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|N|100
 VLYWW|Valley National Bancorp - Warrants 07/01/2015|S|N|N|100
@@ -2993,4 +2995,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0423201521:32|||||
+File Creation Time: 0424201521:33|||||
