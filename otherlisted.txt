@@ -2749,7 +2749,6 @@ KMX|CarMax Inc|N|KMX|N|100|N|KMX
 KN|Knowles Corporation Common Stock|N|KN|N|100|N|KN
 KND|Kindred Healthcare, Inc. Common Stock|N|KND|N|100|N|KND
 KNL|Knoll, Inc. Common Stock|N|KNL|N|100|N|KNL
-KNM|Konami Corporation American Depositary Shares (Each repstg one share of Common Stock)|N|KNM|N|100|N|KNM
 KNOP|KNOT Offshore Partners LP Common Units representing Limited Partner Interests|N|KNOP|N|100|N|KNOP
 KNOW|Direxion All Cap Insider Sentiment Shares|P|KNOW|Y|100|N|KNOW
 KNX|Knight Transportation, Inc. Common Stock|N|KNX|N|100|N|KNX
@@ -3022,7 +3021,6 @@ MHR|Magnum Hunter Resources Corporation|N|MHR|N|100|N|MHR
 MHR$C|Magnum Hunter Resources Corporation 10.25% Series C Cumulative Perpetual Preferred Stock|A|MHRpC|N|100|N|MHR-C
 MHR$D|Magnum Hunter Resources Corporation 8.0% Series D Cumulative Preferred Stock|A|MHRpD|N|100|N|MHR-D
 MHR$E|Magnum Hunter Resources Corporation Depositary Shares, each representing a 1/1000th interest in a share of 8.0% Series E Cumulative Convertible Preferred Stock|A|MHRpE|N|100|N|MHR-E
-MHW|Bank of America Corporation MITTS Linked to the Dow Jones Industrial Average|P|MHW|N|100|N|MHW
 MHY|Western Asset Managed High Income Fund, Inc. Common Stock|N|MHY|N|100|N|MHY
 MIC|Macquarie Infrastructure Company LLC (New) Shares representing one Limited Liability Interest|N|MIC|N|100|N|MIC
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
@@ -5223,4 +5221,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0423201521:32||||||
+File Creation Time: 0424201521:33||||||
