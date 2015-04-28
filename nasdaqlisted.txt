@@ -390,7 +390,7 @@ BRKR|Bruker Corporation - Common Stock|Q|N|N|100
 BRKS|Brooks Automation, Inc. - Common Stock|Q|N|N|100
 BRLI|Bio-Reference Laboratories, Inc. - Common Stock|Q|N|N|100
 BSET|Bassett Furniture Industries, Incorporated - Common Stock|Q|N|N|100
-BSF|Bear State Financial, Inc. - Common Stock|G|N|N|100
+BSF|Bear State Financial, Inc. - Common Stock|G|N|D|100
 BSFT|BroadSoft, Inc. - Common Stock|Q|N|N|100
 BSPM|Biostar Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 BSQR|BSQUARE Corporation - Common Stock|G|N|N|100
@@ -521,7 +521,7 @@ CGIX|Cancer Genetics, Inc. - Common Stock|S|N|N|100
 CGNT|Cogentix Medical, Inc. - Common Stock|S|N|D|100
 CGNX|Cognex Corporation - Common Stock|Q|N|N|100
 CGO|Calamos Global Total Return Fund - Common Stock|Q|N|N|100
-CHCI|Comstock Holding Companies, Inc. - Class A Common Stock|S|N|N|100
+CHCI|Comstock Holding Companies, Inc. - Class A Common Stock|S|N|D|100
 CHCO|City Holding Company - Common Stock|Q|N|N|100
 CHDN|Churchill Downs, Incorporated - Common Stock|Q|N|N|100
 CHEF|The Chefs' Warehouse, Inc. - Common Stock|Q|N|N|100
@@ -672,7 +672,7 @@ CRVL|CorVel Corp. - Common Stock|Q|N|N|100
 CRWN|Crown Media Holdings, Inc. - Class A Common Stock|Q|N|N|100
 CRWS|Crown Crafts, Inc. - Common Stock|S|N|N|100
 CRZO|Carrizo Oil & Gas, Inc. - Common Stock|Q|N|N|100
-CSALV|Communications Sales & Leasing,Inc. - Common Stock When Issued|Q|N|N|100
+CSAL|Communications Sales & Leasing,Inc. - Common Stock|Q|N|N|100
 CSBK|Clifton Bancorp Inc. - Common Stock|Q|N|N|100
 CSCD|Cascade Microtech, Inc. - Common Stock|G|N|N|100
 CSCO|Cisco Systems, Inc. - Common Stock|Q|N|N|100
@@ -1276,7 +1276,7 @@ HILL|Dot Hill Systems Corporation - Common Stock|G|N|N|100
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100
 HKTV|Hong Kong Television Network Limited - American Depositary Shares, each representing 20 Ordinary Shares|Q|N|N|100
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100
-HLSS|Home Loan Servicing Solutions, Ltd. - Ordinary Shares|Q|N|E|100
+HLSS|Home Loan Servicing Solutions, Ltd. - Ordinary Shares|Q|N|H|100
 HMHC|Houghton Mifflin Harcourt Company - Common Stock|Q|N|N|100
 HMIN|Homeinns Hotel Group - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 HMNF|HMN Financial, Inc. - Common Stock|G|N|N|100
@@ -1389,7 +1389,7 @@ IMMU|Immunomedics, Inc. - Common Stock|G|N|N|100
 IMMY|Imprimis Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 IMNP|Immune Pharmaceuticals Inc. - Common Stock|S|N|N|100
 IMOS|ChipMOS TECHNOLOGIES (Bermuda) LTD. - Common Shares|S|N|N|100
-IMRS|Imris Inc - Common Shares|Q|N|N|100
+IMRS|Imris Inc - Common Shares|Q|N|D|100
 INAP|Internap Corporation - Common Stock|Q|N|N|100
 INBK|First Internet Bancorp - Common Stock|S|N|N|100
 INCR|INC Research Holdings, Inc. - Class A Common Stock|Q|N|N|100
@@ -1894,7 +1894,7 @@ NVEC|NVE Corporation - Common Stock|S|N|N|100
 NVEE|NV5 Holdings, Inc. - Common Stock|S|N|N|100
 NVET|Nexvet Biopharma plc - Ordinary Shares|G|N|N|100
 NVFY|Nova Lifestyle, Inc - Common Stock|G|N|N|100
-NVGN|Novogen Limited - American Depositary Shares each representing twenty five Ordinary Shares|S|N|D|100
+NVGN|Novogen Limited - American Depositary Shares each representing twenty five Ordinary Shares|S|N|N|100
 NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|S|N|N|100
 NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares|Q|N|N|100
 NVSL|Naugatuck Valley Financial Corporation - Common Stock|G|N|N|100
@@ -2314,7 +2314,6 @@ RTRX|Retrophin, Inc. - Common Stock|G|N|N|100
 RUSHA|Rush Enterprises, Inc. - Class A Common Stock|Q|N|N|100
 RUSHB|Rush Enterprises, Inc. - Class B Common Stock|Q|N|N|100
 RUTH|Ruth's Hospitality Group, Inc. - Common Stock|Q|N|N|100
-RVBD|Riverbed Technology, Inc. - Common Stock|Q|N|N|100
 RVLT|Revolution Lighting Technologies, Inc. - Class A Common Stock|S|N|N|100
 RVNC|Revance Therapeutics, Inc. - Common Stock|G|N|N|100
 RVSB|Riverview Bancorp Inc - Common Stock|Q|N|N|100
@@ -2741,6 +2740,7 @@ UG|United-Guardian, Inc. - Common Stock|G|N|N|100
 UGLD|Credit Suisse AG - VelocityShares 3x Long Gold ETN|G|N|N|100
 UHAL|Amerco - Common Stock|Q|N|N|100
 UIHC|United Insurance Holdings Corp. - Common Stock|S|N|N|100
+UK|Recon Capital FTSE 100 ETF|G|N|N|100
 ULBI|Ultralife Corporation - Common Stock|G|N|N|100
 ULTA|Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock|Q|N|N|100
 ULTI|The Ultimate Software Group, Inc. - Common Stock|Q|N|N|100
@@ -2812,7 +2812,6 @@ VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100
 VIRT|Virtu Financial, Inc. - Class A Common Stock|Q|N|N|100
 VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one Common Share|Q|N|N|100
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
-VKTX|Viking Therapeutics, Inc. - Common Stock|G|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|N|100
 VLYWW|Valley National Bancorp - Warrants 07/01/2015|S|N|N|100
@@ -2901,7 +2900,6 @@ WILC|G. Willi-Food International,  Ltd. - Ordinary Shares|S|N|N|100
 WILN|Wi-LAN Inc - Common Shares|Q|N|N|100
 WIN|Windstream Holdings, Inc. - Common Stock|Q|N|N|100
 WINA|Winmark Corporation - Common Stock|G|N|N|100
-WINVV|Windstream Holdings, Inc. - Common Stock Ex-Distribution When-Issued|Q|N|N|100
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100
 WLB|Westmoreland Coal Company - Common Stock|G|N|N|100
@@ -2995,4 +2993,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0424201521:33|||||
+File Creation Time: 0427201521:32|||||
