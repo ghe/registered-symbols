@@ -143,6 +143,7 @@ AIW|Arlington Asset Investment Corp 6.625% Notes due 2023|N|AIW|N|100|N|AIW
 AIY|Apollo Investment Corporation 6.875% Senior Notes due 2043|N|AIY|N|100|N|AIY
 AIZ|Assurant, Inc. Common Stock|N|AIZ|N|100|N|AIZ
 AJG|Arthur J. Gallagher & Co. Common Stock|N|AJG|N|100|N|AJG
+AJRD|Aerojet Rocketdyne Holdings, Inc. Common Stock|N|AJRD|N|100|N|AJRD
 AJX|Great Ajax Corp. Common Stock|N|AJX|N|100|N|AJX
 AKG|Asanko Gold Inc.|A|AKG|N|100|N|AKG
 AKO.A|Embotelladora Andina S.A. Common Stock|N|AKO/A|N|100|N|AKO.A
@@ -2101,7 +2102,6 @@ GXP|Great Plains Energy Incorporated Common Stock|N|GXP|N|100|N|GXP
 GXP$A|Great Plains Energy Incorporated Preferred Stock|N|GXPpA|N|10|N|GXP-A
 GXP$D|Great Plains Energy Incorporated Preferred Stock|N|GXPpD|N|10|N|GXP-D
 GXP$E|Great Plains Energy Incorporated Preferred Stock|N|GXPpE|N|10|N|GXP-E
-GY|GenCorp Inc. Common Stock|N|GY|N|100|N|GY
 GYB|CABCO Series 2004-101 Trust Goldman Sachs Capital I, Floating Rate Callable Certificates|N|GYB|N|100|N|GYB
 GYC|Corporate Asset Backed Corp CABCO Corporate Asset Backed Corporation CABCO Series 2004-102 Trust (SBC Communications, Inc.) Collared Floating Rate Cllable Certificates|N|GYC|N|100|N|GYC
 GYEN|AdvisorShares Gartman Gold/Yen ETF|P|GYEN|Y|100|N|GYEN
@@ -4703,7 +4703,6 @@ TTF|Thai Fund, Inc. (The) Common Stock|N|TTF|N|100|N|TTF
 TTFS|TrimTabs Float Shrink ETF|P|TTFS|Y|100|N|TTFS
 TTI|Tetra Technologies, Inc. Common Stock|N|TTI|N|100|N|TTI
 TTM|Tata Motors Ltd Tata Motors Limited|N|TTM|N|100|N|TTM
-TTM.R|Tata Motors Ltd Rights|N|TTMr|N|100|N|TTM^
 TTP|Tortoise Pipeline & Energy Fund, Inc. Common Stock|N|TTP|N|100|N|TTP
 TTT|ProShares UltraPro Short 20 Year Treasury|P|TTT|Y|100|N|TTT
 TU|Telus Corporation Ordinary Shares|N|TU|N|100|N|TU
@@ -5221,4 +5220,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0424201521:33||||||
+File Creation Time: 0427201521:32||||||
