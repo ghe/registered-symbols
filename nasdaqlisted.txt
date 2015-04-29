@@ -130,7 +130,7 @@ AMBA|Ambarella, Inc. - Ordinary Shares|Q|N|N|100
 AMBC|Ambac Financial Group, Inc. - Common Stock|Q|N|N|100
 AMBCW|Ambac Financial Group, Inc. - Warrants|Q|N|N|100
 AMCC|Applied Micro Circuits Corporation - Common Stock|Q|N|N|100
-AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|E|100
+AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|H|100
 AMCN|AirMedia Group Inc - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 AMCX|AMC Networks Inc. - Class A Common Stock|Q|N|N|100
 AMD|Advanced Micro Devices, Inc. - Common Stock|S|N|N|100
@@ -597,7 +597,6 @@ CMTL|Comtech Telecommunications Corp. - Common Stock|Q|N|N|100
 CNAT|Conatus Pharmaceuticals Inc. - Common Stock|G|N|N|100
 CNBKA|Century Bancorp, Inc. - Class A Common Stock|Q|N|N|100
 CNCE|Concert Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-CNDO|Coronado Biosciences, Inc. - Common Stock|S|N|N|100
 CNET|ChinaNet Online Holdings, Inc. - Common Stock|S|N|N|100
 CNIT|China Information Technology, Inc. - Ordinary Shares|Q|N|N|100
 CNLM|CB Pharma Acquisition Corp. - Ordinary Shares|S|N|N|100
@@ -848,7 +847,7 @@ ECTE|Echo Therapeutics, Inc. - Common Stock|S|N|D|100
 ECYT|Endocyte, Inc. - Common Stock|Q|N|N|100
 EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share|G|N|N|100
 EDGW|Edgewater Technology, Inc. - Common Stock|G|N|N|100
-EDS|Exceed Company Ltd. - Common Stock|Q|N|N|100
+EDS|Exceed Company Ltd. - Common Stock|Q|N|D|100
 EDUC|Educational Development Corporation - Common Stock|G|N|N|100
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100
 EEI|Ecology and Environment, Inc. - Class A Common Stock|G|N|N|100
@@ -966,6 +965,7 @@ FARO|FARO Technologies, Inc. - Common Stock|Q|N|N|100
 FAST|Fastenal Company - Common Stock|Q|N|N|100
 FATE|Fate Therapeutics, Inc. - Common Stock|G|N|N|100
 FB|Facebook, Inc. - Class A Common Stock|Q|N|N|100
+FBIO|Fortress Biotech, Inc. - Common Stock|S|N|N|100
 FBIZ|First Business Financial Services, Inc. - Common Stock|Q|N|N|100
 FBMS|The First Bancshares, Inc. - Common Stock|G|N|N|100
 FBNC|First Bancorp - Common Stock|Q|N|N|100
@@ -1000,7 +1000,7 @@ FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100
 FEYE|FireEye, Inc. - Common Stock|Q|N|N|100
 FFBC|First Financial Bancorp. - Common Stock|Q|N|N|100
 FFBCW|First Financial Bancorp. - Warrant 12/23/2018|Q|N|N|100
-FFHL|Fuwei Films (Holdings) Co., Ltd. - ORDINARY SHARES|G|N|D|100
+FFHL|Fuwei Films (Holdings) Co., Ltd. - ORDINARY SHARES|S|N|D|100
 FFIC|Flushing Financial Corporation - Common Stock|Q|N|N|100
 FFIN|First Financial Bankshares, Inc. - Common Stock|Q|N|N|100
 FFIV|F5 Networks, Inc. - Common Stock|Q|N|N|100
@@ -1276,7 +1276,7 @@ HILL|Dot Hill Systems Corporation - Common Stock|G|N|N|100
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100
 HKTV|Hong Kong Television Network Limited - American Depositary Shares, each representing 20 Ordinary Shares|Q|N|N|100
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100
-HLSS|Home Loan Servicing Solutions, Ltd. - Ordinary Shares|Q|N|H|100
+HLSS|Home Loan Servicing Solutions, Ltd. - Ordinary Shares|Q|N|N|100
 HMHC|Houghton Mifflin Harcourt Company - Common Stock|Q|N|N|100
 HMIN|Homeinns Hotel Group - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 HMNF|HMN Financial, Inc. - Common Stock|G|N|N|100
@@ -1565,9 +1565,6 @@ LE|Lands' End, Inc. - Common Stock|S|N|N|100
 LECO|Lincoln Electric Holdings, Inc. - Common Shares|Q|N|N|100
 LEDS|SemiLEDS Corporation - Common Stock|Q|N|N|100
 LENS|Presbia PLC - Ordinary Shares|G|N|N|100
-LEVY|Levy Acquisition Corp. - Common Stock|S|N|N|100
-LEVYU|Levy Acquisition Corp. - Unit|S|N|N|100
-LEVYW|Levy Acquisition Corp. - Warrants|S|N|N|100
 LFUS|Littelfuse, Inc. - Common Stock|Q|N|N|100
 LFVN|Lifevantage Corporation - Common Stock|S|N|D|100
 LGCY|Legacy Reserves LP - Units Representing Limited Partner Interests|Q|N|N|100
@@ -2119,7 +2116,7 @@ PRGNL|Paragon Shipping Inc. - 8.375% Senior Notes due 2021|G|N|N|100
 PRGS|Progress Software Corporation - Common Stock|Q|N|N|100
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100
 PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100
-PRKR|ParkerVision, Inc. - Common Stock|S|N|N|100
+PRKR|ParkerVision, Inc. - Common Stock|S|N|D|100
 PRMW|Primo Water Corporation - Common Stock|G|N|N|100
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
@@ -2270,7 +2267,7 @@ RITT|RIT Technologies Ltd. - ordinary shares|S|N|N|100
 RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
-RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|N|100
+RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|E|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
@@ -2582,6 +2579,9 @@ SYRX|Sysorex Global Holding Corp. - Common Stock|S|N|N|100
 SYUT|Synutra International, Inc. - Common Stock|Q|N|N|100
 SZMK|Sizmek Inc. - Common Stock|Q|N|N|100
 SZYM|Solazyme, Inc. - Common Stock|Q|N|N|100
+TACO|Levy Acquisition Corp. - Common Stock|S|N|N|100
+TACOU|Levy Acquisition Corp. - Unit|S|N|N|100
+TACOW|Levy Acquisition Corp. - Warrants|S|N|N|100
 TACT|TransAct Technologies Incorporated - Common Stock|G|N|N|100
 TAIT|Taitron Components Incorporated - Class A Common Stock|S|N|N|100
 TANH|Tantech Holdings Ltd. - Common Stock|S|N|N|100
@@ -2740,7 +2740,6 @@ UG|United-Guardian, Inc. - Common Stock|G|N|N|100
 UGLD|Credit Suisse AG - VelocityShares 3x Long Gold ETN|G|N|N|100
 UHAL|Amerco - Common Stock|Q|N|N|100
 UIHC|United Insurance Holdings Corp. - Common Stock|S|N|N|100
-UK|Recon Capital FTSE 100 ETF|G|N|N|100
 ULBI|Ultralife Corporation - Common Stock|G|N|N|100
 ULTA|Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock|Q|N|N|100
 ULTI|The Ultimate Software Group, Inc. - Common Stock|Q|N|N|100
@@ -2993,4 +2992,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0427201521:32|||||
+File Creation Time: 0428201521:32|||||
