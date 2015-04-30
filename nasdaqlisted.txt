@@ -4,6 +4,7 @@ AAL|American Airlines Group, Inc. - Common Stock|Q|N|N|100
 AAME|Atlantic American Corporation - Common Stock|G|N|N|100
 AAOI|Applied Optoelectronics, Inc. - Common Stock|G|N|N|100
 AAON|AAON, Inc. - Common Stock|Q|N|N|100
+AAPC|Atlantic Alliance Partnership Corp. - Ordinary Shares|S|N|N|100
 AAPL|Apple Inc. - Common Stock|Q|N|N|100
 AAVL|Avalanche Biotechnologies, Inc. - Common Stock|G|N|N|100
 AAWW|Atlas Air Worldwide Holdings - Common Stock|Q|N|N|100
@@ -40,6 +41,7 @@ ACST|Acasti Pharma, Inc. - Class A Common Stock|S|N|D|100
 ACTA|Actua Corporation - Common Stock|Q|N|N|100
 ACTG|Acacia Research Corporation - Common Stock|Q|N|N|100
 ACTS|Actions Semiconductor Co., Ltd. - American Depositary Shares, each representing Six Ordinary Shares|Q|N|N|100
+ACTX|Global X Guru Activist ETF|G|N|N|100
 ACUR|Acura Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 ACWI|iShares MSCI ACWI Index Fund|G|N|N|100
 ACWX|iShares MSCI ACWI ex US Index Fund|G|N|N|100
@@ -592,7 +594,6 @@ CMGE|China Mobile Games and Entertainment Group Limited - American Depositary Sh
 CMLS|Cumulus Media Inc. - Common Stock|Q|N|N|100
 CMPR|Cimpress N.V - Ordinary Shares (The Netherlands)|Q|N|N|100
 CMRX|Chimerix, Inc. - Common Stock|G|N|N|100
-CMSB|CMS Bancorp, Inc. - common stock|S|N|N|100
 CMTL|Comtech Telecommunications Corp. - Common Stock|Q|N|N|100
 CNAT|Conatus Pharmaceuticals Inc. - Common Stock|G|N|N|100
 CNBKA|Century Bancorp, Inc. - Class A Common Stock|Q|N|N|100
@@ -801,7 +802,7 @@ DRYS|DryShips Inc. - Common Stock|Q|N|D|100
 DSCI|Derma Sciences, Inc. - Common Stock|S|N|N|100
 DSCO|Discovery Laboratories, Inc. - Common Stock|S|N|N|100
 DSGX|The Descartes Systems Group Inc. - Common Stock|Q|N|N|100
-DSKX|DS Healthcare Group, Inc. - Common Stock|S|N|D|100
+DSKX|DS Healthcare Group, Inc. - Common Stock|S|N|N|100
 DSKY|iDreamSky Technology Limited - American Depositary Shares|Q|N|N|100
 DSLV|Credit Suisse AG - VelocityShares 3x Inverse Silver ETN|G|N|N|100
 DSPG|DSP Group, Inc. - Common Stock|Q|N|N|100
@@ -847,7 +848,7 @@ ECTE|Echo Therapeutics, Inc. - Common Stock|S|N|D|100
 ECYT|Endocyte, Inc. - Common Stock|Q|N|N|100
 EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share|G|N|N|100
 EDGW|Edgewater Technology, Inc. - Common Stock|G|N|N|100
-EDS|Exceed Company Ltd. - Common Stock|Q|N|D|100
+EDS|Exceed Company Ltd. - Common Stock|Q|N|N|100
 EDUC|Educational Development Corporation - Common Stock|G|N|N|100
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100
 EEI|Ecology and Environment, Inc. - Class A Common Stock|G|N|N|100
@@ -1276,7 +1277,6 @@ HILL|Dot Hill Systems Corporation - Common Stock|G|N|N|100
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100
 HKTV|Hong Kong Television Network Limited - American Depositary Shares, each representing 20 Ordinary Shares|Q|N|N|100
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100
-HLSS|Home Loan Servicing Solutions, Ltd. - Ordinary Shares|Q|N|N|100
 HMHC|Houghton Mifflin Harcourt Company - Common Stock|Q|N|N|100
 HMIN|Homeinns Hotel Group - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 HMNF|HMN Financial, Inc. - Common Stock|G|N|N|100
@@ -2740,6 +2740,7 @@ UG|United-Guardian, Inc. - Common Stock|G|N|N|100
 UGLD|Credit Suisse AG - VelocityShares 3x Long Gold ETN|G|N|N|100
 UHAL|Amerco - Common Stock|Q|N|N|100
 UIHC|United Insurance Holdings Corp. - Common Stock|S|N|N|100
+UK|Recon Capital FTSE 100 ETF|G|N|N|100
 ULBI|Ultralife Corporation - Common Stock|G|N|N|100
 ULTA|Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock|Q|N|N|100
 ULTI|The Ultimate Software Group, Inc. - Common Stock|Q|N|N|100
@@ -2800,7 +2801,7 @@ VIAB|Viacom Inc. - Class B Common Stock|Q|N|N|100
 VIAS|Viasystems Group, Inc. - Common Stock|G|N|N|100
 VICL|Vical Incorporated - Common Stock|Q|N|N|100
 VICR|Vicor Corporation - Common Stock|Q|N|N|100
-VIDE|Video Display Corporation - Common Stock|G|N|D|100
+VIDE|Video Display Corporation - Common Stock|G|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
 VIEW|Viewtran Group, Inc. - Common Stock|Q|N|E|100
 VIIX|Credit Suisse AG - VelocityShares VIX Short Term ETN|G|N|N|100
@@ -2811,6 +2812,7 @@ VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100
 VIRT|Virtu Financial, Inc. - Class A Common Stock|Q|N|N|100
 VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one Common Share|Q|N|N|100
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
+VKTX|Viking Therapeutics, Inc. - Common Stock|S|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|N|100
 VLYWW|Valley National Bancorp - Warrants 07/01/2015|S|N|N|100
@@ -2853,7 +2855,6 @@ VTHR|Vanguard Russell 3000 ETF|G|N|N|100
 VTIP|Vanguard Short-Term Inflation-Protected Securities Index Fund|G|N|N|100
 VTL|Vital Therapies, Inc. - Common Stock|Q|N|N|100
 VTNR|Vertex Energy, Inc - Common Stock|S|N|N|100
-VTSS|Vitesse Semiconductor Corporation - Common Stock|G|N|N|100
 VTWG|Vanguard Russell 2000 Growth ETF|G|N|N|100
 VTWO|Vanguard Russell 2000 ETF|G|N|N|100
 VTWV|Vanguard Russell 2000 Value ETF|G|N|N|100
@@ -2992,4 +2993,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0428201521:32|||||
+File Creation Time: 0429201521:34|||||
