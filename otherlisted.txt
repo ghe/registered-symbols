@@ -1528,6 +1528,7 @@ EURN|Euronav NV Ordinary Shares|N|EURN|N|100|N|EURN
 EUSA|iShares MSCI USA Index Fund|P|EUSA|Y|100|N|EUSA
 EUSC|WisdomTree Europe Hedged SmallCap Equity Fund|P|EUSC|Y|100|N|EUSC
 EV|Eaton Vance Corporation Common Stock|N|EV|N|100|N|EV
+EVA|Enviva Partners, LP Common units representing limited partner interests|N|EVA|N|100|N|EVA
 EVBN|Evans Bancorp, Inc. Common Stock|A|EVBN|N|100|N|EVBN
 EVC|Entravision Communications Corporation Common Stock|N|EVC|N|100|N|EVC
 EVDY|Everyday Health, Inc. Common Stock|N|EVDY|N|100|N|EVDY
@@ -4028,7 +4029,7 @@ ROL|Rollins, Inc. Common Stock|N|ROL|N|100|N|ROL
 ROLA|iPath Long Extended Russell 1000 TR Index ETN|P|ROLA|N|100|N|ROLA
 ROM|ProShares Ultra Technology|P|ROM|Y|100|N|ROM
 ROOF|IQ US Real Estate Small Cap ETF|P|ROOF|Y|100|N|ROOF
-ROP|Roper Industries, Inc. Common Stock|N|ROP|N|100|N|ROP
+ROP|Roper Technologies, Inc. Common Stock|N|ROP|N|100|N|ROP
 RORO|SPDR SSgA Risk Aware ETF|P|RORO|Y|100|N|RORO
 ROUS|Lattice U.S. Equity Strategy ETF|P|ROUS|Y|100|N|ROUS
 ROX|Castle Brands, Inc. Castle Brands, Inc. Common Stock|A|ROX|N|100|N|ROX
@@ -5220,4 +5221,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0428201521:32||||||
+File Creation Time: 0429201521:34||||||
