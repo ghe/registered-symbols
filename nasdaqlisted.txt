@@ -211,6 +211,7 @@ ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock|Q|N|N|100
 ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock|S|N|N|100
 ARTX|Arotech Corporation - Common Stock|G|N|N|100
 ARUN|Aruba Networks, Inc. - Common Stock|Q|N|N|100
+ARWAU|Arowana Inc. - Units|S|N|N|100
 ARWR|Arrowhead Research Corporation - Common Stock|Q|N|N|100
 ASBB|ASB Bancorp, Inc. - Common Stock|G|N|N|100
 ASBI|Ameriana Bancorp - Common Stock|S|N|N|100
@@ -378,6 +379,7 @@ BOTJ|Bank of the James Financial Group, Inc. - Common Stock|S|N|N|100
 BPFH|Boston Private Financial Holdings, Inc. - Common Stock|Q|N|N|100
 BPFHP|Boston Private Financial Holdings, Inc. - Depositary Shares representing 1/40th Interest in a Share of 6.95% Non-Cumulative Perpetual Preferred Stock, Series D|Q|N|N|100
 BPFHW|Boston Private Financial Holdings, Inc. - Warrants to purchase 1 share of common stock @ $8.00/share|Q|N|N|100
+BPMC|Blueprint Medicines Corporation - Common Stock|Q|N|N|100
 BPOP|Popular, Inc. - Common Stock|Q|N|N|100
 BPOPM|Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities|Q|N|N|100
 BPOPN|Popular, Inc. - Popular Capital Trust I -6.70% Cumulative Monthly Income Trust Preferred Securities|Q|N|N|100
@@ -565,6 +567,7 @@ CLAC|Capitol Acquisition Corp. II - Common Stock|S|N|D|100
 CLACU|Capitol Acquisition Corp. II - Unit|S|N|D|100
 CLACW|Capitol Acquisition Corp. II - Warrant|S|N|D|100
 CLBH|Carolina Bank Holdings Inc. - Common Stock|G|N|N|100
+CLCD|CoLucid Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 CLCT|Collectors Universe, Inc. - Common Stock|G|N|N|100
 CLDN|Celladon Corporation - Common Stock|G|N|N|100
 CLDX|Celldex Therapeutics, Inc. - Common Stock|Q|N|N|100
@@ -848,7 +851,6 @@ ECTE|Echo Therapeutics, Inc. - Common Stock|S|N|D|100
 ECYT|Endocyte, Inc. - Common Stock|Q|N|N|100
 EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share|G|N|N|100
 EDGW|Edgewater Technology, Inc. - Common Stock|G|N|N|100
-EDS|Exceed Company Ltd. - Common Stock|Q|N|N|100
 EDUC|Educational Development Corporation - Common Stock|G|N|N|100
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100
 EEI|Ecology and Environment, Inc. - Class A Common Stock|G|N|N|100
@@ -1399,7 +1401,7 @@ INDY|iShares S&P India Nifty 50 Index Fund|G|N|N|100
 INFA|Informatica Corporation - Common Stock|Q|N|N|100
 INFI|Infinity Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 INFN|Infinera Corporation - Common Stock|Q|N|N|100
-INGN|Inogen, Inc - Common Stock|Q|N|E|100
+INGN|Inogen, Inc - Common Stock|Q|N|N|100
 ININ|Interactive Intelligence Group, Inc. - Common Stock|Q|N|N|100
 INNL|Innocoll AG - American Depositary Share|G|N|N|100
 INO|Inovio Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -2801,7 +2803,6 @@ VIAB|Viacom Inc. - Class B Common Stock|Q|N|N|100
 VIAS|Viasystems Group, Inc. - Common Stock|G|N|N|100
 VICL|Vical Incorporated - Common Stock|Q|N|N|100
 VICR|Vicor Corporation - Common Stock|Q|N|N|100
-VIDE|Video Display Corporation - Common Stock|G|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
 VIEW|Viewtran Group, Inc. - Common Stock|Q|N|E|100
 VIIX|Credit Suisse AG - VelocityShares VIX Short Term ETN|G|N|N|100
@@ -2993,4 +2994,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0429201521:34|||||
+File Creation Time: 0430201521:33|||||
