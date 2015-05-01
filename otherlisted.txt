@@ -40,6 +40,7 @@ ACT|Actavis plc Ordinary Shares|N|ACT|N|100|N|ACT
 ACT$A|Actavis, Inc. 5.50% Mandatory Convertible Preferred Shares, Series A|N|ACTpA|N|10|N|ACT-A
 ACU|Acme United Corporation. Common Stock|A|ACU|N|100|N|ACU
 ACW|Accuride Corporation Common Stock|N|ACW|N|100|N|ACW
+ACWF|iShares FactorSelect MSCI Global ETF|P|ACWF|Y|100|N|ACWF
 ACWV|iShares MSCI All Country World Minimum Volatility Index Fund|P|ACWV|Y|100|N|ACWV
 ACY|AeroCentury Corp. Common Stock|A|ACY|N|100|N|ACY
 ADC|Agree Realty Corporation Common Stock|N|ADC|N|100|N|ADC
@@ -931,7 +932,6 @@ CRK|Comstock Resources, Inc. Common Stock|N|CRK|N|100|N|CRK
 CRL|Charles River Laboratories International, Inc. Common Stock|N|CRL|N|100|N|CRL
 CRM|Salesforce.com Inc Common Stock|N|CRM|N|100|N|CRM
 CRMD|CorMedix Inc Common Stock|A|CRMD|N|100|N|CRMD
-CRMD.W|CorMedix Inc Warrant (expiring 3/24/2015)|A|CRMD/WS|N|100|N|CRMD+
 CROC|ProShares UltraShort Australian Dollar|P|CROC|Y|100|N|CROC
 CROP|IQ Global Agribusiness Small Cap ETF|P|CROP|Y|100|N|CROP
 CRR|Carbo Ceramics, Inc. Common Stock|N|CRR|N|100|N|CRR
@@ -2447,6 +2447,7 @@ INP|Barclays Bank Plc iPath ETNs linked to the MSCI India Total Return Index|P|I
 INR|Market Vectors Indian Rupee/USD  ETN|P|INR|N|100|N|INR
 INS|Intelligent Systems Corporation Common Stock|A|INS|N|100|N|INS
 INT|World Fuel Services Corporation Common Stock|N|INT|N|100|N|INT
+INTF|iShares FactorSelect MSCI International ETF|P|INTF|Y|100|N|INTF
 INTT|inTest Corporation Common Stock|A|INTT|N|100|N|INTT
 INUV|Inuvo, Inc New|A|INUV|N|100|N|INUV
 INVN|InvenSense, Inc. Common Stock|N|INVN|N|100|N|INVN
@@ -2496,6 +2497,7 @@ IRS|IRSA Inversiones Y Representaciones S.A. Common Stock|N|IRS|N|100|N|IRS
 IRT|Independence Realty Trust, Inc. Common Stock|A|IRT|N|100|N|IRT
 IRV|SPDR S&P International Materials Sector ETF|P|IRV|Y|100|N|IRV
 IRY|SPDR S&P International Health Care Sector ETF|P|IRY|Y|100|N|IRY
+ISCF|iShares FactorSelect MSCI Intl Small-Cap ETF|P|ISCF|Y|100|N|ISCF
 ISD|Prudential Short Duration High Yield Fund, Inc. Common Stock|N|ISD|N|100|N|ISD
 ISDR|Issuer Direct Corporation Common Stock|A|ISDR|N|100|N|ISDR
 ISF|ING Group, N.V. Perp Hybrid Cap Secs (Netherlands)|N|ISF|N|100|N|ISF
@@ -2592,6 +2594,7 @@ JE|Just Energy Group, Inc. Ordinary Shares (Canada)|N|JE|N|100|N|JE
 JEC|Jacobs Engineering Group Inc. Common Stock|N|JEC|N|100|N|JEC
 JEM|iPath GEMS Index ETN|P|JEM|N|100|N|JEM
 JEQ|Aberdeen Japan Equity Fund, Inc.  Common Stock|N|JEQ|N|100|N|JEQ
+JETS|U.S. Global Jets ETF|P|JETS|Y|100|N|JETS
 JFC|JPMorgan China Region  Fund, Inc. Common Stock|N|JFC|N|100|N|JFC
 JFR|Nuveen Floating Rate Income Fund Common Stock|N|JFR|N|100|N|JFR
 JGBD|DB 3x Inverse Japanese Govt Bond Futures Exchange Traded Notes due November 30, 2021|P|JGBD|N|100|N|JGBD
@@ -2882,6 +2885,7 @@ LQ|La Quinta Holdings Inc. Common Stock|N|LQ|N|100|N|LQ
 LQD|iShares iBoxx $ Investment Grade Corporate Bond ETF|P|LQD|Y|100|N|LQD
 LQDH|iShares Interest Rate Hedged Corporate Bond ETF|P|LQDH|Y|100|N|LQDH
 LRE|LRR Energy, L.P. Common Units Representing Limited Partner Interests|N|LRE|N|100|N|LRE
+LRGF|iShares FactorSelect MSCI USA ETF|P|LRGF|Y|100|N|LRGF
 LRN|K12 Inc Common Stock|N|LRN|N|100|N|LRN
 LSC|HSBC Global Absolute Limited ELEMENTS S&P CTI Index ETN|P|LSC|N|100|N|LSC
 LSG|Lake Shore Gold Corp Ordinary Shares (Canada)|A|LSG|N|100|N|LSG
@@ -3181,7 +3185,6 @@ MVC|MVC Capital, Inc. Common Stock|N|MVC|N|100|N|MVC
 MVCB|MVC Capital 7.25% Senior Notes due 2023|N|MVCB|N|100|N|MVCB
 MVF|Blackrock MuniVest Fund, Inc. Common Stock|A|MVF|N|100|N|MVF
 MVG|Mag Silver Corporation Oridinary Shares|A|MVG|N|100|N|MVG
-MVNR|Mavenir Systems, Inc. Common Stock|N|MVNR|N|100|N|MVNR
 MVO|MV Oil Trust Units of Beneficial Interests|N|MVO|N|100|N|MVO
 MVT|Blackrock MuniVest Fund II, Inc.  Common Stock|N|MVT|N|100|N|MVT
 MVV|ProShares Ultra MidCap400|P|MVV|Y|100|N|MVV
@@ -3961,7 +3964,6 @@ RFV|Guggenheim S&P Midcap 400 Pure Value ETF|P|RFV|Y|100|N|RFV
 RGA|Reinsurance Group of America, Incorporated Common Stock|N|RGA|N|100|N|RGA
 RGC|Regal Entertainment Group Class A Common Stock|N|RGC|N|100|N|RGC
 RGI|Guggenheim S&P 500 Equal Weight Industrials ETF|P|RGI|Y|100|N|RGI
-RGP|Regency Energy Partners LP Common Units Representing Limited Partner Interests|N|RGP|N|100|N|RGP
 RGR|Sturm, Ruger & Company, Inc. Common Stock|N|RGR|N|100|N|RGR
 RGRA|RBS Rogers Enhanced Agriculture ETN|P|RGRA|N|100|N|RGRA
 RGRC|RBS Rogers Enhanced Commodity ETN|P|RGRC|N|100|N|RGRC
@@ -4301,6 +4303,7 @@ SMHD|ETRACS Monthly Pay 2xLeveraged US Small Cap High Dividend ETN due February 
 SMI|Semiconductor  Manufacturing International Corporation ADR|N|SMI|N|100|N|SMI
 SMIN|Ishares MSCI India Small Cap ETF|Z|SMIN|Y|100|N|SMIN
 SMK|ProShares UltraShort MSCI Mexico Capped IMI|P|SMK|Y|100|N|SMK
+SMLF|iShares FactorSelect MSCI USA Small-Cap ETF|P|SMLF|Y|100|N|SMLF
 SMLL|Direxiion Daily Small Cap Bull 2X Shares|P|SMLL|Y|100|N|SMLL
 SMLP|Summit Midstream Partners, LP Common Units Representing Limited Partner Interests|N|SMLP|N|100|N|SMLP
 SMLV|SPDR Russell 2000 Low Volatility|P|SMLV|Y|100|N|SMLV
@@ -5221,4 +5224,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0429201521:34||||||
+File Creation Time: 0430201521:33||||||
