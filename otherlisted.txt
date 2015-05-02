@@ -602,6 +602,7 @@ BSJK|Guggenheim BulletShares 2020 High Yield Corporate Bond ETF|P|BSJK|Y|100|N|B
 BSJL|Guggenheim BulletShares 2021 High Yield Corporate Bond ETF|P|BSJL|Y|100|N|BSJL
 BSJM|Guggenheim BulletShares 2022 High Yield Corporate Bond ETF|P|BSJM|Y|100|N|BSJM
 BSL|Blackstone GSO Senior Floating Rate Term Fund Common Shares of Beneficial Interest|N|BSL|N|100|N|BSL
+BSM|Black Stone Minerals, L.P. Common units representing limited partner interests|N|BSM|N|100|N|BSM
 BSMX|Grupo Financiero Santander Mexico S.A. B. de C.V. American Depositary Shares, each representing five Series B shares|N|BSMX|N|100|N|BSMX
 BST|BlackRock Science and Technology Trust Common Shares of Beneficial Interest|N|BST|N|100|N|BST
 BSV|Vanguard Short-Term Bond ETF|P|BSV|Y|100|N|BSV
@@ -5224,4 +5225,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0430201521:33||||||
+File Creation Time: 0501201521:34||||||
