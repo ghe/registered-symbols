@@ -405,6 +405,8 @@ BUSE|First Busey Corporation - Common Stock|Q|N|N|100
 BV|Bazaarvoice, Inc. - Common Stock|Q|N|N|100
 BVA|Cordia Bancorp Inc. - Common Stock|S|N|N|100
 BVSN|BroadVision, Inc. - Common Stock|G|N|N|100
+BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares|S|N|N|100
+BVXVW|BiondVax Pharmaceuticals Ltd. - Warrants|S|N|N|100
 BWEN|Broadwind Energy, Inc. - Common Stock|S|N|N|100
 BWFG|Bankwell Financial Group, Inc. - Common Stock|G|N|N|100
 BWINA|Baldwin & Lyons, Inc. - Class A (voting) Common Stock|G|N|N|100
@@ -901,7 +903,6 @@ ENT|Global Eagle Entertainment Inc. - Common Stock|S|N|N|100
 ENTA|Enanta Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 ENTG|Entegris, Inc. - Common Stock|Q|N|N|100
 ENTL|Entellus Medical, Inc. - Common Stock|G|N|N|100
-ENTR|Entropic Communications, Inc. - Common Stock|S|N|N|100
 ENVI|Envivio, Inc. - Common Stock|Q|N|N|100
 ENZN|Enzon Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 ENZY|Enzymotec Ltd. - Ordinary Shares|Q|N|N|100
@@ -1953,6 +1954,8 @@ ONTX|Onconova Therapeutics, Inc. - Common Stock|Q|N|N|100
 ONTY|Oncothyreon Inc. - Common Shares|Q|N|N|100
 ONVI|Onvia, Inc. - Common Stock|S|N|N|100
 OPB|Opus Bank - Common Stock|Q|N|N|100
+OPGN|OpGen, Inc. - Common Stock|S|N|N|100
+OPGNW|OpGen, Inc. - Warrant|S|N|N|100
 OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|D|100
 OPHT|Ophthotech Corporation - Common Stock|Q|N|N|100
 OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100
@@ -2119,6 +2122,7 @@ PRGS|Progress Software Corporation - Common Stock|Q|N|N|100
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100
 PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100
 PRKR|ParkerVision, Inc. - Common Stock|S|N|D|100
+PRKU|Parakou Tankers, Inc. - Common Stock|S|N|N|100
 PRMW|Primo Water Corporation - Common Stock|G|N|N|100
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
@@ -2804,7 +2808,7 @@ VIAS|Viasystems Group, Inc. - Common Stock|G|N|N|100
 VICL|Vical Incorporated - Common Stock|Q|N|N|100
 VICR|Vicor Corporation - Common Stock|Q|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
-VIEW|Viewtran Group, Inc. - Common Stock|Q|N|E|100
+VIEW|Viewtran Group, Inc. - Common Stock|Q|N|N|100
 VIIX|Credit Suisse AG - VelocityShares VIX Short Term ETN|G|N|N|100
 VIIZ|Credit Suisse AG - VelocityShares VIX Medium Term ETN|G|N|N|100
 VIMC|Vimicro International Corporation - American depositary shares, each representing four ordinary shares|G|N|N|100
@@ -2994,4 +2998,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0430201521:33|||||
+File Creation Time: 0501201521:34|||||
