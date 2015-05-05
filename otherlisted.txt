@@ -943,20 +943,20 @@ CRVP|Crystal Rock Holdings, Inc. Class A Common Stock|A|CRVP|N|100|N|CRVP
 CRY|CryoLife, Inc. Common Stock|N|CRY|N|100|N|CRY
 CS|Credit Suisse Group American Depositary Shares|N|CS|N|100|N|CS
 CSC|Computer Sciences Corporation Common Stock|N|CSC|N|100|N|CSC
-CSCB|Credit Suisse Commodity Benchmark ETN|P|CSCB|N|100|N|CSCB
-CSCR|Credit Suisse ommodity Rotation ETN|P|CSCR|N|100|N|CSCR
+CSCB|Credit Suisse X-Links Commodity Benchmark ETNs due June 15, 2033|P|CSCB|N|100|N|CSCB
+CSCR|Credit Suisse X-Links Commodity Rotation ETNs due June 15, 2033|P|CSCR|N|100|N|CSCR
 CSD|Guggenheim Spin-Off ETF|P|CSD|Y|100|N|CSD
 CSG|Chambers Street Properties Common Shares of Beneficial Interest|N|CSG|N|100|N|CSG
 CSH|Cash America International, Inc. Common Stock|N|CSH|N|100|N|CSH
 CSI|Cutwater Select Income Fund|N|CSI|N|100|N|CSI
 CSJ|iShares 1-3 Year Credit Bond ETF|P|CSJ|Y|100|N|CSJ
 CSL|Carlisle Companies Incorporated Common Stock|N|CSL|N|100|N|CSL
-CSLS|Credit Suisse Long Short Liquid Index ETN|P|CSLS|N|100|N|CSLS
+CSLS|Credit Suisse X-Links Long/Short Equity ETN|P|CSLS|N|100|N|CSLS
 CSLT|Castlight Health, Inc. Class B Common Stock|N|CSLT|N|100|N|CSLT
 CSM|ProShares Large Cap Core Plus|P|CSM|Y|100|N|CSM
-CSMA|Credit Suisse AG ETN due October 6, 2020 linked to Credit Suisse Merger Arbitrage Liquid Index|P|CSMA|N|100|N|CSMA
-CSMB|Credit Suisse Exchange Trade Notes due March 13, 2031 linked on a Leveraged Basis to the Credit Suisse Merger Arbitrage Liquid Index|P|CSMB|N|100|N|CSMB
-CSMN|Market Neutral Global Equity ETN Linked to the HS Market Neutral Index Powered by HOLT due September 15, 2031|P|CSMN|N|100|N|CSMN
+CSMA|Credit Suisse X-Links Merger Arbitrage ETN due October 6, 2020|P|CSMA|N|100|N|CSMA
+CSMB|Credit Suisse X-Links 2xLeveraged Merger Arbitrage ETN due March 13, 2031|P|CSMB|N|100|N|CSMB
+CSMN|Credit Suisse X-Links HOLT? Market Neutral Global Equity ETNs due September 22, 2031|P|CSMN|N|100|N|CSMN
 CSS|CSS Industries, Inc. Common Stock|N|CSS|N|100|N|CSS
 CST|CST Brands, Inc. Common Stock|N|CST|N|100|N|CST
 CSTM|Constellium N.V. Ordinary Shares|N|CSTM|N|100|N|CSTM
@@ -2345,7 +2345,7 @@ IDE|Voya Infrastructure, Industrials and Materials Fund Common Shares of Benefic
 IDG|ING GROEP N V PREF CTF 7.3750% Perp Hybrid Cap Secs (Netherlands)|N|IDG|N|100|N|IDG
 IDHB|PowerShares S&P International Developed High Beta Portfolio Exchange Traded Fund|P|IDHB|Y|100|N|IDHB
 IDHQ|PowerShares S&P International Developed High Quality Portfolio (S&P International Developed High Quality Ranking Index--index symbol SPIDHQR)|P|IDHQ|Y|100|N|IDHQ
-IDI|Tiger Media, Inc. (DE)|A|IDI|N|100|N|IDI
+IDI|IDI, Inc.|A|IDI|N|100|N|IDI
 IDLV|PowerShares S&P International Developed Low Volatility Portfolio|P|IDLV|Y|100|N|IDLV
 IDN|Intellicheck Mobilisa, Inc. Common Stock|A|IDN|N|100|N|IDN
 IDOG|ALPS International Sector Dividend Dogs ETF|P|IDOG|Y|100|N|IDOG
@@ -3060,7 +3060,7 @@ MLPG|UBS AG Exchange Traded Access Securities (E-TRACS) Linked to the Alerian Na
 MLPI|UBS AG ETN|P|MLPI|N|100|N|MLPI
 MLPJ|Global X Junior MLP ETF|P|MLPJ|Y|100|N|MLPJ
 MLPL|UBS AG 2X Monthly Leveraged Long Exchnage Traded Access Securities (E-TRACS) linked to the Alerian MLP Infrastructure Index due July 9, 2040 ETN|P|MLPL|N|100|N|MLPL
-MLPN|Credit Suisse Equal Weight MLP Index ETN due April 20, 2020 Linked to the Cushing 30 MLP Index|P|MLPN|N|100|N|MLPN
+MLPN|Credit Suisse X-Links Cushings MLP Infrastructure due April 20, 2020 Linked to the Cushing 30 MLP Index|P|MLPN|N|100|N|MLPN
 MLPO|Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S&P MLP Index|P|MLPO|N|100|N|MLPO
 MLPS|UBS AG  1xMonthly Short Exchange Traded Access Securities (E-TRACS) Linked to the Alerian MLP Infrastructure Total Return Index due October 1, 2040|P|MLPS|N|100|N|MLPS
 MLPW|UBS AG Exchange Traded Access Securities (E0TRACS) Linked to the Wells fargo MLP Index due October 29, 2040|P|MLPW|N|100|N|MLPW
@@ -4639,6 +4639,7 @@ TNK|Teekay Tankers Ltd.|N|TNK|N|100|N|TNK
 TNP|Tsakos Energy Navigation Ltd Common Shares|N|TNP|N|100|N|TNP
 TNP$B|Tsakos Energy Navigation Ltd Red Perp Pfd Ser B% (Bermuda)|N|TNPpB|N|100|N|TNP-B
 TNP$C|Tsakos Energy Navigation Ltd 8.875% Series C Preferred Cumulative Redeemable Perpetual Preferred Shares|N|TNPpC|N|100|N|TNP-C
+TNP$D|Tsakos Energy Navigation Ltd 8.75% Series D Cumulative Redeemable Perpetual Preferred Shares|N|TNPpD|N|100|N|TNP-D
 TOF|Tofutti Brands Inc. Common Stock|A|TOF|N|100|N|TOF
 TOFR|Stock Split Index Fund ETF|P|TOFR|Y|100|N|TOFR
 TOK|iShares MSCI KLD 400 Social ETF|P|TOK|Y|100|N|TOK
@@ -5225,4 +5226,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0501201521:34||||||
+File Creation Time: 0504201521:33||||||
