@@ -560,6 +560,8 @@ CIFC|CIFC Corp. - Common Stock|S|N|N|100
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100
 CISAW|CIS Acquisition Ltd. - Warrant|S|N|D|100
 CISG|CNinsure Inc. - American depositary shares, each representing 20 ordinary shares|Q|N|N|100
+CIVB|Civista Bancshares, Inc.  - Common Stock|S|N|N|100
+CIVBP|Civista Bancshares, Inc.  - Depositary Shares Each Representing a 1/40th Interest in a 6.50% Noncumulative Redeemable Convertible Perpetual Preferred Share, Series B|S|N|N|100
 CIZ|Compass EMP Developed 500 Enhanced Volatility Weighted Index ETF|G|N|N|100
 CIZN|Citizens Holding Company - Common Stock|G|N|N|100
 CJJD|China Jo-Jo Drugstores, Inc. - Common Stock|S|N|N|100
@@ -989,8 +991,6 @@ FCS|Fairchild Semiconductor International, Inc. - Common Stock|Q|N|N|100
 FCSC|Fibrocell Science Inc - Common Stock|S|N|N|100
 FCTY|1st Century Bancshares, Inc - Common Stock|S|N|N|100
 FCVA|First Capital Bancorp, Inc. (VA) - Common Stock|S|N|N|100
-FCZA|First Citizens Banc Corp. - Common Stock|S|N|N|100
-FCZAP|First Citizens Banc Corp. - Depositary Shares Each Representing a 1/40th Interest in a 6.50% Noncumulative Redeemable Convertible Perpetual Preferred Share, Series B|S|N|N|100
 FDEF|First Defiance Financial Corp. - Common Stock|Q|N|N|100
 FDIV|First Trust Strategic Income ETF|G|N|N|100
 FDML|Federal-Mogul Holdings Corporation - Class A Common Stock|Q|N|N|100
@@ -1346,7 +1346,6 @@ IBTX|Independent Bank Group, Inc - Common Stock|Q|N|N|100
 ICAD|icad inc. - Common Stock|S|N|N|100
 ICBK|County Bancorp, Inc. - Common Stock|G|N|N|100
 ICCC|ImmuCell Corporation - Common Stock|S|N|N|100
-ICEL|Cellular Dynamics International, Inc. - Common Stock|G|N|N|100
 ICFI|ICF International, Inc. - Common Stock|Q|N|N|100
 ICLD|InterCloud Systems, Inc - Common Stock|S|N|N|100
 ICLDW|InterCloud Systems, Inc - Warrant|S|N|N|100
@@ -1912,6 +1911,7 @@ NXTD|NXT-ID Inc. - Common Stock|S|N|N|100
 NXTDW|NXT-ID Inc. - Warrant|S|N|N|100
 NXTM|NxStage Medical, Inc. - Common Stock|Q|N|N|100
 NYMT|New York Mortgage Trust, Inc. - Common Stock|Q|N|N|100
+NYMTO|New York Mortgage Trust, Inc. - 7.875% Series C Cumulative Redeemable Preferred Stock|Q|N|N|100
 NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock|Q|N|N|100
 NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|D|100
 NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
@@ -2168,7 +2168,6 @@ PTNT|Internet Patents Corporation - Common Stock|S|N|N|100
 PTSI|P.A.M. Transportation Services, Inc. - Common Stock|G|N|N|100
 PTX|Pernix Therapeutics Holdings, Inc. - Common Stock|G|N|N|100
 PULB|Pulaski Financial Corp. - Common Stock|Q|N|N|100
-PUMP|Asante Solutions, Inc. - Common Stock|G|N|N|100
 PVTB|PrivateBancorp, Inc. - Common Stock|Q|N|N|100
 PVTBP|PrivateBancorp, Inc. - PrivateBancorp Capital Trust IV - 10% Trust Preferred|Q|N|N|100
 PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -2338,7 +2337,6 @@ SALM|Salem Media Group, Inc. - Class A Common Stock|G|N|N|100
 SAMG|Silvercrest Asset Management Group Inc. - Common Stock|G|N|N|100
 SANM|Sanmina Corporation - Common Stock|Q|N|N|100
 SANW|S&W Seed Company - Common Stock|S|N|N|100
-SANWZ|S&W Seed Company - Warrants Class B 04/23/2015|S|N|N|100
 SASR|Sandy Spring Bancorp, Inc. - Common Stock|Q|N|N|100
 SATS|EchoStar Corporation - common stock|Q|N|N|100
 SAVE|Spirit Airlines, Inc. - Common Stock|Q|N|N|100
@@ -2808,7 +2806,6 @@ VIAS|Viasystems Group, Inc. - Common Stock|G|N|N|100
 VICL|Vical Incorporated - Common Stock|Q|N|N|100
 VICR|Vicor Corporation - Common Stock|Q|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
-VIEW|Viewtran Group, Inc. - Common Stock|Q|N|N|100
 VIIX|Credit Suisse AG - VelocityShares VIX Short Term ETN|G|N|N|100
 VIIZ|Credit Suisse AG - VelocityShares VIX Medium Term ETN|G|N|N|100
 VIMC|Vimicro International Corporation - American depositary shares, each representing four ordinary shares|G|N|N|100
@@ -2998,4 +2995,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0501201521:34|||||
+File Creation Time: 0504201521:33|||||
