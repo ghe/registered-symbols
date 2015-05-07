@@ -46,6 +46,7 @@ ACUR|Acura Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 ACWI|iShares MSCI ACWI Index Fund|G|N|N|100
 ACWX|iShares MSCI ACWI ex US Index Fund|G|N|N|100
 ACXM|Acxiom Corporation - Common Stock|Q|N|N|100
+ADAP|Adaptimmune Therapeutics plc - American Depositary Shares|Q|N|N|100
 ADAT|Authentidate Holding Corp. - Common Stock|S|N|D|100
 ADBE|Adobe Systems Incorporated - Common Stock|Q|N|N|100
 ADEP|Adept Technology, Inc. - Common Stock|S|N|N|100
@@ -132,7 +133,7 @@ AMBA|Ambarella, Inc. - Ordinary Shares|Q|N|N|100
 AMBC|Ambac Financial Group, Inc. - Common Stock|Q|N|N|100
 AMBCW|Ambac Financial Group, Inc. - Warrants|Q|N|N|100
 AMCC|Applied Micro Circuits Corporation - Common Stock|Q|N|N|100
-AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|H|100
+AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|E|100
 AMCN|AirMedia Group Inc - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 AMCX|AMC Networks Inc. - Class A Common Stock|Q|N|N|100
 AMD|Advanced Micro Devices, Inc. - Common Stock|S|N|N|100
@@ -224,7 +225,6 @@ ASML|ASML Holding N.V. - ADS represents 1 ordinary share|Q|N|N|100
 ASNA|Ascena Retail Group, Inc. - Common Stock|Q|N|N|100
 ASND|Ascendis Pharma A/S - American Depositary Shares|Q|N|N|100
 ASPS|Altisource Portfolio Solutions S.A. - Common Stock|Q|N|N|100
-ASPX|Auspex Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ASRV|AmeriServ Financial Inc. - Common Stock|G|N|N|100
 ASRVP|AmeriServ Financial Inc. - AmeriServ Financial Trust I - 8.45% Beneficial Unsecured Securities, Series A|G|N|N|100
 ASTC|Astrotech Corporation - Common Stock|S|N|N|100
@@ -626,6 +626,7 @@ COHR|Coherent, Inc. - Common Stock|Q|N|N|100
 COHU|Cohu, Inc. - Common Stock|Q|N|N|100
 COKE|Coca-Cola Bottling Co. Consolidated - Common Stock|Q|N|N|100
 COLB|Columbia Banking System, Inc. - Common Stock|Q|N|N|100
+COLL|Collegium Pharmaceutical, Inc. - Common Stock|Q|N|N|100
 COLM|Columbia Sportswear Company - Common Stock|Q|N|N|100
 COMM|CommScope Holding Company, Inc. - Common Stock|Q|N|N|100
 COMT|iShares Commodities Select Strategy ETF|G|N|N|100
@@ -1142,7 +1143,7 @@ GENE|Genetic Technologies Ltd - American Depositary Shares representing 30 ordin
 GEOS|Geospace Technologies Corporation - Common Stock|Q|N|N|100
 GERN|Geron Corporation - Common Stock|Q|N|N|100
 GEVA|Synageva BioPharma Corp. - Common Stock|Q|N|N|100
-GEVO|Gevo, Inc. - Common Stock|S|N|D|100
+GEVO|Gevo, Inc. - Common Stock|S|N|N|100
 GFED|Guaranty Federal Bancshares, Inc. - Common Stock|G|N|N|100
 GFN|General Finance Corporation - Common Stock|G|N|N|100
 GFNCP|General Finance Corporation - Cumulative Redeemable Perpetual Preferred Series C|G|N|N|100
@@ -1173,6 +1174,7 @@ GLNG|Golar LNG Limited - Common Shares|Q|N|N|100
 GLPI|Gaming and Leisure Properties, Inc. - Common Stock|Q|N|N|100
 GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares|Q|N|N|100
 GLRI|Glori Energy Inc - Common Stock|S|N|N|100
+GLSS|Gelesis, Inc. - Common Stock|G|N|N|100
 GLUU|Glu Mobile Inc. - Common Stock|Q|N|N|100
 GLYC|GlycoMimetics, Inc. - Common Stock|G|N|N|100
 GMAN|Gordmans Stores, Inc. - Common Stock|Q|N|N|100
@@ -1319,6 +1321,7 @@ HTBI|HomeTrust Bancshares, Inc. - Common Stock|Q|N|N|100
 HTBK|Heritage Commerce Corp - Common Stock|Q|N|N|100
 HTBX|Heat Biologics, Inc. - Common Stock|S|N|N|100
 HTCH|Hutchinson Technology Incorporated - Common Stock|Q|N|N|100
+HTGM|HTG Molecular Diagnostics, Inc. - Common Stock|G|N|N|100
 HTHT|China Lodging Group, Limited - American Depositary Shares, each representing four Ordinary Shares|Q|N|N|100
 HTLD|Heartland Express, Inc. - Common Stock|Q|N|N|100
 HTLF|Heartland Financial USA, Inc. - Common Stock|Q|N|N|100
@@ -1797,6 +1800,7 @@ MTSL|MER Telemanagement Solutions Ltd. - Ordinary Shares|S|N|N|100
 MTSN|Mattson Technology, Inc. - Common Stock|Q|N|N|100
 MU|Micron Technology, Inc. - Common Stock|Q|N|N|100
 MULT|AdvisorShares Sunrise Global Multi-Strategy ETF|G|N|N|100
+MVIR|MultiVir Inc. - Common Stock|G|N|N|100
 MVIS|Microvision, Inc. - Common Stock|G|N|N|100
 MXIM|Maxim Integrated Products, Inc. - Common Stock|Q|N|N|100
 MXWL|Maxwell Technologies, Inc. - Common Stock|Q|N|N|100
@@ -1928,7 +1932,7 @@ OCUL|Ocular Therapeutix, Inc. - Common Stock|G|N|N|100
 ODFL|Old Dominion Freight Line, Inc. - Common Stock|Q|N|N|100
 ODP|Office Depot, Inc. - Common Stock|Q|N|N|100
 OFED|Oconee Federal Financial Corp. - Common Stock|S|N|N|100
-OFIX|Orthofix International N.V. - Common Stock|Q|N|E|100
+OFIX|Orthofix International N.V. - Common Stock|Q|N|N|100
 OFLX|Omega Flex, Inc. - Common Stock|G|N|N|100
 OFS|OFS Capital Corporation - Common Stock|Q|N|N|100
 OGXI|OncoGenex Pharmaceuticals Inc. - Common Shares|S|N|N|100
@@ -2600,7 +2604,7 @@ TBIO|Transgenomic, Inc. - Common Stock|S|N|N|100
 TBK|Triumph Bancorp, Inc. - Common Stock|Q|N|N|100
 TBNK|Territorial Bancorp Inc. - Common Stock|Q|N|N|100
 TBPH|Theravance Biopharma, Inc. - Ordinary Shares|G|N|N|100
-TBRA|Regado BioSciences, Inc. - Common Stock|S|N|N|100
+TBRA|Tobira Therapeutics, Inc. - Common Stock|S|N|N|100
 TCBI|Texas Capital Bancshares, Inc. - Common Stock|Q|N|N|100
 TCBIL|Texas Capital Bancshares, Inc. - 6.50% Subordinated Notes due 2042|Q|N|N|100
 TCBIP|Texas Capital Bancshares, Inc. - Non Cumulative Preferred Perpetual Stock Series A|Q|N|N|100
@@ -2994,4 +2998,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0505201521:33|||||
+File Creation Time: 0506201521:33|||||
