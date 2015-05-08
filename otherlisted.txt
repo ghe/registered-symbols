@@ -718,6 +718,7 @@ CCK|Crown Holdings, Inc.|N|CCK|N|100|N|CCK
 CCL|Carnival Corporation Common Stock|N|CCL|N|100|N|CCL
 CCM|Concord Medical Services Holdings Limited ADS (Each represents three ordinary shares)|N|CCM|N|100|N|CCM
 CCO|Clear Channel Outdoor Holdings, Inc. Clear Channel Outdoor Holdings, Inc. Class A Common Stock|N|CCO|N|100|N|CCO
+CCR|Commercial Credit, Inc. Common Stock|N|CCR|N|100|N|CCR
 CCS|Century Communities, Inc. Common Stock|N|CCS|N|100|N|CCS
 CCSC|Country Style Cooking Restaurant Chain Co., Ltd American Depositary Shares, each representing four ordinary shares|N|CCSC|N|100|N|CCSC
 CCU|Compania Cervecerias Unidas, S.A. Common Stock|N|CCU|N|100|N|CCU
@@ -1837,6 +1838,7 @@ FXCH|Guggenheim CurrencyShares Chinese Renminbi Trust|P|FXCH|Y|100|N|FXCH
 FXCM|FXCM Inc. Class A Common Stock|N|FXCM|N|100|N|FXCM
 FXD|First Trust Cons. Discret. AlphaDEX|P|FXD|Y|100|N|FXD
 FXE|Guggenheim CurrencyShares Euro Currency Trust|P|FXE|Y|100|N|FXE
+FXEU|PowerShares Europe Currency Hedged Low Volatility Portfolio|P|FXEU|Y|100|N|FXEU
 FXF|Guggenheim CurrencyShares Swiss Franc Trust|P|FXF|Y|100|N|FXF
 FXG|First Trust Cons. Staples AlphaDEX|P|FXG|Y|100|N|FXG
 FXH|First Trust Health Care AlphaDEX|P|FXH|Y|100|N|FXH
@@ -4554,6 +4556,7 @@ TECL|Direxion Technology Bull 3X Shares|P|TECL|Y|100|N|TECL
 TECS|Direxion Technology Bear 3X Shares|P|TECS|Y|100|N|TECS
 TEF|Telefonica SA Common Stock|N|TEF|N|100|N|TEF
 TEG|Integrys Energy Group, Inc. Common Stock|N|TEG|N|100|N|TEG
+TEGP|Tallgrass Energy GP, LP Class A Shares Common Stock|N|TEGP|N|100|N|TEGP
 TEI|Templeton Emerging Markets Income Fund, Inc. Common Stock|N|TEI|N|100|N|TEI
 TEL|TE Connectivity Ltd. New Switzerland Registered Shares|N|TEL|N|100|N|TEL
 TEN|Tenneco Inc. Common Stock|N|TEN|N|100|N|TEN
@@ -5226,4 +5229,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0506201521:33||||||
+File Creation Time: 0507201521:34||||||
