@@ -171,6 +171,7 @@ ANGO|AngioDynamics, Inc. - Common Stock|Q|N|N|100
 ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100
 ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|D|100
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100
+ANTE|Anterios, Inc. - Common Stock|G|N|N|100
 ANTH|Anthera Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANY|Sphere 3D Corp. - Common Shares|G|N|N|100
 AOSL|Alpha and Omega Semiconductor Limited - Common Shares|Q|N|N|100
@@ -1521,6 +1522,7 @@ KIRK|Kirkland's, Inc. - Common Stock|Q|N|N|100
 KITE|Kite Pharma, Inc. - Common Stock|Q|N|N|100
 KLAC|KLA-Tencor Corporation - Common Stock|Q|N|N|100
 KLIC|Kulicke and Soffa Industries, Inc. - Common Stock|Q|N|N|100
+KLOX|Klox Technologies Inc. - Common Shares|G|N|N|100
 KLXI|KLX Inc. - Common Stock|Q|N|N|100
 KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100
 KMPH|KemPharm, Inc. - Common Stock|G|N|N|100
@@ -1568,7 +1570,7 @@ LDRH|LDR Holding Corporation - Common Stock|Q|N|N|100
 LDRI|PowerShares LadderRite 0-5 Year Corporate Bond Portfolio|G|N|N|100
 LE|Lands' End, Inc. - Common Stock|S|N|N|100
 LECO|Lincoln Electric Holdings, Inc. - Common Shares|Q|N|N|100
-LEDS|SemiLEDS Corporation - Common Stock|Q|N|N|100
+LEDS|SemiLEDS Corporation - Common Stock|Q|N|D|100
 LENS|Presbia PLC - Ordinary Shares|G|N|N|100
 LFUS|Littelfuse, Inc. - Common Stock|Q|N|N|100
 LFVN|Lifevantage Corporation - Common Stock|S|N|D|100
@@ -1578,6 +1580,7 @@ LGCYP|Legacy Reserves LP - 8% Series A Fixed-to-Floating Rate Cumulative Redeema
 LGIH|LGI Homes, Inc. - Common Stock|Q|N|N|100
 LGND|Ligand Pharmaceuticals Incorporated - Common Stock|G|N|N|100
 LHCG|LHC Group - common stock|Q|N|N|100
+LIFE|aTyr Pharma, Inc. - Common Stock|Q|N|N|100
 LIME|Lime Energy Co. - Common Stock|S|N|N|100
 LINC|Lincoln Educational Services Corporation - Common Stock|Q|N|N|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
@@ -1886,7 +1889,7 @@ NTRS|Northern Trust Corporation - Common Stock|Q|N|N|100
 NTRSP|Northern Trust Corporation - Depository Shares|Q|N|N|100
 NTWK|NetSol Technologies Inc. - Common Stock|S|N|N|100
 NUAN|Nuance Communications, Inc. - Common Stock|Q|N|N|100
-NURO|NeuroMetrix, Inc. - Common Stock|S|N|N|100
+NURO|NeuroMetrix, Inc. - Common Stock|S|N|D|100
 NUTR|Nutraceutical International Corporation - Common Stock|Q|N|N|100
 NUVA|NuVasive, Inc. - Common Stock|Q|N|N|100
 NVAX|Novavax, Inc. - Common Stock|Q|N|N|100
@@ -2998,4 +3001,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0506201521:33|||||
+File Creation Time: 0507201521:34|||||
