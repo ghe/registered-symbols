@@ -26,7 +26,7 @@ ACAS|American Capital, Ltd. - Common Stock|Q|N|N|100
 ACAT|Arctic Cat Inc. - Common Stock|Q|N|N|100
 ACET|Aceto Corporation - Common Stock|Q|N|N|100
 ACFC|Atlantic Coast Financial Corporation - Common Stock|G|N|N|100
-ACFN|Acorn Energy, Inc. - Common Stock|G|N|D|100
+ACFN|Acorn Energy, Inc. - Common Stock|S|N|D|100
 ACGL|Arch Capital Group Ltd. - Common Stock|Q|N|N|100
 ACHC|Acadia Healthcare Company, Inc. - Common Stock|Q|N|N|100
 ACHN|Achillion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -370,6 +370,7 @@ BNSO|Bonso Electronics International, Inc. - Common Stock|S|N|N|100
 BOBE|Bob Evans Farms, Inc. - Common Stock|Q|N|N|100
 BOCH|Bank of Commerce Holdings (CA) - Common Stock|G|N|N|100
 BOFI|BofI Holding, Inc. - Common Stock|Q|N|N|100
+BOJA|Bojangles', Inc. - Common Stock|Q|N|N|100
 BOKF|BOK Financial Corporation - Common Stock|Q|N|N|100
 BONA|Bona Film Group Limited - American Depositary Shares|Q|N|N|100
 BONT|The Bon-Ton Stores, Inc. - Common Stock|Q|N|N|100
@@ -540,7 +541,7 @@ CHFN|Charter Financial Corp. - Common Stock|S|N|N|100
 CHI|Calamos Convertible Opportunities and Income Fund - Common Stock|Q|N|N|100
 CHKE|Cherokee Inc. - Common Stock|Q|N|N|100
 CHKP|Check Point Software Technologies Ltd. - Ordinary Shares|Q|N|N|100
-CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|D|100
+CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|N|100
 CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100
 CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100
 CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|N|100
@@ -1303,7 +1304,6 @@ HOTR|Chanticleer Holdings, Inc. - Common Stock|S|N|N|100
 HOTRW|Chanticleer Holdings, Inc. - Warrants|S|N|N|100
 HOVNP|Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock|G|N|N|100
 HPJ|Highpower International Inc - Common Stock|G|N|N|100
-HPTX|Hyperion Therapeutics, Inc. - Common Stock|Q|N|N|100
 HQCL|Hanwha Q CELLS Co., Ltd.  - American Depository Shares, each representing five ordinary shares|Q|N|N|100
 HQY|HealthEquity, Inc. - Common Stock|Q|N|N|100
 HRMN|Harmony Merger Corp. - Common Stock|S|N|N|100
@@ -2546,6 +2546,7 @@ STDY|SteadyMed Ltd. - Ordinary Shares|G|N|N|100
 STEM|StemCells, Inc. - Common Stock|S|N|N|100
 STFC|State Auto Financial Corporation - Common Stock|Q|N|N|100
 STKL|SunOpta, Inc. - Common Stock|Q|N|N|100
+STKS|The ONE Group Hospitality, Inc. - Common Stock|S|N|N|100
 STLD|Steel Dynamics, Inc. - Common Stock|Q|N|N|100
 STLY|Stanley Furniture Company, Inc. - Common Stock|Q|N|N|100
 STML|Stemline Therapeutics, Inc. - Common Stock|S|N|N|100
@@ -3001,4 +3002,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0507201521:34|||||
+File Creation Time: 0508201521:32|||||
