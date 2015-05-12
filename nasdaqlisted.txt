@@ -1050,7 +1050,6 @@ FNGN|Financial Engines, Inc. - Common Stock|Q|N|N|100
 FNHC|Federated National Holding Company - Common Stock|G|N|N|100
 FNJN|Finjan Holdings, Inc. - Common Stock|S|N|N|100
 FNLC|First Bancorp, Inc (ME) - Common Stock|Q|N|N|100
-FNRG|ForceField Energy Inc. - Common Stock|S|N|N|100
 FNSR|Finisar Corporation - Common Stock|Q|N|N|100
 FNTC|FinTech Acquisition Corp. - Common Stock|S|N|N|100
 FNTCU|FinTech Acquisition Corp. - Units|S|N|N|100
@@ -1467,6 +1466,7 @@ ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
 IVAC|Intevac, Inc. - Common Stock|Q|N|N|100
 IXYS|IXYS Corporation - Common Stock|Q|N|N|100
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100
+JAGX|Jaguar Animal Health, Inc. - Common Stock|S|N|N|100
 JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|N|100
 JASN|Jason Industries, Inc. - Common Stock|S|N|N|100
 JASNW|Jason Industries, Inc. - Warrant|S|N|N|100
@@ -2129,7 +2129,6 @@ PRGS|Progress Software Corporation - Common Stock|Q|N|N|100
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100
 PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100
 PRKR|ParkerVision, Inc. - Common Stock|S|N|D|100
-PRKU|Parakou Tankers, Inc. - Common Stock|S|N|N|100
 PRMW|Primo Water Corporation - Common Stock|G|N|N|100
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
@@ -3002,4 +3001,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0508201521:32|||||
+File Creation Time: 0511201521:33|||||
