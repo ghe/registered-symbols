@@ -246,7 +246,6 @@ APC|Anadarko Petroleum Corporation Common Stock|N|APC|N|100|N|APC
 APD|Air Products and Chemicals, Inc. Common Stock|N|APD|N|100|N|APD
 APF|Morgan Stanley Asia-Pacific Fund, Inc.|N|APF|N|100|N|APF
 APH|Amphenol Corporation Common Stock|N|APH|N|100|N|APH
-API|Advanced Photonix, Inc. Class A Common Stock|A|API|N|100|N|API
 APO|Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests|N|APO|N|100|N|APO
 APP|American Apparel Inc Common Stock|A|APP|N|100|N|APP
 APT|Alpha Pro Tech, Ltd. Common Stock|A|APT|N|100|N|APT
@@ -2418,7 +2417,6 @@ ILF|iShares Latin America 40 ETF|P|ILF|Y|100|N|ILF
 ILTB|iShares Core 10  Year USD Bond ETF|P|ILTB|Y|100|N|ILTB
 IM|Ingram Micro Inc. Common Stock|N|IM|N|100|N|IM
 IMAX|Imax Corporation Common Stock|N|IMAX|N|100|N|IMAX
-IMC|International Market Centers, Inc. Common Stock|N|IMC|N|100|N|IMC
 IMH|Impac Mortgage Holdings, Inc. Common Stock New|A|IMH|N|100|N|IMH
 IMLP|iPath S&P MLP ETN|P|IMLP|N|100|N|IMLP
 IMN|Imation Corporation Common Stock|N|IMN|N|100|N|IMN
@@ -4385,7 +4383,6 @@ SSE|Seventy Seven Energy Inc. Common Stock|N|SSE|N|100|N|SSE
 SSG|ProShares UltraShort Semiconductors|P|SSG|Y|100|N|SSG
 SSI|Stage Stores, Inc. Common Stock|N|SSI|N|100|N|SSI
 SSL|Sasol Ltd. American Depositary Shares|N|SSL|N|100|N|SSL
-SSLT|Sesa Sterlite Limited  American Depositary Shares (Each representing four equity shares)|N|SSLT|N|100|N|SSLT
 SSN|Samson Oil & Gas Limited Sponsored ADR (Australia)|A|SSN|N|100|N|SSN
 SSNI|Silver Spring Networks, Inc. Common Stock|N|SSNI|N|100|N|SSNI
 SSO|ProShares Ultra S&P500|P|SSO|Y|100|N|SSO
@@ -4887,6 +4884,7 @@ VDC|Vanguard Consumer Staples ETF - DNQ|P|VDC|Y|100|N|VDC
 VDE|Vanguard Energy ETF|P|VDE|Y|100|N|VDE
 VEA|Vanguard FTSE Developed Markets ETF|P|VEA|Y|100|N|VEA
 VEC|Vectrus, Inc. Common Stock|N|VEC|N|100|N|VEC
+VEDL|Vedanta Limited  American Depositary Shares (Each representing four equity shares)|N|VEDL|N|100|N|VEDL
 VEEV|Veeva Systems Inc. Class A Common Stock|N|VEEV|N|100|N|VEEV
 VEGA|AdvisorShares STAR Global Buy-Write ETF|P|VEGA|Y|100|N|VEGA
 VEGI|iShares MSCI Agriculture Producers Fund|P|VEGI|Y|100|N|VEGI
@@ -4999,7 +4997,7 @@ VZA|Verizon Communications Inc. 5.90% Notes due 2054|N|VZA|N|100|N|VZA
 W|Wayfair Inc. Class A Common Stock|N|W|N|100|N|W
 WAB|Westinghouse Air Brake Technologies Corporation Common Stock|N|WAB|N|100|N|WAB
 WAC|Walter Investment Management Corp. Common Stock|N|WAC|N|100|N|WAC
-WAGE|WageWorks, Inc. Common Stock $0.001 par value|N|WAGE|N|100|N|WAGE
+WAGE|WageWorks, Inc. Common Stock|N|WAGE|N|100|N|WAGE
 WAIR|Wesco Aircraft Holdings, Inc. Common Stock|N|WAIR|N|100|N|WAIR
 WAL|Western Alliance Bancorporation Common Stock (DE)|N|WAL|N|100|N|WAL
 WAT|Waters Corporation Common Stock|N|WAT|N|100|N|WAT
@@ -5227,4 +5225,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0508201521:32||||||
+File Creation Time: 0511201521:33||||||
