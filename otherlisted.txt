@@ -3247,7 +3247,6 @@ NBY|NovaBay Pharmaceuticals, Inc. Common Stock|A|NBY|N|100|N|NBY
 NC|NACCO Industries, Inc. Common Stock|N|NC|N|100|N|NC
 NCA|Nuveen California Municipal Value Fund, Inc. Common Stock|N|NCA|N|100|N|NCA
 NCB|Nuveen California Municipal Value Fund 2 Common Shares of Beneficial Interest|A|NCB|N|100|N|NCB
-NCFT|Norcraft Companies, Inc. Common Stock|N|NCFT|N|100|N|NCFT
 NCI|Navigant Consulting, Inc. Common Stock|N|NCI|N|100|N|NCI
 NCQ|NovaCopper Inc. Common Stock|A|NCQ|N|100|N|NCQ
 NCR|NCR Corporation Common Stock|N|NCR|N|100|N|NCR
@@ -4179,8 +4178,12 @@ SCHW$B|Charles Schwab Corporation Depositary Shares Representing 1/40th Int Sh N
 SCHX|Schwab U.S. Large-Cap ETF|P|SCHX|Y|100|N|SCHX
 SCHZ|Schwab US Aggregate Bond ETF|P|SCHZ|Y|100|N|SCHZ
 SCI|Service Corporation International Common Stock|N|SCI|N|100|N|SCI
+SCID|Global X Scientific Beta Europe ETF|P|SCID|Y|100|N|SCID
 SCIF|Market Vectors India Small-Cap Index ETF|P|SCIF|Y|100|N|SCIF
+SCIJ|Global X Scientific Beta Japan ETF|P|SCIJ|Y|100|N|SCIJ
 SCIN|EGShares India Small Cap ETF|P|SCIN|Y|100|N|SCIN
+SCIU|Global X Scientific Beta US ETF|P|SCIU|Y|100|N|SCIU
+SCIX|Global X Scientific Beta Asia ex-Japan ETF|P|SCIX|Y|100|N|SCIX
 SCJ|iShares MSCI Japan Sm Cap|P|SCJ|Y|100|N|SCJ
 SCL|Stepan Company Common Stock|N|SCL|N|100|N|SCL
 SCM|Stellus Capital Investment Corporation Common Stock|N|SCM|N|100|N|SCM
@@ -5225,4 +5228,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0512201521:33||||||
+File Creation Time: 0513201521:33||||||
