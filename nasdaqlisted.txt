@@ -639,7 +639,7 @@ CORE|Core-Mark Holding Company, Inc. - Common Stock|Q|N|N|100
 CORI|Corium International, Inc. - Common Stock|G|N|N|100
 CORT|Corcept Therapeutics Incorporated - Common Stock|S|N|N|100
 COSI|Cosi, Inc. - Common Stock|S|N|N|100
-COST|Costco Wholesale Corporation - Common Stock|Q|N|N|100
+COST|Costco Wholesale Corporation - Common Stock|Q|N|D|100
 COVS|Covisint Corporation - Common Stock|Q|N|N|100
 COWN|Cowen Group, Inc. - Class A Common Stock|Q|N|N|100
 COWNL|Cowen Group, Inc. - 8.25% Senior Notes due 2021|Q|N|N|100
@@ -1002,6 +1002,7 @@ FEIC|FEI Company - Common Stock|Q|N|N|100
 FEIM|Frequency Electronics, Inc. - Common Stock|G|N|N|100
 FELE|Franklin Electric Co., Inc. - Common Stock|Q|N|N|100
 FEMB|First Trust Emerging Markets Local Currency Bond ETF|G|N|N|100
+FENX|Fenix Parts, Inc. - Common Stock|G|N|N|100
 FES|Forbes Energy Services Ltd - Ordinary shares (Bermuda)|G|N|N|100
 FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100
 FEYE|FireEye, Inc. - Common Stock|Q|N|N|100
@@ -1120,6 +1121,7 @@ GABC|German American Bancorp, Inc. - Common Stock|Q|N|N|100
 GAI|Global-Tech Advanced Innovations Inc. - Common Stock|G|N|N|100
 GAIA|Gaiam, Inc. - Class A Common Stock|G|N|N|100
 GAIN|Gladstone Investment Corporation - Business Development Company|Q|N|N|100
+GAINN|Gladstone Investment Corporation - 6.50% Series C Cumulative Term Preferred Stock Due 2022|Q|N|N|100
 GAINO|Gladstone Investment Corporation - 6.75% Series B Cumulative Term Preferred Stock|Q|N|N|100
 GAINP|Gladstone Investment Corporation - 7.125% Series A Term Preferred Stock|Q|N|N|100
 GALE|Galena Biopharma, Inc. - Common Stock|S|N|N|100
@@ -1172,6 +1174,7 @@ GLDD|Great Lakes Dredge & Dock Corporation - Common Stock|Q|N|N|100
 GLDI|Credit Suisse AG - Credit Suisse Gold Shares Covered Call Exchange Traded Notes|G|N|N|100
 GLMD|Galmed Pharmaceuticals Ltd. - Ordinary Shares|S|N|N|100
 GLNG|Golar LNG Limited - Common Shares|Q|N|N|100
+GLPG|Galapagos NV - American Depositary Shares|Q|N|N|100
 GLPI|Gaming and Leisure Properties, Inc. - Common Stock|Q|N|N|100
 GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares|Q|N|N|100
 GLRI|Glori Energy Inc - Common Stock|S|N|N|100
@@ -1466,6 +1469,7 @@ ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
 IVAC|Intevac, Inc. - Common Stock|Q|N|N|100
 IXYS|IXYS Corporation - Common Stock|Q|N|N|100
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100
+JAGX|Jaguar Animal Health, Inc. - Common Stock|S|N|N|100
 JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|N|100
 JASN|Jason Industries, Inc. - Common Stock|S|N|N|100
 JASNW|Jason Industries, Inc. - Warrant|S|N|N|100
@@ -2276,6 +2280,7 @@ RITT|RIT Technologies Ltd. - ordinary shares|S|N|N|100
 RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
+RKDA|Arcadia Biosciences, Inc. - Common Stock|Q|N|N|100
 RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|E|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
@@ -3000,4 +3005,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0512201521:33|||||
+File Creation Time: 0513201521:33|||||
