@@ -1178,7 +1178,6 @@ GLPG|Galapagos NV - American Depositary Shares|Q|N|N|100
 GLPI|Gaming and Leisure Properties, Inc. - Common Stock|Q|N|N|100
 GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares|Q|N|N|100
 GLRI|Glori Energy Inc - Common Stock|S|N|N|100
-GLSS|Gelesis, Inc. - Common Stock|G|N|N|100
 GLUU|Glu Mobile Inc. - Common Stock|Q|N|N|100
 GLYC|GlycoMimetics, Inc. - Common Stock|G|N|N|100
 GMAN|Gordmans Stores, Inc. - Common Stock|Q|N|N|100
@@ -1493,7 +1492,7 @@ JNP|Juniper Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 JOBS|51job, Inc. - American Depositary Shares, each representing two common shares|Q|N|N|100
 JOEZ|Joe's Jeans Inc. - Common Stock|S|N|D|100
 JOUT|Johnson Outdoors Inc. - Class A Common Stock|Q|N|N|100
-JRJC|China Finance Online Co. Limited - American Depositary Shares representing 5 ordinary shares|Q|N|N|100
+JRJC|China Finance Online Co. Limited - American Depositary Shares representing 5 ordinary shares|Q|N|D|100
 JRVR|James River Group Holdings, Ltd. - Common Shares|Q|N|N|100
 JSM|SLM Corporation - 6% Senior Notes due December 15, 2043|G|N|N|100
 JST|Jinpan International Limited - Common Stock|Q|N|N|100
@@ -1865,7 +1864,7 @@ NILE|Blue Nile, Inc. - Common Stock|Q|N|N|100
 NKSH|National Bankshares, Inc. - Common Stock|S|N|N|100
 NKTR|Nektar Therapeutics - Common Stock|Q|N|N|100
 NLNK|NewLink Genetics Corporation - Common Stock|G|N|N|100
-NLST|Netlist, Inc. - Common Stock|G|N|N|100
+NLST|Netlist, Inc. - Common Stock|G|N|D|100
 NMIH|NMI Holdings Inc - Common Stock|G|N|N|100
 NMRX|Numerex Corp. - Class A Common Stock|Q|N|N|100
 NNBR|NN, Inc. - Common Stock|Q|N|N|100
@@ -2330,7 +2329,7 @@ RVNC|Revance Therapeutics, Inc. - Common Stock|G|N|N|100
 RVSB|Riverview Bancorp Inc - Common Stock|Q|N|N|100
 RWLK|ReWalk Robotics Ltd - Ordinary Shares|G|N|N|100
 RXDX|Ignyta, Inc. - Common Stock|S|N|N|100
-RXII|RXi Pharmaceuticals Corporation - Common Stock|S|N|N|100
+RXII|RXi Pharmaceuticals Corporation - Common Stock|S|N|D|100
 RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares|Q|N|N|100
 SAAS|inContact, Inc. - Common Stock|S|N|N|100
 SABR|Sabre Corporation - Common Stock|Q|N|N|100
@@ -2614,7 +2613,7 @@ TBPH|Theravance Biopharma, Inc. - Ordinary Shares|G|N|N|100
 TBRA|Tobira Therapeutics, Inc. - Common Stock|S|N|N|100
 TCBI|Texas Capital Bancshares, Inc. - Common Stock|Q|N|N|100
 TCBIL|Texas Capital Bancshares, Inc. - 6.50% Subordinated Notes due 2042|Q|N|N|100
-TCBIP|Texas Capital Bancshares, Inc. - Non Cumulative Preferred Perpetual Stock Series A|Q|N|N|100
+TCBIP|Texas Capital Bancshares, Inc. - Non Cumulative Preferred Perpetual Stock Series A|Q|N|D|100
 TCBIW|Texas Capital Bancshares, Inc. - Warrants 01/16/2019|Q|N|N|100
 TCBK|TriCo Bancshares - Common Stock|Q|N|N|100
 TCCO|Technical Communications Corporation - Common Stock|S|N|N|100
@@ -3005,4 +3004,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0513201521:33|||||
+File Creation Time: 0514201521:32|||||
