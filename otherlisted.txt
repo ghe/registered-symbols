@@ -227,6 +227,7 @@ ANH$C|Anworth Mortgage Asset  Corporation 7.625% Series C Cumulative Redeemable 
 ANN|ANN INC. Common Stock|N|ANN|N|100|N|ANN
 ANR|Alpha Natural Resources, inc. comm stock|N|ANR|N|100|N|ANR
 ANTM|Anthem, Inc. Common Stock|N|ANTM|N|100|N|ANTM
+ANTX|Anthem, Inc. Corporate Units|N|ANTX|N|100|N|ANTX
 ANW|Aegean Marine Petroleum Network Inc. Common Stock|N|ANW|N|100|N|ANW
 AOA|iShares Core Aggressive Allocation ETF|P|AOA|Y|100|N|AOA
 AOD|Alpine Total Dynamic Dividend Fund Common Stock|N|AOD|N|100|N|AOD
@@ -1640,7 +1641,6 @@ FCF|First Commonwealth Financial Corporation Common Stock|N|FCF|N|100|N|FCF
 FCG|First Trust ISE-Revere Natural Gas|P|FCG|Y|100|N|FCG
 FCH|FelCor Lodging Trust Incorporated Common Stock|N|FCH|N|100|N|FCH
 FCH$A|FelCor Lodging Trust Incorporated Preferred Stock|N|FCHpA|N|100|N|FCH-A
-FCH$C|FelCor Lodging Trust Incorporated Dep Shares Representing 1/100 Preferred Series C|N|FCHpC/CL|N|100|N|FCH-C*
 FCN|FTI Consulting, Inc. Common Stock|N|FCN|N|100|N|FCN
 FCO|Aberdeen Global Income Fund, Inc. Common Stock|A|FCO|N|100|N|FCO
 FCOM|Fidelity MSCI Telecommunication Services Index ETF|P|FCOM|Y|100|N|FCOM
@@ -1807,6 +1807,7 @@ FSTA|Fidelity MSCI COnsumer Staples Index ETF|P|FSTA|Y|100|N|FSTA
 FSZ|First Trust Switzerland AlphaDex Fund|P|FSZ|Y|100|N|FSZ
 FT|Franklin Universal Trust Common Stock|N|FT|N|100|N|FT
 FTA|First Trust Large Cap Value AlphaDEX Fund (based onthe Defined Large Cap Value Index symbol DEFILVOI|P|FTA|Y|100|N|FTA
+FTAI|Fortress Transportation and Infrastructure Investors LLC Common Shares|N|FTAI|N|100|N|FTAI
 FTC|First Trust Large Cap Growth AlphaDEX Fund (based on the Defined Large CAp Growth Index symbol DEFILGOI)|P|FTC|Y|100|N|FTC
 FTEC|Fidelity MSCI Information Technology Index ETF|P|FTEC|Y|100|N|FTEC
 FTF|Franklin Limited Duration Income Trust Common Shares of Beneficial Interest|A|FTF|N|100|N|FTF
@@ -3619,7 +3620,7 @@ PFE|Pfizer, Inc. Common Stock|N|PFE|N|100|N|PFE
 PFEM|PowerShares Fundamental Emerging Markets Local Debt Portfolio|P|PFEM|Y|100|N|PFEM
 PFF|iShares US Preferred Stock ETF|P|PFF|Y|100|N|PFF
 PFG|Principal Financial Group Inc Common Stock|N|PFG|N|100|N|PFG
-PFG$B|Principal Financial Group, Inc. 6.518% Series B Non-Cumulative Perpetual Preferred Stock|N|PFGpB|N|100|N|PFG-B
+PFG$B|Principal Financial Group, Inc. 6.518% Series B Non-Cumulative Perpetual Preferred Stock|N|PFGpB/CL|N|100|N|PFG-B*
 PFH|Cabco Tr Jcp 7.625 Common Stock|N|PFH|N|100|N|PFH
 PFI|PowerShares DWA Financial Momentum Portfolio|P|PFI|Y|100|N|PFI
 PFIG|PowerShares Fundamental Investment Grade Corporate Bond Portfolio ETF|P|PFIG|Y|100|N|PFIG
@@ -5228,4 +5229,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0513201521:33||||||
+File Creation Time: 0514201521:32||||||
