@@ -174,9 +174,7 @@ ALLY|Ally Financial Inc. Common Stock|N|ALLY|N|100|N|ALLY
 ALLY$A|GMAC Capital Trust I Fixed Rate Floating Rate Trust Preferred Securities, Series 2|N|ALLYpA|N|100|N|ALLY-A
 ALLY$B|Ally Financial Inc Fixed Rate Floating Rate Perpetual Preferred Stock, Series A|N|ALLYpB|N|100|N|ALLY-B
 ALN|American Lorain Corporation Common Stock|A|ALN|N|100|N|ALN
-ALP$N|Alabama Power Company Preferred Stock|N|ALPpN/CL|N|100|N|ALP-N*
 ALP$O|Alabama Power Company Preferred Stock|N|ALPpO|N|100|N|ALP-O
-ALP$P|Alabama Power Company 5.30% Cl A Pfd Stk|N|ALPpP/CL|N|100|N|ALP-P*
 ALR|Alere Inc. Common Stock|N|ALR|N|100|N|ALR
 ALR$B|Alere Inc. Inverness Medical Innovations, Inc. Series B Convertible Perpetual Preferred Stock|N|ALRpB|N|10|N|ALR-B
 ALSN|Allison Transmission Holdings, Inc. Common Stock|N|ALSN|N|100|N|ALSN
@@ -731,7 +729,7 @@ CDR|Cedar Realty Trust, Inc. Common Stock|N|CDR|N|100|N|CDR
 CDR$B|Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock|N|CDRpB|N|100|N|CDR-B
 CE|Celanese Corporation Celanese Corporation Series A Common Stock|N|CE|N|100|N|CE
 CEA|China Eastern Airlines Corporation Ltd. Common Stock|N|CEA|N|100|N|CEA
-CEB|Corporate Executive Board Company (The) Common Stock|N|CEB|N|100|N|CEB
+CEB|CEB Inc. Common Stock|N|CEB|N|100|N|CEB
 CEE|Central Europe, Russia and Turkey Fund, Inc. (The) Common Stock|N|CEE|N|100|N|CEE
 CEF|Central Fund of Canada Limited Common Stock|A|CEF|N|100|N|CEF
 CEFL|ETRACS Monthly Pay 2X Leveraged Closed-End Fund ETN|P|CEFL|N|100|N|CEFL
@@ -850,6 +848,7 @@ CMP|Compass Minerals Intl Inc Common Stock|N|CMP|N|100|N|CMP
 CMRE|Costamare Inc. Common Stock $0.0001 par value|N|CMRE|N|100|N|CMRE
 CMRE$B|Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands)|N|CMREpB|N|100|N|CMRE-B
 CMRE$C|Costamare Inc. Perpetual Preferred Series C (Marshall Islands)|N|CMREpC|N|100|N|CMRE-C
+CMRE$D|Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock|N|CMREpD|N|100|N|CMRE-D
 CMS|CMS Energy Corporation Common Stock|N|CMS|N|100|N|CMS
 CMS$B|CMS Energy Corporation Preferred Stock|N|CMSpB|N|10|N|CMS-B
 CMT|Core Molding Technologies Inc Common Stock|A|CMT|N|100|N|CMT
@@ -3451,7 +3450,8 @@ NYCB$U|New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES
 NYCC|PowerShares NYSE Century Portfolio|P|NYCC|Y|100|N|NYCC
 NYF|iShares New York AMT-Free Muni Bond ETF|P|NYF|Y|100|N|NYF
 NYH|Eaton Vance New York Municipal Bond Fund II Common Shares of Beneficial Interest, $.01 par value|A|NYH|N|100|N|NYH
-NYLD|NRG Yield, Inc. Class A Common Stock|N|NYLD|N|100|N|NYLD
+NYLD|NRG Yield, Inc. Class C Common Stock|N|NYLD|N|100|N|NYLD
+NYLD.A|NRG Yield, Inc. Class A Common Stock|N|NYLD/A|N|100|N|NYLD.A
 NYRT|New York REIT, Inc. Common Stock|N|NYRT|N|100|N|NYRT
 NYT|New York Times Company (The) Common Stock|N|NYT|N|100|N|NYT
 NYV|Nuveen New York Municipal Value Fund 2 Common Shares of Beneficial Interest|A|NYV|N|100|N|NYV
@@ -3758,7 +3758,6 @@ PRN|PowerShares DWA Industrials Momentum Portfolio|P|PRN|Y|100|N|PRN
 PRO|PROS Holdings, Inc. Common Stock|N|PRO|N|100|N|PRO
 PRTY|Party City Holdco Inc. Common Stock|N|PRTY|N|100|N|PRTY
 PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
-PRY|Prospect Capital Corporation 6.95% Senior Notes due 2022|N|PRY/CL|N|100|N|PRY*
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
 PSA$A|Public Storage Depositary Shares each representing 1/1,000 of a 5.875% Cumulative Preferred SBI, Series A|N|PSApA|N|100|N|PSA-A
 PSA$P|Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)|N|PSApP|N|100|N|PSA-P
@@ -5229,4 +5228,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0514201521:32||||||
+File Creation Time: 0515201521:32||||||
