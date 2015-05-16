@@ -171,7 +171,6 @@ ANGO|AngioDynamics, Inc. - Common Stock|Q|N|N|100
 ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100
 ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|D|100
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100
-ANTE|Anterios, Inc. - Common Stock|G|N|N|100
 ANTH|Anthera Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANY|Sphere 3D Corp. - Common Shares|G|N|N|100
 AOSL|Alpha and Omega Semiconductor Limited - Common Shares|Q|N|N|100
@@ -492,6 +491,7 @@ CDC|Compass EMP U S EQ Income 100 Enhanced Volatility Weighted Fund|G|N|N|100
 CDK|CDK Global, Inc. - Common Stock|Q|N|N|100
 CDNA|CareDx, Inc. - Common Stock|G|N|N|100
 CDNS|Cadence Design Systems, Inc. - Common Stock|Q|N|N|100
+CDRB|Code Rebel Corporation - Common Stock|S|N|N|100
 CDTI|Clean Diesel Technologies, Inc. - Common Stock|S|N|N|100
 CDTX|Cidara Therapeutics, Inc. - Common Stock|G|N|N|100
 CDW|CDW Corporation - Common Stock|Q|N|N|100
@@ -1524,7 +1524,6 @@ KIRK|Kirkland's, Inc. - Common Stock|Q|N|N|100
 KITE|Kite Pharma, Inc. - Common Stock|Q|N|N|100
 KLAC|KLA-Tencor Corporation - Common Stock|Q|N|N|100
 KLIC|Kulicke and Soffa Industries, Inc. - Common Stock|Q|N|N|100
-KLOX|Klox Technologies Inc. - Common Shares|G|N|N|100
 KLXI|KLX Inc. - Common Stock|Q|N|N|100
 KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100
 KMPH|KemPharm, Inc. - Common Stock|G|N|N|100
@@ -2279,7 +2278,7 @@ RITT|RIT Technologies Ltd. - ordinary shares|S|N|N|100
 RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
-RKDA|Arcadia Biosciences, Inc. - Common Stock|Q|N|N|100
+RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
 RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|E|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
@@ -2613,7 +2612,7 @@ TBPH|Theravance Biopharma, Inc. - Ordinary Shares|G|N|N|100
 TBRA|Tobira Therapeutics, Inc. - Common Stock|S|N|N|100
 TCBI|Texas Capital Bancshares, Inc. - Common Stock|Q|N|N|100
 TCBIL|Texas Capital Bancshares, Inc. - 6.50% Subordinated Notes due 2042|Q|N|N|100
-TCBIP|Texas Capital Bancshares, Inc. - Non Cumulative Preferred Perpetual Stock Series A|Q|N|D|100
+TCBIP|Texas Capital Bancshares, Inc. - Non Cumulative Preferred Perpetual Stock Series A|Q|N|N|100
 TCBIW|Texas Capital Bancshares, Inc. - Warrants 01/16/2019|Q|N|N|100
 TCBK|TriCo Bancshares - Common Stock|Q|N|N|100
 TCCO|Technical Communications Corporation - Common Stock|S|N|N|100
@@ -3004,4 +3003,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0514201521:32|||||
+File Creation Time: 0515201521:32|||||
