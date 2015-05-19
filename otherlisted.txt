@@ -244,6 +244,7 @@ APC|Anadarko Petroleum Corporation Common Stock|N|APC|N|100|N|APC
 APD|Air Products and Chemicals, Inc. Common Stock|N|APD|N|100|N|APD
 APF|Morgan Stanley Asia-Pacific Fund, Inc.|N|APF|N|100|N|APF
 APH|Amphenol Corporation Common Stock|N|APH|N|100|N|APH
+APLE|Apple Hospitality REIT, Inc. Common Shares|N|APLE|N|100|N|APLE
 APO|Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests|N|APO|N|100|N|APO
 APP|American Apparel Inc Common Stock|A|APP|N|100|N|APP
 APT|Alpha Pro Tech, Ltd. Common Stock|A|APT|N|100|N|APT
@@ -1999,6 +2000,7 @@ GNAT|WisdomTree Global Natural Resources International Index|P|GNAT|Y|100|N|GNAT
 GNC|GNC Holdings, Inc. Class A Common Stock|N|GNC|N|100|N|GNC
 GNE|Genie Energy Ltd. Class B Common Stock Stock|N|GNE|N|100|N|GNE
 GNE$A|Genie Energy Ltd. Series 2012 - A Preferred Stock, $0.01 par value|N|GNEpA|N|100|N|GNE-A
+GNL|Global Net Lease, Inc. Common Stock|N|GNL|N|100|N|GNL
 GNR|SPDR S&P Global Natural Resources ETF|P|GNR|Y|100|N|GNR
 GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
 GNT|GAMCO Natural Resources, Gold & Income Trust|N|GNT|N|100|N|GNT
@@ -3733,6 +3735,7 @@ PPA|PowerShares Aerospace & Defense|P|PPA|Y|100|N|PPA
 PPG|PPG Industries, Inc. Common Stock|N|PPG|N|100|N|PPG
 PPH|Market Vectors Pharmaceutical ETF|P|PPH|Y|100|N|PPH
 PPL|PP&L Corporation Common Stock|N|PPL|N|100|N|PPL
+PPL.V|PPL Corporation Common Stock Ex-Distribution When Issued|N|PPLw|N|100|N|PPL#
 PPLT|ETFS Physical Platinum Shares|P|PPLT|Y|100|N|PPLT
 PPO|Polypore International Inc Common Stock|N|PPO|N|100|N|PPO
 PPP|Primero Mining Corp.  New Common Shares (Canada)|N|PPP|N|100|N|PPP
@@ -4614,6 +4617,7 @@ TLI|LMP Corporate Loan Fund Inc Common Stock|N|TLI|N|100|N|TLI
 TLK|PT Telekomunikasi Indonesia, Tbk|N|TLK|N|100|N|TLK
 TLL|ProShares UltraShort Telecommunications|P|TLL|Y|100|N|TLL
 TLLP|Tesoro Logistics LP Common Units representing Limited Partner Interests|N|TLLP|N|100|N|TLLP
+TLN.V|Talen Energy Corporation Common Stock When Issued|N|TLNw|N|100|N|TLN#
 TLO|SPDR Barclays Long Term Treasury ETF|P|TLO|Y|100|N|TLO
 TLP|Transmontaigne Partners L.P. Transmontaigne Partners L.P. Common Units representing limited partner interests|N|TLP|N|100|N|TLP
 TLR|Timberline Resources Corporation Common Stock (DE)|A|TLR|N|100|N|TLR
@@ -4691,7 +4695,6 @@ TRSK|Janus Velocity Tail Risk Hedged Large Cap ETF|P|TRSK|Y|100|N|TRSK
 TRT|Trio-Tech International Common Stock|A|TRT|N|100|N|TRT
 TRUP|Trupanion, Inc. Common Stock|N|TRUP|N|100|N|TRUP
 TRV|The Travelers Companies, Inc. Common Stock|N|TRV|N|100|N|TRV
-TRW|TRW Automotive Holdings Corporation Common Stock|N|TRW|N|100|N|TRW
 TRX|Tanzanian Royalty Exploration Corporation Common Stock|A|TRX|N|100|N|TRX
 TRXC|TransEnterix, Inc. Common Stock|A|TRXC|N|100|N|TRXC
 TS|Tenaris S.A. American Depositary Shares|N|TS|N|100|N|TS
@@ -5228,4 +5231,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0515201521:32||||||
+File Creation Time: 0518201521:33||||||
