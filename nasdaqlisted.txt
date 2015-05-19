@@ -212,7 +212,10 @@ ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock|Q|N|N|100
 ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock|S|N|N|100
 ARTX|Arotech Corporation - Common Stock|G|N|N|100
 ARUN|Aruba Networks, Inc. - Common Stock|Q|N|N|100
+ARWA|Arowana Inc. - Ordinary Shares|S|N|N|100
+ARWAR|Arowana Inc. - Rights|S|N|N|100
 ARWAU|Arowana Inc. - Units|S|N|N|100
+ARWAW|Arowana Inc. - warrant|S|N|N|100
 ARWR|Arrowhead Research Corporation - Common Stock|Q|N|N|100
 ASBB|ASB Bancorp, Inc. - Common Stock|G|N|N|100
 ASBI|Ameriana Bancorp - Common Stock|S|N|N|100
@@ -290,7 +293,7 @@ BBCN|BBCN Bancorp, Inc. - Common Stock|Q|N|N|100
 BBEP|BreitBurn Energy Partners, L.P. - Common Units Representing Limited Partnership|Q|N|N|100
 BBEPP|BreitBurn Energy Partners, L.P. - 8.25% Series A Cumulative Redeemable Perpetual Preferred Units|Q|N|N|100
 BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|G|N|N|100
-BBLU|Blue Earth, Inc. - Common Stock|S|N|D|100
+BBLU|Blue Earth, Inc. - Common Stock|S|N|N|100
 BBNK|Bridge Capital Holdings - Common Stock|Q|N|N|100
 BBOX|Black Box Corporation - Common Stock|Q|N|N|100
 BBP|BioShares Biotechnology Products Fund|G|N|N|100
@@ -843,7 +846,7 @@ DYAX|Dyax Corp. - Common Stock|G|N|N|100
 DYNT|Dynatronics Corporation - Common Stock|S|N|N|100
 DYSL|Dynasil Corporation of America - Common Stock|S|N|N|100
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100
-EAC|Erickson Incorporated - Common Stock|G|N|D|100
+EAC|Erickson Incorporated - Common Stock|G|N|N|100
 EARS|Auris Medical Holding AG - Common Shares|G|N|N|100
 EBAY|eBay Inc. - Common Stock|Q|N|N|100
 EBIO|Eleven Biotherapeutics, Inc. - Common Stock|G|N|N|100
@@ -1207,7 +1210,7 @@ GPRO|GoPro, Inc. - Class A Common Stock|Q|N|N|100
 GRBK|Green Brick Partners, Inc. - Common Stock|S|N|N|100
 GRFS|Grifols, S.A. - American Depositary Shares|Q|N|N|100
 GRID|First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund|G|N|N|100
-GRIF|Griffin Land & Nurseries, Inc. - Common Stock|G|N|N|100
+GRIF|Griffin Industrial Realty, Inc. - Common Stock|G|N|N|100
 GRMN|Garmin Ltd. - Common Stock|Q|N|N|100
 GROW|U.S. Global Investors, Inc. - Class A Common Stock|S|N|N|100
 GRPN|Groupon, Inc. - Class A Common Stock|Q|N|N|100
@@ -3003,4 +3006,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0515201521:32|||||
+File Creation Time: 0518201521:33|||||
