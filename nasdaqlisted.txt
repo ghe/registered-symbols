@@ -109,7 +109,7 @@ AKAM|Akamai Technologies, Inc. - Common Stock|Q|N|N|100
 AKAO|Achaogen, Inc. - Common Stock|G|N|N|100
 AKBA|Akebia Therapeutics, Inc. - Common Stock|G|N|N|100
 AKER|Akers Biosciences Inc - Common Stock|S|N|N|100
-AKRX|Akorn, Inc. - Common Stock|Q|N|N|100
+AKRX|Akorn, Inc. - Common Stock|Q|N|E|100
 ALCO|Alico, Inc. - Common Stock|Q|N|N|100
 ALDR|Alder BioPharmaceuticals, Inc. - Common Stock|G|N|N|100
 ALDX|Aldeyra Therapeutics, Inc. - Common Stock|S|N|N|100
@@ -2876,6 +2876,8 @@ VUZI|Vuzix Corporation - Common Stock|S|N|N|100
 VVUS|VIVUS, Inc. - Common Stock|Q|N|N|100
 VWOB|Vanguard Emerging Markets Government Bond ETF|G|N|N|100
 VWR|VWR Corporation - Common Stock|Q|N|N|100
+VXDN|AccuShares Spot CBOE VIX Down Shares|G|N|N|100
+VXUP|AccuShares Spot CBOE VIX Up Shares|G|N|N|100
 VXUS|Vanguard Total International Stock ETF|G|N|N|100
 VYFC|Valley Financial Corporation - Common Stock|S|N|N|100
 WABC|Westamerica Bancorporation - Common Stock|Q|N|N|100
@@ -2962,7 +2964,7 @@ XNCR|Xencor, Inc. - Common Stock|G|N|N|100
 XNET|Xunlei Limited - American Depositary Receipts|Q|N|N|100
 XNPT|XenoPort, Inc. - Common Stock|Q|N|N|100
 XOMA|XOMA Corporation - Common Stock|G|N|N|100
-XONE|The ExOne Company - Common Stock|Q|N|N|100
+XONE|The ExOne Company - Common Stock|Q|N|E|100
 XOOM|Xoom Corporation - Common Stock|Q|N|N|100
 XPLR|Xplore Technologies Corp - Common Stock|S|N|N|100
 XRAY|DENTSPLY International Inc. - Common Stock|Q|N|N|100
@@ -3006,4 +3008,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0518201521:33|||||
+File Creation Time: 0519201521:32|||||
