@@ -983,6 +983,7 @@ CUB|Cubic Corporation Common Stock|N|CUB|N|100|N|CUB
 CUBE|CubeSmart Common Shares|N|CUBE|N|100|N|CUBE
 CUBE$A|CubeSmart 7.75% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest|N|CUBEpA|N|100|N|CUBE-A
 CUBI|Customers Bancorp, Inc Common Stock|N|CUBI|N|100|N|CUBI
+CUBI$C|Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C|N|CUBIpC|N|100|N|CUBI-C
 CUBS|Customers Bancorp, Inc 6.375% Senior Notes due 2018|N|CUBS|N|100|N|CUBS
 CUDA|Barracuda Networks, Inc. Common Stock|N|CUDA|N|100|N|CUDA
 CUK|Carnival Plc ADS ADS|N|CUK|N|100|N|CUK
@@ -4524,7 +4525,7 @@ TCB|TCF Financial Corporation Common Stock|N|TCB|N|100|N|TCB
 TCB$B|TCF Financial Corporation Del Dep Shs Repstg 1/1000 Pfd Ser A|N|TCBpB|N|100|N|TCB-B
 TCB$C|TCF Financial Corporation Perp Pfd Ser B|N|TCBpC|N|100|N|TCB-C
 TCB.W|TCF Financial Corporation TCF Financial Corporation Warrants|N|TCB/WS|N|100|N|TCB+
-TCC|Triangle Capital Corporation 7.00% Senior Notes due 2019|N|TCC|N|100|N|TCC
+TCC|Triangle Capital Corporation 7.00% Senior Notes due 2019|N|TCC/CL|N|100|N|TCC*
 TCCA|Triangle Capital Corporation 6.375% Senior Notes due 2022|N|TCCA|N|100|N|TCCA
 TCCB|Triangle Capital Corporation 6.375% Notes due 2022|N|TCCB|N|100|N|TCCB
 TCHI|RBS China Trendpilot Exchange Traded Note|P|TCHI|N|100|N|TCHI
@@ -4540,20 +4541,15 @@ TCS|Container Store (The) Common Stock|N|TCS|N|100|N|TCS
 TD|Toronto Dominion Bank (The) Common Stock|N|TD|N|100|N|TD
 TDA|Telephone and Data Systems, Inc. 5.875% Senior Notes due 2061|N|TDA|N|100|N|TDA
 TDC|Teradata Corporation Common Stock|N|TDC|N|100|N|TDC
-TDD|Deutsche X-trackers 2010 Target Date ETF|P|TDD|Y|100|N|TDD
 TDE|Telephone and Data Systems, Inc. 6.875% Senior Notes due 2059|N|TDE|N|100|N|TDE
 TDF|Templeton Dragon Fund, Inc. Common Stock|N|TDF|N|100|N|TDF
 TDG|Transdigm Group Incorporated Transdigm Group Inc. Common Stock|N|TDG|N|100|N|TDG
-TDH|Deutsche X-trackers 2020 Target Date ETF|P|TDH|Y|100|N|TDH
 TDI|Telephone and Data Systems, Inc. Sr Nt|N|TDI|N|100|N|TDI
 TDJ|Telephone and Data Systems, Inc. 7% Senior Notes due 2060|N|TDJ|N|100|N|TDJ
-TDN|Deutsche X-trackers 2030 Target Date ETF|P|TDN|Y|100|N|TDN
 TDS|Telephone and Data Systems, Inc. Common Shares|N|TDS|N|100|N|TDS
 TDTF|FlexShares iBoxx 5 Year Target Duration TIPS Index Fund|P|TDTF|Y|100|N|TDTF
 TDTT|FlexShares iBoxx 3 Year Target Duration TIPS Index Fund|P|TDTT|Y|100|N|TDTT
-TDV|Deutsche X-trackers 2040 Target Date ETF|P|TDV|Y|100|N|TDV
 TDW|Tidewater Inc. Common Stock|N|TDW|N|100|N|TDW
-TDX|Deutsche X-trackers In-Target Date ETF|P|TDX|Y|100|N|TDX
 TDY|Teledyne Technologies Incorporated Common Stock|N|TDY|N|100|N|TDY
 TE|TECO Energy, Inc. Common Stock|N|TE|N|100|N|TE
 TECL|Direxion Technology Bull 3X Shares|P|TECL|Y|100|N|TECL
@@ -5231,4 +5227,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0518201521:33||||||
+File Creation Time: 0519201521:32||||||
