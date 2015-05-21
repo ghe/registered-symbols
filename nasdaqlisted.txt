@@ -211,7 +211,6 @@ ARRY|Array BioPharma Inc. - Common Stock|G|N|N|100
 ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock|Q|N|N|100
 ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock|S|N|N|100
 ARTX|Arotech Corporation - Common Stock|G|N|N|100
-ARUN|Aruba Networks, Inc. - Common Stock|Q|N|N|100
 ARWA|Arowana Inc. - Ordinary Shares|S|N|N|100
 ARWAR|Arowana Inc. - Rights|S|N|N|100
 ARWAU|Arowana Inc. - Units|S|N|N|100
@@ -670,7 +669,6 @@ CRDS|Crossroads Systems, Inc. - Common Stock|S|N|N|100
 CRDT|WisdomTree Strategic Corporate Bond Fund|G|N|N|100
 CREE|Cree, Inc. - Common Stock|Q|N|N|100
 CREG|China Recycling Energy Corporation - Common Stock|G|N|N|100
-CRESW|Cresud S.A.C.I.F. y A. - Warrants 5/22/2015|Q|N|N|100
 CRESY|Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock|Q|N|N|100
 CRIS|Curis, Inc. - Common Stock|G|N|N|100
 CRME|Cardiome Pharma Corporation - Ordinary Shares (Canada)|S|N|N|100
@@ -1023,7 +1021,7 @@ FGEN|FibroGen, Inc - Common Stock|Q|N|N|100
 FHCO|Female Health Company (The) - Common Stock|S|N|D|100
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100
 FINL|The Finish Line, Inc. - Class A Common Stock|Q|N|N|100
-FISH|Marlin Midstream Partners, LP - Common Units representing Limited Partner Interests.|G|N|N|100
+FISH|Azure Midstream Partners, LP - Common Units representing Limited Partner Interests.|G|N|N|100
 FISI|Financial Institutions, Inc. - Common Stock|Q|N|N|100
 FISV|Fiserv, Inc. - Common Stock|Q|N|N|100
 FITB|Fifth Third Bancorp - Common Stock|Q|N|N|100
@@ -1203,6 +1201,7 @@ GOODO|Gladstone Commercial Corporation - 7.50% Series B Cumulative Redeemable Pr
 GOODP|Gladstone Commercial Corporation - 7.75% Series A Cumulative Redeemable Preferred Stock|Q|N|N|100
 GOOG|Google Inc. - Class C Capital Stock|Q|N|N|100
 GOOGL|Google Inc. - Class A Common Stock|Q|N|N|100
+GPIAU|GP Investments Acquisition Corp. - Unit|S|N|N|100
 GPIC|Gaming Partners International Corporation - Common Stock|G|N|N|100
 GPOR|Gulfport Energy Corporation - Common Stock|Q|N|N|100
 GPRE|Green Plains, Inc. - Common Stock|Q|N|N|100
@@ -1689,6 +1688,7 @@ MCUR|Macrocure Ltd. - Ordinary Shares|G|N|N|100
 MDAS|MedAssets, Inc. - Common Stock|Q|N|N|100
 MDCA|MDC Partners Inc. - Class A Subordinate Voting Shares|Q|N|N|100
 MDCO|The Medicines Company - Common Stock|Q|N|N|100
+MDGS|Medigus Ltd. - American Depositary Share|S|N|N|100
 MDIV|First Trust Exchange-Traded Fund VI Multi-Asset Diversified Income Index Fund|G|N|N|100
 MDLZ|Mondelez International, Inc. - Class A Common Stock|Q|N|N|100
 MDM|Mountain Province Diamonds Inc. - Common Stock|Q|N|N|100
@@ -3008,4 +3008,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0519201521:32|||||
+File Creation Time: 0520201521:33|||||
