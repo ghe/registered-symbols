@@ -762,6 +762,7 @@ CGW|Guggenheim S&P Global Water|P|CGW|Y|100|N|CGW
 CH|Aberdeen Chile Fund, Inc. (The) Common Stock|A|CH|N|100|N|CH
 CHA|China Telecom Corp Ltd ADS|N|CHA|N|100|N|CHA
 CHAU|Direxion Daily CSI 300 China A Share Bull 2X Shares|P|CHAU|Y|100|N|CHAU
+CHCT|Community Healthcare Trust Incorporated Common Stock|N|CHCT|N|100|N|CHCT
 CHD|Church & Dwight Company, Inc. Common Stock|N|CHD|N|100|N|CHD
 CHE|Chemed Corp|N|CHE|N|100|N|CHE
 CHEP|QuantShares U.S. Market Neutral Value Fund ETF|P|CHEP|Y|100|N|CHEP
@@ -3033,7 +3034,7 @@ MHR$C|Magnum Hunter Resources Corporation 10.25% Series C Cumulative Perpetual P
 MHR$D|Magnum Hunter Resources Corporation 8.0% Series D Cumulative Preferred Stock|A|MHRpD|N|100|N|MHR-D
 MHR$E|Magnum Hunter Resources Corporation Depositary Shares, each representing a 1/1000th interest in a share of 8.0% Series E Cumulative Convertible Preferred Stock|A|MHRpE|N|100|N|MHR-E
 MHY|Western Asset Managed High Income Fund, Inc. Common Stock|N|MHY|N|100|N|MHY
-MIC|Macquarie Infrastructure Company LLC (New) Shares representing one Limited Liability Interest|N|MIC|N|100|N|MIC
+MIC|Macquarie Infrastructure Company Common Stock|N|MIC|N|100|N|MIC
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
 MIDZ|Direxion Mid Cap Bear 3X Shares|P|MIDZ|Y|100|N|MIDZ
 MIE|Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. Common Stock|N|MIE|N|100|N|MIE
@@ -3648,6 +3649,7 @@ PGI|Premiere Global Services, Inc.|N|PGI|N|100|N|PGI
 PGJ|PowerShares Golden Dragon China Portfolio|P|PGJ|Y|100|N|PGJ
 PGM|iPath Bloomberg Platinum Subindex Total Return SM ETN|P|PGM|N|100|N|PGM
 PGN|Paragon Offshore plc Ordinary Shares|N|PGN|N|100|N|PGN
+PGND|Press Ganey Holdings, Inc. Common Stock|N|PGND|N|100|N|PGND
 PGP|Pimco Global Stocksplus & Income Fund Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest|N|PGP|N|100|N|PGP
 PGR|Progressive Corporation (The) Common Stock|N|PGR|N|100|N|PGR
 PGRE|Paramount Group, Inc. Common Stock|N|PGRE|N|100|N|PGRE
@@ -4253,6 +4255,7 @@ SHLX|Shell Midstream Partners, L.P. Common Units representing Limited Partner In
 SHM|SPDR Nuveen Barclays Short Term Municipal Bond ETF|P|SHM|Y|100|N|SHM
 SHO|Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares|N|SHO|N|100|N|SHO
 SHO$D|Sunstone Hotel Investors, Inc. 8.0% Series D Cumulative Redeemable Preferred Stock|N|SHOpD|N|100|N|SHO-D
+SHOP|Shopify Inc. Class A Subordinate Voting Shares|N|SHOP|N|100|N|SHOP
 SHV|iShares Short Treasury Bond ETF|P|SHV|Y|100|N|SHV
 SHW|Sherwin-Williams Company (The) Common Stock|N|SHW|N|100|N|SHW
 SHY|iShares 1-3 Year Treasury Bond ETF|P|SHY|Y|100|N|SHY
@@ -5227,4 +5230,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0520201521:33||||||
+File Creation Time: 0521201521:33||||||
