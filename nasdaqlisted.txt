@@ -418,6 +418,7 @@ BWLD|Buffalo Wild Wings, Inc. - Common Stock|Q|N|N|100
 BYBK|Bay Bancorp, Inc. - Common Stock|S|N|N|100
 BYFC|Broadway Financial Corporation - Common Stock|S|N|N|100
 BYLK|Baylake Corp - Common Stock|S|N|N|100
+BZUN|Baozun Inc. - American Depositary Shares|Q|N|N|100
 CA|CA Inc. - Common Stock|Q|N|N|100
 CAAS|China Automotive Systems, Inc. - Common Stock|S|N|N|100
 CAC|Camden National Corporation - Common Stock|Q|N|N|100
@@ -967,7 +968,7 @@ EXTR|Extreme Networks, Inc. - Common Stock|Q|N|N|100
 EXXI|Energy XXI Ltd. - Common Stock|Q|N|N|100
 EYES|Second Sight Medical Products, Inc. - Common Stock|S|N|N|100
 EZCH|EZchip Semiconductor Limited - Ordinary Shares|Q|N|N|100
-EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|N|100
+EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|E|100
 FALC|FalconStor Software, Inc. - Common Stock|G|N|N|100
 FANG|Diamondback Energy, Inc. - Commmon Stock|Q|N|N|100
 FARM|Farmer Brothers Company - Common Stock|Q|N|N|100
@@ -1482,7 +1483,7 @@ JBLU|JetBlue Airways Corporation - Common Stock|Q|N|N|100
 JBSS|John B. Sanfilippo & Son, Inc. - Common Stock|Q|N|N|100
 JCOM|j2 Global, Inc. - Common Stock|Q|N|N|100
 JCS|Communications Systems, Inc. - Common Stock|G|N|N|100
-JCTCF|Jewett-Cameron Trading Company - Common Shares|S|N|D|100
+JCTCF|Jewett-Cameron Trading Company - Common Shares|S|N|N|100
 JD|JD.com, Inc. - American Depositary Shares|Q|N|N|100
 JDSU|JDS Uniphase Corporation - Common Stock|Q|N|N|100
 JGBB|WisdomTree Japan Interest Rate Strategy Fund|G|N|N|100
@@ -2023,7 +2024,7 @@ PAYX|Paychex, Inc. - Common Stock|Q|N|N|100
 PBCP|Polonia Bancorp, Inc. - Common Stock|S|N|N|100
 PBCT|People's United Financial, Inc. - Common Stock|Q|N|N|100
 PBHC|Pathfinder Bancorp, Inc. - Common Stock|S|N|N|100
-PBIB|Porter Bancorp, Inc. - Common Stock|S|N|D|100
+PBIB|Porter Bancorp, Inc. - Common Stock|S|N|N|100
 PBIP|Prudential Bancorp, Inc. - Common Stock|G|N|N|100
 PBMD|Prima BioMed Ltd - American Depositary Shares|G|N|D|100
 PBPB|Potbelly Corporation - Common Stock|Q|N|N|100
@@ -2127,7 +2128,7 @@ PRAN|Prana Biotechnology Ltd - American Depositary Shares each representing ten 
 PRCP|Perceptron, Inc. - Common Stock|G|N|N|100
 PRFT|Perficient, Inc. - Common Stock|Q|N|N|100
 PRFZ|PowerShares FTSE RAFI US 1500 Small-Mid Portfolio|G|N|N|100
-PRGN|Paragon Shipping Inc. - Common Stock|G|N|N|100
+PRGN|Paragon Shipping Inc. - Common Stock|G|N|D|100
 PRGNL|Paragon Shipping Inc. - 8.375% Senior Notes due 2021|G|N|N|100
 PRGS|Progress Software Corporation - Common Stock|Q|N|N|100
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100
@@ -2547,7 +2548,7 @@ STBA|S&T Bancorp, Inc. - Common Stock|Q|N|N|100
 STBZ|State Bank Financial Corporation. - Common Stock|S|N|N|100
 STCK|Stock Building Supply Holdings, Inc. - Common Stock|Q|N|N|100
 STDY|SteadyMed Ltd. - Ordinary Shares|G|N|N|100
-STEM|StemCells, Inc. - Common Stock|S|N|N|100
+STEM|StemCells, Inc. - Common Stock|S|N|D|100
 STFC|State Auto Financial Corporation - Common Stock|Q|N|N|100
 STKL|SunOpta, Inc. - Common Stock|Q|N|N|100
 STKS|The ONE Group Hospitality, Inc. - Common Stock|S|N|N|100
@@ -3008,4 +3009,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0520201521:33|||||
+File Creation Time: 0521201521:33|||||
