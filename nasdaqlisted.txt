@@ -248,7 +248,7 @@ ATOS|Atossa Genetics Inc. - Common Stock|S|N|N|100
 ATRA|Atara Biotherapeutics, Inc. - Common Stock|Q|N|N|100
 ATRC|AtriCure, Inc. - Common Stock|G|N|N|100
 ATRI|ATRION Corporation - Common Stock|Q|N|N|100
-ATRM|ATRM Holdings, Inc. - Common Stock|S|N|H|100
+ATRM|ATRM Holdings, Inc. - Common Stock|S|N|D|100
 ATRO|Astronics Corporation - Common Stock|Q|N|N|100
 ATRS|Antares Pharma, Inc. - Common Stock|S|N|N|100
 ATSG|Air Transport Services Group, Inc - Common Stock|Q|N|N|100
@@ -350,7 +350,7 @@ BLCM|Bellicum Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 BLDP|Ballard Power Systems, Inc. - Common Shares|G|N|N|100
 BLDR|Builders FirstSource, Inc. - Common Stock|Q|N|N|100
 BLFS|BioLife Solutions, Inc. - Common Stock|S|N|N|100
-BLIN|Bridgeline Digital, Inc. - Common Stock|S|N|D|100
+BLIN|Bridgeline Digital, Inc. - Common Stock|S|N|N|100
 BLKB|Blackbaud, Inc. - Common Stock|Q|N|N|100
 BLMN|Bloomin' Brands, Inc. - Common Stock|Q|N|N|100
 BLMT|BSB Bancorp, Inc. - Common Stock|S|N|N|100
@@ -1241,8 +1241,7 @@ HALL|Hallmark Financial Services, Inc. - Common Stock|G|N|N|100
 HALO|Halozyme Therapeutics, Inc. - Common Stock|Q|N|N|100
 HART|Harvard Apparatus Regenerative Technology, Inc. - Common Stock|S|N|N|100
 HAS|Hasbro, Inc. - Common Stock|Q|N|N|100
-HAWK|Blackhawk Network Holdings, Inc. - Class A Common Stock|Q|N|N|100
-HAWKB|Blackhawk Network Holdings, Inc. - Class B Common Stock|Q|N|N|100
+HAWK|Blackhawk Network Holdings, Inc. - Common Stock|Q|N|N|100
 HAYN|Haynes International, Inc. - Common Stock|Q|N|N|100
 HBAN|Huntington Bancshares Incorporated - Common Stock|Q|N|N|100
 HBANP|Huntington Bancshares Incorporated - Non Cumulative Perp Conv Pfd Ser A|Q|N|N|10
@@ -1519,7 +1518,6 @@ KERX|Keryx Biopharmaceuticals, Inc. - Common Stock|S|N|N|100
 KEYW|The KEYW Holding Corporation - Common Stock|Q|N|N|100
 KFFB|Kentucky First Federal Bancorp - Common Stock|G|N|N|100
 KFRC|Kforce, Inc. - Common Stock|Q|N|N|100
-KFX|Kofax Limited - Common Shares|Q|N|N|100
 KGJI|Kingold Jewelry Inc. - Common Stock|S|N|N|100
 KIN|Kindred Biosciences, Inc. - Common Stock|S|N|N|100
 KINS|Kingstone Companies, Inc - Common Stock|S|N|N|100
@@ -1895,6 +1893,7 @@ NTRSP|Northern Trust Corporation - Depository Shares|Q|N|N|100
 NTWK|NetSol Technologies Inc. - Common Stock|S|N|N|100
 NUAN|Nuance Communications, Inc. - Common Stock|Q|N|N|100
 NURO|NeuroMetrix, Inc. - Common Stock|S|N|D|100
+NUROW|NeuroMetrix, Inc. - Warrants|S|N|D|100
 NUTR|Nutraceutical International Corporation - Common Stock|Q|N|N|100
 NUVA|NuVasive, Inc. - Common Stock|Q|N|N|100
 NVAX|Novavax, Inc. - Common Stock|Q|N|N|100
@@ -2283,7 +2282,7 @@ RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
 RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
-RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|E|100
+RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|N|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
@@ -2307,7 +2306,7 @@ ROLL|RBC Bearings Incorporated - Common Stock|Q|N|N|100
 ROSE|Rosetta Resources Inc. - Common Stock|Q|N|N|100
 ROSG|Rosetta Genomics Ltd. - ordinary shares|S|N|N|100
 ROST|Ross Stores, Inc. - Common Stock|Q|N|N|100
-ROVI|Rovi Corporation - Common Stock|Q|N|N|100
+ROVI|Rovi Corporation - Common Stock|Q|N|D|100
 ROYL|Royale Energy, Inc. - Common Stock|S|N|N|100
 RP|RealPage, Inc. - Common Stock|Q|N|N|100
 RPRX|Repros Therapeutics Inc. - Common Stock|S|N|N|100
@@ -3009,4 +3008,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0521201521:33|||||
+File Creation Time: 0522201521:32|||||
