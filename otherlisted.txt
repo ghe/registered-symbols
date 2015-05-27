@@ -872,6 +872,7 @@ CNP|CenterPoint Energy, Inc (Holding Co) Common Stock|N|CNP|N|100|N|CNP
 CNQ|Canadian Natural Resources Limited Common Stock|N|CNQ|N|100|N|CNQ
 CNR|China Metro-Rural Holdings Limited|A|CNR|N|100|N|CNR
 CNS|Cohn & Steers Inc Common Stock|N|CNS|N|100|N|CNS
+CNTR|PowerShares Contrarian Opportunities Portfolio|P|CNTR|Y|100|N|CNTR
 CNW|Con-Way, Inc. Common Stock|N|CNW|N|100|N|CNW
 CNX|CONSOL Energy Inc. Common Stock|N|CNX|N|100|N|CNX
 CNXT|Market Vectors ChinaAMC SME-ChNext ETF|P|CNXT|Y|100|N|CNXT
@@ -1482,6 +1483,9 @@ EQM|EQT Midstream Partners, LP Common Units representing Limited Partner Interes
 EQR|Equity Residential Common Shares of Beneficial Interest|N|EQR|N|100|N|EQR
 EQS|Equus Total Return, Inc. Common Stock|N|EQS|N|100|N|EQS
 EQT|EQT Corporation Common Stock|N|EQT|N|100|N|EQT
+EQWL|PowerShares Russell Top 200 Equal Weight Portfolio|P|EQWL|Y|100|N|EQWL
+EQWM|PowerShares Russell Midcap Equal Weight Portfolio|P|EQWM|Y|100|N|EQWM
+EQWS|PowerShares Russell 2000 Equal Weight Portfolio|P|EQWS|Y|100|N|EQWS
 EQY|Equity One, Inc. Common Stock|N|EQY|N|100|N|EQY
 ERA|Era Group, Inc. Common Stock|N|ERA|N|100|N|ERA
 ERB|ERBA Diagnostics, Inc. Common Stock|A|ERB|N|100|N|ERB
@@ -3452,7 +3456,6 @@ NXRT|NexPoint Residential Trust, Inc. Common Stock|N|NXRT|N|100|N|NXRT
 NXZ|Nuveen Dividend Advantage Municipal Fund 2 Share of Beneficial Interest|A|NXZ|N|100|N|NXZ
 NYCB|New York Community Bancorp, Inc. Common Stock|N|NYCB|N|100|N|NYCB
 NYCB$U|New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)|N|NYCBpU|N|100|N|NYCB-U
-NYCC|PowerShares NYSE Century Portfolio|P|NYCC|Y|100|N|NYCC
 NYF|iShares New York AMT-Free Muni Bond ETF|P|NYF|Y|100|N|NYF
 NYH|Eaton Vance New York Municipal Bond Fund II Common Shares of Beneficial Interest, $.01 par value|A|NYH|N|100|N|NYH
 NYLD|NRG Yield, Inc. Class C Common Stock|N|NYLD|N|100|N|NYLD
@@ -3830,17 +3833,14 @@ PXF|PowerShares FTSE RAFI Developed Markets ex-U.S. Portfolio|P|PXF|Y|100|N|PXF
 PXH|PowerShares FTSE RAFI Emerging Markets Portfolio|P|PXH|Y|100|N|PXH
 PXI|PowerShares DWA Energy Momentum Portfolio|P|PXI|Y|100|N|PXI
 PXJ|PowerShares Dynamic Oil Services|P|PXJ|Y|100|N|PXJ
-PXLC|PowerShares Fundamental Pure Large Core Portfolio|P|PXLC|Y|100|N|PXLC
-PXLG|PowerShares Fundamental Pure Large Growth Portfolio|P|PXLG|Y|100|N|PXLG
-PXLV|PowerShares Fundamental Pure Large Value Portfolio|P|PXLV|Y|100|N|PXLV
-PXMC|PowerShares Fundamental Pure Mid Core Portfolio|P|PXMC|Y|100|N|PXMC
-PXMG|PowerShares Fundamental Pure Mid Growth Portfolio|P|PXMG|Y|100|N|PXMG
-PXMV|PowerShares Fundamental Pure Mid Value Portfolio|P|PXMV|Y|100|N|PXMV
+PXLG|PowerShares Russell Top 200 Pure Growth Portfolio|P|PXLG|Y|100|N|PXLG
+PXLV|PowerShares Russell Top 200 Pure Value Portfolio|P|PXLV|Y|100|N|PXLV
+PXMG|PowerShares Russell Midcap Pure Growth Portfolio|P|PXMG|Y|100|N|PXMG
+PXMV|PowerShares Russell Midcap Pure Value Portfolio|P|PXMV|Y|100|N|PXMV
 PXQ|PowerShares Dynamic Networking|P|PXQ|Y|100|N|PXQ
 PXR|PowerShares Global Emerging Markets Infrastructure|P|PXR|Y|100|N|PXR
-PXSC|PowerShares Fundamental Pure Small Core Portfolio|P|PXSC|Y|100|N|PXSC
-PXSG|PowerShares Fundamental Pure Small Growth Portfolio|P|PXSG|Y|100|N|PXSG
-PXSV|PowerShares Fundamental Pure Small Value Portfolio|P|PXSV|Y|100|N|PXSV
+PXSG|PowerShares Russell 2000 Pure Growth Portfolio|P|PXSG|Y|100|N|PXSG
+PXSV|PowerShares Russell 2000 Pure Value Portfolio|P|PXSV|Y|100|N|PXSV
 PYN|PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest|N|PYN|N|100|N|PYN
 PYS|Merrill Lynch Depositor Inc PPlus Tr Ser RRD-1 Tr Ctf Cl A|N|PYS|N|100|N|PYS
 PYT|PPlus Tr GSC-2 Tr Ctf Fltg Rate|N|PYT|N|100|N|PYT
@@ -5231,4 +5231,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0522201521:32||||||
+File Creation Time: 0526201521:33||||||
