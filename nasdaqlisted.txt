@@ -163,7 +163,7 @@ ANAC|Anacor Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANAD|ANADIGICS, Inc. - Common Stock|Q|N|N|100
 ANAT|American National Insurance Company - Common Stock|Q|N|N|100
 ANCB|Anchor Bancorp - Common Stock|G|N|N|100
-ANCI|American Caresource Holdings Inc - Common Stock|S|N|D|100
+ANCI|American Caresource Holdings Inc - Common Stock|S|N|N|100
 ANCX|Access National Corporation - Common Stock|G|N|N|100
 ANDE|The Andersons, Inc. - Common Stock|Q|N|N|100
 ANGI|Angie's List, Inc. - Common Stock|Q|N|N|100
@@ -344,8 +344,8 @@ BKEPP|Blueknight Energy Partners L.P., L.L.C. - Series A Preferred Units|G|N|N|1
 BKMU|Bank Mutual Corporation - Common Stock|Q|N|N|100
 BKSC|Bank of South Carolina Corp. - Common Stock|S|N|N|100
 BKYF|The Bank of Kentucky Financial Corp. - Common Stock|Q|N|N|100
-BLBD|Blue Bird Corporation - Common Stock|S|N|D|100
-BLBDW|Blue Bird Corporation - Warrant|S|N|D|100
+BLBD|Blue Bird Corporation - Common Stock|S|N|N|100
+BLBDW|Blue Bird Corporation - Warrant|S|N|N|100
 BLCM|Bellicum Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 BLDP|Ballard Power Systems, Inc. - Common Shares|G|N|N|100
 BLDR|Builders FirstSource, Inc. - Common Stock|Q|N|N|100
@@ -463,7 +463,7 @@ CAVM|Cavium, Inc. - Common Stock|Q|N|N|100
 CBAK|China BAK Battery, Inc. - Common Stock|G|N|N|100
 CBAN|Colony Bankcorp, Inc. - Common Stock|G|N|N|100
 CBAY|CymaBay Therapeutics Inc. - Common Stock|S|N|N|100
-CBDE|CBD Energy Limited - Ordinary Shares|S|N|K|100
+CBDE|BlueNRGY Group Limited - Ordinary Shares|S|N|K|100
 CBF|Capital Bank Financial Corp. - Class A Common Stock|Q|N|N|100
 CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100
 CBIN|Community Bank Shares of Indiana, Inc. - Common Stock|S|N|N|100
@@ -1150,9 +1150,9 @@ GERN|Geron Corporation - Common Stock|Q|N|N|100
 GEVA|Synageva BioPharma Corp. - Common Stock|Q|N|N|100
 GEVO|Gevo, Inc. - Common Stock|S|N|N|100
 GFED|Guaranty Federal Bancshares, Inc. - Common Stock|G|N|N|100
-GFN|General Finance Corporation - Common Stock|G|N|N|100
-GFNCP|General Finance Corporation - Cumulative Redeemable Perpetual Preferred Series C|G|N|N|100
-GFNSL|General Finance Corporation - Senior Notes due 2021|G|N|N|100
+GFN|GFN Portable Storage, Inc. - Common Stock|G|N|N|100
+GFNCP|GFN Portable Storage, Inc. - Cumulative Redeemable Perpetual Preferred Series C|G|N|N|100
+GFNSL|GFN Portable Storage, Inc. - Senior Notes due 2021|G|N|N|100
 GGAC|Garnero Group Acquisition Company - Ordinary Shares|S|N|N|100
 GGACR|Garnero Group Acquisition Company - Rights expiring 6/25/2016|S|N|N|100
 GGACU|Garnero Group Acquisition Company - Units|S|N|N|100
@@ -1214,7 +1214,7 @@ GRIF|Griffin Industrial Realty, Inc. - Common Stock|G|N|N|100
 GRMN|Garmin Ltd. - Common Stock|Q|N|N|100
 GROW|U.S. Global Investors, Inc. - Class A Common Stock|S|N|N|100
 GRPN|Groupon, Inc. - Class A Common Stock|Q|N|N|100
-GRVY|GRAVITY Co., Ltd. - American depositary shares, each representing one-fourth of a share of common stock|S|N|D|100
+GRVY|GRAVITY Co., Ltd. - American depositary shares, each representing one-fourth of a share of common stock|S|N|N|100
 GSBC|Great Southern Bancorp, Inc. - Common Stock|Q|N|N|100
 GSIG|GSI Group, Inc. - Common Stock|Q|N|N|100
 GSIT|GSI Technology, Inc. - Common Stock|Q|N|N|100
@@ -2653,6 +2653,7 @@ THST|Truett-Hurst, Inc. - Class A Common Stock|S|N|N|100
 THTI|THT Heat Transfer Technology, Inc. - Common Stock|S|N|N|100
 TICC|TICC Capital Corp. - Closed End Fund|Q|N|N|100
 TIGR|TigerLogic Corporation - Common Stock|S|N|D|100
+TIL|Till Capital Ltd. - Restricted Voting Shares|S|N|N|100
 TILE|Interface, Inc. - Common Stock|Q|N|N|100
 TINY|Harris & Harris Group, Inc. - Common Stock|G|N|N|100
 TIPT|Tiptree Financial Inc. - Class A Common Stock|S|N|N|100
@@ -3008,4 +3009,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0522201521:32|||||
+File Creation Time: 0526201521:33|||||
