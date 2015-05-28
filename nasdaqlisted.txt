@@ -444,6 +444,7 @@ CAMT|Camtek Ltd. - Ordinary Shares|G|N|N|100
 CAPN|Capnia, Inc. - Common Stock|S|N|N|100
 CAPNW|Capnia, Inc. - Series A Warrant|S|N|N|100
 CAPR|Capricor Therapeutics, Inc. - Common Stock|S|N|N|100
+CAPX|Elkhorn S&P 500 Capital Expenditures Portfolio|G|N|N|100
 CAR|Avis Budget Group, Inc. - Common Stock|Q|N|N|100
 CARA|Cara Therapeutics, Inc. - Common Stock|G|N|N|100
 CARB|Carbonite, Inc. - Common Stock|G|N|N|100
@@ -547,7 +548,7 @@ CHKP|Check Point Software Technologies Ltd. - Ordinary Shares|Q|N|N|100
 CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|N|100
 CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100
 CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100
-CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|N|100
+CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|E|100
 CHRS|Coherus BioSciences, Inc. - Common Stock|G|N|N|100
 CHRW|C.H. Robinson Worldwide, Inc. - Common Stock|Q|N|N|100
 CHSCL|CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4|Q|N|N|100
@@ -1150,9 +1151,9 @@ GERN|Geron Corporation - Common Stock|Q|N|N|100
 GEVA|Synageva BioPharma Corp. - Common Stock|Q|N|N|100
 GEVO|Gevo, Inc. - Common Stock|S|N|N|100
 GFED|Guaranty Federal Bancshares, Inc. - Common Stock|G|N|N|100
-GFN|GFN Portable Storage, Inc. - Common Stock|G|N|N|100
-GFNCP|GFN Portable Storage, Inc. - Cumulative Redeemable Perpetual Preferred Series C|G|N|N|100
-GFNSL|GFN Portable Storage, Inc. - Senior Notes due 2021|G|N|N|100
+GFN|General Finance Corporation - Common Stock|G|N|N|100
+GFNCP|General Finance Corporation - Cumulative Redeemable Perpetual Preferred Series C|G|N|N|100
+GFNSL|General Finance Corporation - Senior Notes due 2021|G|N|N|100
 GGAC|Garnero Group Acquisition Company - Ordinary Shares|S|N|N|100
 GGACR|Garnero Group Acquisition Company - Rights expiring 6/25/2016|S|N|N|100
 GGACU|Garnero Group Acquisition Company - Units|S|N|N|100
@@ -2039,7 +2040,6 @@ PCOM|Points International, Ltd. - Common Shares|S|N|N|100
 PCRX|Pacira Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 PCTI|PC-Tel, Inc. - Common Stock|Q|N|N|100
 PCTY|Paylocity Holding Corporation - Common Stock|Q|N|N|100
-PCYC|Pharmacyclics, Inc. - Common Stock|Q|N|N|100
 PCYG|Park City Group, Inc. - Common Stock|S|N|N|100
 PCYO|Pure Cycle Corporation - Common Stock|S|N|N|100
 PDBC|PowerShares DB Optimum Yield Diversified Commodity Strategy Portfolio|G|N|N|100
@@ -2288,7 +2288,7 @@ RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100
-RMGN|RMG Networks Holding Corporation - Common Stock|G|N|N|100
+RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
@@ -2845,7 +2845,7 @@ VONE|Vanguard Russell 1000 ETF|G|N|N|100
 VONG|Vanguard Russell 1000 Growth ETF|G|N|N|100
 VONV|Vanguard Russell 1000 Value ETF|G|N|N|100
 VOXX|VOXX International Corporation - Class A Common Stock|Q|N|N|100
-VPCO|Vapor Corp. - Common Stock|S|N|N|100
+VPCO|Vapor Corp. - Common Stock|S|N|D|100
 VRA|Vera Bradley, Inc. - Common Stock|Q|N|N|100
 VRML|Vermillion, Inc. - Common Stock|S|N|N|100
 VRNG|Vringo, Inc. - Common Stock|S|N|D|100
@@ -3009,4 +3009,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0526201521:33|||||
+File Creation Time: 0527201521:32|||||
