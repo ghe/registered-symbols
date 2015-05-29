@@ -700,7 +700,7 @@ CSPI|CSP Inc. - Common Stock|G|N|N|100
 CSQ|Calamos Strategic Total Return Fund - Common Stock|Q|N|N|100
 CSRE|CSR plc - American Depositary Shares|Q|N|N|100
 CSTE|CaesarStone Sdot-Yam Ltd. - Ordinary Shares|Q|N|N|100
-CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|N|100
+CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|E|100
 CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -1594,7 +1594,7 @@ LIVE|LiveDeal, Inc. - Common Stock|S|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
 LKQ|LKQ Corporation - Common Stock|Q|N|N|100
-LLEX|Lilis Energy, Inc. - Common Stock|G|N|N|100
+LLEX|Lilis Energy, Inc. - Common Stock|G|N|D|100
 LLNW|Limelight Networks, Inc. - Common Stock|Q|N|N|100
 LLTC|Linear Technology Corporation - Common Stock|Q|N|N|100
 LMAT|LeMaitre Vascular, Inc. - Common Stock|G|N|N|100
@@ -1637,7 +1637,7 @@ LSBK|Lake Shore Bancorp, Inc. - Common Stock|G|N|N|100
 LSCC|Lattice Semiconductor Corporation - Common Stock|Q|N|N|100
 LSTR|Landstar System, Inc. - Common Stock|Q|N|N|100
 LTBR|Lightbridge Corporation - Common Stock|S|N|N|100
-LTRE|Learning Tree International, Inc. - Common Stock|G|N|N|100
+LTRE|Learning Tree International, Inc. - Common Stock|G|N|D|100
 LTRPA|Liberty TripAdvisor Holdings, Inc. - Series A Common Stock|Q|N|N|100
 LTRPB|Liberty TripAdvisor Holdings, Inc. - Series B Common Stock|Q|N|N|100
 LTRX|Lantronix, Inc. - Common Stock|S|N|N|100
@@ -2974,6 +2974,7 @@ XXIA|Ixia - Common Stock|Q|N|N|100
 YDIV|First Trust International Multi-Asset Diversified Income Index Fund|G|N|N|100
 YDLE|Yodlee, Inc. - Common Stock|Q|N|N|100
 YHOO|Yahoo! Inc. - Common Stock|Q|N|N|100
+YLCO|Global X Yieldco Index ETF|G|N|N|100
 YNDX|Yandex N.V. - Class A Ordinary Shares|Q|N|N|100
 YOD|You On Demand Holdings, Inc. - Common Stock|S|N|N|100
 YORW|The York Water Company - Common Stock|Q|N|N|100
@@ -3009,4 +3010,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0527201521:32|||||
+File Creation Time: 0528201521:32|||||
