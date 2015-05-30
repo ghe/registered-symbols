@@ -363,6 +363,7 @@ AYT|iPath GEMS Asia 8 ETN|P|AYT|N|100|N|AYT
 AZIA|Global X Central Asia & Mongolia Index ETF|P|AZIA|Y|100|N|AZIA
 AZN|Astrazeneca PLC Common Stock|N|AZN|N|100|N|AZN
 AZO|AutoZone, Inc. Common Stock|N|AZO|N|100|N|AZO
+AZUR|Azure Midstream Partners, LP Common Units Limited Partnership|N|AZUR|N|100|N|AZUR
 AZZ|AZZ Incorporated Common Stock|N|AZZ|N|100|N|AZZ
 B|Barnes Group, Inc. Common Stock|N|B|N|100|N|B
 BA|Boeing Company (The) Common Stock|N|BA|N|100|N|BA
@@ -633,7 +634,6 @@ BWC|Babcock Common Stock|N|BWC|N|100|N|BWC
 BWG|Legg Mason BW Global Income Opportunities Fund Inc. Common Stock|N|BWG|N|100|N|BWG
 BWL.A|Bowl America, Inc. Class A Common Stock|A|BWL/A|N|100|N|BWL.A
 BWP|Boardwalk Pipeline Partners LP Common Units|N|BWP|N|100|N|BWP
-BWS|Brown Shoe Company, Inc. Common Stock|N|BWS|N|100|N|BWS
 BWV|iPath Goldman Sachs Barclays Bank PLC iPath Exchange Traded Notes Linked to the CBOE S&P 500 BuyWrite Index Structured Product|P|BWV|N|100|N|BWV
 BWX|SPDR Barclays Intl Treasury Bd|P|BWX|Y|100|N|BWX
 BWZ|SPDR Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
@@ -671,6 +671,7 @@ CAFE|iPath Pure Beta Coffee ETN|P|CAFE|N|100|N|CAFE
 CAG|ConAgra Foods, Inc. Common Stock|N|CAG|N|100|N|CAG
 CAH|Cardinal Health, Inc. Common Stock|N|CAH|N|100|N|CAH
 CAJ|Canon, Inc. American Depositary Shares|N|CAJ|N|100|N|CAJ
+CAL|Caleres, Inc. Common Stock|N|CAL|N|100|N|CAL
 CALX|Calix, Inc Common Stock|N|CALX|N|100|N|CALX
 CAM|Cameron International Corporation Common Stock|N|CAM|N|100|N|CAM
 CANE|Teucrium Sugar Fund ETV|P|CANE|Y|100|N|CANE
@@ -1010,6 +1011,7 @@ CVO|Cenveo Inc|N|CVO|N|100|N|CVO
 CVOL|C Tracks Exchange Traded Notes Based on the Performance of the Citi Volatility Index Total Return Fund|P|CVOL|N|100|N|CVOL
 CVR|Chicago Rivet & Machine Co. Common Stock|A|CVR|N|100|N|CVR
 CVRR|CVR Refining, LP Common Units Representing Limited Partner Interests|N|CVRR|N|100|N|CVRR
+CVRS|Corindus Vascular Robotics, Inc. Common Stock|A|CVRS|N|100|N|CVRS
 CVS|CVS Health Corporation Common Stock|N|CVS|N|100|N|CVS
 CVSL|CVSL Inc. Common Stock|A|CVSL|N|100|N|CVSL
 CVT|CVENT, INC. Common Stock|N|CVT|N|100|N|CVT
@@ -1236,6 +1238,7 @@ DSUM|PowerShares Chinese Yuan Dim Sum Bond Portfolio|P|DSUM|Y|100|N|DSUM
 DSW|DSW Inc. Common Stock|N|DSW|N|100|N|DSW
 DSX|Diana Shipping inc. common stock|N|DSX|N|100|N|DSX
 DSX$B|Diana Shipping Inc. Perpetual Preferred Shares Series B (Marshall Islands)|N|DSXpB|N|100|N|DSX-B
+DSXN|Diana Shipping Inc. 8.50% Senior Notes due 2020|N|DSXN|N|100|N|DSXN
 DTD|WisdomTree Total Dividend Fund|P|DTD|Y|100|N|DTD
 DTE|DTE Energy Company Common Stock|N|DTE|N|100|N|DTE
 DTF|DTF Tax-Free Income, Inc. Common Stock|N|DTF|N|100|N|DTF
@@ -3136,7 +3139,7 @@ MR|Mindray Medical International Limited Sponsored ADR representing Class A shar
 MRC|MRC Global Inc. Common Stock|N|MRC|N|100|N|MRC
 MRGR|ProShares Merger ETF|Z|MRGR|Y|100|N|MRGR
 MRH|Montpelier Re Holdings Ltd.|N|MRH|N|100|N|MRH
-MRH$A|Montpelier RE Holdings Ltd Non Cumulative Series A Preferred Shares (Bermuda)|N|MRHpA|N|100|N|MRH-A
+MRH$A|Montpelier RE Holdings Ltd Non Cumulative Series A Preferred Shares (Bermuda)|N|MRHpA/CL|N|100|N|MRH-A*
 MRIN|Marin Software Incorporated Common Stock|N|MRIN|N|100|N|MRIN
 MRK|Merck & Company, Inc. Common Stock (new)|N|MRK|N|100|N|MRK
 MRO|Marathon Oil Corporation Common Stock|N|MRO|N|100|N|MRO
@@ -3148,7 +3151,6 @@ MS$G|Morgan Stanley Depositary Shares Representing 1/1000th Preferred Series G|N
 MS$I|Morgan Stanley Depository Shares Representing 1/1000th Preferred Series 1 Fixed to Floating Non (Cum)|N|MSpI|N|100|N|MS-I
 MSA|MSA Safety Incorporated Common Stock|N|MSA|N|100|N|MSA
 MSB|Mesabi Trust Common Stock|N|MSB|N|100|N|MSB
-MSC|Bank of America Corporation MITTS Linked tothe Dow Jones Industrial Average Index Linked Note|P|MSC|N|100|N|MSC
 MSCA|Main Street Capital Corporation 6.125% Senior Notes due 2023|N|MSCA|N|100|N|MSCA
 MSCI|MSCI Inc Common Stock|N|MSCI|N|100|N|MSCI
 MSD|Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock|N|MSD|N|100|N|MSD
@@ -5153,7 +5155,6 @@ XLG|Guggenheim Russell Top 50 Mega Cap ETF|P|XLG|Y|100|N|XLG
 XLI|SPDR Select Sector Fund - Industrial|P|XLI|Y|100|N|XLI
 XLK|SPDR Select Sector Fund - Technology|P|XLK|Y|100|N|XLK
 XLP|SPDR Select Sector Fund - Consumer Staples|P|XLP|Y|100|N|XLP
-XLS|Exelis Inc. Common Stock New|N|XLS|N|100|N|XLS
 XLU|SPDR Select Sector Fund - Utilities|P|XLU|Y|100|N|XLU
 XLV|SPDR Select Sector Fund - Health Care|P|XLV|Y|100|N|XLV
 XLY|SPDR Select Sector Fund - Consumer Discretionary|P|XLY|Y|100|N|XLY
@@ -5237,4 +5238,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0528201521:32||||||
+File Creation Time: 0529201521:33||||||
