@@ -163,7 +163,7 @@ ANAC|Anacor Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANAD|ANADIGICS, Inc. - Common Stock|Q|N|N|100
 ANAT|American National Insurance Company - Common Stock|Q|N|N|100
 ANCB|Anchor Bancorp - Common Stock|G|N|N|100
-ANCI|American Caresource Holdings Inc - Common Stock|S|N|N|100
+ANCI|American Caresource Holdings Inc - Common Stock|S|N|D|100
 ANCX|Access National Corporation - Common Stock|G|N|N|100
 ANDE|The Andersons, Inc. - Common Stock|Q|N|N|100
 ANGI|Angie's List, Inc. - Common Stock|Q|N|N|100
@@ -656,7 +656,7 @@ CPIX|Cumberland Pharmaceuticals Inc. - Common Stock|Q|N|N|100
 CPLA|Capella Education Company - Common Stock|Q|N|N|100
 CPLP|Capital Product Partners L.P. - common units representing limited partner interests|Q|N|N|100
 CPRT|Copart, Inc. - Common Stock|Q|N|N|100
-CPRX|Catalyst Pharmaceutical Partners, Inc. - Common Stock|S|N|N|100
+CPRX|Catalyst Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 CPSH|CPS Technologies Corp. - Common Stock|S|N|N|100
 CPSI|Computer Programs and Systems, Inc. - Common Stock|Q|N|N|100
 CPSS|Consumer Portfolio Services, Inc. - Common Stock|G|N|N|100
@@ -1023,7 +1023,6 @@ FGEN|FibroGen, Inc - Common Stock|Q|N|N|100
 FHCO|Female Health Company (The) - Common Stock|S|N|D|100
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100
 FINL|The Finish Line, Inc. - Class A Common Stock|Q|N|N|100
-FISH|Azure Midstream Partners, LP - Common Units representing Limited Partner Interests.|G|N|N|100
 FISI|Financial Institutions, Inc. - Common Stock|Q|N|N|100
 FISV|Fiserv, Inc. - Common Stock|Q|N|N|100
 FITB|Fifth Third Bancorp - Common Stock|Q|N|N|100
@@ -1424,7 +1423,7 @@ INTL|INTL FCStone Inc. - Common Stock|Q|N|N|100
 INTLL|INTL FCStone Inc. - 8.5% Senior Notes Due 2020|Q|N|N|100
 INTU|Intuit Inc. - Common Stock|Q|N|N|100
 INTX|Intersections, Inc. - Common Stock|G|N|N|100
-INVE|Identiv, Inc. - Common Stock|S|N|N|100
+INVE|Identiv, Inc. - Common Stock|S|N|E|100
 INVT|Inventergy Global, Inc. - Common Stock|S|N|D|100
 INWK|InnerWorkings, Inc. - Common Stock|Q|N|N|100
 IOSP|Innospec Inc. - Common Stock|Q|N|N|100
@@ -1959,6 +1958,7 @@ OMEX|Odyssey Marine Exploration, Inc. - Common Stock|S|N|D|100
 ON|ON Semiconductor Corporation - Common Stock|Q|N|N|100
 ONB|Old National Bancorp - Common Stock|Q|N|N|100
 ONCE|Spark Therapeutics, Inc. - Common Stock|Q|N|N|100
+ONCS|OncoSec Medical Incorporated - Common Stock|S|N|N|100
 ONCY|Oncolytics Biotech, Inc. - Common Shares|S|N|D|100
 ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100
 ONFC|Oneida Financial Corp. - Common Stock|G|N|N|100
@@ -2135,7 +2135,7 @@ PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100
 PRKR|ParkerVision, Inc. - Common Stock|S|N|D|100
 PRMW|Primo Water Corporation - Common Stock|G|N|N|100
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
-PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
+PRPH|ProPhase Labs, Inc. - Common Stock|G|N|D|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
 PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100
 PRSN|Perseon Corporation - Common Stock|S|N|D|100
@@ -3010,4 +3010,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0528201521:32|||||
+File Creation Time: 0529201521:33|||||
