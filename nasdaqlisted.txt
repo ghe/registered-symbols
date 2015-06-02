@@ -564,7 +564,6 @@ CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
 CIDM|Cinedigm Corp - Class A Common Stock|G|N|N|100
 CIFC|CIFC Corp. - Common Stock|S|N|N|100
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100
-CISAW|CIS Acquisition Ltd. - Warrant|S|N|N|100
 CISG|CNinsure Inc. - American depositary shares, each representing 20 ordinary shares|Q|N|N|100
 CIVB|Civista Bancshares, Inc.  - Common Stock|S|N|N|100
 CIVBP|Civista Bancshares, Inc.  - Depositary Shares Each Representing a 1/40th Interest in a 6.50% Noncumulative Redeemable Convertible Perpetual Preferred Share, Series B|S|N|N|100
@@ -768,6 +767,8 @@ DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100
 DCIX|Diana Containerships Inc. - Common Shares|Q|N|N|100
 DCOM|Dime Community Bancshares, Inc. - Common Stock|Q|N|N|100
 DCTH|Delcath Systems, Inc. - Common Stock|S|N|N|100
+DELT|CIS Acquisition Ltd. - Ordinary Shares|S|N|N|100
+DELTW|CIS Acquisition Ltd. - Warrant|S|N|N|100
 DENN|Denny's Corporation - Common Stock|S|N|N|100
 DEPO|Depomed, Inc. - Common Stock|Q|N|N|100
 DERM|Dermira, Inc. - Common Stock|Q|N|N|100
@@ -937,6 +938,7 @@ ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100
 ESIO|Electro Scientific Industries, Inc. - Common Stock|Q|N|N|100
 ESLT|Elbit Systems Ltd. - Ordinary Shares|Q|N|N|100
 ESMC|Escalon Medical Corp. - Common Stock|S|N|N|100
+ESND|Essendant Inc. - Common Stock|Q|N|N|100
 ESPR|Esperion Therapeutics, Inc. - Common Stock|G|N|N|100
 ESRX|Express Scripts Holding Company - Common Stock|Q|N|N|100
 ESSA|ESSA Bancorp, Inc. - common stock|Q|N|N|100
@@ -1225,7 +1227,7 @@ GT|The Goodyear Tire & Rubber Company - Common Stock|Q|N|N|100
 GTIM|Good Times Restaurants Inc. - Common Stock|S|N|N|100
 GTLS|Chart Industries, Inc. - Common Stock|Q|N|N|100
 GTWN|Georgetown Bancorp, Inc. - Common Stock|S|N|N|100
-GTXI|GTx, Inc. - Common Stock|S|N|D|100
+GTXI|GTx, Inc. - Common Stock|S|N|N|100
 GUID|Guidance Software, Inc. - Common Stock|G|N|N|100
 GULF|WisdomTree Middle East Dividend Fund|G|N|N|100
 GULTU|Gulf Coast Ultra Deep Royalty Trust - Royalty Trust Unit|S|N|D|100
@@ -1632,6 +1634,7 @@ LPTN|Lpath, Inc. - Class A Common Stock|S|N|N|100
 LQDT|Liquidity Services, Inc. - Common Stock|Q|N|N|100
 LRAD|LRAD Corporation - Common Stock|S|N|N|100
 LRCX|Lam Research Corporation - Common Stock|Q|N|N|100
+LSBG|Lake Sunapee Bank Group - Common Stock|G|N|N|100
 LSBK|Lake Shore Bancorp, Inc. - Common Stock|G|N|N|100
 LSCC|Lattice Semiconductor Corporation - Common Stock|Q|N|N|100
 LSTR|Landstar System, Inc. - Common Stock|Q|N|N|100
@@ -1857,7 +1860,6 @@ NGHC|National General Holdings Corp - Common Stock|G|N|N|100
 NGHCO|National General Holdings Corp - Depositary Shares|G|N|N|100
 NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A|G|N|N|100
 NHLD|National Holdings Corporation - Common Stock|S|N|N|100
-NHTB|New Hampshire Thrift Bancshares, Inc. - Common Stock|G|N|N|100
 NHTC|Natural Health Trends Corp. - Commn Stock|S|N|N|100
 NICE|NICE-Systems Limited - American Depositary Shares each representing one Ordinary Share|Q|N|N|100
 NICK|Nicholas Financial, Inc. - Common Stock|Q|N|N|100
@@ -2282,7 +2284,7 @@ RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
 RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
-RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|N|100
+RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|E|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
@@ -2785,7 +2787,6 @@ USEG|U.S. Energy Corp. - Common Stock|S|N|N|100
 USLM|United States Lime & Minerals, Inc. - Common Stock|Q|N|N|100
 USLV|Credit Suisse AG - VelocityShares 3x Long Silver ETN|G|N|N|100
 USMD|USMD Holdings, Inc. - Common Stock|S|N|N|100
-USTR|United Stationers Inc. - Common Stock|Q|N|N|100
 UTEK|Ultratech, Inc. - Common Stock|Q|N|N|100
 UTHR|United Therapeutics Corporation - Common Stock|Q|N|N|100
 UTIW|UTi Worldwide Inc. - Ordinary Shares|Q|N|N|100
@@ -3010,4 +3011,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0529201521:33|||||
+File Creation Time: 0601201521:33|||||
