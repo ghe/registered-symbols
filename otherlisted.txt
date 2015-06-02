@@ -1226,6 +1226,7 @@ DRN|Dexion Daily Real Estate Bull 3x Shares|P|DRN|Y|100|N|DRN
 DRQ|Dril-Quip, Inc. Common Stock|N|DRQ|N|100|N|DRQ
 DRR|Market Vectors Double Short Euro ETN|P|DRR|N|100|N|DRR
 DRV|Drexion Daily Real Estate Bear 3x Shares|P|DRV|Y|100|N|DRV
+DRVN|Highland Funds I Highland HFR Event-Driven ETF|P|DRVN|Y|100|N|DRVN
 DRW|WisdomTree Global ex-US Real Estate Index|P|DRW|Y|100|N|DRW
 DSE|Duff & Phelps Select Energy MLP Fund Inc. Common Stock|N|DSE|N|100|N|DSE
 DSI|iShares KLD 400 Social Index Fund|P|DSI|Y|100|N|DSI
@@ -2179,6 +2180,8 @@ HGR|Hanger, Inc. Common Stock ($0.01 Par Value)|N|HGR|N|100|N|HGR
 HGT|Hugoton Royalty Trust Common Stock|N|HGT|N|100|N|HGT
 HH|Hooper Holmes, Inc. Common Stock|A|HH|N|100|N|HH
 HHC|Howard Hughes Corporation (The) Common Stock|N|HHC|N|100|N|HHC
+HHDG|Highland Funds I Highland HFR Equity Hedge ETF|P|HHDG|Y|100|N|HHDG
+HHFR|Highland Funds I Highland HFR Global ETF|P|HHFR|Y|100|N|HHFR
 HHS|Harte-Hanks, Inc. Common Stock|N|HHS|N|100|N|HHS
 HHY|Brookfield High Income Fund Inc.|N|HHY|N|100|N|HHY
 HI|Hillenbrand Inc Common Stock|N|HI|N|100|N|HI
@@ -3087,6 +3090,7 @@ MLPW|UBS AG Exchange Traded Access Securities (E0TRACS) Linked to the Wells farg
 MLPX|Global X MLP & Energy Infrastructure ETF|P|MLPX|Y|100|N|MLPX
 MLPY|Morgan Stanley Cushing MLP High Income Index ETN|P|MLPY|N|100|N|MLPY
 MLR|Miller Industries, Inc. Common Stock|N|MLR|N|100|N|MLR
+MLSS|Milestone Scientific, Inc. Common Stock|A|MLSS|N|100|N|MLSS
 MM|Millennial Media, Inc. Common Stock|N|MM|N|100|N|MM
 MMC|Marsh & McLennan Companies, Inc. Common Stock|N|MMC|N|100|N|MMC
 MMD|MainStay DefinedTerm Municipal Opportunities Fund Common Shares of Beneficial Interest|N|MMD|N|100|N|MMD
@@ -4065,7 +4069,7 @@ RRC|Range Resources Corporation Common Stock|N|RRC|N|100|N|RRC
 RRF|WisdomTree Global Real Return Fund|P|RRF|Y|100|N|RRF
 RRMS|Rose Rock Midstream, L.P. Common Units Representing Limited Partner Interests|N|RRMS|N|100|N|RRMS
 RRTS|Roadrunner Transportation Systems, Inc Common Stock|N|RRTS|N|100|N|RRTS
-RS|Reliance Steel & Aluminum Co. Common Stock|N|RS|N|100|N|RS
+RS|Reliance Steel & Aluminum Co. Common Stock (DE)|N|RS|N|100|N|RS
 RSCO|SPDR Russell Small Cap Completeness ETF|P|RSCO|Y|100|N|RSCO
 RSE|Rouse Properties, Inc. Common Stock|N|RSE|N|100|N|RSE
 RSG|Republic Services, Inc. Common Stock|N|RSG|N|100|N|RSG
@@ -5238,4 +5242,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0529201521:33||||||
+File Creation Time: 0601201521:33||||||
