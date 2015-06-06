@@ -1285,6 +1285,7 @@ DXJH|WisdomTree Japan Hedged Health Care Fund|P|DXJH|Y|100|N|DXJH
 DXJR|WisdomTree Japan Hedged Real Estate Fund|P|DXJR|Y|100|N|DXJR
 DXJT|WisdomTree Japan Hedged Tech, Media & Telecom Fund|P|DXJT|Y|100|N|DXJT
 DXR|Daxor Corporation Common Stock|A|DXR|N|100|N|DXR
+DXUS|WisdomTree Global ex-U.S. Hedged Dividend Fund|P|DXUS|Y|100|N|DXUS
 DY|Dycom Industries, Inc. Common Stock|N|DY|N|100|N|DY
 DYN|Dynegy Inc. Common Stock|N|DYN|N|100|N|DYN
 DYN$A|Dynegy Inc. Mandatory Preferred Convertible Series A%|N|DYNpA|N|100|N|DYN-A
@@ -1553,6 +1554,7 @@ EVER$A|EverBank Financial Corp. Depositary Shares Representing 1/1000th Perpetua
 EVF|Eaton Vance Senior Income Trust Common Stock|N|EVF|N|100|N|EVF
 EVG|Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest|N|EVG|N|100|N|EVG
 EVGN|Evogene Ltd Ordinary shares (Israel)|N|EVGN|N|100|N|EVGN
+EVH|Evolent Health, Inc Class A Common Stock|N|EVH|N|100|N|EVH
 EVHC|Envision Healthcare Holdings, Inc. Common Stock|N|EVHC|N|100|N|EVHC
 EVI|EnviroStar, Inc.  Common Stock|A|EVI|N|100|N|EVI
 EVJ|Eaton Vance New Jersey Municipal Income Trust Shares of Beneficial Interest|A|EVJ|N|100|N|EVJ
@@ -1652,6 +1654,7 @@ FCB|FCB Financial Holdings, Inc. Class A Common Stock|N|FCB|N|100|N|FCB
 FCE.A|Forest City Enterprises, Inc. Common Stock|N|FCE/A|N|100|N|FCE.A
 FCE.B|Forest City Enterprises, Inc. Common Stock|N|FCE/B|N|100|N|FCE.B
 FCF|First Commonwealth Financial Corporation Common Stock|N|FCF|N|100|N|FCF
+FCFI|TrimTabs Intl Free-Cash Flow ETF|P|FCFI|Y|100|N|FCFI
 FCG|First Trust ISE-Revere Natural Gas|P|FCG|Y|100|N|FCG
 FCH|FelCor Lodging Trust Incorporated Common Stock|N|FCH|N|100|N|FCH
 FCH$A|FelCor Lodging Trust Incorporated Preferred Stock|N|FCHpA|N|100|N|FCH-A
@@ -1961,6 +1964,7 @@ GHL|Greenhill & Co., Inc. Common Stock|N|GHL|N|100|N|GHL
 GHM|Graham Corporation Common Stock|N|GHM|N|100|N|GHM
 GHY|Prudential Global Short Duration High Yield Fund, Inc. Common Stock|N|GHY|N|100|N|GHY
 GHYG|iShares Global High Yield Corporate Bond ETF|Z|GHYG|Y|100|N|GHYG
+GI|EndoChoice Holdings, Inc. Common Stock|N|GI|N|100|N|GI
 GIB|CGI Group, Inc. Common Stock|N|GIB|N|100|N|GIB
 GIG|GigOptix, Inc. Common Stock|A|GIG|N|100|N|GIG
 GII|SPDR S&P Global Infrastructure ETF|P|GII|Y|100|N|GII
@@ -2015,6 +2019,7 @@ GNAT|WisdomTree Global Natural Resources International Index|P|GNAT|Y|100|N|GNAT
 GNC|GNC Holdings, Inc. Class A Common Stock|N|GNC|N|100|N|GNC
 GNE|Genie Energy Ltd. Class B Common Stock Stock|N|GNE|N|100|N|GNE
 GNE$A|Genie Energy Ltd. Series 2012 - A Preferred Stock, $0.01 par value|N|GNEpA|N|100|N|GNE-A
+GNL|Global Net Lease, Inc. Common Stock|N|GNL|N|100|N|GNL
 GNR|SPDR S&P Global Natural Resources ETF|P|GNR|Y|100|N|GNR
 GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
 GNT|GAMCO Natural Resources, Gold & Income Trust|N|GNT|N|100|N|GNT
@@ -2152,6 +2157,7 @@ HD|Home Depot, Inc. (The) Common Stock|N|HD|N|100|N|HD
 HDB|HDFC Bank Limited Common Stock|N|HDB|N|100|N|HDB
 HDG|ProShares Hedge Replication ETF|P|HDG|Y|100|N|HDG
 HDGE|Ranger Equity Bear Bear ETF|P|HDGE|Y|100|N|HDGE
+HDLS|WisdomTree International Hedged SmallCap Dividend Fund|P|HDLS|Y|100|N|HDLS
 HDLV|ETRACS Montly Pay 2xLeveraged US High Dividend Low Volatility ETN due September 30, 2044|P|HDLV|N|100|N|HDLV
 HDV|iShares Core High Dividend ETF|P|HDV|Y|100|N|HDV
 HE|Hawaiian Electric Industries, Inc. Common Stock|N|HE|N|100|N|HE
@@ -2360,6 +2366,7 @@ ICL|Israel Chemicals Limited Ordinary Shares|N|ICL|N|100|N|ICL
 ICN|WisdomTree Indian Rupee Strategy Fund|P|ICN|Y|100|N|ICN
 ICOL|iShares MSCI Colombia Capped|P|ICOL|Y|100|N|ICOL
 ICSH|iShares Liquidity Income ETF|Z|ICSH|Y|100|N|ICSH
+ICVT|iShares Convertible Bond ETF|Z|ICVT|Y|100|N|ICVT
 IDA|IDACORP, Inc. Common Stock|N|IDA|N|100|N|IDA
 IDE|Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest|N|IDE|N|100|N|IDE
 IDG|ING GROEP N V PREF CTF 7.3750% Perp Hybrid Cap Secs (Netherlands)|N|IDG|N|100|N|IDG
@@ -3006,7 +3013,7 @@ MER$P|Merrill Lynch & Co., Inc. Merrill Lynch Capital Trust III 7.375% Trust Pre
 MES|Market Vectors Gulf States Index ETF|P|MES|Y|100|N|MES
 MET|MetLife, Inc. Common Stock|N|MET|N|100|N|MET
 MET$A|MetLife, Inc. Preferred Series A Floating Rate|N|METpA|N|100|N|MET-A
-MET$B|MetLife, Inc. Preferred Series B|N|METpB|N|100|N|MET-B
+MET$B|MetLife, Inc. Preferred Series B|N|METpB/CL|N|100|N|MET-B*
 MFA|MFA Financial, Inc.|N|MFA|N|100|N|MFA
 MFA$B|MFA Financial, Inc. Preferred Series B|N|MFApB|N|100|N|MFA-B
 MFC|Manulife Financial Corporation Common Stock|N|MFC|N|100|N|MFC
@@ -3754,7 +3761,6 @@ PPA|PowerShares Aerospace & Defense|P|PPA|Y|100|N|PPA
 PPG|PPG Industries, Inc. Common Stock|N|PPG|N|100|N|PPG
 PPH|Market Vectors Pharmaceutical ETF|P|PPH|Y|100|N|PPH
 PPL|PP&L Corporation Common Stock|N|PPL|N|100|N|PPL
-PPL.V|PPL Corporation Common Stock Ex-Distribution When Issued|N|PPLw|N|100|N|PPL#
 PPLT|ETFS Physical Platinum Shares|P|PPLT|Y|100|N|PPLT
 PPO|Polypore International Inc Common Stock|N|PPO|N|100|N|PPO
 PPP|Primero Mining Corp.  New Common Shares (Canada)|N|PPP|N|100|N|PPP
@@ -4629,7 +4635,7 @@ TLI|LMP Corporate Loan Fund Inc Common Stock|N|TLI|N|100|N|TLI
 TLK|PT Telekomunikasi Indonesia, Tbk|N|TLK|N|100|N|TLK
 TLL|ProShares UltraShort Telecommunications|P|TLL|Y|100|N|TLL
 TLLP|Tesoro Logistics LP Common Units representing Limited Partner Interests|N|TLLP|N|100|N|TLLP
-TLN.V|Talen Energy Corporation Common Stock When Issued|N|TLNw|N|100|N|TLN#
+TLN|Talen Energy Corporation Common Stock|N|TLN|N|100|N|TLN
 TLO|SPDR Barclays Long Term Treasury ETF|P|TLO|Y|100|N|TLO
 TLP|Transmontaigne Partners L.P. Transmontaigne Partners L.P. Common Units representing limited partner interests|N|TLP|N|100|N|TLP
 TLR|Timberline Resources Corporation Common Stock (DE)|A|TLR|N|100|N|TLR
@@ -5242,4 +5248,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0601201521:33||||||
+File Creation Time: 0605201521:33||||||
