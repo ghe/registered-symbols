@@ -277,6 +277,7 @@ AXJS|iShares MSCI All Country Asia ex Japan Small Cap Index Fund|G|N|N|100
 AXPW|Axion Power International, Inc. - Common Stock|S|N|D|100
 AXPWW|Axion Power International, Inc. - Series A Warrants|S|N|N|100
 AXTI|AXT Inc - Common Stock|Q|N|N|100
+AYA|Amaya Inc. - Common Stock|Q|N|N|100
 AZPN|Aspen Technology, Inc. - Common Stock|Q|N|N|100
 BABY|Natus Medical Incorporated - Common Stock|Q|N|N|100
 BAGR|Diversified Restaurant Holdings, Inc. - Common Stock|S|N|N|100
@@ -308,7 +309,7 @@ BCPC|Balchem Corporation - Common Stock|Q|N|N|100
 BCRX|BioCryst Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 BDBD|Boulder Brands, Inc. - Common Stock|Q|N|N|100
 BDCV|BDCA Venture, Inc. - Common Stock|S|N|N|100
-BDE|Black Diamond, Inc. - Common Stock|Q|N|D|100
+BDE|Black Diamond, Inc. - Common Stock|Q|N|N|100
 BDGE|Bridge Bancorp, Inc. - Common Stock|Q|N|N|100
 BDMS|Birner Dental Management Services, Inc. - Common Stock|S|N|N|100
 BDSI|BioDelivery Sciences International, Inc. - Common Stock|S|N|N|100
@@ -575,6 +576,7 @@ CLAC|Capitol Acquisition Corp. II - Common Stock|S|N|D|100
 CLACU|Capitol Acquisition Corp. II - Unit|S|N|D|100
 CLACW|Capitol Acquisition Corp. II - Warrant|S|N|D|100
 CLBH|Carolina Bank Holdings Inc. - Common Stock|G|N|N|100
+CLBS|Caladrius Biosciences, Inc. - Common Stock|S|N|N|100
 CLCD|CoLucid Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 CLCT|Collectors Universe, Inc. - Common Stock|G|N|N|100
 CLDN|Celladon Corporation - Common Stock|G|N|N|100
@@ -1830,7 +1832,6 @@ NAVI|Navient Corporation - Common Stock|Q|N|N|100
 NBBC|NewBridge Bancorp - Common Stock|Q|N|N|100
 NBIX|Neurocrine Biosciences, Inc. - Common Stock|Q|N|N|100
 NBN|Northeast Bancorp - Common Stock|G|N|N|100
-NBS|Neostem, Inc. - Common Stock|S|N|N|100
 NBTB|NBT Bancorp Inc. - Common Stock|Q|N|N|100
 NCIT|NCI, Inc. - Class A Common Stock|Q|N|N|100
 NCLH|Norwegian Cruise Line Holdings Ltd. - Ordinary Shares|Q|N|N|100
@@ -2084,7 +2085,6 @@ PIH|1347 Property Insurance Holdings, Inc. - Common Stock|S|N|N|100
 PINC|Premier, Inc. - Class A Common Stock|Q|N|N|100
 PKBK|Parke Bancorp, Inc. - Common Stock|S|N|N|100
 PKOH|Park-Ohio Holdings Corp. - Common Stock|Q|N|N|100
-PKT|Procera Networks, Inc. - Common Stock|Q|N|N|100
 PLAB|Photronics, Inc. - Common Stock|Q|N|N|100
 PLAY|Dave & Buster's Entertainment, Inc. - Common Stock|Q|N|N|100
 PLBC|Plumas Bancorp - Common Stock|S|N|N|100
@@ -2226,8 +2226,8 @@ QUIK|QuickLogic Corporation - Common Stock|G|N|N|100
 QUMU|Qumu Corporation - Common Stock|Q|N|N|100
 QUNR|Qunar Cayman Islands Limited - American Depositary Shares|G|N|N|100
 QURE|uniQure N.V. - Ordinary Shares|Q|N|N|100
-QVCA|Liberty Interactive Corporation - Series A Liberty Interactive Common Stock|Q|N|N|100
-QVCB|Liberty Interactive Corporation - Series B Liberty Interactive common stock|Q|N|N|100
+QVCA|Liberty Interactive Corporation - Series A QVC Group Common Stock|Q|N|N|100
+QVCB|Liberty Interactive Corporation - Series B QVC Group Common Stock|Q|N|N|100
 QYLD|Recon Capital NASDAQ-100 Covered Call ETF|G|N|N|100
 RADA|Rada Electronics Industries Limited - Ordinary Shares|S|N|N|100
 RAIL|Freightcar America, Inc. - Common Stock|Q|N|N|100
@@ -3010,4 +3010,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0605201521:33|||||
+File Creation Time: 0608201521:33|||||
