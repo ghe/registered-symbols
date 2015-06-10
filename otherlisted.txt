@@ -3371,7 +3371,6 @@ NNI|Nelnet, Inc. Common Stock|N|NNI|N|100|N|NNI
 NNN|National Retail Properties Common Stock|N|NNN|N|100|N|NNN
 NNN$D|National Retail Properties Depositary Shares Representing 1/100th Preferred Series D|N|NNNpD|N|100|N|NNN-D
 NNN$E|National Retail Properties Depositary Shares, each representing a 1/100th interest in a share of 5.70% Series E Pfd.|N|NNNpE|N|100|N|NNN-E
-NNP|Nuveen New York Performance Plus Municipal Fund, Inc. Common Stock|N|NNP|N|100|N|NNP
 NNVC|NanoViricides, Inc. NEW Common Stock|A|NNVC|N|100|N|NNVC
 NNY|Nuveen New York Municipal Value Fund, Inc. Common Stock|N|NNY|N|100|N|NNY
 NOA|North American Energy Partners, Inc. Common Shares (no par)|N|NOA|N|100|N|NOA
@@ -3466,7 +3465,6 @@ NWY|New York & Company, Inc. New York & Company, Inc. Common Shares|N|NWY|N|100|
 NX|Quanex Building Products Corporation Common Stock|N|NX|N|100|N|NX
 NXC|Nuveen California Select Tax-Free Income Portfolio Common Stock|N|NXC|N|100|N|NXC
 NXJ|Nuveen New Jersey Dividend Advantage Municipal Fund Share of Beneficial Interest|N|NXJ|N|100|N|NXJ
-NXK|Nuveen New York Dividend Advantage Municipal Fund 2 Share of Beneficial Interest|A|NXK|N|100|N|NXK
 NXN|Nuveen New York Select Tax-Free Income Portfolio Common Stock|N|NXN|N|100|N|NXN
 NXP|Nuveen Select Tax Free Income Portfolio Common Stock|N|NXP|N|100|N|NXP
 NXQ|Nuveen Select Tax Free Income Portfolio II Common Stock|N|NXQ|N|100|N|NXQ
@@ -4401,6 +4399,7 @@ SQNS|Sequans Communications S.A. American Depositary Shares, each representing o
 SRC|Spirit Realty Capital, Inc. Common Stock|N|SRC|N|100|N|SRC
 SRE|Sempra Energy Common Stock|N|SRE|N|100|N|SRE
 SRF|The Cushing Royalty & Income Fund Common Shares of Beneficial Interest|N|SRF|N|100|N|SRF
+SRG.V|Seritage Growth Partners Rights (Expiring July 2, 2015) When Issued|N|SRGrw|N|100|N|SRG^#
 SRI|Stoneridge, Inc. Common Stock|N|SRI|N|100|N|SRI
 SRLN|SPDR Blackstone GSO Senior Loan ETF|P|SRLN|Y|100|N|SRLN
 SRLP|Sprague Resources LP Common Units representing Limited Partner Interests|N|SRLP|N|100|N|SRLP
@@ -5248,4 +5247,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0608201521:33||||||
+File Creation Time: 0609201521:33||||||
