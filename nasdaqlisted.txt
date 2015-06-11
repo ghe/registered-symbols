@@ -1,7 +1,7 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size
 AAIT|iShares MSCI All Country Asia Information Technology Index Fund|G|N|N|100
 AAL|American Airlines Group, Inc. - Common Stock|Q|N|N|100
-AAME|Atlantic American Corporation - Common Stock|G|N|N|100
+AAME|Atlantic American Corporation - Common Stock|G|N|D|100
 AAOI|Applied Optoelectronics, Inc. - Common Stock|G|N|N|100
 AAON|AAON, Inc. - Common Stock|Q|N|N|100
 AAPC|Atlantic Alliance Partnership Corp. - Ordinary Shares|S|N|N|100
@@ -1107,6 +1107,7 @@ FTHI|First Trust High Income ETF|G|N|N|100
 FTLB|First Trust Low Beta Income ETF|G|N|N|100
 FTNT|Fortinet, Inc. - Common Stock|Q|N|N|100
 FTR|Frontier Communications Corporation - Common Stock|Q|N|N|100
+FTRPR|Frontier Communications Corporation - 11.125% Series A Mandatory Convertible Preferred Stock|Q|N|N|100
 FTSL|First Trust Senior Loan Fund ETF|G|N|N|100
 FTSM|First Trust Enhanced Short Maturity ETF|G|N|N|100
 FUEL|Rocket Fuel Inc. - Common Stock|Q|N|N|100
@@ -1893,8 +1894,8 @@ NTRS|Northern Trust Corporation - Common Stock|Q|N|N|100
 NTRSP|Northern Trust Corporation - Depository Shares|Q|N|N|100
 NTWK|NetSol Technologies Inc. - Common Stock|S|N|N|100
 NUAN|Nuance Communications, Inc. - Common Stock|Q|N|N|100
-NURO|NeuroMetrix, Inc. - Common Stock|S|N|D|100
-NUROW|NeuroMetrix, Inc. - Warrants|S|N|D|100
+NURO|NeuroMetrix, Inc. - Common Stock|S|N|N|100
+NUROW|NeuroMetrix, Inc. - Warrants|S|N|N|100
 NUTR|Nutraceutical International Corporation - Common Stock|Q|N|N|100
 NUVA|NuVasive, Inc. - Common Stock|Q|N|N|100
 NVAX|Novavax, Inc. - Common Stock|Q|N|N|100
@@ -2722,6 +2723,7 @@ TTWO|Take-Two Interactive Software, Inc. - Common Stock|Q|N|N|100
 TUBE|TubeMogul, Inc. - Common Stock|Q|N|N|100
 TUES|Tuesday Morning Corp. - Common Stock|Q|N|N|100
 TUSA|First Trust Total US Market AlphaDEX ETF|G|N|N|100
+TUTI|Tuttle Tactical Management Multi-Strategy Income ETF|G|N|N|100
 TUTT|Tuttle Tactical Management U.S. Core ETF|G|N|N|100
 TVIX|Credit Suisse AG - VelocityShares Daily 2x VIX Short Term ETN|G|N|N|100
 TVIZ|Credit Suisse AG - VelocityShares Daily 2x VIX Medium Term ETN|G|N|N|100
@@ -2824,7 +2826,7 @@ VIMC|Vimicro International Corporation - American depositary shares, each repres
 VIP|VimpelCom Ltd. - American Depositary Shares|Q|N|N|100
 VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100
 VIRT|Virtu Financial, Inc. - Class A Common Stock|Q|N|N|100
-VISN|VisionChina Media, Inc. - American Depositary Shares, each representing one Common Share|Q|N|N|100
+VISN|VisionChina Media, Inc. - American Depositary Shares, each representing 20 common shares|Q|N|N|100
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
 VKTX|Viking Therapeutics, Inc. - Common Stock|S|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
@@ -3009,4 +3011,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0609201521:33|||||
+File Creation Time: 0610201521:33|||||
