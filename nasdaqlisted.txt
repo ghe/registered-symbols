@@ -338,6 +338,7 @@ BIOD|Biodel Inc. - Common Stock|S|N|N|100
 BIOL|Biolase, Inc. - Common Stock|S|N|N|100
 BIOS|BioScrip, Inc. - Common Stock|Q|N|N|100
 BIS|ProShares UltraShort Nasdaq Biotechnology|G|N|N|100
+BITI|Biotie Therapies Corp. - American Depositary Shares|Q|N|N|100
 BJRI|BJ's Restaurants, Inc. - Common Stock|Q|N|N|100
 BKCC|BlackRock Capital Investment Corporation - Common Stock|Q|N|N|100
 BKEP|Blueknight Energy Partners L.P., L.L.C. - Common Units representing Limited Partner Interests|G|N|N|100
@@ -350,7 +351,7 @@ BLCM|Bellicum Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 BLDP|Ballard Power Systems, Inc. - Common Shares|G|N|N|100
 BLDR|Builders FirstSource, Inc. - Common Stock|Q|N|N|100
 BLFS|BioLife Solutions, Inc. - Common Stock|S|N|N|100
-BLIN|Bridgeline Digital, Inc. - Common Stock|S|N|N|100
+BLIN|Bridgeline Digital, Inc. - Common Stock|S|N|D|100
 BLKB|Blackbaud, Inc. - Common Stock|Q|N|N|100
 BLMN|Bloomin' Brands, Inc. - Common Stock|Q|N|N|100
 BLMT|BSB Bancorp, Inc. - Common Stock|S|N|N|100
@@ -389,7 +390,6 @@ BPOPN|Popular, Inc. - Popular Capital Trust I -6.70% Cumulative Monthly Income T
 BPTH|Bio-Path Holdings, Inc. - Common Stock|S|N|N|100
 BRCD|Brocade Communications Systems, Inc. - Common Stock|Q|N|N|100
 BRCM|Broadcom Corporation - Class A Common Stock|Q|N|N|100
-BRDR|Borderfree, Inc. - Common Stock|Q|N|N|100
 BREW|Craft Brew Alliance, Inc. - Common Stock|Q|N|N|100
 BRID|Bridgford Foods Corporation - Common Stock|G|N|N|100
 BRKL|Brookline Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -677,7 +677,7 @@ CRME|Cardiome Pharma Corporation - Ordinary Shares (Canada)|S|N|N|100
 CRMT|America's Car-Mart, Inc. - Common Stock|Q|N|N|100
 CRNT|Ceragon Networks Ltd. - Ordinary Shares|Q|N|N|100
 CROX|Crocs, Inc. - Common Stock|Q|N|N|100
-CRTN|Cartesian, Inc. - Common Stock|G|N|N|100
+CRTN|Cartesian, Inc. - Common Stock|G|N|D|100
 CRTO|Criteo S.A. - American Depositary Shares|Q|N|N|100
 CRUS|Cirrus Logic, Inc. - Common Stock|Q|N|N|100
 CRVL|CorVel Corp. - Common Stock|Q|N|N|100
@@ -751,7 +751,7 @@ CYOU|Changyou.com Limited - American Depositary Shares, each representing two Cl
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100
 CYTK|Cytokinetics, Incorporated - Common Stock|S|N|N|100
 CYTR|CytRx Corporation - Common Stock|S|N|N|100
-CYTX|Cytori Therapeutics Inc - Common Stock|G|N|N|100
+CYTX|Cytori Therapeutics Inc - Common Stock|G|N|D|100
 CZFC|Citizens First Corporation - Common Stock|G|N|N|100
 CZNC|Citizens & Northern Corp - Common Stock|S|N|N|100
 CZR|Caesars Entertainment Corporation - Common Stock|Q|N|N|100
@@ -884,6 +884,7 @@ EGRX|Eagle Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 EGT|Entertainment Gaming Asia Incorporated - Common Stock|S|N|N|100
 EHTH|eHealth, Inc. - Common Stock|Q|N|N|100
 EIGI|Endurance International Group Holdings, Inc. - Common Stock|Q|N|N|100
+ELECU|Electrum Special Acquisition Corporation - Units|S|N|N|100
 ELGX|Endologix, Inc. - Common Stock|Q|N|N|100
 ELNK|EarthLink Holdings Corp. - Common Stock|Q|N|N|100
 ELON|Echelon Corporation - Common Stock|Q|N|N|100
@@ -972,7 +973,7 @@ EXTR|Extreme Networks, Inc. - Common Stock|Q|N|N|100
 EXXI|Energy XXI Ltd. - Common Stock|Q|N|N|100
 EYES|Second Sight Medical Products, Inc. - Common Stock|S|N|N|100
 EZCH|EZchip Semiconductor Limited - Ordinary Shares|Q|N|N|100
-EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|E|100
+EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|N|100
 FALC|FalconStor Software, Inc. - Common Stock|G|N|N|100
 FANG|Diamondback Energy, Inc. - Commmon Stock|Q|N|N|100
 FARM|Farmer Brothers Company - Common Stock|Q|N|N|100
@@ -1471,6 +1472,7 @@ ITIC|Investors Title Company - Common Stock|Q|N|N|100
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
 IVAC|Intevac, Inc. - Common Stock|Q|N|N|100
+IVTY|Invuity, Inc. - Common Stock|G|N|N|100
 IXYS|IXYS Corporation - Common Stock|Q|N|N|100
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100
 JAGX|Jaguar Animal Health, Inc. - Common Stock|S|N|N|100
@@ -1878,7 +1880,7 @@ NRIM|Northrim BanCorp Inc - Common Stock|Q|N|N|100
 NRX|NephroGenex, Inc. - Common Stock|S|N|N|100
 NSEC|National Security Group, Inc. - Common Stock|G|N|N|100
 NSIT|Insight Enterprises, Inc. - Common Stock|Q|N|N|100
-NSPH|Nanosphere, Inc. - Common Stock|S|N|N|100
+NSPH|Nanosphere, Inc. - Common Stock|S|N|D|100
 NSSC|NAPCO Security Technologies, Inc. - Common Stock|Q|N|N|100
 NSTG|NanoString Technologies, Inc. - Common Stock|G|N|N|100
 NSYS|Nortech Systems Incorporated - Common Stock|S|N|N|100
@@ -2179,6 +2181,7 @@ PTNT|Internet Patents Corporation - Common Stock|S|N|N|100
 PTSI|P.A.M. Transportation Services, Inc. - Common Stock|G|N|N|100
 PTX|Pernix Therapeutics Holdings, Inc. - Common Stock|G|N|N|100
 PTXP|PennTex Midstream Partners, LP - Common Units Representing Limited Partnership Interests|Q|N|N|100
+PUB|People's Utah Bancorp - Common Stock|S|N|N|100
 PULB|Pulaski Financial Corp. - Common Stock|Q|N|N|100
 PVTB|PrivateBancorp, Inc. - Common Stock|Q|N|N|100
 PVTBP|PrivateBancorp, Inc. - PrivateBancorp Capital Trust IV - 10% Trust Preferred|Q|N|N|100
@@ -2741,6 +2744,7 @@ UAE|iShares MSCI UAE Capped ETF|G|N|N|100
 UBCP|United Bancorp, Inc. - Common Stock|S|N|N|100
 UBFO|United Security Bancshares - Common Stock|Q|N|N|100
 UBIC|UBIC, Inc. - American Depositary Shares|Q|N|N|100
+UBND|WisdomTree Western Asset Unconstrained Bond Fund|G|N|N|100
 UBNK|United Financial Bancorp, Inc.  - Common Stock|Q|N|N|100
 UBNT|Ubiquiti Networks, Inc. - Common Stock|Q|N|N|100
 UBOH|United Bancshares, Inc. - Common Stock|G|N|N|100
@@ -3011,4 +3015,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0610201521:33|||||
+File Creation Time: 0611201521:33|||||
