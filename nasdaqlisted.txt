@@ -351,7 +351,7 @@ BLCM|Bellicum Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 BLDP|Ballard Power Systems, Inc. - Common Shares|G|N|N|100
 BLDR|Builders FirstSource, Inc. - Common Stock|Q|N|N|100
 BLFS|BioLife Solutions, Inc. - Common Stock|S|N|N|100
-BLIN|Bridgeline Digital, Inc. - Common Stock|S|N|D|100
+BLIN|Bridgeline Digital, Inc. - Common Stock|S|N|N|100
 BLKB|Blackbaud, Inc. - Common Stock|Q|N|N|100
 BLMN|Bloomin' Brands, Inc. - Common Stock|Q|N|N|100
 BLMT|BSB Bancorp, Inc. - Common Stock|S|N|N|100
@@ -1880,7 +1880,7 @@ NRIM|Northrim BanCorp Inc - Common Stock|Q|N|N|100
 NRX|NephroGenex, Inc. - Common Stock|S|N|N|100
 NSEC|National Security Group, Inc. - Common Stock|G|N|N|100
 NSIT|Insight Enterprises, Inc. - Common Stock|Q|N|N|100
-NSPH|Nanosphere, Inc. - Common Stock|S|N|D|100
+NSPH|Nanosphere, Inc. - Common Stock|S|N|N|100
 NSSC|NAPCO Security Technologies, Inc. - Common Stock|Q|N|N|100
 NSTG|NanoString Technologies, Inc. - Common Stock|G|N|N|100
 NSYS|Nortech Systems Incorporated - Common Stock|S|N|N|100
@@ -1942,6 +1942,7 @@ OCRX|Ocera Therapeutics, Inc. - Common Stock|G|N|N|100
 OCUL|Ocular Therapeutix, Inc. - Common Stock|G|N|N|100
 ODFL|Old Dominion Freight Line, Inc. - Common Stock|Q|N|N|100
 ODP|Office Depot, Inc. - Common Stock|Q|N|N|100
+OESX|Orion Energy Systems, Inc. - Common Stock|G|N|N|100
 OFED|Oconee Federal Financial Corp. - Common Stock|S|N|N|100
 OFIX|Orthofix International N.V. - Common Stock|Q|N|N|100
 OFLX|Omega Flex, Inc. - Common Stock|G|N|N|100
@@ -2287,7 +2288,7 @@ RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
 RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
-RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|E|100
+RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|H|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
@@ -2921,6 +2922,7 @@ WILC|G. Willi-Food International,  Ltd. - Ordinary Shares|S|N|N|100
 WILN|Wi-LAN Inc - Common Shares|Q|N|N|100
 WIN|Windstream Holdings, Inc. - Common Stock|Q|N|N|100
 WINA|Winmark Corporation - Common Stock|G|N|N|100
+WING|Wingstop Inc. - Common Stock|Q|N|N|100
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100
 WLB|Westmoreland Coal Company - Common Stock|G|N|N|100
@@ -3015,4 +3017,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0611201521:33|||||
+File Creation Time: 0612201521:32|||||
