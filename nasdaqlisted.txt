@@ -560,7 +560,7 @@ CHUY|Chuy's Holdings, Inc. - Common Stock|Q|N|N|100
 CHW|Calamos Global Dynamic Income Fund - Common Stock|Q|N|N|100
 CHXF|WisdomTree China Dividend Ex-Financials Fund|G|N|N|100
 CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
-CIDM|Cinedigm Corp - Class A Common Stock|G|N|N|100
+CIDM|Cinedigm Corp - Class A Common Stock|G|N|D|100
 CIFC|CIFC Corp. - Common Stock|S|N|N|100
 CIGI|Colliers International Group Inc.  - Subordinate Voting Shares|Q|N|N|100
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100
@@ -989,7 +989,7 @@ FBNK|First Connecticut Bancorp, Inc. - Common Stock|Q|N|N|100
 FBRC|FBR & Co - Common Stock|Q|N|N|100
 FBSS|Fauquier Bankshares, Inc. - Common Stock|S|N|N|100
 FCAP|First Capital, Inc. - Common Stock|S|N|N|100
-FCBC|First Community Bancshares, Inc. - Common Stock|Q|N|N|100
+FCBC|First Community Bancshares, Inc. - Common Stock|Q|N|D|100
 FCCO|First Community Corporation - Common Stock|S|N|N|100
 FCCY|1st Constitution Bancorp (NJ) - Common Stock|G|N|N|100
 FCEL|FuelCell Energy, Inc. - Common Stock|G|N|N|100
@@ -1942,7 +1942,7 @@ OCRX|Ocera Therapeutics, Inc. - Common Stock|G|N|N|100
 OCUL|Ocular Therapeutix, Inc. - Common Stock|G|N|N|100
 ODFL|Old Dominion Freight Line, Inc. - Common Stock|Q|N|N|100
 ODP|Office Depot, Inc. - Common Stock|Q|N|N|100
-OESX|Orion Energy Systems, Inc. - Common Stock|G|N|N|100
+OESX|Orion Energy Systems, Inc. - Common Stock|S|N|N|100
 OFED|Oconee Federal Financial Corp. - Common Stock|S|N|N|100
 OFIX|Orthofix International N.V. - Common Stock|Q|N|N|100
 OFLX|Omega Flex, Inc. - Common Stock|G|N|N|100
@@ -2682,7 +2682,7 @@ TOWN|Towne Bank - Common Stock|Q|N|N|100
 TQQQ|ProShares UltraPro QQQ|G|N|N|100
 TRAK|Dealertrack Technologies, Inc. - Common Stock|Q|N|N|100
 TRCB|Two River Bancorp - Common Stock|S|N|N|100
-TRCH|Torchlight Energy Resources, Inc. - Common Stock|S|N|D|100
+TRCH|Torchlight Energy Resources, Inc. - Common Stock|S|N|N|100
 TREE|LendingTree, Inc. - Common Stock|Q|N|N|100
 TRGT|Targacept, Inc. - Common Stock|Q|N|N|100
 TRIB|Trinity Biotech plc - American Depositary Shares each representing 4 A Ordinary Shares|Q|N|N|100
@@ -3017,4 +3017,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0612201521:32|||||
+File Creation Time: 0615201521:32|||||
