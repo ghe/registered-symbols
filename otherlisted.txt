@@ -36,8 +36,6 @@ ACM|AECOM Common Stock|N|ACM|N|100|N|ACM
 ACN|Accenture plc. Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
 ACP|Avenue Income Credit Strategies Fund Common Shares|N|ACP|N|100|N|ACP
 ACRE|Ares Commercial Real Estate Corporation Common Stock|N|ACRE|N|100|N|ACRE
-ACT|Actavis plc Ordinary Shares|N|ACT|N|100|N|ACT
-ACT$A|Actavis, Inc. 5.50% Mandatory Convertible Preferred Shares, Series A|N|ACTpA|N|10|N|ACT-A
 ACU|Acme United Corporation. Common Stock|A|ACU|N|100|N|ACU
 ACV|AllianzGI Diversified Income & Convertible Fund Common Shares of Beneficial Interest|N|ACV|N|100|N|ACV
 ACW|Accuride Corporation Common Stock|N|ACW|N|100|N|ACW
@@ -104,6 +102,8 @@ AGM$A|Federal Agricultural Mortgage Corporation 5.875% Non-CUmulative Preferred 
 AGM$B|Federal Agricultural Mortgage Corporation Non Cumulative Preferred Stock Series B|N|AGMpB|N|100|N|AGM-B
 AGM$C|Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg|N|AGMpC|N|100|N|AGM-C
 AGM.A|Federal Agricultural Mortgage Corporation Common Stock|N|AGM/A|N|100|N|AGM.A
+AGN|Allergan plc Ordinary Shares|N|AGN|N|100|N|AGN
+AGN$A|Allergan plc. 5.50% Mandatory Convertible Preferred Shares, Series A|N|AGNpA|N|10|N|AGN-A
 AGO|Assured Guaranty Ltd. Common Stock|N|AGO|N|100|N|AGO
 AGO$B|Assured Guaranty Ltd.|N|AGOpB|N|100|N|AGO-B
 AGO$E|Assured Guaranty Ltd.|N|AGOpE|N|100|N|AGO-E
@@ -397,6 +397,7 @@ BAP|Credicorp Ltd. Common Stock|N|BAP|N|100|N|BAP
 BAR|Direxion Daily Gold Bull 3X Shares|P|BAR|Y|100|N|BAR
 BAS|Basic Energy Services, Inc. Common Stock|N|BAS|N|100|N|BAS
 BAX|Baxter International Inc. Common Stock|N|BAX|N|100|N|BAX
+BAX.V|Baxter International Inc. Common Stock Ex-Distribution When Issued|N|BAXw|N|100|N|BAX#
 BBD|Banco Bradesco Sa American Depositary Shares|N|BBD|N|100|N|BBD
 BBDO|Banco Bradesco Sa American Depositary Shares (each representing one Common Share)|N|BBDO|N|100|N|BBDO
 BBF|BlackRock Municipal Income Investment Trust|N|BBF|N|100|N|BBF
@@ -643,6 +644,7 @@ BWZ|SPDR Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
 BX|The Blackstone Group L.P. Common Units Representing Limited Partnership Interests|N|BX|N|100|N|BX
 BXC|Bluelinx Holdings Inc. Common Stock|N|BXC|N|100|N|BXC
 BXE|Bellatrix Exploration Ltd Ordinary Shares (Canada)|N|BXE|N|100|N|BXE
+BXLT.V|Baxalta Incorporated Common Stock When Issued|N|BXLTw|N|100|N|BXLT#
 BXMT|Blackstone Mortgage Trust, Inc. Common Stock|N|BXMT|N|100|N|BXMT
 BXMX|Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest|N|BXMX|N|100|N|BXMX
 BXP|Boston Properties, Inc. Common Stock|N|BXP|N|100|N|BXP
@@ -2702,6 +2704,7 @@ JPM$B|JP Morgan Chase & Co Depositary Shares Representing 1/400th Preferred Seri
 JPM$D|JPMorgan Chase Bank N A London Branch Depositary Shs Repstg 1/400th Pfd Ser O|N|JPMpD|N|100|N|JPM-D
 JPM$E|J P Morgan Chase & Co Depository Shares Representing 1/400th Int Perp Pfd Ser W|N|JPMpE|N|100|N|JPM-E
 JPM$F|J P Morgan Chase & Co Depositary Shares, each representing 1/400th interest in a share of 6.125% Non-Cumulative Preferred Stock, Series Y|N|JPMpF|N|100|N|JPM-F
+JPM$G|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA|N|JPMpG|N|100|N|JPM-G
 JPM.W|J P Morgan Chase & Co Warrant expiring October 28, 2018|N|JPM/WS|N|100|N|JPM+
 JPMV|iShares MSCI Japan Minimum Volatility ETF|P|JPMV|Y|100|N|JPMV
 JPNL|Direxion Daily Japan Bull 3X ETF|P|JPNL|Y|100|N|JPNL
@@ -3508,7 +3511,6 @@ OCR$B|Omnicare, Inc. Omnicare Capital Trust II Series B 4.00% Trust Preferred In
 ODC|Oil-Dri Corporation Of America Common Stock|N|ODC|N|100|N|ODC
 OEC|Orion Engineered Carbons S.A Common Shares|N|OEC|N|100|N|OEC
 OEF|iShares S&P 100 ETF|P|OEF|Y|100|N|OEF
-OESX|Orion Energy Systems, Inc. Common Stock|A|OESX|N|100|N|OESX
 OFC|Corporate Office Properties Trust Common Stock|N|OFC|N|100|N|OFC
 OFC$L|Corporate Office Properties Trust Preferred Series L|N|OFCpL|N|100|N|OFC-L
 OFG|OFG Bancorp Common Stock|N|OFG|N|100|N|OFG
@@ -4411,7 +4413,7 @@ SQNS|Sequans Communications S.A. American Depositary Shares, each representing o
 SRC|Spirit Realty Capital, Inc. Common Stock|N|SRC|N|100|N|SRC
 SRE|Sempra Energy Common Stock|N|SRE|N|100|N|SRE
 SRF|The Cushing Royalty & Income Fund Common Shares of Beneficial Interest|N|SRF|N|100|N|SRF
-SRG.V|Seritage Growth Partners Rights (Expiring July 2, 2015) When Issued|N|SRGrw|N|100|N|SRG^#
+SRG.R|Seritage Growth Partners Rights (Expiring July 2, 2015)|N|SRGr|N|100|N|SRG^
 SRI|Stoneridge, Inc. Common Stock|N|SRI|N|100|N|SRI
 SRLN|SPDR Blackstone GSO Senior Loan ETF|P|SRLN|Y|100|N|SRLN
 SRLP|Sprague Resources LP Common Units representing Limited Partner Interests|N|SRLP|N|100|N|SRLP
@@ -5259,4 +5261,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0612201521:32||||||
+File Creation Time: 0615201521:32||||||
