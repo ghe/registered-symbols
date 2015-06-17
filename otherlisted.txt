@@ -633,6 +633,7 @@ BUNT|DB 3x German Bund Futures Exchange Traded Notes due March 31, 2021|P|BUNT|N
 BURL|Burlington Stores, Inc. Common Stock|N|BURL|N|100|N|BURL
 BVN|Buenaventura Mining Company Inc.|N|BVN|N|100|N|BVN
 BVX|Bovie Medical Corporation Common Stock|A|BVX|N|100|N|BVX
+BW.V|Babcock & Wilcox Enterprises, Inc. Common Stock When Issued|N|BWw|N|100|N|BW#
 BWA|BorgWarner Inc. Common Stock|N|BWA|N|100|N|BWA
 BWC|Babcock Common Stock|N|BWC|N|100|N|BWC
 BWG|Legg Mason BW Global Income Opportunities Fund Inc. Common Stock|N|BWG|N|100|N|BWG
@@ -640,6 +641,7 @@ BWL.A|Bowl America, Inc. Class A Common Stock|A|BWL/A|N|100|N|BWL.A
 BWP|Boardwalk Pipeline Partners LP Common Units|N|BWP|N|100|N|BWP
 BWV|iPath Goldman Sachs Barclays Bank PLC iPath Exchange Traded Notes Linked to the CBOE S&P 500 BuyWrite Index Structured Product|P|BWV|N|100|N|BWV
 BWX|SPDR Barclays Intl Treasury Bd|P|BWX|Y|100|N|BWX
+BWXT.V|BWX Technologies, Inc. Common Stock Ex-Distribution When Issued|N|BWXTw|N|100|N|BWXT#
 BWZ|SPDR Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
 BX|The Blackstone Group L.P. Common Units Representing Limited Partnership Interests|N|BX|N|100|N|BX
 BXC|Bluelinx Holdings Inc. Common Stock|N|BXC|N|100|N|BXC
@@ -4111,7 +4113,6 @@ RUBI|The Rubicon Project, Inc. Common Stock|N|RUBI|N|100|N|RUBI
 RUK|Reed Elsevier NV PLC New ADS|N|RUK|N|100|N|RUK
 RUSL|Direxion Daily Russia Bull 3x Shares|P|RUSL|Y|100|N|RUSL
 RUSS|Direxion Daily Russia Bear 3x Shares|P|RUSS|Y|100|N|RUSS
-RVM|Revett Mining Company, Inc. (DE)|A|RVM|N|100|N|RVM
 RVNU|Deutsche X-Trackers Municipal Infrastructure Revenue Bond ETF|P|RVNU|Y|100|N|RVNU
 RVP|Retractable Technologies, Inc. Common Stock|A|RVP|N|100|N|RVP
 RVT|Royce Value Trust, Inc. Common Stock|N|RVT|N|100|N|RVT
@@ -5261,4 +5262,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0615201521:32||||||
+File Creation Time: 0616201521:32||||||
