@@ -231,7 +231,7 @@ ASRV|AmeriServ Financial Inc. - Common Stock|G|N|N|100
 ASRVP|AmeriServ Financial Inc. - AmeriServ Financial Trust I - 8.45% Beneficial Unsecured Securities, Series A|G|N|N|100
 ASTC|Astrotech Corporation - Common Stock|S|N|N|100
 ASTE|Astec Industries, Inc. - Common Stock|Q|N|N|100
-ASTI|Ascent Solar Technologies, Inc. - Common Stock|S|N|N|100
+ASTI|Ascent Solar Technologies, Inc. - Common Stock|S|N|D|100
 ASUR|Asure Software Inc - Common Stock|S|N|N|100
 ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100
 ATAI|ATA Inc. - American Depositary Shares, each representing two common shares|G|N|N|100
@@ -1673,7 +1673,7 @@ MBCN|Middlefield Banc Corp. - Common Stock|S|N|N|100
 MBFI|MB Financial Inc. - Common Stock|Q|N|N|100
 MBFIP|MB Financial Inc. - Perpetual Non-Cumulative Preferred Stock, Series A|Q|N|N|100
 MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|E|100
-MBLX|Metabolix, Inc. - Common Stock|S|N|D|100
+MBLX|Metabolix, Inc. - Common Stock|S|N|N|100
 MBRG|Middleburg Financial Corporation - Common Stock|S|N|N|100
 MBSD|FlexShares Disciplined Duration MBS Index Fund|G|N|N|100
 MBTF|M B T Financial Corp - Common Stock|Q|N|N|100
@@ -2184,6 +2184,7 @@ PTX|Pernix Therapeutics Holdings, Inc. - Common Stock|G|N|N|100
 PTXP|PennTex Midstream Partners, LP - Common Units Representing Limited Partnership Interests|Q|N|N|100
 PUB|People's Utah Bancorp - Common Stock|S|N|N|100
 PULB|Pulaski Financial Corp. - Common Stock|Q|N|N|100
+PULM|Pulmatrix, Inc. - Common Stock|S|N|N|100
 PVTB|PrivateBancorp, Inc. - Common Stock|Q|N|N|100
 PVTBP|PrivateBancorp, Inc. - PrivateBancorp Capital Trust IV - 10% Trust Preferred|Q|N|N|100
 PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -2325,7 +2326,6 @@ RRGB|Red Robin Gourmet Burgers, Inc. - Common Stock|Q|N|N|100
 RRM|RR Media Ltd. - Ordinary Shares|Q|N|N|100
 RSTI|Rofin-Sinar Technologies, Inc. - Common Stock|Q|N|N|100
 RSYS|RadiSys Corporation - Common Stock|Q|N|N|100
-RTGN|Ruthigen, Inc. - Common Stock|S|N|N|100
 RTIX|RTI Surgical, Inc. - Common Stock|Q|N|N|100
 RTK|Rentech, Inc. - Common Stock|S|N|N|100
 RTRX|Retrophin, Inc. - Common Stock|G|N|N|100
@@ -2507,7 +2507,7 @@ SPAR|Spartan Motors, Inc. - Common Stock|Q|N|N|100
 SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|N|100
 SPDC|Speed Commerce, Inc. - Common Stock|G|N|D|100
 SPEX|Spherix Incorporated - Common Stock|S|N|D|100
-SPHS|Sophiris Bio, Inc. - Common Shares|G|N|D|100
+SPHS|Sophiris Bio, Inc. - Common Shares|G|N|N|100
 SPIL|Siliconware Precision Industries Company, Ltd. - ADS represents common shares|Q|N|N|100
 SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100
 SPLK|Splunk Inc. - Common Stock|Q|N|N|100
@@ -2972,7 +2972,7 @@ XNCR|Xencor, Inc. - Common Stock|G|N|N|100
 XNET|Xunlei Limited - American Depositary Receipts|Q|N|N|100
 XNPT|XenoPort, Inc. - Common Stock|Q|N|N|100
 XOMA|XOMA Corporation - Common Stock|G|N|N|100
-XONE|The ExOne Company - Common Stock|Q|N|E|100
+XONE|The ExOne Company - Common Stock|Q|N|N|100
 XOOM|Xoom Corporation - Common Stock|Q|N|N|100
 XPLR|Xplore Technologies Corp - Common Stock|S|N|N|100
 XRAY|DENTSPLY International Inc. - Common Stock|Q|N|N|100
@@ -3017,4 +3017,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0615201521:32|||||
+File Creation Time: 0616201521:32|||||
