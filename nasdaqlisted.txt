@@ -133,7 +133,7 @@ AMBA|Ambarella, Inc. - Ordinary Shares|Q|N|N|100
 AMBC|Ambac Financial Group, Inc. - Common Stock|Q|N|N|100
 AMBCW|Ambac Financial Group, Inc. - Warrants|Q|N|N|100
 AMCC|Applied Micro Circuits Corporation - Common Stock|Q|N|N|100
-AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|E|100
+AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|H|100
 AMCN|AirMedia Group Inc - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 AMCX|AMC Networks Inc. - Class A Common Stock|Q|N|N|100
 AMD|Advanced Micro Devices, Inc. - Common Stock|S|N|N|100
@@ -1349,6 +1349,7 @@ HYZD|WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fund|G|N|N|100
 HZNP|Horizon Pharma plc - common stock|Q|N|N|100
 IACI|IAC/InterActiveCorp - Common Stock|Q|N|N|100
 IART|Integra LifeSciences Holdings Corporation - Common Stock|Q|N|N|100
+IARTV|Integra LifeSciences Holdings Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100
 IBB|iShares Nasdaq Biotechnology Index Fund|G|N|N|100
 IBCP|Independent Bank Corporation - Common Stock|Q|N|N|100
 IBKC|IBERIABANK Corporation - Common Stock|Q|N|N|100
@@ -1910,6 +1911,7 @@ NVET|Nexvet Biopharma plc - Ordinary Shares|G|N|N|100
 NVFY|Nova Lifestyle, Inc - Common Stock|G|N|N|100
 NVGN|Novogen Limited - American Depositary Shares each representing twenty five Ordinary Shares|S|N|N|100
 NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|S|N|N|100
+NVLS|Nivalis Therapeutics, Inc. - Common Stock|G|N|N|100
 NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares|Q|N|N|100
 NVSL|Naugatuck Valley Financial Corporation - Common Stock|G|N|N|100
 NWBI|Northwest Bancshares, Inc. - Common Stock|Q|N|N|100
@@ -1936,7 +1938,7 @@ OCAT|Ocata Therapeutics, Inc. - Common Stock|G|N|N|100
 OCC|Optical Cable Corporation - Common Stock|G|N|N|100
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100
 OCLR|Oclaro, Inc. - Common Stock|Q|N|N|100
-OCLS|Oculus Innovative Sciences, Inc. - Common Stock|S|N|D|100
+OCLS|Oculus Innovative Sciences, Inc. - Common Stock|S|N|N|100
 OCLSW|Oculus Innovative Sciences, Inc. - Warrants|S|N|N|100
 OCRX|Ocera Therapeutics, Inc. - Common Stock|G|N|N|100
 OCUL|Ocular Therapeutix, Inc. - Common Stock|G|N|N|100
@@ -2289,7 +2291,7 @@ RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
 RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
-RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|H|100
+RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|D|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
@@ -2513,6 +2515,7 @@ SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100
 SPLK|Splunk Inc. - Common Stock|Q|N|N|100
 SPLS|Staples, Inc. - Common Stock|Q|N|N|100
 SPNC|The Spectranetics Corporation - Common Stock|Q|N|N|100
+SPNEV|SeaSpine Holdings Corporation - Common Stock When Issued|Q|N|N|100
 SPNS|Sapiens International Corporation N.V. - Common Shares|S|N|N|100
 SPOK|Spok Holdings, Inc. - Common Stock|Q|N|N|100
 SPPI|Spectrum Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -3017,4 +3020,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0616201521:32|||||
+File Creation Time: 0617201521:34|||||
