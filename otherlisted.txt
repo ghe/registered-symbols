@@ -517,6 +517,7 @@ BKN|BlackRock Investment Quality Municipal Trust Inc. (The)|N|BKN|N|100|N|BKN
 BKS|Barnes & Noble, Inc. Common Stock|N|BKS|N|100|N|BKS
 BKT|BlackRock Income Trust Inc. (The)|N|BKT|N|100|N|BKT
 BKU|BankUnited, Inc. Common Stock|N|BKU|N|100|N|BKU
+BLD.V|TopBuild Corp. Common Stock When Issued|N|BLDw|N|100|N|BLD#
 BLE|BlackRock Municipal Income Trust II|A|BLE|N|100|N|BLE
 BLH|Blackrock New York Municipal 2018 Term Trust|N|BLH|N|100|N|BLH
 BLJ|Blackrock New Jersey Municipal Bond Trust|A|BLJ|N|100|N|BLJ
@@ -771,6 +772,7 @@ CGI|Celadon Group, Inc. Common Stock|N|CGI|N|100|N|CGI
 CGW|Guggenheim S&P Global Water|P|CGW|Y|100|N|CGW
 CH|Aberdeen Chile Fund, Inc. (The) Common Stock|A|CH|N|100|N|CH
 CHA|China Telecom Corp Ltd ADS|N|CHA|N|100|N|CHA
+CHAD|Direxion Daily CSI 300 China A Shares Bear 1X Shares|P|CHAD|Y|100|N|CHAD
 CHAU|Direxion Daily CSI 300 China A Share Bull 2X Shares|P|CHAU|Y|100|N|CHAU
 CHCT|Community Healthcare Trust Incorporated Common Stock|N|CHCT|N|100|N|CHCT
 CHD|Church & Dwight Company, Inc. Common Stock|N|CHD|N|100|N|CHD
@@ -920,6 +922,7 @@ CPE$A|Callon Petroleum Company Preferred Shares Series A 10%|N|CPEpA|N|100|N|CPE
 CPER|United States Copper Index Fund ETV|P|CPER|Y|100|N|CPER
 CPF|Central Pacific Financial Corp New|N|CPF|N|100|N|CPF
 CPG|Crescent Point Energy Corporation Ordinary Shares (Canada)|N|CPG|N|100|N|CPG
+CPGX.V|Columbia Pipeline Group, Inc. Common Stock When Issued|N|CPGXw|N|100|N|CPGX#
 CPHI|China Pharma Holdings, Inc. Common Stock|A|CPHI|N|100|N|CPHI
 CPI|IQ Real Return ETF|P|CPI|Y|100|N|CPI
 CPK|Chesapeake Utilities Corporation Common Stock|N|CPK|N|100|N|CPK
@@ -2383,7 +2386,7 @@ ICSH|iShares Liquidity Income ETF|Z|ICSH|Y|100|N|ICSH
 ICVT|iShares Convertible Bond ETF|Z|ICVT|Y|100|N|ICVT
 IDA|IDACORP, Inc. Common Stock|N|IDA|N|100|N|IDA
 IDE|Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest|N|IDE|N|100|N|IDE
-IDG|ING GROEP N V PREF CTF 7.3750% Perp Hybrid Cap Secs (Netherlands)|N|IDG|N|100|N|IDG
+IDG|ING GROEP N V PREF CTF 7.3750% Perp Hybrid Cap Secs (Netherlands)|N|IDG/CL|N|100|N|IDG*
 IDHB|PowerShares S&P International Developed High Beta Portfolio Exchange Traded Fund|P|IDHB|Y|100|N|IDHB
 IDHQ|PowerShares S&P International Developed High Quality Portfolio (S&P International Developed High Quality Ranking Index--index symbol SPIDHQR)|P|IDHQ|Y|100|N|IDHQ
 IDI|IDI, Inc.|A|IDI|N|100|N|IDI
@@ -2968,6 +2971,7 @@ MAIN|Main Street Capital Corporation Common Stock|N|MAIN|N|100|N|MAIN
 MAN|ManpowerGroup Common Stock|N|MAN|N|100|N|MAN
 MANU|Manchester United Ltd. Class A Ordinary Shares|N|MANU|N|100|N|MANU
 MAS|Masco Corporation Common Stock|N|MAS|N|100|N|MAS
+MAS.V|Masco Corporation Common Stock Ex-Distribution When Issued|N|MASw|N|100|N|MAS#
 MATH|Meidell Tactical Advantage ETF|P|MATH|Y|100|N|MATH
 MATL|Direxion Daily Basic Materials Bull 3X Shares|P|MATL|Y|100|N|MATL
 MATX|Matson, Inc. Common Stock|N|MATX|N|100|N|MATX
@@ -3338,6 +3342,7 @@ NHF|NexPoint Credit Strategies Fund|N|NHF|N|100|N|NHF
 NHI|National Health Investors, Inc. Common Stock|N|NHI|N|100|N|NHI
 NHS|Neuberger Berman High Yield Strategies Fund|A|NHS|N|100|N|NHS
 NI|NiSource Inc Common Stock|N|NI|N|100|N|NI
+NI.V|NiSource, Inc Common Stock Ex-Distribution When Issued|N|NIw|N|100|N|NI#
 NIB|iPath Bloomberg Cocoa Subindex Total Return SM IndexETN|P|NIB|N|100|N|NIB
 NID|Nuveen Intermediate Duration Municipal Term Fund Common Shares of Beneficial Interest|N|NID|N|100|N|NID
 NIE|AllianzGI Equity & Convertible Income Fund|N|NIE|N|100|N|NIE
@@ -5262,4 +5267,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0616201521:32||||||
+File Creation Time: 0617201521:34||||||
