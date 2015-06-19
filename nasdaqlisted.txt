@@ -746,6 +746,7 @@ CYBX|Cyberonics, Inc. - Common Stock|Q|N|N|100
 CYCC|Cyclacel Pharmaceuticals, Inc. - Common Stock|G|N|D|100
 CYCCP|Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock|S|N|N|100
 CYHHZ|Community Health Systems, Inc. - Series A Contingent Value Rights|G|N|N|100
+CYNA|Cynapsus Therapeutics Inc. - Common Shares|G|N|N|100
 CYNO|Cynosure, Inc. - Class A Common Stock|Q|N|N|100
 CYOU|Changyou.com Limited - American Depositary Shares, each representing two Class A ordinary shares|Q|N|N|100
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100
@@ -973,7 +974,7 @@ EXTR|Extreme Networks, Inc. - Common Stock|Q|N|N|100
 EXXI|Energy XXI Ltd. - Common Stock|Q|N|N|100
 EYES|Second Sight Medical Products, Inc. - Common Stock|S|N|N|100
 EZCH|EZchip Semiconductor Limited - Ordinary Shares|Q|N|N|100
-EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|N|100
+EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|E|100
 FALC|FalconStor Software, Inc. - Common Stock|G|N|N|100
 FANG|Diamondback Energy, Inc. - Commmon Stock|Q|N|N|100
 FARM|Farmer Brothers Company - Common Stock|Q|N|N|100
@@ -3020,4 +3021,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0617201521:34|||||
+File Creation Time: 0618201521:34|||||
