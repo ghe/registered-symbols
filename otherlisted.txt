@@ -1736,6 +1736,7 @@ FINU|ProShares UltraPro Financials|P|FINU|Y|100|N|FINU
 FINZ|ProShares UltraPro Short Financials|P|FINZ|Y|100|N|FINZ
 FIS|Fidelity National Information Services, Inc. Common Stock|N|FIS|N|100|N|FIS
 FISK|Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests|P|FISK|N|100|N|FISK
+FIT|Fitbit, Inc. Class A Common Stock|N|FIT|N|100|N|FIT
 FIVZ|PIMCO 3-7 Year U.S. Treasury Index Exchange-Traded Fund|P|FIVZ|Y|100|N|FIVZ
 FIW|First Trust ISE Water Index Fund|P|FIW|Y|100|N|FIW
 FIX|Comfort Systems USA, Inc. Common Stock|N|FIX|N|100|N|FIX
@@ -2555,6 +2556,7 @@ ISR|IsoRay, Inc. Common Stock|A|ISR|N|100|N|ISR
 ISRA|Market Vectors Israel ETF|P|ISRA|Y|100|N|ISRA
 IST|SPDR S&P International Telecommunications Sector ETF|P|IST|Y|100|N|IST
 ISTB|iShares Core 1-5 Year USD Bond ETF|P|ISTB|Y|100|N|ISTB
+ISZE|iShares MSCI International Developed Size Factor ETF|P|ISZE|Y|100|N|ISZE
 IT|Gartner, Inc. Common Stock|N|IT|N|100|N|IT
 ITA|iShares U.S. Aerospace & Defense ETF|P|ITA|Y|100|N|ITA
 ITB|iShares U.S. Home Construction ETF|P|ITB|Y|100|N|ITB
@@ -2577,6 +2579,7 @@ IVAL|ValueShares International Quantitative Value ETF|Z|IVAL|Y|100|N|IVAL
 IVC|Invacare Corporation Common Stock|N|IVC|N|100|N|IVC
 IVE|iShares S&P 500 Value ETF|P|IVE|Y|100|N|IVE
 IVH|Ivy High Income Opportunities Fund Common Shares of Beneficial Interest|N|IVH|N|100|N|IVH
+IVLU|iShares MSCI International Developed Value Factor ETF|P|IVLU|Y|100|N|IVLU
 IVOG|Vanguard S&P Mid-Cap 400 Growth ETF|P|IVOG|Y|100|N|IVOG
 IVOO|Vanguard S&P Mid-Cap 400 ETF|P|IVOO|Y|100|N|IVOO
 IVOP|iPath Inverse S&P 500 VIX Short Term Futures|P|IVOP|N|100|N|IVOP
@@ -4848,6 +4851,7 @@ UNL|United States 12 Month Natural Gas Fund|P|UNL|Y|100|N|UNL
 UNM|Unum Group Common Stock|N|UNM|N|100|N|UNM
 UNP|Union Pacific Corporation Common Stock|N|UNP|N|100|N|UNP
 UNT|Unit Corporation Common Stock|N|UNT|N|100|N|UNT
+UNVR|Univar Inc. Common Stock|N|UNVR|N|100|N|UNVR
 UPL|Ultra Petroleum Corp. Common Stock|N|UPL|N|100|N|UPL
 UPRO|ProShares UltraPro S&P 500|P|UPRO|Y|100|N|UPRO
 UPS|United Parcel Service, Inc. Common Stock|N|UPS|N|100|N|UPS
@@ -5267,4 +5271,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0617201521:34||||||
+File Creation Time: 0618201521:34||||||
