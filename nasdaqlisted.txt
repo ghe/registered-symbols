@@ -430,6 +430,7 @@ CADT|DT Asia Investments Limited - Ordinary Shares|S|N|N|100
 CADTR|DT Asia Investments Limited - Right|S|N|N|100
 CADTU|DT Asia Investments Limited - Unit|S|N|N|100
 CADTW|DT Asia Investments Limited - Warrant|S|N|N|100
+CAFD|8point3 Energy Partners LP - Class A Shares|Q|N|N|100
 CAKE|The Cheesecake Factory Incorporated - Common Stock|Q|N|N|100
 CALA|Calithera Biosciences, Inc. - Common Stock|Q|N|N|100
 CALD|Callidus Software, Inc. - Common Stock|G|N|N|100
@@ -666,7 +667,7 @@ CPXX|Celator Pharmaceuticals Inc. - Common Stock|S|N|N|100
 CRAI|CRA International,Inc. - Common Stock|Q|N|N|100
 CRAY|Cray Inc - Common Stock|Q|N|N|100
 CRBP|Corbus Pharmaceuticals Holdings, Inc. - Common Stock|S|N|N|100
-CRDC|Cardica, Inc. - Common Stock|G|N|D|100
+CRDC|Cardica, Inc. - Common Stock|S|N|D|100
 CRDS|Crossroads Systems, Inc. - Common Stock|S|N|N|100
 CRDT|WisdomTree Strategic Corporate Bond Fund|G|N|N|100
 CREE|Cree, Inc. - Common Stock|Q|N|N|100
@@ -739,6 +740,7 @@ CWCO|Consolidated Water Co. Ltd. - Ordinary Shares|Q|N|N|100
 CWST|Casella Waste Systems, Inc. - Class A Common Stock|Q|N|N|100
 CXDC|China XD Plastics Company Limited - Common Stock|G|N|N|100
 CY|Cypress Semiconductor Corporation - Common Stock|Q|N|N|100
+CYAD|Celyad SA - American Depositary Shares|G|N|N|100
 CYAN|Cyanotech Corporation - Common Stock|S|N|N|100
 CYBE|CyberOptics Corporation - Common Stock|G|N|N|100
 CYBR|CyberArk Software Ltd. - Ordinary Shares|Q|N|N|100
@@ -1063,6 +1065,7 @@ FNTC|FinTech Acquisition Corp. - Common Stock|S|N|N|100
 FNTCU|FinTech Acquisition Corp. - Units|S|N|N|100
 FNTCW|FinTech Acquisition Corp. - Warrants|S|N|N|100
 FNWB|First Northwest Bancorp - Common Stock|G|N|N|100
+FOGO|Fogo de Chao, Inc. - Common Stock|Q|N|N|100
 FOLD|Amicus Therapeutics, Inc. - Common Stock|G|N|N|100
 FOMX|Foamix Pharmaceuticals Ltd. - Ordinary Shares|G|N|N|100
 FONE|First Trust NASDAQ CEA Smartphone Index Fund|G|N|N|100
@@ -1671,6 +1674,7 @@ MAT|Mattel, Inc. - Common Stock|Q|N|N|100
 MATR|Mattersight Corporation - Common Stock|G|N|N|100
 MATW|Matthews International Corporation - Class A Common Stock|Q|N|N|100
 MAYS|J. W. Mays, Inc. - Common Stock|S|N|N|100
+MB|MINDBODY, Inc. - Class A Common Stock|G|N|N|100
 MBCN|Middlefield Banc Corp. - Common Stock|S|N|N|100
 MBFI|MB Financial Inc. - Common Stock|Q|N|N|100
 MBFIP|MB Financial Inc. - Perpetual Non-Cumulative Preferred Stock, Series A|Q|N|N|100
@@ -2332,6 +2336,7 @@ RSYS|RadiSys Corporation - Common Stock|Q|N|N|100
 RTIX|RTI Surgical, Inc. - Common Stock|Q|N|N|100
 RTK|Rentech, Inc. - Common Stock|S|N|N|100
 RTRX|Retrophin, Inc. - Common Stock|G|N|N|100
+RTTR|Ritter Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 RUSHA|Rush Enterprises, Inc. - Class A Common Stock|Q|N|N|100
 RUSHB|Rush Enterprises, Inc. - Class B Common Stock|Q|N|N|100
 RUTH|Ruth's Hospitality Group, Inc. - Common Stock|Q|N|N|100
@@ -3021,4 +3026,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0618201521:34|||||
+File Creation Time: 0619201521:32|||||
