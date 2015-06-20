@@ -715,6 +715,7 @@ CBT|Cabot Corporation Common Stock|N|CBT|N|100|N|CBT
 CBU|Community Bank System, Inc. Common Stock|N|CBU|N|100|N|CBU
 CBX|CBX (Listing Market NYSE Networks AE) Common Stock|N|CBX|N|100|Y|CBX
 CBZ|CBIZ, Inc. Common Stock|N|CBZ|N|100|N|CBZ
+CC.V|Chemours Company (The) Common Stock When Issued|N|CCw|N|100|N|CC#
 CCA|MFS California Municipal Fund Common Shares of Beneficial Interest|A|CCA|N|100|N|CCA
 CCC|Calgon Carbon Corporation Common Stock|N|CCC|N|100|N|CCC
 CCE|Coca-Cola Enterprises, Inc. Common Stock|N|CCE|N|100|N|CCE
@@ -1102,6 +1103,7 @@ DCUC|Dominion Resources, Inc. VA New 2014 Series A Corp Unit|N|DCUC|N|100|N|DCUC
 DD|E.I. du Pont de Nemours and Company Common Stock|N|DD|N|100|N|DD
 DD$A|E.I. du Pont de Nemours and Company Preferred Stock|N|DDpA|N|100|N|DD-A
 DD$B|E.I. du Pont de Nemours and Company Preferred Stock|N|DDpB|N|100|N|DD-B
+DD.V|E.I. du Pont de Nemours and Company Common Stock Ex-Distribution When Issued|N|DDw|N|100|N|DD#
 DDC|Dominion Diamond Corporation Common Stock|N|DDC|N|100|N|DDC
 DDD|3D Systems Corporation Common Stock|N|DDD|N|100|N|DDD
 DDE|Dover Downs Gaming & Entertainment Inc Common Stock|N|DDE|N|100|N|DDE
@@ -1375,6 +1377,7 @@ EFZ|ProShares Short MSCI EAFE|P|EFZ|Y|100|N|EFZ
 EGAS|Gas Natural Inc. Common Stock (OH)|A|EGAS|N|100|N|EGAS
 EGF|Blackrock Enhanced Government Fund, Inc. Common Stock|N|EGF|N|100|N|EGF
 EGI|Entree Gold Inc Ordinary Shares|A|EGI|N|100|N|EGI
+EGIF|Eagle Growth and Income Opportunities Fund Common Shares of Beneficial Interest|N|EGIF|N|100|N|EGIF
 EGL|Engility Holdings, Inc. Common Stock|N|EGL|N|100|N|EGL
 EGN|Energen Corporation Common Stock|N|EGN|N|100|N|EGN
 EGO|Eldorado Gold Corporation Ordinary Shares|N|EGO|N|100|N|EGO
@@ -1920,7 +1923,6 @@ GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
 GCV|Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock|N|GCV|N|100|N|GCV
 GCV$B|Gabelli Convertible and Income Securities Fund, Inc. (The) Series B 6.00% Cumulative Preferred Stock|N|GCVpB|N|100|N|GCV-B
 GD|General Dynamics Corporation Common Stock|N|GD|N|100|N|GD
-GDAY|ProShares Ultra Australian Dollar|P|GDAY|Y|100|N|GDAY
 GDDY|GoDaddy Inc. Class A Common Stock|N|GDDY|N|100|N|GDDY
 GDF|Western Asset Global Partners Income Fund, Inc. Common Stock|N|GDF|N|100|N|GDF
 GDJJ|ProShares Ultra Junior Miners|P|GDJJ|Y|100|N|GDJJ
@@ -4865,7 +4867,6 @@ URI|United Rentals, Inc. Common Stock|N|URI|N|100|N|URI
 URR|Market Vectors Double Long Euro ETN|P|URR|N|100|N|URR
 URTH|Ishares MSCI World Index Fund|P|URTH|Y|100|N|URTH
 URTY|ProShares UltraPro Russell2000|P|URTY|Y|100|N|URTY
-URZ|Uranerz Energy Corporation Common Stock|A|URZ|N|100|N|URZ
 USA|Liberty All-Star Equity Fund Common Stock|N|USA|N|100|N|USA
 USAC|USA Compression Partners, LP Common Units Representing Limited Partner Interests|N|USAC|N|100|N|USAC
 USAG|United States Agriculture Index Fund ETV|P|USAG|Y|100|N|USAG
@@ -5271,4 +5272,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0618201521:34||||||
+File Creation Time: 0619201521:32||||||
