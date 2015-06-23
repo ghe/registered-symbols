@@ -85,6 +85,7 @@ AFSI$A|AmTrust Financial Services, Inc. Preferred Series A|N|AFSIpA|N|100|N|AFSI
 AFSI$B|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series B|N|AFSIpB|N|100|N|AFSI-B
 AFSI$C|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series C|N|AFSIpC|N|100|N|AFSI-C
 AFSI$D|AmTrust Financial Services, Inc. Depositary Shares, Each Representing 1/40th Interest in a shares of 7.50% Non-Cumulative Preferred Stock, Series D|N|AFSIpD|N|100|N|AFSI-D
+AFSS|AmTrust Financial Services, Inc. 7.25% Subordinated Notes due 2055|N|AFSS|N|100|N|AFSS
 AFT|Apollo Senior Floating Rate Fund Inc. Common Stock|N|AFT|N|100|N|AFT
 AFTY|CSOP FTSE China A50 ETF|P|AFTY|Y|100|N|AFTY
 AFW|American Financial Group, Inc. 6 3/8% Senior Notes due 2042|N|AFW|N|100|N|AFW
@@ -394,7 +395,6 @@ BANC|Banc of California, Inc. Common Stock|N|BANC|N|100|N|BANC
 BANC$C|Banc of California, Inc. Depositary Shares|N|BANCpC|N|100|N|BANC-C
 BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th interest in a share of 7.375% Non-Cumulative Perpetual Preferred Stock, Series D|N|BANCpD|N|100|N|BANC-D
 BAP|Credicorp Ltd. Common Stock|N|BAP|N|100|N|BAP
-BAR|Direxion Daily Gold Bull 3X Shares|P|BAR|Y|100|N|BAR
 BAS|Basic Energy Services, Inc. Common Stock|N|BAS|N|100|N|BAS
 BAX|Baxter International Inc. Common Stock|N|BAX|N|100|N|BAX
 BAX.V|Baxter International Inc. Common Stock Ex-Distribution When Issued|N|BAXw|N|100|N|BAX#
@@ -3855,6 +3855,7 @@ PUK$A|Prudential Public Limited Company 6.50% Perpetual Subordinated Capital Sec
 PUW|PowerShares WilderHill Progressive Energy Portfolio|P|PUW|Y|100|N|PUW
 PVA|Penn Virginia Corporation Common Stock|N|PVA|N|100|N|PVA
 PVCT|Provectus Biopharmaceuticals, Inc.|A|PVCT|N|100|N|PVCT
+PVCT.W|Provectus Biopharmaceuticals, Inc. Warrant|A|PVCT/WS|N|100|N|PVCT+
 PVG|Pretium Resources, Inc. Ordinary Shares (Canada)|N|PVG|N|100|N|PVG
 PVH|PVH Corp. Common Stock|N|PVH|N|100|N|PVH
 PVI|PowerShares VRDO Tax Free Weekly Portfolio|P|PVI|Y|100|N|PVI
@@ -4174,7 +4175,6 @@ SAND|Sandstorm Gold Ltd. Ordinary Shares (Canada)|A|SAND|N|100|N|SAND
 SAP|SAP  SE ADS|N|SAP|N|100|N|SAP
 SAQ|Saratoga Investment Corp 7.50% Notes due 2020|N|SAQ|N|100|N|SAQ
 SAR|Saratoga Investment Corp New|N|SAR|N|100|N|SAR
-SARA|Saratoga Resources, Inc. Common Stock|A|SARA|N|100|N|SARA
 SB|Safe Bulkers, Inc Common Stock ($0.001 par value)|N|SB|N|100|N|SB
 SB$B|Safe Bulkers, Inc 8.00% Series B Cumulative Redeemable Perpetual Preferred Shares|N|SBpB|N|100|N|SB-B
 SB$C|Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands)|N|SBpC|N|100|N|SB-C
@@ -4571,7 +4571,6 @@ TCB|TCF Financial Corporation Common Stock|N|TCB|N|100|N|TCB
 TCB$B|TCF Financial Corporation Del Dep Shs Repstg 1/1000 Pfd Ser A|N|TCBpB|N|100|N|TCB-B
 TCB$C|TCF Financial Corporation Perp Pfd Ser B|N|TCBpC|N|100|N|TCB-C
 TCB.W|TCF Financial Corporation TCF Financial Corporation Warrants|N|TCB/WS|N|100|N|TCB+
-TCC|Triangle Capital Corporation 7.00% Senior Notes due 2019|N|TCC/CL|N|100|N|TCC*
 TCCA|Triangle Capital Corporation 6.375% Senior Notes due 2022|N|TCCA|N|100|N|TCCA
 TCCB|Triangle Capital Corporation 6.375% Notes due 2022|N|TCCB|N|100|N|TCCB
 TCHI|RBS China Trendpilot Exchange Traded Note|P|TCHI|N|100|N|TCHI
@@ -5272,4 +5271,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0619201521:32||||||
+File Creation Time: 0622201521:32||||||
