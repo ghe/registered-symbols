@@ -16,6 +16,8 @@ ABCD|Cambium Learning Group, Inc. - Common Stock|S|N|N|100
 ABCO|The Advisory Board Company - Common Stock|Q|N|N|100
 ABCW|Anchor BanCorp Wisconsin Inc. - Common Stock|Q|N|N|100
 ABDC|Alcentra Capital Corp. - Common Stock|Q|N|N|100
+ABEO|Abeona Therapeutics Inc. - Common Stock|S|N|N|100
+ABEOW|Abeona Therapeutics Inc. - Warrant|S|N|N|100
 ABGB|Abengoa, S.A. - American Depositary Shares|Q|N|N|100
 ABIO|ARCA biopharma, Inc. - Common Stock|S|N|D|100
 ABMD|ABIOMED, Inc. - Common Stock|Q|N|N|100
@@ -345,7 +347,6 @@ BKEP|Blueknight Energy Partners L.P., L.L.C. - Common Units representing Limited
 BKEPP|Blueknight Energy Partners L.P., L.L.C. - Series A Preferred Units|G|N|N|100
 BKMU|Bank Mutual Corporation - Common Stock|Q|N|N|100
 BKSC|Bank of South Carolina Corp. - Common Stock|S|N|N|100
-BKYF|The Bank of Kentucky Financial Corp. - Common Stock|Q|N|N|100
 BLBD|Blue Bird Corporation - Common Stock|G|N|N|100
 BLCM|Bellicum Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 BLDP|Ballard Power Systems, Inc. - Common Shares|G|N|N|100
@@ -661,7 +662,7 @@ CPRX|Catalyst Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 CPSH|CPS Technologies Corp. - Common Stock|S|N|N|100
 CPSI|Computer Programs and Systems, Inc. - Common Stock|Q|N|N|100
 CPSS|Consumer Portfolio Services, Inc. - Common Stock|G|N|N|100
-CPST|Capstone Turbine Corporation - Common Stock|G|N|D|100
+CPST|Capstone Turbine Corporation - Common Stock|S|N|D|100
 CPTA|Capitala Finance Corp. - Common Stock|Q|N|N|100
 CPXX|Celator Pharmaceuticals Inc. - Common Stock|S|N|N|100
 CRAI|CRA International,Inc. - Common Stock|Q|N|N|100
@@ -790,6 +791,7 @@ DGRS|WisdomTree U.S. SmallCap Dividend Growth Fund|G|N|N|100
 DGRW|WisdomTree U.S. Dividend Growth Fund|G|N|N|100
 DHIL|Diamond Hill Investment Group, Inc. - Class A Common Stock|Q|N|N|100
 DHRM|Dehaier Medical Systems Limited - Common Stock|S|N|N|100
+DHXM|DHX Media Ltd. - Variable Voting Shares|Q|N|N|100
 DIOD|Diodes Incorporated - Common Stock|Q|N|N|100
 DISCA|Discovery Communications, Inc. - Series A Common Stock|Q|N|N|100
 DISCB|Discovery Communications, Inc. - Series B Common Stock|Q|N|N|100
@@ -1573,6 +1575,9 @@ LBIO|Lion Biotechnologies, Inc. - Common Stock|G|N|N|100
 LBIX|Leading Brands Inc - Common Shares|S|N|N|100
 LBRDA|Liberty Broadband Corporation - Class A Common Stock|Q|N|N|100
 LBRDK|Liberty Broadband Corporation - Class C Common Stock|Q|N|N|100
+LBTAV|Liberty Global plc - Class A Ordinary Shares Ex-Distribution When Issued|G|N|N|100
+LBTBV|Liberty Global plc - Class B Ordinary Shares Ex-distribution When Issued|G|N|N|100
+LBTKV|Liberty Global plc - Class C Ordinary Shares Ex-distribution When Issued|G|N|N|100
 LBTYA|Liberty Global plc - Class A Ordinary Shares|Q|N|N|100
 LBTYB|Liberty Global plc - Class B Ordinary Shares|Q|N|N|100
 LBTYK|Liberty Global plc - Class C Ordinary Shares|Q|N|N|100
@@ -1593,6 +1598,8 @@ LGIH|LGI Homes, Inc. - Common Stock|Q|N|N|100
 LGND|Ligand Pharmaceuticals Incorporated - Common Stock|G|N|N|100
 LHCG|LHC Group - common stock|Q|N|N|100
 LIFE|aTyr Pharma, Inc. - Common Stock|Q|N|N|100
+LILAV|Liberty Global plc - Class A Ordinary Shares When Issued|Q|N|N|100
+LILKV|Liberty Global plc - Class C Ordinary Shares When Issued|Q|N|N|100
 LIME|Lime Energy Co. - Common Stock|S|N|N|100
 LINC|Lincoln Educational Services Corporation - Common Stock|Q|N|N|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
@@ -2177,8 +2184,6 @@ PSTB|Park Sterling Corporation - Common Stock|Q|N|N|100
 PSTI|Pluristem Therapeutics, Inc. - Common Stock|S|N|N|100
 PSTR|PostRock Energy Corporation - Common Stock|G|N|N|100
 PSUN|Pacific Sunwear of California, Inc. - Common Stock|Q|N|N|100
-PTBI|PlasmaTech Biopharmaceuticals, Inc. - Common Stock|S|N|N|100
-PTBIW|PlasmaTech Biopharmaceuticals, Inc. - Warrant|S|N|N|100
 PTC|PTC Inc. - Common Stock|Q|N|N|100
 PTCT|PTC Therapeutics, Inc. - Common Stock|Q|N|N|100
 PTEN|Patterson-UTI Energy, Inc. - Common Stock|Q|N|N|100
@@ -2864,7 +2869,6 @@ VPCO|Vapor Corp. - Common Stock|S|N|D|100
 VRA|Vera Bradley, Inc. - Common Stock|Q|N|D|100
 VRML|Vermillion, Inc. - Common Stock|S|N|N|100
 VRNG|Vringo, Inc. - Common Stock|S|N|D|100
-VRNGW|Vringo, Inc. - Warrants|S|N|N|100
 VRNS|Varonis Systems, Inc. - Common Stock|Q|N|N|100
 VRNT|Verint Systems Inc. - Common Stock|Q|N|N|100
 VRSK|Verisk Analytics, Inc. - Common Stock|Q|N|N|100
@@ -3026,4 +3030,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0619201521:32|||||
+File Creation Time: 0622201521:32|||||
