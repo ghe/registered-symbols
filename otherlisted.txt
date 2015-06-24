@@ -1919,6 +1919,7 @@ GCC|GreenHaven Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
 GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
 GCH|Aberdeen Greater China Fund, Inc. Common Stock|N|GCH|N|100|N|GCH
 GCI|Gannett Co., Inc. Common Stock|N|GCI|N|100|N|GCI
+GCI.V|Gannett Co., Inc. Common Stock When Issued|N|GCIw|N|100|N|GCI#
 GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
 GCV|Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock|N|GCV|N|100|N|GCV
 GCV$B|Gabelli Convertible and Income Securities Fund, Inc. (The) Series B 6.00% Cumulative Preferred Stock|N|GCVpB|N|100|N|GCV-B
@@ -2160,6 +2161,8 @@ HASI|Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock|N|HA
 HBI|Hanesbrands Inc. Common Stock|N|HBI|N|100|N|HBI
 HBM|Hudbay Minerals Inc Ordinary Shares (Canada)|N|HBM|N|100|N|HBM
 HBM.W|HudBay Minerals Inc Warrants Expiring 07/20/2018 (Canada)|N|HBM/WS|N|100|N|HBM+
+HBU|ProShares Ultra Homebuilders & Supplies|P|HBU|Y|100|N|HBU
+HBZ|ProShare UltraShort Homebuilders & Supplies|P|HBZ|Y|100|N|HBZ
 HCA|HCA Holdings, Inc. Common Stock|N|HCA|N|100|N|HCA
 HCC|HCC Insurance Holdings, Inc. Common Stock|N|HCC|N|100|N|HCC
 HCHC|HC2 Holdings, Inc. Common Stock|A|HCHC|N|100|N|HCHC
@@ -2334,6 +2337,7 @@ HYMB|SPDR Nuveen S&P High Yield Municipal Bond ETF|P|HYMB|Y|100|N|HYMB
 HYS|PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund|P|HYS|Y|100|N|HYS
 HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock|N|HYT|N|100|N|HYT
 HYXU|iShares Global ex USD High Yield Corporate Bond ETF|Z|HYXU|Y|100|N|HYXU
+HZN.V|Horizon Global Corporation Common Shares When Issued|N|HZNw|N|100|N|HZN#
 HZO|MarineMax, Inc.  (FL) Common Stock|N|HZO|N|100|N|HZO
 I|Intelsat S.A. Common Shares|N|I|N|100|N|I
 I$A|Intelsat S.A. Series A mandatory convefrtible junior non-voting preferred shares|N|IpA|N|100|N|I-A
@@ -3015,7 +3019,6 @@ MDP|Meredith Corporation Common Stock|N|MDP|N|100|N|MDP
 MDR|McDermott International, Inc. Common Stock|N|MDR|N|100|N|MDR
 MDT|Medtronic plc. Ordinary Shares|N|MDT|N|100|N|MDT
 MDU|MDU Resources Group, Inc. Common Stock|N|MDU|N|100|N|MDU
-MDW|Midway Gold Corporation Ordinary Shares (Canada)|A|MDW|N|100|N|MDW
 MDY|SPDR MidCap Trust Series I|P|MDY|Y|100|N|MDY
 MDYG|SPDR S&P 400 Mid Cap Growth ETF (based on S&P MidCap 400 Growth Index--symbol: MUV)|P|MDYG|Y|100|N|MDYG
 MDYV|SPDR S&P 400 Mid Cap Value ETF (based on S&P MidCap 400 Value Index--symbol: MGD|P|MDYV|Y|100|N|MDYV
@@ -4383,6 +4386,7 @@ SO|Southern Company (The) Common Stock|N|SO|N|100|N|SO
 SOIL|Global X Fertilizers/Potash ETF|P|SOIL|Y|100|N|SOIL
 SOL|Renesola Ltd. Common Shares of Beneficial Interest|N|SOL|N|100|N|SOL
 SON|Sonoco Products Company Common Stock|N|SON|N|100|N|SON
+SOP|ProShares UltraShort Oil & Gas Exploration & Production|P|SOP|Y|100|N|SOP
 SOR|Source Capital, Inc. Common Stock|N|SOR|N|100|N|SOR
 SOV$C|Santander Holdings USA, Inc. Dep Shs repstg 1/1000 Perp Pfd Ser C|N|SOVpC|N|100|N|SOV-C
 SOXL|Direxion Daily Semiconductor Bull 3x Shares|P|SOXL|Y|100|N|SOXL
@@ -4623,6 +4627,7 @@ TGC|Tengasco, Inc. Common Stock|A|TGC|N|100|N|TGC
 TGD|Timmins Gold Corp Common Shares (Canada)|A|TGD|N|100|N|TGD
 TGH|Textainer Group Holdings Limited Common Shares|N|TGH|N|100|N|TGH
 TGI|Triumph Group, Inc. Common Stock|N|TGI|N|100|N|TGI
+TGNA.V|TEGNA Inc. Common Stock Ex-Distribution When Issued|N|TGNAw|N|100|N|TGNA#
 TGP|Teekay LNG Partners L.P.|N|TGP|N|100|N|TGP
 TGS|Transportadora de Gas del Sur SA TGS Common Stock|N|TGS|N|100|N|TGS
 TGT|Target Corporation Common Stock|N|TGT|N|100|N|TGT
@@ -4853,6 +4858,7 @@ UNM|Unum Group Common Stock|N|UNM|N|100|N|UNM
 UNP|Union Pacific Corporation Common Stock|N|UNP|N|100|N|UNP
 UNT|Unit Corporation Common Stock|N|UNT|N|100|N|UNT
 UNVR|Univar Inc. Common Stock|N|UNVR|N|100|N|UNVR
+UOP|ProShares Ultra Oil & Gas Exploration & Production|P|UOP|Y|100|N|UOP
 UPL|Ultra Petroleum Corp. Common Stock|N|UPL|N|100|N|UPL
 UPRO|ProShares UltraPro S&P 500|P|UPRO|Y|100|N|UPRO
 UPS|United Parcel Service, Inc. Common Stock|N|UPS|N|100|N|UPS
@@ -5271,4 +5277,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0622201521:32||||||
+File Creation Time: 0623201521:32||||||
