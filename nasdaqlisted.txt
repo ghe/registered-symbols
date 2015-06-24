@@ -812,7 +812,7 @@ DOVR|Dover Saddlery, Inc. - Common Stock|S|N|N|100
 DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100
 DPRX|Dipexium Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 DRAD|Digirad Corporation - Common Stock|G|N|N|100
-DRAM|Dataram Corporation - Common Stock|S|N|D|100
+DRAM|Dataram Corporation - Common Stock|S|N|N|100
 DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 DRRX|DURECT Corporation - Common Stock|G|N|N|100
 DRWI|DragonWave Inc - Common Shares|Q|N|D|100
@@ -2713,6 +2713,7 @@ TROVW|TrovaGene, Inc. - Warrant|S|N|N|100
 TROW|T. Rowe Price Group, Inc. - Common Stock|Q|N|N|100
 TRS|TriMas Corporation - Common Stock|Q|N|N|100
 TRST|TrustCo Bank Corp NY - Common Stock|Q|N|N|100
+TRSVV|TriMas Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100
 TRTL|Terrapin 3 Acquisition Corporation - Class A Common Stock|S|N|N|100
 TRTLU|Terrapin 3 Acquisition Corporation - Units|S|N|N|100
 TRTLW|Terrapin 3 Acquisition Corporation - Warrants|S|N|N|100
@@ -2759,6 +2760,7 @@ UAE|iShares MSCI UAE Capped ETF|G|N|N|100
 UBCP|United Bancorp, Inc. - Common Stock|S|N|N|100
 UBFO|United Security Bancshares - Common Stock|Q|N|N|100
 UBIC|UBIC, Inc. - American Depositary Shares|Q|N|N|100
+UBIO|Proshares UltraPro NASDAQ Biotechnology|G|N|N|100
 UBND|WisdomTree Western Asset Unconstrained Bond Fund|G|N|N|100
 UBNK|United Financial Bancorp, Inc.  - Common Stock|Q|N|N|100
 UBNT|Ubiquiti Networks, Inc. - Common Stock|Q|N|N|100
@@ -3005,6 +3007,7 @@ Z|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
 ZAGG|ZAGG Inc - Common Stock|Q|N|N|100
 ZAIS|ZAIS Group Holdings, Inc. - Class A Common Stock|S|N|N|100
 ZAZA|ZaZa Energy Corporation - Common Stock|S|N|D|100
+ZBIO|ProShares UltraPro Short NASDAQ Biotechnology|G|N|N|100
 ZBRA|Zebra Technologies Corporation - Class A Common Stock|Q|N|N|100
 ZEUS|Olympic Steel, Inc. - Common Stock|Q|N|N|100
 ZFGN|Zafgen, Inc. - Common Stock|Q|N|N|100
@@ -3030,4 +3033,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0622201521:32|||||
+File Creation Time: 0623201521:32|||||
