@@ -459,6 +459,7 @@ CASI|CASI Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 CASM|CAS Medical Systems, Inc. - Common Stock|S|N|N|100
 CASS|Cass Information Systems, Inc - Common Stock|Q|N|N|100
 CASY|Caseys General Stores, Inc. - Common Stock|Q|N|N|100
+CATB|Catabasis Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 CATM|Cardtronics, Inc. - Common Stock|Q|N|N|100
 CATY|Cathay General Bancorp - Common Stock|Q|N|N|100
 CATYW|Cathay General Bancorp - Warrant|Q|N|N|100
@@ -753,6 +754,7 @@ CYNA|Cynapsus Therapeutics Inc. - Common Shares|G|N|N|100
 CYNO|Cynosure, Inc. - Class A Common Stock|Q|N|N|100
 CYOU|Changyou.com Limited - American Depositary Shares, each representing two Class A ordinary shares|Q|N|N|100
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100
+CYRX|CryoPort, Inc. - Common Stock|S|N|N|100
 CYTK|Cytokinetics, Incorporated - Common Stock|S|N|N|100
 CYTR|CytRx Corporation - Common Stock|S|N|N|100
 CYTX|Cytori Therapeutics Inc - Common Stock|G|N|D|100
@@ -1158,7 +1160,6 @@ GENC|Gencor Industries Inc. - Common Stock|G|N|N|100
 GENE|Genetic Technologies Ltd - American Depositary Shares representing 30 ordinary shares|S|N|N|100
 GEOS|Geospace Technologies Corporation - Common Stock|Q|N|N|100
 GERN|Geron Corporation - Common Stock|Q|N|N|100
-GEVA|Synageva BioPharma Corp. - Common Stock|Q|N|N|100
 GEVO|Gevo, Inc. - Common Stock|S|N|N|100
 GFED|Guaranty Federal Bancshares, Inc. - Common Stock|G|N|N|100
 GFN|General Finance Corporation - Common Stock|G|N|N|100
@@ -1628,6 +1629,7 @@ LNBB|LNB Bancorp, Inc. - Common Stock|G|N|N|100
 LNCE|Snyder's-Lance, Inc. - Common Stock|Q|N|N|100
 LNCO|Linn Co, LLC - Common Shares|Q|N|N|100
 LNDC|Landec Corporation - Common Stock|Q|N|N|100
+LNTH|Lantheus Holdings, Inc. - Common Stock|G|N|N|100
 LOAN|Manhattan Bridge Capital, Inc - Common Stock|S|N|N|100
 LOCM|Local Corporation - Common Stock|S|N|D|100
 LOCO|El Pollo Loco Holdings, Inc. - Common Stock|Q|N|N|100
@@ -2925,8 +2927,8 @@ WFBI|WashingtonFirst Bankshares Inc - Common Stock|S|N|N|100
 WFD|Westfield Financial, Inc. - Common Stock|Q|N|N|100
 WFM|Whole Foods Market, Inc. - Common Stock|Q|N|N|100
 WGBS|WaferGen Bio-systems, Inc. - Common Stock|S|N|N|100
-WHF|WhiteHorse Finance, Inc. - Common Stock|Q|N|N|100
-WHFBL|WhiteHorse Finance, Inc. - 6.50% Senior Notes due 2020|Q|N|N|100
+WHF|WhiteHorse Finance, Inc. - Common Stock|Q|N|D|100
+WHFBL|WhiteHorse Finance, Inc. - 6.50% Senior Notes due 2020|Q|N|D|100
 WHLM|Wilhelmina International, Inc. - Common Stock|S|N|N|100
 WHLR|Wheeler Real Estate Investment Trust, Inc. - Common Stock|S|N|N|100
 WHLRP|Wheeler Real Estate Investment Trust, Inc. - Preferred Stock|S|N|N|100
@@ -3033,4 +3035,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0623201521:32|||||
+File Creation Time: 0624201521:32|||||
