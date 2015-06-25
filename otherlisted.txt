@@ -234,7 +234,6 @@ AOA|iShares Core Aggressive Allocation ETF|P|AOA|Y|100|N|AOA
 AOD|Alpine Total Dynamic Dividend Fund Common Stock|N|AOD|N|100|N|AOD
 AOI|Alliance One International, Inc. Common Stock|N|AOI|N|100|N|AOI
 AOK|iShares Core Conservative Allocation ETF|P|AOK|Y|100|N|AOK
-AOL|AOL Inc. AOL Inc. Common Stock|N|AOL|N|100|N|AOL
 AOM|iShares Core Moderate Allocation ETF|P|AOM|Y|100|N|AOM
 AON|Aon plc Class A Ordinary Shares (UK)|N|AON|N|100|N|AON
 AOR|iShares Core Growth Allocation ETF|P|AOR|Y|100|N|AOR
@@ -986,7 +985,6 @@ CTL|CenturyLink, Inc. Common Stock|N|CTL|N|100|N|CTL
 CTLT|Catalent, Inc. Common Stock|N|CTLT|N|100|N|CTLT
 CTNN|iPath Pure Beta Cotton ETN|P|CTNN|N|100|N|CTNN
 CTO|Consolidated-Tomoka Land Co. Common Stock ($1.00 Par Value)|A|CTO|N|100|N|CTO
-CTP|CTPartners Executive Search Inc. Common Stock|A|CTP|N|100|N|CTP
 CTQ|Qwest Corporation 7.375% Notes due 2051|N|CTQ|N|100|N|CTQ
 CTR|ClearBridge Energy MLP Total Return Fund Inc. Common Stock|N|CTR|N|100|N|CTR
 CTS|CTS Corporation Common Stock|N|CTS|N|100|N|CTS
@@ -2721,6 +2719,7 @@ JPM$F|J P Morgan Chase & Co Depositary Shares, each representing 1/400th interes
 JPM$G|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA|N|JPMpG|N|100|N|JPM-G
 JPM.W|J P Morgan Chase & Co Warrant expiring October 28, 2018|N|JPM/WS|N|100|N|JPM+
 JPMV|iShares MSCI Japan Minimum Volatility ETF|P|JPMV|Y|100|N|JPMV
+JPN|Deutsche X-trackers Japan JPX-Nikkei 400 Equity ETF|P|JPN|Y|100|N|JPN
 JPNL|Direxion Daily Japan Bull 3X ETF|P|JPNL|Y|100|N|JPNL
 JPP|SPDR Russell/Nomura PRIME Japan ETF|P|JPP|Y|100|N|JPP
 JPS|Nuveen Quality Preferred Income Fund 2 Shares of Beneficial Interest|N|JPS|N|100|N|JPS
@@ -5148,8 +5147,9 @@ WRB$B|W.R. Berkley Corporation 5.625% Subordinated Debentures due 2053|N|WRBpB|N
 WRE|Washington Real Estate Investment Trust Common Stock|N|WRE|N|100|N|WRE
 WREI|Wilshire US REIT|P|WREI|Y|100|N|WREI
 WRI|Weingarten Realty Investors Common Stock|N|WRI|N|100|N|WRI
+WRK.V|Westrock Company Common Stock When Issued|N|WRKw|N|100|N|WRK#
 WRN|Western Copper and Gold Corporation Common Stock|A|WRN|N|100|N|WRN
-WRT|Winthrop Realty Trust 7.75% Senior Notes due 2022|N|WRT|N|100|N|WRT
+WRT|Winthrop Realty Trust 7.75% Senior Notes due 2022|N|WRT/CL|N|100|N|WRT*
 WSH|Willis Group Holdings Public Limited (Ireland) Common Stock|N|WSH|N|100|N|WSH
 WSM|Williams-Sonoma, Inc. Common Stock (DE)|N|WSM|N|100|N|WSM
 WSO|Watsco, Inc. Common Stock|N|WSO|N|100|N|WSO
@@ -5277,4 +5277,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0623201521:32||||||
+File Creation Time: 0624201521:32||||||
