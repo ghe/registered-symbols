@@ -162,7 +162,7 @@ AMTX|Aemetis, Inc - Common Stock|G|N|N|100
 AMWD|American Woodmark Corporation - Common Stock|Q|N|N|100
 AMZN|Amazon.com, Inc. - Common Stock|Q|N|N|100
 ANAC|Anacor Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-ANAD|ANADIGICS, Inc. - Common Stock|Q|N|N|100
+ANAD|ANADIGICS, Inc. - Common Stock|Q|N|D|100
 ANAT|American National Insurance Company - Common Stock|Q|N|N|100
 ANCB|Anchor Bancorp - Common Stock|G|N|N|100
 ANCI|American Caresource Holdings Inc - Common Stock|S|N|D|100
@@ -517,6 +517,7 @@ CERN|Cerner Corporation - Common Stock|Q|N|N|100
 CERS|Cerus Corporation - Common Stock|G|N|N|100
 CERU|Cerulean Pharma Inc. - Common Stock|G|N|N|100
 CETV|Central European Media Enterprises Ltd. - Class A Common Stock|Q|N|N|100
+CETX|Cemtrex Inc. - Common Stock|S|N|N|100
 CEVA|CEVA, Inc. - Common Stock|Q|N|N|100
 CFA|Compass EMP US 500 Volatility Weighted Index ETF|G|N|N|100
 CFBK|Central Federal Corporation - Common Stock|S|N|N|100
@@ -754,7 +755,6 @@ CYNA|Cynapsus Therapeutics Inc. - Common Shares|G|N|N|100
 CYNO|Cynosure, Inc. - Class A Common Stock|Q|N|N|100
 CYOU|Changyou.com Limited - American Depositary Shares, each representing two Class A ordinary shares|Q|N|N|100
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100
-CYRX|CryoPort, Inc. - Common Stock|S|N|N|100
 CYTK|Cytokinetics, Incorporated - Common Stock|S|N|N|100
 CYTR|CytRx Corporation - Common Stock|S|N|N|100
 CYTX|Cytori Therapeutics Inc - Common Stock|G|N|D|100
@@ -1544,7 +1544,7 @@ KMPH|KemPharm, Inc. - Common Stock|G|N|N|100
 KNDI|Kandi Technologies Group, Inc. - Common Stock|Q|N|N|100
 KONA|Kona Grill, Inc. - Common Stock|G|N|N|100
 KONE|Kingtone Wirelessinfo Solution Holding Ltd - American Depositary Shares|S|N|N|100
-KOOL|Cesca Therapeutics Inc. - Common Stock|S|N|H|100
+KOOL|Cesca Therapeutics Inc. - Common Stock|S|N|D|100
 KOPN|Kopin Corporation - Common Stock|Q|N|N|100
 KOSS|Koss Corporation - Common Stock|S|N|N|100
 KPTI|Karyopharm Therapeutics Inc. - Common Stock|Q|N|N|100
@@ -2951,6 +2951,7 @@ WLRHW|WL Ross Holding Corp. - Warrant|S|N|N|100
 WMAR|West Marine, Inc. - Common Stock|Q|N|N|100
 WMGI|Wright Medical Group, Inc. - Common Stock|Q|N|N|100
 WMGIZ|Wright Medical Group, Inc. - Contingent Value Right|G|N|N|100
+WNFM|Wayne Farms, Inc. - Class A Common Stock|Q|N|N|100
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100
 WOOF|VCA Inc.  - Common Stock|Q|N|N|100
 WOWO|Wowo Limited - ADS|G|N|N|100
@@ -3035,4 +3036,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0624201521:32|||||
+File Creation Time: 0625201521:32|||||
