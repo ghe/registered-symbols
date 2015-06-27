@@ -1132,7 +1132,6 @@ DEW|WisdomTree Europe High-Yielding Equity Fund|P|DEW|Y|100|N|DEW
 DEX|Delaware Enhanced Global Dividend Common Shares of Beneficial Interest|N|DEX|N|100|N|DEX
 DF|Dean Foods Company Common Stock|N|DF|N|100|N|DF
 DFE|WisdomTree Europe SmallCap Dividend Fund|P|DFE|Y|100|N|DFE
-DFF|Bank of America Corporation MITTS Linked to the Dow Jones Industrial Average|P|DFF|N|100|N|DFF
 DFJ|WisdomTree Japan SmallCap Fund|P|DFJ|Y|100|N|DFJ
 DFP|Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock|N|DFP|N|100|N|DFP
 DFS|Discover Financial Services Common Stock|N|DFS|N|100|N|DFS
@@ -2315,11 +2314,9 @@ HUM|Humana Inc. Common Stock|N|HUM|N|100|N|HUM
 HUN|Huntsman Corporation Common Stock|N|HUN|N|100|N|HUN
 HUSA|Houston American Energy Corporation Common Stock|A|HUSA|N|100|N|HUSA
 HUSE|Huntington US Equity Rotation Strategy ETF|P|HUSE|Y|100|N|HUSE
-HUSI$D|HSBC USA, Inc. Preferred Stock|N|HUSIpD/CL|N|100|N|HUSI-D*
 HUSI$F|HSBC USA, Inc. Preferred Series F Floating Rate|N|HUSIpF|N|100|N|HUSI-F
 HUSI$G|HSBC USA, Inc. Dep Shs repstg 1/40 Preferred Series G|N|HUSIpG|N|100|N|HUSI-G
 HUSI$H|HSBC USA, Inc. Depositary Sh repstg 1/40th Preferred Series H|N|HUSIpH|N|100|N|HUSI-H
-HUSI$Z|HSBC USA, Inc. Preferred Stock|N|HUSIpZ/CL|N|100|N|HUSI-Z*
 HVB|Hudson Valley Holding Corp. Common Stock|N|HVB|N|100|N|HVB
 HVPW|U.S. Equity High Volatility Put Write Index Fund|P|HVPW|Y|100|N|HVPW
 HVT|Haverty Furniture Companies, Inc. Common Stock|N|HVT|N|100|N|HVT
@@ -3006,7 +3003,6 @@ MCI|Babson Capital Corporate Investors Common Stock|N|MCI|N|100|N|MCI
 MCK|McKesson Corporation Common Stock|N|MCK|N|100|N|MCK
 MCN|Madison Covered Call & Equity Strategy Fund Common Stock|N|MCN|N|100|N|MCN
 MCO|Moody's Corporation Common Stock|N|MCO|N|100|N|MCO
-MCP|Molycorp, Inc Common Stock|N|MCP|N|100|N|MCP
 MCQ|Medley Capital Corporation 7.125% Senior Notes due 2019|N|MCQ|N|100|N|MCQ
 MCR|MFS Charter Income Trust Common Stock|N|MCR|N|100|N|MCR
 MCRN|Milacron Holdings Corp. Common Stock|N|MCRN|N|100|N|MCRN
@@ -4649,6 +4645,7 @@ THQ|Tekla Healthcare Opportunies Fund Shares of Beneficial Interest|N|THQ|N|100|
 THR|Thermon Group Holdings, Inc. Common Stock|N|THR|N|100|N|THR
 THRK|SPDR Russell 3000 ETF|P|THRK|Y|100|N|THRK
 THS|Treehouse Foods, Inc. Common Stock|N|THS|N|100|N|THS
+THW|Tekla World Healthcare Fund Shares of Beneficial Interest|N|THW|N|100|N|THW
 TI|Telecom Italia S.P.A. New|N|TI|N|100|N|TI
 TI.A|Telecom Italia S.P.A. New|N|TI/A|N|100|N|TI.A
 TIF|Tiffany & Co. Common Stock|N|TIF|N|100|N|TIF
@@ -5230,6 +5227,7 @@ XSOE|WisdomTree Emerging Markets Ex-State Owned Enterprises Fund|P|XSOE|Y|100|N|
 XSW|SPDR S&P Software & Services ETF|P|XSW|Y|100|N|XSW
 XT|iShares Exponential Technologies ETF|P|XT|Y|100|N|XT
 XTL|SPDR S&P Telecom ETF|P|XTL|Y|100|N|XTL
+XTLY|Xactly Corporation Common Stock|N|XTLY|N|100|N|XTLY
 XTN|SPDR S&P Transportation ETF|P|XTN|Y|100|N|XTN
 XUE|Xueda Education Group American Depositary Shares, each representing two Ordinary Shares, $0.0001 par value|N|XUE|N|100|N|XUE
 XVIX|UBS AG Exchange Traded Access Securities (E-TRACS) Daily Long Short VIX ETN due November 30, 2040|P|XVIX|N|100|N|XVIX
@@ -5286,4 +5284,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0625201521:32||||||
+File Creation Time: 0626201521:32||||||
