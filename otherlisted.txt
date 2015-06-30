@@ -763,7 +763,6 @@ CFC$B|Countrywide Capital V (New) 7.00% Capital Securities|N|CFCpB|N|100|N|CFC-B
 CFD|Nuveen Diversified Commodity Fund Common Units of Beneficial Interest|A|CFD|N|100|N|CFD
 CFG|Citizens Financial Group, Inc. Common Stock|N|CFG|N|100|N|CFG
 CFI|Culp, Inc. Common Stock|N|CFI|N|100|N|CFI
-CFP|Cornerstone Progressive Return Fund Common Shares of beneficial interest|A|CFP|N|100|N|CFP
 CFR|Cullen/Frost Bankers, Inc. Common Stock|N|CFR|N|100|N|CFR
 CFR$A|Cullen/Frost Bankers, Inc. Perpetual Preferred Series A|N|CFRpA|N|100|N|CFR-A
 CFX|Colfax Corporation Common Stock|N|CFX|N|100|N|CFX
@@ -887,7 +886,6 @@ CNS|Cohn & Steers Inc Common Stock|N|CNS|N|100|N|CNS
 CNTR|PowerShares Contrarian Opportunities Portfolio|P|CNTR|Y|100|N|CNTR
 CNW|Con-Way, Inc. Common Stock|N|CNW|N|100|N|CNW
 CNX|CONSOL Energy Inc. Common Stock|N|CNX|N|100|N|CNX
-CNXC|CNX Coal Resources LP Common Units representing limited partner interests|N|CNXC|N|100|N|CNXC
 CNXT|Market Vectors ChinaAMC SME-ChNext ETF|P|CNXT|Y|100|N|CNXT
 CNY|Market Vectors Chinese Renminbi/USD ETN|P|CNY|N|100|N|CNY
 CO|China Cord Blood Corporation Common Stock|N|CO|N|100|N|CO
@@ -913,7 +911,6 @@ CORR$A|CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing
 COT|Cott Corporation Common Stock|N|COT|N|100|N|COT
 COTY|Coty Inc. Class A Common Stock|N|COTY|N|100|N|COTY
 COUP|Coupons.com Incorporated Common Stock|N|COUP|N|100|N|COUP
-COVR|Cover-All Technologies Inc. Common Stock|A|COVR|N|100|N|COVR
 COW|iPath Bloomberg Livestock Total Return Sub-Index ETN|P|COW|N|100|N|COW
 CP|Canadian Pacific Railway Limited Common Stock|N|CP|N|100|N|CP
 CPA|Copa Holdings, S.A. Copa Holdings, S.A. Class A Common Stock|N|CPA|N|100|N|CPA
@@ -1918,7 +1915,6 @@ GCC|GreenHaven Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
 GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
 GCH|Aberdeen Greater China Fund, Inc. Common Stock|N|GCH|N|100|N|GCH
 GCI|Gannett Co., Inc. Common Stock|N|GCI|N|100|N|GCI
-GCI.V|Gannett Co., Inc. Common Stock When Issued|N|GCIw|N|100|N|GCI#
 GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
 GCV|Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock|N|GCV|N|100|N|GCV
 GCV$B|Gabelli Convertible and Income Securities Fund, Inc. (The) Series B 6.00% Cumulative Preferred Stock|N|GCVpB|N|100|N|GCV-B
@@ -3104,6 +3100,7 @@ MITT$B|AG Mortgage Investment Trust, Inc. Preferred Series B|N|MITTpB|N|100|N|MI
 MIW|Eaton Vance Michigan Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value|A|MIW|N|100|N|MIW
 MIXT|MiX Telematics Limited American Depositary Shares, each representing 25 Ordinary Shares|N|MIXT|N|100|N|MIXT
 MIY|Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock|N|MIY|N|100|N|MIY
+MJCO|Majesco Common Stock|A|MJCO|N|100|N|MJCO
 MJN|Mead Johnson Nutrition Company Common Stock|N|MJN|N|100|N|MJN
 MKC|McCormick & Company, Incorporated Common Stock|N|MKC|N|100|N|MKC
 MKC.V|McCormick & Company, Incorporated Common Stock|N|MKC/V|N|100|N|MKC.V
@@ -3178,7 +3175,6 @@ MR|Mindray Medical International Limited Sponsored ADR representing Class A shar
 MRC|MRC Global Inc. Common Stock|N|MRC|N|100|N|MRC
 MRGR|ProShares Merger ETF|Z|MRGR|Y|100|N|MRGR
 MRH|Montpelier Re Holdings Ltd.|N|MRH|N|100|N|MRH
-MRH$A|Montpelier RE Holdings Ltd Non Cumulative Series A Preferred Shares (Bermuda)|N|MRHpA/CL|N|100|N|MRH-A*
 MRIN|Marin Software Incorporated Common Stock|N|MRIN|N|100|N|MRIN
 MRK|Merck & Company, Inc. Common Stock (new)|N|MRK|N|100|N|MRK
 MRO|Marathon Oil Corporation Common Stock|N|MRO|N|100|N|MRO
@@ -4431,7 +4427,6 @@ SQNS|Sequans Communications S.A. American Depositary Shares, each representing o
 SRC|Spirit Realty Capital, Inc. Common Stock|N|SRC|N|100|N|SRC
 SRE|Sempra Energy Common Stock|N|SRE|N|100|N|SRE
 SRF|The Cushing Royalty & Income Fund Common Shares of Beneficial Interest|N|SRF|N|100|N|SRF
-SRG.R|Seritage Growth Partners Rights (Expiring July 2, 2015)|N|SRGr|N|100|N|SRG^
 SRI|Stoneridge, Inc. Common Stock|N|SRI|N|100|N|SRI
 SRLN|SPDR Blackstone GSO Senior Loan ETF|P|SRLN|Y|100|N|SRLN
 SRLP|Sprague Resources LP Common Units representing Limited Partner Interests|N|SRLP|N|100|N|SRLP
@@ -4508,7 +4503,6 @@ SUM|Summit Materials, Inc. Class A Common Stock|N|SUM|N|100|N|SUM
 SUN|Sunoco LP Common Units representing limited partner interests|N|SUN|N|100|N|SUN
 SUNE|SunEdison, Inc. Common Stock|N|SUNE|N|100|N|SUNE
 SUP|Superior Industries International, Inc. Common Stock (DE)|N|SUP|N|100|N|SUP
-SVBL|Silver Bull Resources, Inc Common Stock|A|SVBL|N|100|N|SVBL
 SVLC|SilverCrest Mines, Inc. Ordinary Shares (Canada)|A|SVLC|N|100|N|SVLC
 SVM|Silvercorp Metals Inc Ordinary Shares (Canada)|N|SVM|N|100|N|SVM
 SVT|Servotronics, Inc. Common Stock|A|SVT|N|100|N|SVT
@@ -4630,7 +4624,7 @@ TGC|Tengasco, Inc. Common Stock|A|TGC|N|100|N|TGC
 TGD|Timmins Gold Corp Common Shares (Canada)|A|TGD|N|100|N|TGD
 TGH|Textainer Group Holdings Limited Common Shares|N|TGH|N|100|N|TGH
 TGI|Triumph Group, Inc. Common Stock|N|TGI|N|100|N|TGI
-TGNA.V|TEGNA Inc. Common Stock Ex-Distribution When Issued|N|TGNAw|N|100|N|TGNA#
+TGNA|TEGNA Inc|N|TGNA|N|100|N|TGNA
 TGP|Teekay LNG Partners L.P.|N|TGP|N|100|N|TGP
 TGS|Transportadora de Gas del Sur SA TGS Common Stock|N|TGS|N|100|N|TGS
 TGT|Target Corporation Common Stock|N|TGT|N|100|N|TGT
@@ -4778,7 +4772,7 @@ TVC|Tennessee Valley Authority Common Stock|N|TVC|N|100|N|TVC
 TVE|Tennessee Valley Authority|N|TVE|N|100|N|TVE
 TVPT|Travelport Worldwide Limited Common Shares|N|TVPT|N|100|N|TVPT
 TWC|Time Warner Cable Inc Common Stock|N|TWC|N|100|N|TWC
-TWI|Titan International, Inc. Common Stock|N|TWI|N|100|N|TWI
+TWI|Titan International, Inc. (DE) Common Stock|N|TWI|N|100|N|TWI
 TWM|ProShares UltraShort Russell2000|P|TWM|Y|100|N|TWM
 TWN|Taiwan Fund, Inc. (The) Common Stock|N|TWN|N|100|N|TWN
 TWO|Two Harbors Investment Corp|N|TWO|N|100|N|TWO
@@ -5263,14 +5257,13 @@ ZB$F|Zions Bancorporation Dep shs Repstg 1/40th Int Sh Ser F Fxd Rate Non Cum (P
 ZB$G|Zions Bancorporation Dep Shs Repstg 1/40th Perp Pfd Ser G|N|ZBpG|N|100|N|ZB-G
 ZB$H|Zions Bancorporation Dep Shs Repstg 1/40th Int Sh Ser H Perp Pfd Stk|N|ZBpH|N|100|N|ZB-H
 ZBB|ZBB Energy Corporation Common Stock|A|ZBB|N|100|N|ZBB
+ZBH|Zimmer Biomet Holdings, Inc. Common Stock|N|ZBH|N|100|N|ZBH
 ZBK|Zions Bancorporation 6.95% Fixed-to-Floating Rate Subordinated Notes due September 15, 2028|N|ZBK|N|100|N|ZBK
 ZBZX|BATS BZX Exchange test issue|Z|ZBZX|N|100|Y|ZBZX
 ZEN|Zendesk, Inc. Common Stock|N|ZEN|N|100|N|ZEN
-ZEP|Zep Inc. Common Stock|N|ZEP|N|100|N|ZEP
 ZF|Zweig Fund, Inc. (The) Common Stock|N|ZF|N|100|N|ZF
 ZFC|ZAIS Financial Corp. Common Stock|N|ZFC|N|100|N|ZFC
 ZLRG|ETFS Zacks Earnings Large-Cap U.S. Index Fund|P|ZLRG|Y|100|N|ZLRG
-ZMH|Zimmer Holdings, Inc. Common Stock|N|ZMH|N|100|N|ZMH
 ZMLP|Direxion Zacks MLP High Income Shares|P|ZMLP|Y|100|N|ZMLP
 ZNH|China Southern Airlines Company Limited Common Stock|N|ZNH|N|100|N|ZNH
 ZOES|Zoe's Kitchen, Inc. Common Stock|N|ZOES|N|100|N|ZOES
@@ -5284,4 +5277,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0626201521:32||||||
+File Creation Time: 0629201521:34||||||
