@@ -744,6 +744,7 @@ CWBC|Community West Bancshares - Common Stock|G|N|N|100
 CWCO|Consolidated Water Co. Ltd. - Ordinary Shares|Q|N|N|100
 CWST|Casella Waste Systems, Inc. - Class A Common Stock|Q|N|N|100
 CXDC|China XD Plastics Company Limited - Common Stock|G|N|N|100
+CXRX|Concordia Healthcare Corp. - Common Shares|Q|N|N|100
 CY|Cypress Semiconductor Corporation - Common Stock|Q|N|N|100
 CYAD|Celyad SA - American Depositary Shares|G|N|N|100
 CYAN|Cyanotech Corporation - Common Stock|S|N|N|100
@@ -943,7 +944,7 @@ ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
 ESCR|Escalera Resources Co. - Common Stock|Q|N|D|100
 ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|Q|N|N|100
-ESEA|Euroseas Ltd. - Common Stock|Q|N|D|100
+ESEA|Euroseas Ltd. - Common Stock|S|N|D|100
 ESES|Eco-Stim Energy Solutions, Inc. - Common Stock|S|N|N|100
 ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100
 ESIO|Electro Scientific Industries, Inc. - Common Stock|Q|N|N|100
@@ -3042,4 +3043,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0626201521:32|||||
+File Creation Time: 0629201521:34|||||
