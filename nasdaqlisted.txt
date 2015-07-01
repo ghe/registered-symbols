@@ -901,7 +901,7 @@ ELON|Echelon Corporation - Common Stock|Q|N|N|100
 ELOS|Syneron Medical Ltd. - Ordinary Shares|Q|N|N|100
 ELRC|Electro Rent Corporation - Common Stock|Q|N|N|100
 ELSE|Electro-Sensors, Inc. - Common Stock|S|N|N|100
-ELTK|Eltek Ltd. - Ordinary Shares|S|N|N|100
+ELTK|Eltek Ltd. - Ordinary Shares|S|N|D|100
 EMCB|WisdomTree Emerging Markets Corporate Bond Fund|G|N|N|100
 EMCF|Emclaire Financial Corp - Common Stock|S|N|N|100
 EMCG|WisdomTree Emerging Markets Consumer Growth Fund|G|N|N|100
@@ -3043,4 +3043,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0629201521:34|||||
+File Creation Time: 0630201521:32|||||
