@@ -1633,7 +1633,7 @@ EZA|iShares MSCI South Africa Index Fund|P|EZA|Y|100|N|EZA
 EZJ|ProShares Ultra MSCI Japan|P|EZJ|Y|100|N|EZJ
 EZM|WisdomTree MidCap Earnings Fund|P|EZM|Y|100|N|EZM
 EZT|Entergy Texas Inc First Mortgage Bonds 5.625% Series due June 1, 2064|N|EZT|N|100|N|EZT
-EZU|iShares MSCI EMU Index Fund|P|EZU|Y|100|N|EZU
+EZU|iShares MSCI Eurozone ETF|P|EZU|Y|100|N|EZU
 EZY|WisdomTree Low P/E Fund|P|EZY|Y|100|N|EZY
 F|Ford Motor Company Common Stock|N|F|N|100|N|F
 FAB|First Trust Multi Cap Value AlphaDEX Fund|P|FAB|Y|100|N|FAB
@@ -2195,7 +2195,7 @@ HES|Hess Corporation Common Stock|N|HES|N|100|N|HES
 HEVY|iPath Pure Beta Industrial Metals ETN|P|HEVY|N|100|N|HEVY
 HEWG|iShares Currency Hedged MSCI Germany ETF|P|HEWG|Y|100|N|HEWG
 HEWJ|iShares Currency Hedged MSCI Japan ETF|P|HEWJ|Y|100|N|HEWJ
-HEZU|iShares Trust iShares Currency Hedged MSCI EMU ETF|P|HEZU|Y|100|N|HEZU
+HEZU|iShares Currency Hedged MSCI Eurozone ETF|P|HEZU|Y|100|N|HEZU
 HF|HFF, Inc. Common Stock, Class A|N|HF|N|100|N|HF
 HFC|HollyFrontier Corporation Common Stock|N|HFC|N|100|N|HFC
 HFEZ|SPDR EURO STOXX 50 Currency Hedged ETF|P|HFEZ|Y|100|N|HFEZ
@@ -3669,7 +3669,6 @@ PFE|Pfizer, Inc. Common Stock|N|PFE|N|100|N|PFE
 PFEM|PowerShares Fundamental Emerging Markets Local Debt Portfolio|P|PFEM|Y|100|N|PFEM
 PFF|iShares US Preferred Stock ETF|P|PFF|Y|100|N|PFF
 PFG|Principal Financial Group Inc Common Stock|N|PFG|N|100|N|PFG
-PFG$B|Principal Financial Group, Inc. 6.518% Series B Non-Cumulative Perpetual Preferred Stock|N|PFGpB/CL|N|100|N|PFG-B*
 PFH|Cabco Tr Jcp 7.625 Common Stock|N|PFH|N|100|N|PFH
 PFI|PowerShares DWA Financial Momentum Portfolio|P|PFI|Y|100|N|PFI
 PFIG|PowerShares Fundamental Investment Grade Corporate Bond Portfolio ETF|P|PFIG|Y|100|N|PFIG
@@ -4601,7 +4600,6 @@ TE|TECO Energy, Inc. Common Stock|N|TE|N|100|N|TE
 TECL|Direxion Technology Bull 3X Shares|P|TECL|Y|100|N|TECL
 TECS|Direxion Technology Bear 3X Shares|P|TECS|Y|100|N|TECS
 TEF|Telefonica SA Common Stock|N|TEF|N|100|N|TEF
-TEG|Integrys Energy Group, Inc. Common Stock|N|TEG|N|100|N|TEG
 TEGP|Tallgrass Energy GP, LP Class A Shares Common Stock|N|TEGP|N|100|N|TEGP
 TEI|Templeton Emerging Markets Income Fund, Inc. Common Stock|N|TEI|N|100|N|TEI
 TEL|TE Connectivity Ltd. New Switzerland Registered Shares|N|TEL|N|100|N|TEL
@@ -4714,6 +4712,7 @@ TPS|ProShares UltraShort TIPS|P|TPS|Y|100|N|TPS
 TPUB|Tribune Publishing Company Common Stock|N|TPUB|N|100|N|TPUB
 TPVG|TriplePoint Venture Growth BDC Corp. Common Stock|N|TPVG|N|100|N|TPVG
 TPX|Tempur Sealy International, Inc. Common Stock|N|TPX|N|100|N|TPX
+TPYP|Tortoise North American Pipeline Fund ETF|P|TPYP|Y|100|N|TPYP
 TPZ|Tortoise Power and Energy Infrastructure Fund, Inc Common Stock|N|TPZ|N|100|N|TPZ
 TR|Tootsie Roll Industries, Inc. Common Stock|N|TR|N|100|N|TR
 TRC|Tejon Ranch Co Common Stock|N|TRC|N|100|N|TRC
@@ -5081,7 +5080,7 @@ WDR|Waddell & Reed Financial, Inc. Common Stock|N|WDR|N|100|N|WDR
 WDTI|WisdomTree Managed Futures Strategy Fund|P|WDTI|Y|100|N|WDTI
 WEA|Western Asset Bond Fund Share of Beneficial Interest|N|WEA|N|100|N|WEA
 WEAT|Teucrium Wheat Fund ETV|P|WEAT|Y|100|N|WEAT
-WEC|Wisconsin Energy Corporation Common Stock|N|WEC|N|100|N|WEC
+WEC|WEC Energy Group, Inc. Common Stock|N|WEC|N|100|N|WEC
 WEET|iPath Pure Beta Grains ETN|P|WEET|N|100|N|WEET
 WES|Western Gas Partners, LP Limited Partner Interests|N|WES|N|100|N|WES
 WEX|WEX Inc. common stock|N|WEX|N|100|N|WEX
@@ -5277,4 +5276,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0629201521:34||||||
+File Creation Time: 0630201521:32||||||
