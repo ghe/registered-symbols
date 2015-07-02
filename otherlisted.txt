@@ -396,7 +396,6 @@ BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th int
 BAP|Credicorp Ltd. Common Stock|N|BAP|N|100|N|BAP
 BAS|Basic Energy Services, Inc. Common Stock|N|BAS|N|100|N|BAS
 BAX|Baxter International Inc. Common Stock|N|BAX|N|100|N|BAX
-BAX.V|Baxter International Inc. Common Stock Ex-Distribution When Issued|N|BAXw|N|100|N|BAX#
 BBD|Banco Bradesco Sa American Depositary Shares|N|BBD|N|100|N|BBD
 BBDO|Banco Bradesco Sa American Depositary Shares (each representing one Common Share)|N|BBDO|N|100|N|BBDO
 BBF|BlackRock Municipal Income Investment Trust|N|BBF|N|100|N|BBF
@@ -516,7 +515,7 @@ BKN|BlackRock Investment Quality Municipal Trust Inc. (The)|N|BKN|N|100|N|BKN
 BKS|Barnes & Noble, Inc. Common Stock|N|BKS|N|100|N|BKS
 BKT|BlackRock Income Trust Inc. (The)|N|BKT|N|100|N|BKT
 BKU|BankUnited, Inc. Common Stock|N|BKU|N|100|N|BKU
-BLD.V|TopBuild Corp. Common Stock When Issued|N|BLDw|N|100|N|BLD#
+BLD|TopBuild Corp. Common Stock|N|BLD|N|100|N|BLD
 BLE|BlackRock Municipal Income Trust II|A|BLE|N|100|N|BLE
 BLH|Blackrock New York Municipal 2018 Term Trust|N|BLH|N|100|N|BLH
 BLJ|Blackrock New Jersey Municipal Bond Trust|A|BLJ|N|100|N|BLJ
@@ -634,20 +633,19 @@ BUNT|DB 3x German Bund Futures Exchange Traded Notes due March 31, 2021|P|BUNT|N
 BURL|Burlington Stores, Inc. Common Stock|N|BURL|N|100|N|BURL
 BVN|Buenaventura Mining Company Inc.|N|BVN|N|100|N|BVN
 BVX|Bovie Medical Corporation Common Stock|A|BVX|N|100|N|BVX
-BW.V|Babcock & Wilcox Enterprises, Inc. Common Stock When Issued|N|BWw|N|100|N|BW#
+BW|Babcock & Wilcox Enterprises, Inc. Common Stock|N|BW|N|100|N|BW
 BWA|BorgWarner Inc. Common Stock|N|BWA|N|100|N|BWA
-BWC|Babcock Common Stock|N|BWC|N|100|N|BWC
 BWG|Legg Mason BW Global Income Opportunities Fund Inc. Common Stock|N|BWG|N|100|N|BWG
 BWL.A|Bowl America, Inc. Class A Common Stock|A|BWL/A|N|100|N|BWL.A
 BWP|Boardwalk Pipeline Partners LP Common Units|N|BWP|N|100|N|BWP
 BWV|iPath Goldman Sachs Barclays Bank PLC iPath Exchange Traded Notes Linked to the CBOE S&P 500 BuyWrite Index Structured Product|P|BWV|N|100|N|BWV
 BWX|SPDR Barclays Intl Treasury Bd|P|BWX|Y|100|N|BWX
-BWXT.V|BWX Technologies, Inc. Common Stock Ex-Distribution When Issued|N|BWXTw|N|100|N|BWXT#
+BWXT|BWX Technologies, Inc. Common Stock|N|BWXT|N|100|N|BWXT
 BWZ|SPDR Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
 BX|The Blackstone Group L.P. Common Units Representing Limited Partnership Interests|N|BX|N|100|N|BX
 BXC|Bluelinx Holdings Inc. Common Stock|N|BXC|N|100|N|BXC
 BXE|Bellatrix Exploration Ltd Ordinary Shares (Canada)|N|BXE|N|100|N|BXE
-BXLT.V|Baxalta Incorporated Common Stock When Issued|N|BXLTw|N|100|N|BXLT#
+BXLT|Baxalta Incorporated Common Stock|N|BXLT|N|100|N|BXLT
 BXMT|Blackstone Mortgage Trust, Inc. Common Stock|N|BXMT|N|100|N|BXMT
 BXMX|Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest|N|BXMX|N|100|N|BXMX
 BXP|Boston Properties, Inc. Common Stock|N|BXP|N|100|N|BXP
@@ -672,7 +670,7 @@ C$P|Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser AA|N|CpP|N|100|N|C-P
 C.A|Citigroup Inc. Warrants Class A expiring January 4, 2019|N|C/WS/A|N|100|N|C+A
 C.B|Citigroup Inc. Class B Warant expiring October 28, 2018|N|C/WS/B|N|100|N|C+B
 CAB|Cabela's Inc Class A Common Stock|N|CAB|N|100|N|CAB
-CABO.V|Cable One, Inc. Common Stock When Issued|N|CABOw|N|100|N|CABO#
+CABO|Cable One, Inc. Common Stock|N|CABO|N|100|N|CABO
 CACI|CACI International, Inc. Class A Common Stock|N|CACI|N|100|N|CACI
 CAE|CAE Inc. Ordinary Shares|N|CAE|N|100|N|CAE
 CAF|Morgan Stanley China A Share Fund Inc. Common Stock|N|CAF|N|100|N|CAF
@@ -715,7 +713,7 @@ CBT|Cabot Corporation Common Stock|N|CBT|N|100|N|CBT
 CBU|Community Bank System, Inc. Common Stock|N|CBU|N|100|N|CBU
 CBX|CBX (Listing Market NYSE Networks AE) Common Stock|N|CBX|N|100|Y|CBX
 CBZ|CBIZ, Inc. Common Stock|N|CBZ|N|100|N|CBZ
-CC.V|Chemours Company (The) Common Stock When Issued|N|CCw|N|100|N|CC#
+CC|Chemours Company (The) Common Stock|N|CC|N|100|N|CC
 CCA|MFS California Municipal Fund Common Shares of Beneficial Interest|A|CCA|N|100|N|CCA
 CCC|Calgon Carbon Corporation Common Stock|N|CCC|N|100|N|CCC
 CCE|Coca-Cola Enterprises, Inc. Common Stock|N|CCE|N|100|N|CCE
@@ -886,6 +884,7 @@ CNS|Cohn & Steers Inc Common Stock|N|CNS|N|100|N|CNS
 CNTR|PowerShares Contrarian Opportunities Portfolio|P|CNTR|Y|100|N|CNTR
 CNW|Con-Way, Inc. Common Stock|N|CNW|N|100|N|CNW
 CNX|CONSOL Energy Inc. Common Stock|N|CNX|N|100|N|CNX
+CNXC|CNX Coal Resources LP Common Units representing limited partner interests|N|CNXC|N|100|N|CNXC
 CNXT|Market Vectors ChinaAMC SME-ChNext ETF|P|CNXT|Y|100|N|CNXT
 CNY|Market Vectors Chinese Renminbi/USD ETN|P|CNY|N|100|N|CNY
 CO|China Cord Blood Corporation Common Stock|N|CO|N|100|N|CO
@@ -1100,7 +1099,6 @@ DCUC|Dominion Resources, Inc. VA New 2014 Series A Corp Unit|N|DCUC|N|100|N|DCUC
 DD|E.I. du Pont de Nemours and Company Common Stock|N|DD|N|100|N|DD
 DD$A|E.I. du Pont de Nemours and Company Preferred Stock|N|DDpA|N|100|N|DD-A
 DD$B|E.I. du Pont de Nemours and Company Preferred Stock|N|DDpB|N|100|N|DD-B
-DD.V|E.I. du Pont de Nemours and Company Common Stock Ex-Distribution When Issued|N|DDw|N|100|N|DD#
 DDC|Dominion Diamond Corporation Common Stock|N|DDC|N|100|N|DDC
 DDD|3D Systems Corporation Common Stock|N|DDD|N|100|N|DDD
 DDE|Dover Downs Gaming & Entertainment Inc Common Stock|N|DDE|N|100|N|DDE
@@ -1223,7 +1221,6 @@ DPW|Digital Power Corporation Common Stock|A|DPW|N|100|N|DPW
 DPZ|Domino's Pizza Inc Common Stock|N|DPZ|N|100|N|DPZ
 DQ|DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares|N|DQ|N|100|N|DQ
 DRA|Diversified Real Asset Income Fund Common Shares of Beneficial Interest|N|DRA|N|100|N|DRA
-DRC|Dresser-Rand Group Inc. Common Stock|N|DRC|N|100|N|DRC
 DRD|DRDGOLD Limited American Depositary Shares|N|DRD|N|100|N|DRD
 DRE|Duke Realty Corporation Common Stock|N|DRE|N|100|N|DRE
 DRGS|RBS Global Big Pharma Exchange Traded Note|P|DRGS|N|100|N|DRGS
@@ -1447,12 +1444,11 @@ ENH$A|Endurance Specialty Holdings Ltd Preferred Series A|N|ENHpA|N|100|N|ENH-A
 ENH$B|Endurance Specialty Holdings Ltd PFD SER B (Bermuda)|N|ENHpB|N|100|N|ENH-B
 ENI|Enersis S A Common Stock|N|ENI|N|100|N|ENI
 ENJ|Entergy New Orleans, Inc. First Mortgage Bonds, 5.0% Series due December 1, 2052|N|ENJ|N|100|N|ENJ
-ENL|Reed Elsevier NV American Depositary Shares|N|ENL|N|100|N|ENL
+ENL|Reed Elsevier NV American Depositary Shares (Each representing One Ordinary Share)|N|ENL|N|100|N|ENL
 ENLC|EnLink Midstream, LLC Common Units representing Limited Partner Interests|N|ENLC|N|100|N|ENLC
 ENLK|EnLink Midstream Partners, LP Common Units Representing Limited Partnership Interests|N|ENLK|N|100|N|ENLK
 ENOR|Ishares MSCI Norway Capped ETF|Z|ENOR|Y|100|N|ENOR
 ENR|Energizer Holdings, Inc. Common Stock|N|ENR|N|100|N|ENR
-ENR.V|Energizer Holdings, Inc. Common Stock When Issued|N|ENRw|N|100|N|ENR#
 ENRJ|EnerJex Resources, Inc. (NEW) Common Stock|A|ENRJ|N|100|N|ENRJ
 ENRJ$|EnerJex Resources, Inc. 10% Series A Cumulative Redeemable Perpetual Preferred Stock|A|ENRJp|N|100|N|ENRJ-
 ENS|Enersys Common Stock|N|ENS|N|100|N|ENS
@@ -1472,7 +1468,7 @@ EOT|Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNIT
 EOX|Emerald Oil, Inc. Common Stock|A|EOX|N|100|N|EOX
 EP$C|El Paso Corporation Preferred Stock|N|EPpC|N|100|N|EP-C
 EPAM|EPAM Systems, Inc. Common Stock|N|EPAM|N|100|N|EPAM
-EPC.V|Edgewell Personal Care Company Common Stock Ex-Distribution When Issued|N|EPCw|N|100|N|EPC#
+EPC|Edgewell Personal Care Company Common Stock|N|EPC|N|100|N|EPC
 EPD|Enterprise Products Partners L.P. Common Stock|N|EPD|N|100|N|EPD
 EPE|EP Energy Corporation Class A Common Stock|N|EPE|N|100|N|EPE
 EPHE|iShares MSCI Philippines ETF|P|EPHE|Y|100|N|EPHE
@@ -1970,7 +1966,6 @@ GGT|Gabelli Multi-Media Trust, Inc. (The) Common Stock|N|GGT|N|100|N|GGT
 GGT$B|Gabelli Multi-Media Trust, Inc. (The) Preferred Series B|N|GGTpB|N|100|N|GGT-B
 GGZ|Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest|N|GGZ|N|100|N|GGZ
 GHC|Graham Holdings Company Common Stock|N|GHC|N|100|N|GHC
-GHC.V|Graham Holdings Company Class B Common Stock Ex-Distribution When Issued|N|GHCw|N|100|N|GHC#
 GHI|Global High Income Fund, Inc. Common Stock|N|GHI|N|100|N|GHI
 GHII|Guggenheim S&P High Income Infrastructure ETF|P|GHII|Y|100|N|GHII
 GHL|Greenhill & Co., Inc. Common Stock|N|GHL|N|100|N|GHL
@@ -2149,12 +2144,15 @@ GYLD|Arrow Dow Jones Global Yield ETF ETF|P|GYLD|Y|100|N|GYLD
 GZT|Gazit-Globe Ltd. Ordinary Shares|N|GZT|N|100|N|GZT
 H|Hyatt Hotels Corporation Class A Common Stock|N|H|N|100|N|H
 HACK|PureFunds ISE Cyber Security ETF|P|HACK|Y|100|N|HACK
+HACW|iShares Currency Hedged MSCI ACWI ETF|P|HACW|Y|100|N|HACW
 HAE|Haemonetics Corporation Common Stock|N|HAE|N|100|N|HAE
 HAL|Halliburton Company Common Stock|N|HAL|N|100|N|HAL
 HAO|Guggenheim China Small Cap Index ETF|P|HAO|Y|100|N|HAO
 HAP|Market Vectors Natural Resources ETF|P|HAP|Y|100|N|HAP
 HAR|Harman International Industries, Incorporated Common Stock|N|HAR|N|100|N|HAR
 HASI|Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock|N|HASI|N|100|N|HASI
+HAUD|iShares Currency Hedged MSCI Australia ETF|P|HAUD|Y|100|N|HAUD
+HAWX|iShares Currency Hedged MSCI ACWI ex U.S. ETF|P|HAWX|Y|100|N|HAWX
 HBI|Hanesbrands Inc. Common Stock|N|HBI|N|100|N|HBI
 HBM|Hudbay Minerals Inc Ordinary Shares (Canada)|N|HBM|N|100|N|HBM
 HBM.W|HudBay Minerals Inc Warrants Expiring 07/20/2018 (Canada)|N|HBM/WS|N|100|N|HBM+
@@ -2193,8 +2191,15 @@ HEP|Holly Energy Partners, L.P. Common Stock|N|HEP|N|100|N|HEP
 HEQ|John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest|N|HEQ|N|100|N|HEQ
 HES|Hess Corporation Common Stock|N|HES|N|100|N|HES
 HEVY|iPath Pure Beta Industrial Metals ETN|P|HEVY|N|100|N|HEVY
+HEWC|iShares Currency Hedged MSCI Canada ETF|P|HEWC|Y|100|N|HEWC
 HEWG|iShares Currency Hedged MSCI Germany ETF|P|HEWG|Y|100|N|HEWG
+HEWI|iShares Currency Hedged MSCI Italy ETF|P|HEWI|Y|100|N|HEWI
 HEWJ|iShares Currency Hedged MSCI Japan ETF|P|HEWJ|Y|100|N|HEWJ
+HEWL|iShares Currency Hedged MSCI Switzerland ETF|P|HEWL|Y|100|N|HEWL
+HEWP|iShares Currency Hedged MSCI Spain|P|HEWP|Y|100|N|HEWP
+HEWU|iShares Currency Hedged MSCI United Kingdom ETF|P|HEWU|Y|100|N|HEWU
+HEWW|iShares Currency Hedged MSCI Mexico ETF|P|HEWW|Y|100|N|HEWW
+HEWY|iShares Currency Hedged MSCI South Korea ETF|P|HEWY|Y|100|N|HEWY
 HEZU|iShares Currency Hedged MSCI Eurozone ETF|P|HEZU|Y|100|N|HEZU
 HF|HFF, Inc. Common Stock, Class A|N|HF|N|100|N|HF
 HFC|HollyFrontier Corporation Common Stock|N|HFC|N|100|N|HFC
@@ -2278,6 +2283,7 @@ HRTG|Heritage Insurance Holdings, Inc. Common Stock|N|HRTG|N|100|N|HRTG
 HSBC|HSBC Holdings, plc. Common Stock|N|HSBC|N|100|N|HSBC
 HSBC$A|HSBC Holdings, plc. ADR SER A REP 1/40 PFD SER A|N|HSBCpA|N|100|N|HSBC-A
 HSC|Harsco Corporation Common Stock|N|HSC|N|100|N|HSC
+HSCZ|iShares Currency Hedged MSCI EAFE Small-Cap ETF|P|HSCZ|Y|100|N|HSCZ
 HSEA|HSBC Holdings, plc. Perpetual Sub Cap Secs|N|HSEA|N|100|N|HSEA
 HSEB|HSBC Holdings plc PERP SUB CAP SECS EXCH PREF SHS SER 2 (United Kingdom)|N|HSEB|N|100|N|HSEB
 HSFC$B|HSBC Finance Corp Dep. Shares reptsg 1/40 Preferred Series B|N|HSFCpB|N|100|N|HSFC-B
@@ -2313,7 +2319,6 @@ HUSE|Huntington US Equity Rotation Strategy ETF|P|HUSE|Y|100|N|HUSE
 HUSI$F|HSBC USA, Inc. Preferred Series F Floating Rate|N|HUSIpF|N|100|N|HUSI-F
 HUSI$G|HSBC USA, Inc. Dep Shs repstg 1/40 Preferred Series G|N|HUSIpG|N|100|N|HUSI-G
 HUSI$H|HSBC USA, Inc. Depositary Sh repstg 1/40th Preferred Series H|N|HUSIpH|N|100|N|HUSI-H
-HVB|Hudson Valley Holding Corp. Common Stock|N|HVB|N|100|N|HVB
 HVPW|U.S. Equity High Volatility Put Write Index Fund|P|HVPW|Y|100|N|HVPW
 HVT|Haverty Furniture Companies, Inc. Common Stock|N|HVT|N|100|N|HVT
 HVT.A|Haverty Furniture Companies, Inc. Common Stock|N|HVT/A|N|100|N|HVT.A
@@ -2335,7 +2340,7 @@ HYMB|SPDR Nuveen S&P High Yield Municipal Bond ETF|P|HYMB|Y|100|N|HYMB
 HYS|PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund|P|HYS|Y|100|N|HYS
 HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock|N|HYT|N|100|N|HYT
 HYXU|iShares Global ex USD High Yield Corporate Bond ETF|Z|HYXU|Y|100|N|HYXU
-HZN.V|Horizon Global Corporation Common Shares When Issued|N|HZNw|N|100|N|HZN#
+HZN|Horizon Global Corporation Common Shares|N|HZN|N|100|N|HZN
 HZO|MarineMax, Inc.  (FL) Common Stock|N|HZO|N|100|N|HZO
 I|Intelsat S.A. Common Shares|N|I|N|100|N|I
 I$A|Intelsat S.A. Series A mandatory convefrtible junior non-voting preferred shares|N|IpA|N|100|N|I-A
@@ -2872,6 +2877,7 @@ LBY|Libbey, Inc. Common Stock|A|LBY|N|100|N|LBY
 LC|LendingClub Corporation Common Stock|N|LC|N|100|N|LC
 LCI|Lannett Co Inc Common Stock|N|LCI|N|100|N|LCI
 LCM|Advent/Claymore Enhanced Growth & Income Fund Advent/Claymore Enhanced Growth & Income Fund Common Shares of Beneficial Interest|N|LCM|N|100|N|LCM
+LCRT|LoanCore Realty Trust, Inc. Common Stock|N|LCRT|N|100|N|LCRT
 LD|iPath Bloomberg Lead Subindex Total Return SM Index ETN|P|LD|N|100|N|LD
 LDF|Latin American Discovery Fund, Inc. (The) Common Stock|N|LDF|N|100|N|LDF
 LDL|Lydall, Inc. Common Stock|N|LDL|N|100|N|LDL
@@ -2979,7 +2985,6 @@ MAIN|Main Street Capital Corporation Common Stock|N|MAIN|N|100|N|MAIN
 MAN|ManpowerGroup Common Stock|N|MAN|N|100|N|MAN
 MANU|Manchester United Ltd. Class A Ordinary Shares|N|MANU|N|100|N|MANU
 MAS|Masco Corporation Common Stock|N|MAS|N|100|N|MAS
-MAS.V|Masco Corporation Common Stock Ex-Distribution When Issued|N|MASw|N|100|N|MAS#
 MATH|Meidell Tactical Advantage ETF|P|MATH|Y|100|N|MATH
 MATL|Direxion Daily Basic Materials Bull 3X Shares|P|MATL|Y|100|N|MATL
 MATX|Matson, Inc. Common Stock|N|MATX|N|100|N|MATX
@@ -3037,7 +3042,6 @@ MER$P|Merrill Lynch & Co., Inc. Merrill Lynch Capital Trust III 7.375% Trust Pre
 MES|Market Vectors Gulf States Index ETF|P|MES|Y|100|N|MES
 MET|MetLife, Inc. Common Stock|N|MET|N|100|N|MET
 MET$A|MetLife, Inc. Preferred Series A Floating Rate|N|METpA|N|100|N|MET-A
-MET$B|MetLife, Inc. Preferred Series B|N|METpB/CL|N|100|N|MET-B*
 MFA|MFA Financial, Inc.|N|MFA|N|100|N|MFA
 MFA$B|MFA Financial, Inc. Preferred Series B|N|MFApB|N|100|N|MFA-B
 MFC|Manulife Financial Corporation Common Stock|N|MFC|N|100|N|MFC
@@ -4122,7 +4126,7 @@ RTM|Guggenheim S&P 500 Equal Weight Materials ETF|P|RTM|Y|100|N|RTM
 RTN|Raytheon Company Common Stock|N|RTN|N|100|N|RTN
 RTR|RevenueShares ADR|P|RTR|Y|100|N|RTR
 RUBI|The Rubicon Project, Inc. Common Stock|N|RUBI|N|100|N|RUBI
-RUK|Reed Elsevier NV PLC New ADS|N|RUK|N|100|N|RUK
+RUK|Reed Elsevier PLC American Depositary Shares (Each representing One Ordinary Share)|N|RUK|N|100|N|RUK
 RUSL|Direxion Daily Russia Bull 3x Shares|P|RUSL|Y|100|N|RUSL
 RUSS|Direxion Daily Russia Bear 3x Shares|P|RUSS|Y|100|N|RUSS
 RVNU|Deutsche X-Trackers Municipal Infrastructure Revenue Bond ETF|P|RVNU|Y|100|N|RVNU
@@ -4330,11 +4334,13 @@ SKX|Skechers U.S.A., Inc. Common Stock|N|SKX|N|100|N|SKX
 SKY|Skyline Corporation Common Stock|A|SKY|N|100|N|SKY
 SLB|Schlumberger N.V. Common Stock|N|SLB|N|100|N|SLB
 SLCA|U.S. Silica Holdings, Inc. Common Stock|N|SLCA|N|100|N|SLCA
+SLDR|ALPS Sector Leaders ETF|P|SLDR|Y|100|N|SLDR
 SLF|Sun Life Financial Inc. Common Stock|N|SLF|N|100|N|SLF
 SLG|SL Green Realty Corporation Common Stock|N|SLG|N|100|N|SLG
 SLG$I|SL Green Realty Corporation Preferred Series I|N|SLGpI|N|100|N|SLG-I
 SLH|Solera Holdings, Inc. Solera Holdings, Inc. Common Stock|N|SLH|N|100|N|SLH
 SLI|SL Industries, Inc. Common Stock (DE)|A|SLI|N|100|N|SLI
+SLOW|ALPS Sector Low Volatility ETF|P|SLOW|Y|100|N|SLOW
 SLQD|iShares 0-5 Year Investment Grade Corporate Bond ETF|P|SLQD|Y|100|N|SLQD
 SLRA|Solar Capital Ltd. 6.75% Senior Notes due 2042|N|SLRA|N|100|N|SLRA
 SLTB|Scorpio Bulkers Inc. 7.50% Senior Notes due 2019|N|SLTB|N|100|N|SLTB
@@ -4591,6 +4597,7 @@ TDF|Templeton Dragon Fund, Inc. Common Stock|N|TDF|N|100|N|TDF
 TDG|Transdigm Group Incorporated Transdigm Group Inc. Common Stock|N|TDG|N|100|N|TDG
 TDI|Telephone and Data Systems, Inc. Sr Nt|N|TDI|N|100|N|TDI
 TDJ|Telephone and Data Systems, Inc. 7% Senior Notes due 2060|N|TDJ|N|100|N|TDJ
+TDOC|Teladoc, Inc. Common Stock|N|TDOC|N|100|N|TDOC
 TDS|Telephone and Data Systems, Inc. Common Shares|N|TDS|N|100|N|TDS
 TDTF|FlexShares iBoxx 5 Year Target Duration TIPS Index Fund|P|TDTF|Y|100|N|TDTF
 TDTT|FlexShares iBoxx 3 Year Target Duration TIPS Index Fund|P|TDTT|Y|100|N|TDTT
@@ -4825,6 +4832,7 @@ UDOW|ProShares UltraPro Dow30|P|UDOW|Y|100|N|UDOW
 UDR|UDR, Inc. Common Stock|N|UDR|N|100|N|UDR
 UE|Urban Edge Properties Common Shares of Beneficial Interest|N|UE|N|100|N|UE
 UEC|Uranium Energy Corp. Common Stock|A|UEC|N|100|N|UEC
+UFAB|Unique Fabricating, Inc. Common Stock|A|UFAB|N|100|N|UFAB
 UFI|Unifi, Inc. New Common Stock|N|UFI|N|100|N|UFI
 UFS|Domtar Corporation (NEW) Common Stock|N|UFS|N|100|N|UFS
 UGA|United States Gasoline Fund LP|P|UGA|Y|100|N|UGA
@@ -4850,7 +4858,7 @@ UMX|ProShares Ultra MSCI Mexico Capped IMI|P|UMX|Y|100|N|UMX
 UN|Unilever NV Common Stock|N|UN|N|100|N|UN
 UNF|Unifirst Corporation Common Stock|N|UNF|N|100|N|UNF
 UNG|United States Natural Gas Fund LP|P|UNG|Y|100|N|UNG
-UNH|UnitedHealth Group Incorporated Common Stock|N|UNH|N|100|N|UNH
+UNH|UnitedHealth Group Incorporated Common Stock (DE)|N|UNH|N|100|N|UNH
 UNL|United States 12 Month Natural Gas Fund|P|UNL|Y|100|N|UNL
 UNM|Unum Group Common Stock|N|UNM|N|100|N|UNM
 UNP|Union Pacific Corporation Common Stock|N|UNP|N|100|N|UNP
@@ -5276,4 +5284,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0630201521:32||||||
+File Creation Time: 0701201521:33||||||
