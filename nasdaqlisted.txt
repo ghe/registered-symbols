@@ -224,7 +224,7 @@ ASBB|ASB Bancorp, Inc. - Common Stock|G|N|N|100
 ASBI|Ameriana Bancorp - Common Stock|S|N|N|100
 ASCMA|Ascent Capital Group, Inc. - Series A Common Stock|Q|N|N|100
 ASEI|American Science and Engineering, Inc. - Common Stock|Q|N|N|100
-ASFI|Asta Funding, Inc. - Common Stock|Q|N|H|100
+ASFI|Asta Funding, Inc. - Common Stock|Q|N|D|100
 ASMB|Assembly Biosciences, Inc. - Common Stock|S|N|N|100
 ASMI|ASM International N.V. - Common Shares|Q|N|N|100
 ASML|ASML Holding N.V. - ADS represents 1 ordinary share|Q|N|N|100
@@ -298,7 +298,6 @@ BBEP|BreitBurn Energy Partners, L.P. - Common Units Representing Limited Partner
 BBEPP|BreitBurn Energy Partners, L.P. - 8.25% Series A Cumulative Redeemable Perpetual Preferred Units|Q|N|N|100
 BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|G|N|N|100
 BBLU|Blue Earth, Inc. - Common Stock|S|N|N|100
-BBNK|Bridge Capital Holdings - Common Stock|Q|N|N|100
 BBOX|Black Box Corporation - Common Stock|Q|N|N|100
 BBP|BioShares Biotechnology Products Fund|G|N|N|100
 BBRG|Bravo Brio Restaurant Group, Inc. - Common Stock|Q|N|N|100
@@ -471,7 +470,6 @@ CBAN|Colony Bankcorp, Inc. - Common Stock|G|N|N|100
 CBAY|CymaBay Therapeutics Inc. - Common Stock|S|N|N|100
 CBF|Capital Bank Financial Corp. - Class A Common Stock|Q|N|N|100
 CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100
-CBIN|Community Bank Shares of Indiana, Inc. - Common Stock|S|N|N|100
 CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|D|100
 CBMG|Cellular Biomedicine Group, Inc. - Common Stock|G|N|N|100
 CBMX|CombiMatrix Corporation - Common Stock|S|N|N|100
@@ -526,6 +524,7 @@ CFBK|Central Federal Corporation - Common Stock|S|N|N|100
 CFFI|C&F Financial Corporation - Common Stock|Q|N|N|100
 CFFN|Capitol Federal Financial, Inc. - Common Stock|Q|N|N|100
 CFGE|Calamos Focus Growth ETF|G|N|N|100
+CFMS|ConforMIS, Inc. - Common Stock|Q|N|N|100
 CFNB|California First National Bancorp - Common Stock|G|N|N|100
 CFNL|Cardinal Financial Corporation - Common Stock|Q|N|N|100
 CFO|Compass EMP US 500 Enhanced Volatility Weighted Index ETF|G|N|N|100
@@ -564,7 +563,6 @@ CHSCP|CHS Inc - 8%  Cumulative Redeemable Preferred Stock|Q|N|N|100
 CHTR|Charter Communications, Inc. - Class A Common Stock|Q|N|N|100
 CHUY|Chuy's Holdings, Inc. - Common Stock|Q|N|N|100
 CHW|Calamos Global Dynamic Income Fund - Common Stock|Q|N|N|100
-CHXF|WisdomTree China Dividend Ex-Financials Fund|G|N|N|100
 CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
 CIDM|Cinedigm Corp - Class A Common Stock|G|N|D|100
 CIFC|CIFC Corp. - Common Stock|S|N|N|100
@@ -745,6 +743,7 @@ CWCO|Consolidated Water Co. Ltd. - Ordinary Shares|Q|N|N|100
 CWST|Casella Waste Systems, Inc. - Class A Common Stock|Q|N|N|100
 CXDC|China XD Plastics Company Limited - Common Stock|G|N|N|100
 CXRX|Concordia Healthcare Corp. - Common Shares|Q|N|N|100
+CXSE|WisdomTree China ex-State-Owned Enterprises Fund|G|N|N|100
 CY|Cypress Semiconductor Corporation - Common Stock|Q|N|N|100
 CYAD|Celyad SA - American Depositary Shares|G|N|N|100
 CYAN|Cyanotech Corporation - Common Stock|S|N|N|100
@@ -1268,7 +1267,6 @@ HBIO|Harvard Bioscience, Inc. - Common Stock|G|N|N|100
 HBK|Hamilton Bancorp, Inc. - Common Stock|S|N|N|100
 HBMD|Howard Bancorp, Inc. - Common Stock|S|N|N|100
 HBNC|Horizon Bancorp (IN) - Common Stock|Q|N|N|100
-HBOS|Heritage Financial Group - Common Stock|Q|N|N|100
 HBP|Huttig Building Products, Inc. - Common Stock|S|N|N|100
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100
 HCAPL|Harvest Capital Credit Corporation - 7.00% Notes due 2020|G|N|N|100
@@ -1635,7 +1633,7 @@ LNCO|Linn Co, LLC - Common Shares|Q|N|N|100
 LNDC|Landec Corporation - Common Stock|Q|N|N|100
 LNTH|Lantheus Holdings, Inc. - Common Stock|G|N|N|100
 LOAN|Manhattan Bridge Capital, Inc - Common Stock|S|N|N|100
-LOCM|Local Corporation - Common Stock|S|N|D|100
+LOCM|Local Corporation - Common Stock|S|N|G|100
 LOCO|El Pollo Loco Holdings, Inc. - Common Stock|Q|N|N|100
 LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100
 LOGM|LogMein, Inc. - Common Stock|Q|N|N|100
@@ -2621,9 +2619,8 @@ SYRX|Sysorex Global Holding Corp. - Common Stock|S|N|N|100
 SYUT|Synutra International, Inc. - Common Stock|Q|N|N|100
 SZMK|Sizmek Inc. - Common Stock|Q|N|N|100
 SZYM|Solazyme, Inc. - Common Stock|Q|N|N|100
-TACO|Levy Acquisition Corp. - Common Stock|S|N|N|100
-TACOU|Levy Acquisition Corp. - Unit|S|N|N|100
-TACOW|Levy Acquisition Corp. - Warrants|S|N|N|100
+TACO|Del Taco Restaurants, Inc. - Common Stock|S|N|N|100
+TACOW|Del Taco Restaurants, Inc. - Warrants|S|N|N|100
 TACT|TransAct Technologies Incorporated - Common Stock|G|N|N|100
 TAIT|Taitron Components Incorporated - Class A Common Stock|S|N|N|100
 TANH|Tantech Holdings Ltd. - Common Stock|S|N|N|100
@@ -2721,7 +2718,6 @@ TROVW|TrovaGene, Inc. - Warrant|S|N|N|100
 TROW|T. Rowe Price Group, Inc. - Common Stock|Q|N|N|100
 TRS|TriMas Corporation - Common Stock|Q|N|N|100
 TRST|TrustCo Bank Corp NY - Common Stock|Q|N|N|100
-TRSVV|TriMas Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100
 TRTL|Terrapin 3 Acquisition Corporation - Class A Common Stock|S|N|N|100
 TRTLU|Terrapin 3 Acquisition Corporation - Units|S|N|N|100
 TRTLW|Terrapin 3 Acquisition Corporation - Warrants|S|N|N|100
@@ -2860,7 +2856,6 @@ VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100
 VKTX|Viking Therapeutics, Inc. - Common Stock|S|N|N|100
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|N|100
-VLYWW|Valley National Bancorp - Warrants 07/01/2015|S|N|N|100
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100
 VNDA|Vanda Pharmaceuticals Inc. - Common Stock|G|N|N|100
 VNET|21Vianet Group, Inc. - American Depositary Shares|Q|N|N|100
@@ -2964,7 +2959,7 @@ WOWO|Wowo Limited - ADS|G|N|N|100
 WPCS|WPCS International Incorporated - Common Stock|S|N|D|100
 WPPGY|WPP plc - American Depositary Shares each representing five Ordinary Shares|Q|N|N|100
 WPRT|Westport Innovations Inc - Ordinary Shares|Q|N|N|100
-WRES|Warren Resources, Inc. - Common Stock|Q|N|N|100
+WRES|Warren Resources, Inc. - Common Stock|Q|N|D|100
 WRLD|World Acceptance Corporation - Common Stock|Q|N|N|100
 WSBC|WesBanco, Inc. - Common Stock|Q|N|N|100
 WSBF|Waterstone Financial, Inc. - Common Stock|Q|N|N|100
@@ -3002,6 +2997,7 @@ XPLR|Xplore Technologies Corp - Common Stock|S|N|N|100
 XRAY|DENTSPLY International Inc. - Common Stock|Q|N|N|100
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100
 XXIA|Ixia - Common Stock|Q|N|N|100
+YCB|Your Community Bankshares, Inc. - Common Stock|S|N|N|100
 YDIV|First Trust International Multi-Asset Diversified Income Index Fund|G|N|N|100
 YDLE|Yodlee, Inc. - Common Stock|Q|N|N|100
 YECO|Yulong Eco-Materials Limited - Ordinary Shares|S|N|N|100
@@ -3043,4 +3039,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0630201521:32|||||
+File Creation Time: 0701201521:33|||||
