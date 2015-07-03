@@ -920,7 +920,7 @@ CPE$A|Callon Petroleum Company Preferred Shares Series A 10%|N|CPEpA|N|100|N|CPE
 CPER|United States Copper Index Fund ETV|P|CPER|Y|100|N|CPER
 CPF|Central Pacific Financial Corp New|N|CPF|N|100|N|CPF
 CPG|Crescent Point Energy Corporation Ordinary Shares (Canada)|N|CPG|N|100|N|CPG
-CPGX.V|Columbia Pipeline Group, Inc. Common Stock When Issued|N|CPGXw|N|100|N|CPGX#
+CPGX|Columbia Pipeline Group, Inc. Common Stock|N|CPGX|N|100|N|CPGX
 CPHI|China Pharma Holdings, Inc. Common Stock|A|CPHI|N|100|N|CPHI
 CPI|IQ Real Return ETF|P|CPI|Y|100|N|CPI
 CPK|Chesapeake Utilities Corporation Common Stock|N|CPK|N|100|N|CPK
@@ -1444,7 +1444,6 @@ ENH$A|Endurance Specialty Holdings Ltd Preferred Series A|N|ENHpA|N|100|N|ENH-A
 ENH$B|Endurance Specialty Holdings Ltd PFD SER B (Bermuda)|N|ENHpB|N|100|N|ENH-B
 ENI|Enersis S A Common Stock|N|ENI|N|100|N|ENI
 ENJ|Entergy New Orleans, Inc. First Mortgage Bonds, 5.0% Series due December 1, 2052|N|ENJ|N|100|N|ENJ
-ENL|Reed Elsevier NV American Depositary Shares (Each representing One Ordinary Share)|N|ENL|N|100|N|ENL
 ENLC|EnLink Midstream, LLC Common Units representing Limited Partner Interests|N|ENLC|N|100|N|ENLC
 ENLK|EnLink Midstream Partners, LP Common Units Representing Limited Partnership Interests|N|ENLK|N|100|N|ENLK
 ENOR|Ishares MSCI Norway Capped ETF|Z|ENOR|Y|100|N|ENOR
@@ -3251,7 +3250,6 @@ MWE|MarkWest Energy Partners, LP Common units representing limited partnership u
 MWG|Morgan Stanley Cap Tr IV Gtd Cap Secs|N|MWG|N|100|N|MWG
 MWO|Morgan Stanley Cap Tr V Gtd Cap Secs|N|MWO|N|100|N|MWO
 MWR|Morgan Stanley Cap Tr III Capital Trust Securities|N|MWR|N|100|N|MWR
-MWV|Meadwestvaco Corporation Common Stock|N|MWV|N|100|N|MWV
 MWW|Monster Worldwide, Inc. Common Stock|N|MWW|N|100|N|MWW
 MX|MagnaChip Semiconductor Corporation Depositary Shares, each representing one share of common stock|N|MX|N|100|N|MX
 MXC|Mexco Energy Corporation Common Stock|A|MXC|N|100|N|MXC
@@ -3353,7 +3351,6 @@ NHF|NexPoint Credit Strategies Fund|N|NHF|N|100|N|NHF
 NHI|National Health Investors, Inc. Common Stock|N|NHI|N|100|N|NHI
 NHS|Neuberger Berman High Yield Strategies Fund|A|NHS|N|100|N|NHS
 NI|NiSource Inc Common Stock|N|NI|N|100|N|NI
-NI.V|NiSource, Inc Common Stock Ex-Distribution When Issued|N|NIw|N|100|N|NI#
 NIB|iPath Bloomberg Cocoa Subindex Total Return SM IndexETN|P|NIB|N|100|N|NIB
 NID|Nuveen Intermediate Duration Municipal Term Fund Common Shares of Beneficial Interest|N|NID|N|100|N|NID
 NIE|AllianzGI Equity & Convertible Income Fund|N|NIE|N|100|N|NIE
@@ -3995,10 +3992,12 @@ REG$G|Regency Centers Corporation Pfd Ser 7%|N|REGpG|N|100|N|REG-G
 REGL|ProShares S&P MidCap 400 Dividend Aristocrats ETF|P|REGL|Y|100|N|REGL
 REI|Ring Energy, Inc. Common Stock|A|REI|N|100|N|REI
 REK|ProShares Short Real Estate|P|REK|Y|100|N|REK
+RELX|RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)|N|RELX|N|100|N|RELX
 REM|iShares Mortgage Real Estate Capped ETF|P|REM|Y|100|N|REM
 REMX|Market Vectors Rare Earth Strategic Metals ETF|P|REMX|Y|100|N|REMX
 REN|Resolute Energy Corporation Comon Stock|N|REN|N|100|N|REN
 RENN|Renren Inc. American Depositary Shares, each representing three Class A ordinary shares|N|RENN|N|100|N|RENN
+RENX|RELX N.V. American Depositary Shares (Each representing One Ordinary Share)|N|RENX|N|100|N|RENX
 RES|RPC, Inc. Common Stock|N|RES|N|100|N|RES
 RESI|Altisource Residential Corporation Common Stock|N|RESI|N|100|N|RESI
 RETL|Direxion Daily Retail Bull 3X Shares ETF|P|RETL|Y|100|N|RETL
@@ -4050,7 +4049,6 @@ RJF|Raymond James Financial, Inc. Common Stock|N|RJF|N|100|N|RJF
 RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product|P|RJI|N|100|N|RJI
 RJN|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Energy Total Return Structured Product|P|RJN|N|100|N|RJN
 RJZ|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Metals Total Return Structured Product|P|RJZ|N|100|N|RJZ
-RKT|Rock-Tenn Company Common Stock|N|RKT|N|100|N|RKT
 RKUS|Ruckus Wireless, Inc. Common Stock|N|RKUS|N|100|N|RKUS
 RL|Ralph Lauren Corporation Common Stock|N|RL|N|100|N|RL
 RLD|RealD Inc Common Stock|N|RLD|N|100|N|RLD
@@ -4126,7 +4124,6 @@ RTM|Guggenheim S&P 500 Equal Weight Materials ETF|P|RTM|Y|100|N|RTM
 RTN|Raytheon Company Common Stock|N|RTN|N|100|N|RTN
 RTR|RevenueShares ADR|P|RTR|Y|100|N|RTR
 RUBI|The Rubicon Project, Inc. Common Stock|N|RUBI|N|100|N|RUBI
-RUK|Reed Elsevier PLC American Depositary Shares (Each representing One Ordinary Share)|N|RUK|N|100|N|RUK
 RUSL|Direxion Daily Russia Bull 3x Shares|P|RUSL|Y|100|N|RUSL
 RUSS|Direxion Daily Russia Bear 3x Shares|P|RUSS|Y|100|N|RUSS
 RVNU|Deutsche X-Trackers Municipal Infrastructure Revenue Bond ETF|P|RVNU|Y|100|N|RVNU
@@ -5154,7 +5151,7 @@ WRB$B|W.R. Berkley Corporation 5.625% Subordinated Debentures due 2053|N|WRBpB|N
 WRE|Washington Real Estate Investment Trust Common Stock|N|WRE|N|100|N|WRE
 WREI|Wilshire US REIT|P|WREI|Y|100|N|WREI
 WRI|Weingarten Realty Investors Common Stock|N|WRI|N|100|N|WRI
-WRK.V|Westrock Company Common Stock When Issued|N|WRKw|N|100|N|WRK#
+WRK|Westrock Company Common Stock|N|WRK|N|100|N|WRK
 WRN|Western Copper and Gold Corporation Common Stock|A|WRN|N|100|N|WRN
 WRT|Winthrop Realty Trust 7.75% Senior Notes due 2022|N|WRT/CL|N|100|N|WRT*
 WSH|Willis Group Holdings Public Limited (Ireland) Common Stock|N|WSH|N|100|N|WSH
@@ -5284,4 +5281,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0701201521:33||||||
+File Creation Time: 0702201521:34||||||
