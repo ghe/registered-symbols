@@ -1,7 +1,7 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size
 AAIT|iShares MSCI All Country Asia Information Technology Index Fund|G|N|N|100
 AAL|American Airlines Group, Inc. - Common Stock|Q|N|N|100
-AAME|Atlantic American Corporation - Common Stock|G|N|D|100
+AAME|Atlantic American Corporation - Common Stock|G|N|N|100
 AAOI|Applied Optoelectronics, Inc. - Common Stock|G|N|N|100
 AAON|AAON, Inc. - Common Stock|Q|N|N|100
 AAPC|Atlantic Alliance Partnership Corp. - Ordinary Shares|S|N|N|100
@@ -57,7 +57,6 @@ ADI|Analog Devices, Inc. - Common Stock|Q|N|N|100
 ADMA|ADMA Biologics Inc - Common Stock|S|N|N|100
 ADMP|Adamis Pharmaceuticals Corporation - Common Stock|S|N|N|100
 ADMS|Adamas Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-ADNC|Audience, Inc. - Common Stock|Q|N|N|100
 ADP|Automatic Data Processing, Inc. - Common Stock|Q|N|N|100
 ADRA|BLDRS Asia 50 ADR Index Fund|G|N|N|100
 ADRD|BLDRS Developed Markets 100 ADR Index Fund|G|N|N|100
@@ -439,9 +438,9 @@ CALD|Callidus Software, Inc. - Common Stock|G|N|N|100
 CALI|China Auto Logistics Inc. - Common Stock|S|N|N|100
 CALL|magicJack VocalTec Ltd - Ordinary Shares|G|N|N|100
 CALM|Cal-Maine Foods, Inc. - Common Stock|Q|N|N|100
-CAMB|Cambridge Capital Acquisition Corporation - Common Stock|S|N|D|100
-CAMBU|Cambridge Capital Acquisition Corporation - Unit|S|N|D|100
-CAMBW|Cambridge Capital Acquisition Corporation - Warrant|S|N|D|100
+CAMB|Cambridge Capital Acquisition Corporation - Common Stock|S|N|N|100
+CAMBU|Cambridge Capital Acquisition Corporation - Unit|S|N|N|100
+CAMBW|Cambridge Capital Acquisition Corporation - Warrant|S|N|N|100
 CAMP|CalAmp Corp. - Common Stock|Q|N|N|100
 CAMT|Camtek Ltd. - Ordinary Shares|G|N|N|100
 CAPN|Capnia, Inc. - Common Stock|S|N|N|100
@@ -812,7 +811,6 @@ DMRC|Digimarc Corporation - Common Stock|Q|N|N|100
 DNBF|DNB Financial Corp - Common Stock|S|N|N|100
 DNKN|Dunkin' Brands Group, Inc. - Common Stock|Q|N|N|100
 DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100
-DOVR|Dover Saddlery, Inc. - Common Stock|S|N|N|100
 DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100
 DPRX|Dipexium Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 DRAD|Digirad Corporation - Common Stock|G|N|N|100
@@ -896,7 +894,7 @@ EIGI|Endurance International Group Holdings, Inc. - Common Stock|Q|N|N|100
 ELECU|Electrum Special Acquisition Corporation - Units|S|N|N|100
 ELGX|Endologix, Inc. - Common Stock|Q|N|N|100
 ELNK|EarthLink Holdings Corp. - Common Stock|Q|N|N|100
-ELON|Echelon Corporation - Common Stock|Q|N|N|100
+ELON|Echelon Corporation - Common Stock|Q|N|D|100
 ELOS|Syneron Medical Ltd. - Ordinary Shares|Q|N|N|100
 ELRC|Electro Rent Corporation - Common Stock|Q|N|N|100
 ELSE|Electro-Sensors, Inc. - Common Stock|S|N|N|100
@@ -1300,6 +1298,7 @@ HIIQ|Health Insurance Innovations, Inc. - Class A Common Stock|G|N|N|100
 HILL|Dot Hill Systems Corporation - Common Stock|G|N|N|100
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100
 HKTV|Hong Kong Television Network Limited - American Depositary Shares, each representing 20 Ordinary Shares|Q|N|N|100
+HLG|Hailiang Education Group Inc. - American Depositary Shares|G|N|N|100
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100
 HMHC|Houghton Mifflin Harcourt Company - Common Stock|Q|N|N|100
 HMIN|Homeinns Hotel Group - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
@@ -1358,7 +1357,6 @@ HYZD|WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fund|G|N|N|100
 HZNP|Horizon Pharma plc - common stock|Q|N|N|100
 IACI|IAC/InterActiveCorp - Common Stock|Q|N|N|100
 IART|Integra LifeSciences Holdings Corporation - Common Stock|Q|N|N|100
-IARTV|Integra LifeSciences Holdings Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100
 IBB|iShares Nasdaq Biotechnology Index Fund|G|N|N|100
 IBCP|Independent Bank Corporation - Common Stock|Q|N|N|100
 IBKC|IBERIABANK Corporation - Common Stock|Q|N|N|100
@@ -1393,7 +1391,6 @@ IFON|InfoSonics Corp - Common Stock|S|N|N|100
 IFV|First Trust Dorsey Wright International Focus 5 ETF|G|N|N|100
 IGLD|Internet Gold Golden Lines Ltd. - Ordinary Shares|Q|N|N|100
 IGOV|iShares S&P/Citigroup International Treasury Bond Fund|G|N|N|100
-IGTE|IGATE Corporation - Common Stock|Q|N|N|100
 III|Information Services Group, Inc. - Common Stock|G|N|N|100
 IIIN|Insteel Industries, Inc. - Common Stock|Q|N|N|100
 IIJI|Internet Initiative Japan, Inc. - ADS represents common stock|Q|N|N|100
@@ -1578,9 +1575,6 @@ LBIO|Lion Biotechnologies, Inc. - Common Stock|G|N|N|100
 LBIX|Leading Brands Inc - Common Shares|S|N|N|100
 LBRDA|Liberty Broadband Corporation - Class A Common Stock|Q|N|N|100
 LBRDK|Liberty Broadband Corporation - Class C Common Stock|Q|N|N|100
-LBTAV|Liberty Global plc - Class A Ordinary Shares Ex-Distribution When Issued|G|N|N|100
-LBTBV|Liberty Global plc - Class B Ordinary Shares Ex-distribution When Issued|G|N|N|100
-LBTKV|Liberty Global plc - Class C Ordinary Shares Ex-distribution When Issued|G|N|N|100
 LBTYA|Liberty Global plc - Class A Ordinary Shares|Q|N|N|100
 LBTYB|Liberty Global plc - Class B Ordinary Shares|Q|N|N|100
 LBTYK|Liberty Global plc - Class C Ordinary Shares|Q|N|N|100
@@ -1601,8 +1595,8 @@ LGIH|LGI Homes, Inc. - Common Stock|Q|N|N|100
 LGND|Ligand Pharmaceuticals Incorporated - Common Stock|G|N|N|100
 LHCG|LHC Group - common stock|Q|N|N|100
 LIFE|aTyr Pharma, Inc. - Common Stock|Q|N|N|100
-LILAV|Liberty Global plc - Class A Ordinary Shares When Issued|Q|N|N|100
-LILKV|Liberty Global plc - Class C Ordinary Shares When Issued|Q|N|N|100
+LILA|Liberty Global plc - Class A Ordinary Shares|Q|N|N|100
+LILAK|Liberty Global plc - Class C Ordinary Shares|Q|N|N|100
 LIME|Lime Energy Co. - Common Stock|S|N|N|100
 LINC|Lincoln Educational Services Corporation - Common Stock|Q|N|N|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
@@ -1633,7 +1627,7 @@ LNCO|Linn Co, LLC - Common Shares|Q|N|N|100
 LNDC|Landec Corporation - Common Stock|Q|N|N|100
 LNTH|Lantheus Holdings, Inc. - Common Stock|G|N|N|100
 LOAN|Manhattan Bridge Capital, Inc - Common Stock|S|N|N|100
-LOCM|Local Corporation - Common Stock|S|N|G|100
+LOCM|Local Corporation - Common Stock|S|N|N|100
 LOCO|El Pollo Loco Holdings, Inc. - Common Stock|Q|N|N|100
 LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100
 LOGM|LogMein, Inc. - Common Stock|Q|N|N|100
@@ -1909,6 +1903,7 @@ NTGR|NETGEAR, Inc. - Common Stock|Q|N|N|100
 NTIC|Northern Technologies International Corporation - Common Stock|G|N|N|100
 NTK|Nortek Inc. - Common Stock|Q|N|N|100
 NTLS|NTELOS Holdings Corp. - Common Stock|Q|N|N|100
+NTRA|Natera, Inc. - Common Stock|Q|N|N|100
 NTRI|NutriSystem Inc - Common Stock|Q|N|N|100
 NTRS|Northern Trust Corporation - Common Stock|Q|N|N|100
 NTRSP|Northern Trust Corporation - Depository Shares|Q|N|N|100
@@ -2293,7 +2288,7 @@ REXI|Resource America, Inc. - Class A Common Stock|Q|N|N|100
 REXX|Rex Energy Corporation - Common Stock|Q|N|N|100
 RFIL|RF Industries, Ltd. - Common Stock|G|N|N|100
 RGCO|RGC Resources Inc. - Common Stock|G|N|N|100
-RGDX|Response Genetics, Inc. - Common Stock|S|N|D|100
+RGDX|Response Genetics, Inc. - Common Stock|S|N|N|100
 RGEN|Repligen Corporation - Common Stock|Q|N|N|100
 RGLD|Royal Gold, Inc. - Common Stock|Q|N|N|100
 RGLS|Regulus Therapeutics Inc. - Common Stock|G|N|N|100
@@ -2532,7 +2527,7 @@ SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100
 SPLK|Splunk Inc. - Common Stock|Q|N|N|100
 SPLS|Staples, Inc. - Common Stock|Q|N|N|100
 SPNC|The Spectranetics Corporation - Common Stock|Q|N|N|100
-SPNEV|SeaSpine Holdings Corporation - Common Stock When Issued|Q|N|N|100
+SPNE|SeaSpine Holdings Corporation - Common Stock|Q|N|N|100
 SPNS|Sapiens International Corporation N.V. - Common Shares|S|N|N|100
 SPOK|Spok Holdings, Inc. - Common Stock|Q|N|N|100
 SPPI|Spectrum Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -2904,7 +2899,6 @@ VWR|VWR Corporation - Common Stock|Q|N|N|100
 VXDN|AccuShares Spot CBOE VIX Down Shares|G|N|N|100
 VXUP|AccuShares Spot CBOE VIX Up Shares|G|N|N|100
 VXUS|Vanguard Total International Stock ETF|G|N|N|100
-VYFC|Valley Financial Corporation - Common Stock|S|N|N|100
 WABC|Westamerica Bancorporation - Common Stock|Q|N|N|100
 WAFD|Washington Federal, Inc. - Common Stock|Q|N|N|100
 WAFDW|Washington Federal, Inc. - Warrants 11/14/2018|Q|N|N|100
@@ -3039,4 +3033,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0701201521:33|||||
+File Creation Time: 0702201521:34|||||
