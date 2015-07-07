@@ -533,7 +533,7 @@ CFRXZ|ContraFect Corporation - Warrant|S|N|N|100
 CG|The Carlyle Group L.P. - Common Units|Q|N|N|100
 CGEN|Compugen Ltd. - Ordinary Shares|G|N|N|100
 CGIX|Cancer Genetics, Inc. - Common Stock|S|N|N|100
-CGNT|Cogentix Medical, Inc. - Common Stock|S|N|D|100
+CGNT|Cogentix Medical, Inc. - Common Stock|S|N|N|100
 CGNX|Cognex Corporation - Common Stock|Q|N|N|100
 CGO|Calamos Global Total Return Fund - Common Stock|Q|N|N|100
 CHCI|Comstock Holding Companies, Inc. - Class A Common Stock|S|N|D|100
@@ -858,6 +858,7 @@ EA|Electronic Arts Inc. - Common Stock|Q|N|N|100
 EAC|Erickson Incorporated - Common Stock|G|N|N|100
 EARS|Auris Medical Holding AG - Common Shares|G|N|N|100
 EBAY|eBay Inc. - Common Stock|Q|N|N|100
+EBAYV|eBay Inc. - Common Stock Ex-Distribution When Issued|Q|N|N|100
 EBIO|Eleven Biotherapeutics, Inc. - Common Stock|G|N|N|100
 EBIX|Ebix, Inc. - Common Stock|Q|N|N|100
 EBMT|Eagle Bancorp Montana, Inc. - Common Stock|G|N|N|100
@@ -1500,7 +1501,7 @@ JDSU|JDS Uniphase Corporation - Common Stock|Q|N|N|100
 JGBB|WisdomTree Japan Interest Rate Strategy Fund|G|N|N|100
 JIVE|Jive Software, Inc. - Common Stock|Q|N|N|100
 JJSF|J & J Snack Foods Corp. - Common Stock|Q|N|N|100
-JKHY|Jack Henry & Associates, Inc. - Common Stock|Q|N|E|100
+JKHY|Jack Henry & Associates, Inc. - Common Stock|Q|N|N|100
 JMBA|Jamba, Inc. - Common Stock|G|N|N|100
 JNP|Juniper Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 JOBS|51job, Inc. - American Depositary Shares, each representing two common shares|Q|N|N|100
@@ -1531,6 +1532,7 @@ KEYW|The KEYW Holding Corporation - Common Stock|Q|N|N|100
 KFFB|Kentucky First Federal Bancorp - Common Stock|G|N|N|100
 KFRC|Kforce, Inc. - Common Stock|Q|N|N|100
 KGJI|Kingold Jewelry Inc. - Common Stock|S|N|N|100
+KHC|The Kraft Heinz Company - Common Stock|Q|N|N|100
 KIN|Kindred Biosciences, Inc. - Common Stock|S|N|N|100
 KINS|Kingstone Companies, Inc - Common Stock|S|N|N|100
 KIRK|Kirkland's, Inc. - Common Stock|Q|N|N|100
@@ -1547,7 +1549,6 @@ KOOL|Cesca Therapeutics Inc. - Common Stock|S|N|D|100
 KOPN|Kopin Corporation - Common Stock|Q|N|N|100
 KOSS|Koss Corporation - Common Stock|S|N|N|100
 KPTI|Karyopharm Therapeutics Inc. - Common Stock|Q|N|N|100
-KRFT|Kraft Foods Group, Inc. - Common Stock|Q|N|N|100
 KRNT|Kornit Digital Ltd. - Ordinary Shares|Q|N|N|100
 KRNY|Kearny Financial - Common Stock|Q|N|N|100
 KTCC|Key Tronic Corporation - Common Stock|G|N|N|100
@@ -1627,7 +1628,6 @@ LNCO|Linn Co, LLC - Common Shares|Q|N|N|100
 LNDC|Landec Corporation - Common Stock|Q|N|N|100
 LNTH|Lantheus Holdings, Inc. - Common Stock|G|N|N|100
 LOAN|Manhattan Bridge Capital, Inc - Common Stock|S|N|N|100
-LOCM|Local Corporation - Common Stock|S|N|N|100
 LOCO|El Pollo Loco Holdings, Inc. - Common Stock|Q|N|N|100
 LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100
 LOGM|LogMein, Inc. - Common Stock|Q|N|N|100
@@ -2092,6 +2092,7 @@ PFMT|Performant Financial Corporation - Common Stock|Q|N|N|100
 PFPT|Proofpoint, Inc. - Common Stock|G|N|N|100
 PFSW|PFSweb, Inc. - Common Stock|S|N|N|100
 PGC|Peapack-Gladstone Financial Corporation - Common Stock|Q|N|N|100
+PGLC|Pershing Gold Corporation - Common Stock|G|N|N|100
 PGNX|Progenics Pharmaceuticals Inc. - Common Stock|Q|N|N|100
 PGTI|PGT, Inc. - Common Stock|G|N|N|100
 PHII|PHI, Inc. - Voting Common Stock|Q|N|N|100
@@ -2204,6 +2205,7 @@ PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
 PWRD|Perfect World Co., Ltd. - American Depositary Shares, each representing five Class B ordinary shares|Q|N|N|100
 PWX|Providence and Worcester Railroad Company - Common Stock|G|N|N|100
 PXLW|Pixelworks, Inc. - Common Stock|G|N|N|100
+PYPLV|PayPal Holdings, Inc. - Common Stock When Issued|Q|N|N|100
 PZZA|Papa John'S International, Inc. - Common Stock|Q|N|N|100
 QABA|First Trust NASDAQ ABA Community Bank Index Fund|G|N|N|100
 QADA|QAD Inc. - Class A Common Stock|Q|N|N|100
@@ -2288,7 +2290,6 @@ REXI|Resource America, Inc. - Class A Common Stock|Q|N|N|100
 REXX|Rex Energy Corporation - Common Stock|Q|N|N|100
 RFIL|RF Industries, Ltd. - Common Stock|G|N|N|100
 RGCO|RGC Resources Inc. - Common Stock|G|N|N|100
-RGDX|Response Genetics, Inc. - Common Stock|S|N|N|100
 RGEN|Repligen Corporation - Common Stock|Q|N|N|100
 RGLD|Royal Gold, Inc. - Common Stock|Q|N|N|100
 RGLS|Regulus Therapeutics Inc. - Common Stock|G|N|N|100
@@ -2601,6 +2602,7 @@ SWHC|Smith & Wesson Holding Corporation - Common Stock|Q|N|N|100
 SWIR|Sierra Wireless, Inc. - Common Stock|Q|N|N|100
 SWKS|Skyworks Solutions, Inc. - Common Stock|Q|N|N|100
 SWSH|Swisher Hygiene, Inc. - Common Stock|S|N|N|100
+SXCL|Steel Excel Inc. - Common Stock|G|N|N|100
 SYBT|Stock Yards Bancorp, Inc. - Common Stock|Q|N|N|100
 SYKE|Sykes Enterprises, Incorporated - Common Stock|Q|N|N|100
 SYMC|Symantec Corporation - Common Stock|Q|N|N|100
@@ -3033,4 +3035,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0702201521:34|||||
+File Creation Time: 0706201521:33|||||
