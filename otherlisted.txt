@@ -96,7 +96,7 @@ AGCO|AGCO Corporation Common Stock|N|AGCO|N|100|N|AGCO
 AGD|Alpine Global Dynamic Dividend Fund Shares of Beneficial Interest|N|AGD|N|100|N|AGD
 AGF|DB Agriculture Long ETN due April 1, 2038|P|AGF|N|100|N|AGF
 AGG|iShares Core U.S. Aggregate Bond ETF|P|AGG|Y|100|N|AGG
-AGI|Alamos Gold Inc Ordinary Shares|N|AGI|N|100|N|AGI
+AGI|Alamos Gold Inc. Class A Common Shares|N|AGI|N|100|N|AGI
 AGLS|Accuvest Global Long Short ETF|P|AGLS|Y|100|N|AGLS
 AGM|Federal Agricultural Mortgage Corporation Common Stock|N|AGM|N|100|N|AGM
 AGM$A|Federal Agricultural Mortgage Corporation 5.875% Non-CUmulative Preferred Stock, Series A|N|AGMpA|N|100|N|AGM-A
@@ -319,7 +319,6 @@ AU|AngloGold Ashanti Limited Common Stock|N|AU|N|100|N|AU
 AUMN|Golden Minerals Company Common Stock|A|AUMN|N|100|N|AUMN
 AUNZ|WisdomTree Australia New Zealand Debt Fund|P|AUNZ|Y|100|N|AUNZ
 AUO|AU Optronics Corp American Depositary Shares|N|AUO|N|100|N|AUO
-AUQ|AuRico Gold Inc. Ordinary Shares|N|AUQ|N|100|N|AUQ
 AUSE|WisdomTree Australia Dividend Index|P|AUSE|Y|100|N|AUSE
 AUY|Yamana Gold Inc. Ordinary Shares (Canada)|N|AUY|N|100|N|AUY
 AV|Aviva plc Unsponsored ADR (UK)|N|AV|N|100|N|AV
@@ -969,8 +968,6 @@ CSLS|Credit Suisse X-Links Long/Short Equity ETN|P|CSLS|N|100|N|CSLS
 CSLT|Castlight Health, Inc. Class B Common Stock|N|CSLT|N|100|N|CSLT
 CSM|ProShares Large Cap Core Plus|P|CSM|Y|100|N|CSM
 CSMA|Credit Suisse X-Links Merger Arbitrage ETN due October 6, 2020|P|CSMA|N|100|N|CSMA
-CSMB|Credit Suisse X-Links 2xLeveraged Merger Arbitrage ETN due March 13, 2031|P|CSMB|N|100|N|CSMB
-CSMN|Credit Suisse X-Links HOLT? Market Neutral Global Equity ETNs due September 22, 2031|P|CSMN|N|100|N|CSMN
 CSS|CSS Industries, Inc. Common Stock|N|CSS|N|100|N|CSS
 CST|CST Brands, Inc. Common Stock|N|CST|N|100|N|CST
 CSTM|Constellium N.V. Ordinary Shares|N|CSTM|N|100|N|CSTM
@@ -4429,6 +4426,7 @@ SQNS|Sequans Communications S.A. American Depositary Shares, each representing o
 SRC|Spirit Realty Capital, Inc. Common Stock|N|SRC|N|100|N|SRC
 SRE|Sempra Energy Common Stock|N|SRE|N|100|N|SRE
 SRF|The Cushing Royalty & Income Fund Common Shares of Beneficial Interest|N|SRF|N|100|N|SRF
+SRG|Seritage Growth Properties Class A Common Stock|N|SRG|N|100|N|SRG
 SRI|Stoneridge, Inc. Common Stock|N|SRI|N|100|N|SRI
 SRLN|SPDR Blackstone GSO Senior Loan ETF|P|SRLN|Y|100|N|SRLN
 SRLP|Sprague Resources LP Common Units representing Limited Partner Interests|N|SRLP|N|100|N|SRLP
@@ -4985,6 +4983,7 @@ VLT|Invesco High Income Trust II|N|VLT|N|100|N|VLT
 VLU|SPDR S&P 1500 Value Tilt ETF|P|VLU|Y|100|N|VLU
 VLUE|iShares MSCI USA Value Factor|P|VLUE|Y|100|N|VLUE
 VLY|Valley National Bancorp Common Stock|N|VLY|N|100|N|VLY
+VLY$A|Valley National Bancorp 6.25% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A, no par value per share|N|VLYpA|N|100|N|VLY-A
 VLY.W|Valley National Bancorp Warrants Expiring 11/14/2018|N|VLY/WS|N|100|N|VLY+
 VMC|Vulcan Materials Company (Holding Company) Common Stock|N|VMC|N|100|N|VMC
 VMEM|Violin Memory, Inc. Common Stock|N|VMEM|N|100|N|VMEM
@@ -5281,4 +5280,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0702201521:34||||||
+File Creation Time: 0706201521:33||||||
