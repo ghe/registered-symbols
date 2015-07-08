@@ -563,6 +563,7 @@ CHTR|Charter Communications, Inc. - Class A Common Stock|Q|N|N|100
 CHUY|Chuy's Holdings, Inc. - Common Stock|Q|N|N|100
 CHW|Calamos Global Dynamic Income Fund - Common Stock|Q|N|N|100
 CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
+CIBR|First Trust NASDAQ CEA Cybersecurity ETF|G|N|N|100
 CIDM|Cinedigm Corp - Class A Common Stock|G|N|D|100
 CIFC|CIFC Corp. - Common Stock|S|N|N|100
 CIGI|Colliers International Group Inc.  - Subordinate Voting Shares|Q|N|N|100
@@ -724,6 +725,7 @@ CTWS|Connecticut Water Service, Inc. - Common Stock|Q|N|N|100
 CTXS|Citrix Systems, Inc. - Common Stock|Q|N|N|100
 CU|First Trust ISE Global Copper Index Fund|G|N|N|100
 CUBA|The Herzfeld Caribbean Basin Fund, Inc. - Closed End FUnd|S|N|N|100
+CUBN|Commerce Union Bancshares, Inc. - Common Stock|S|N|N|100
 CUI|CUI Global, Inc. - Common Stock|S|N|N|100
 CUNB|CU Bancorp (CA) - Common Stock|S|N|N|100
 CUTR|Cutera, Inc. - Common Stock|Q|N|N|100
@@ -821,7 +823,7 @@ DRWI|DragonWave Inc - Common Shares|Q|N|D|100
 DRWIW|DragonWave Inc - Warrants|Q|N|N|100
 DRYS|DryShips Inc. - Common Stock|Q|N|D|100
 DSCI|Derma Sciences, Inc. - Common Stock|S|N|N|100
-DSCO|Discovery Laboratories, Inc. - Common Stock|S|N|N|100
+DSCO|Discovery Laboratories, Inc. - Common Stock|S|N|D|100
 DSGX|The Descartes Systems Group Inc. - Common Stock|Q|N|N|100
 DSKX|DS Healthcare Group, Inc. - Common Stock|S|N|N|100
 DSKY|iDreamSky Technology Limited - American Depositary Shares|Q|N|N|100
@@ -2602,7 +2604,7 @@ SWHC|Smith & Wesson Holding Corporation - Common Stock|Q|N|N|100
 SWIR|Sierra Wireless, Inc. - Common Stock|Q|N|N|100
 SWKS|Skyworks Solutions, Inc. - Common Stock|Q|N|N|100
 SWSH|Swisher Hygiene, Inc. - Common Stock|S|N|N|100
-SXCL|Steel Excel Inc. - Common Stock|G|N|N|100
+SXCL|Steel Excel Inc. - Common Stock|S|N|N|100
 SYBT|Stock Yards Bancorp, Inc. - Common Stock|Q|N|N|100
 SYKE|Sykes Enterprises, Incorporated - Common Stock|Q|N|N|100
 SYMC|Symantec Corporation - Common Stock|Q|N|N|100
@@ -3035,4 +3037,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0706201521:33|||||
+File Creation Time: 0707201521:32|||||
