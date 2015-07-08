@@ -181,7 +181,6 @@ ALP$O|Alabama Power Company Preferred Stock|N|ALPpO|N|100|N|ALP-O
 ALR|Alere Inc. Common Stock|N|ALR|N|100|N|ALR
 ALR$B|Alere Inc. Inverness Medical Innovations, Inc. Series B Convertible Perpetual Preferred Stock|N|ALRpB|N|10|N|ALR-B
 ALSN|Allison Transmission Holdings, Inc. Common Stock|N|ALSN|N|100|N|ALSN
-ALTL|RBS US Large Cap Alternator Exchange Traded Note|P|ALTL|N|100|N|ALTL
 ALTS|ProShares Morningstar Alternatives Solution ETF|P|ALTS|Y|100|N|ALTS
 ALTV|Alteva|A|ALTV|N|100|N|ALTV
 ALU|Alcatel-Lucent Common Stock|N|ALU|N|100|N|ALU
@@ -1069,7 +1068,7 @@ DBE|PowerShares DB Energy Fund|P|DBE|Y|100|N|DBE
 DBEF|Deutsche X-trackers MSCI EAFE Hedged Equity ETF|P|DBEF|Y|100|N|DBEF
 DBEM|Deutsche X-trackers MSCI Emerging Markets Hedged Equity ETF|P|DBEM|Y|100|N|DBEM
 DBEU|Deutsche X-Trackers MSCI Europe Hedged Equity ETF|P|DBEU|Y|100|N|DBEU
-DBEZ|Deutsche X-trackers MSCI EMU Hedged Equity ETF|P|DBEZ|Y|100|N|DBEZ
+DBEZ|Deutsche X-trackers MSCI Eurozone Hedged Equity ETF|P|DBEZ|Y|100|N|DBEZ
 DBGR|Deutsche X-trackers MSCI Germany Hedged Equity ETF|P|DBGR|Y|100|N|DBGR
 DBIF|Deutsche X-trackers S&P Hedged Global Infrastructure ETF|P|DBIF|Y|100|N|DBIF
 DBIZ|AdvisorShares Pring Turner Business Cycle ETF|P|DBIZ|Y|100|N|DBIZ
@@ -1220,7 +1219,6 @@ DQ|DAQO New Energy Corp. American Depositary Shares, each representing five ordi
 DRA|Diversified Real Asset Income Fund Common Shares of Beneficial Interest|N|DRA|N|100|N|DRA
 DRD|DRDGOLD Limited American Depositary Shares|N|DRD|N|100|N|DRD
 DRE|Duke Realty Corporation Common Stock|N|DRE|N|100|N|DRE
-DRGS|RBS Global Big Pharma Exchange Traded Note|P|DRGS|N|100|N|DRGS
 DRH|Diamondrock Hospitality Company Common Stock|N|DRH|N|100|N|DRH
 DRI|Darden Restaurants, Inc. Common Stock|N|DRI|N|100|N|DRI
 DRII|Diamond Resorts International, Inc. Common Stock|N|DRII|N|100|N|DRII
@@ -1674,7 +1672,6 @@ FDIS|Fidelity MSCI Consumer Discretionary Index ETF|P|FDIS|Y|100|N|FDIS
 FDL|First Trust Morningstar ETF|P|FDL|Y|100|N|FDL
 FDM|First Trust DJ Select MicroCap ETF|P|FDM|Y|100|N|FDM
 FDN|First Trust DJ Internet Index Fund|P|FDN|Y|100|N|FDN
-FDO|Family Dollar Stores, Inc. Common Stock|N|FDO|N|100|N|FDO
 FDP|Fresh Del Monte Produce, Inc. Common Stock|N|FDP|N|100|N|FDP
 FDS|FactSet Research Systems Inc. Common Stock|N|FDS|N|100|N|FDS
 FDT|First Trust Developed Markets ex-US AlphaDEX Fund|P|FDT|Y|100|N|FDT
@@ -2989,7 +2986,7 @@ MBB|iShares MBS ETF|P|MBB|Y|100|N|MBB
 MBG|SPDR Barclays Mortgage Backed Bond ETF|P|MBG|Y|100|N|MBG
 MBI|MBIA Inc. Common Stock|N|MBI|N|100|N|MBI
 MBLY|Mobileye N.V. Ordinary Shares|N|MBLY|N|100|N|MBLY
-MBT|Mobile TeleSystems OJSC|N|MBT|N|100|N|MBT
+MBT|Mobile TeleSystems PJSC|N|MBT|N|100|N|MBT
 MC|Moelis & Company Class A Common Stock|N|MC|N|100|N|MC
 MCA|Blackrock MuniYield California Quality Fund, Inc. Common Stock|N|MCA|N|100|N|MCA
 MCC|Medley Capital Corporation Common Stock|N|MCC|N|100|N|MCC
@@ -3851,6 +3848,7 @@ PUI|PowerShares DWA Utilities Momentum Portfolio|P|PUI|Y|100|N|PUI
 PUK|Prudential Public Limited Company Common Stock|N|PUK|N|100|N|PUK
 PUK$|Prudential Public Limited Company 6.75% Perpetual Subordinated Captial Security|N|PUKp|N|100|N|PUK-
 PUK$A|Prudential Public Limited Company 6.50% Perpetual Subordinated Capital Securities Exchangeable at the Issuer's Option Into Non-Cumulative Dollar Denominated Preference Shares|N|PUKpA|N|100|N|PUK-A
+PUTX|ALPS ETF Trust ALPS Enhanced Put Write Strategy ETF|P|PUTX|Y|100|N|PUTX
 PUW|PowerShares WilderHill Progressive Energy Portfolio|P|PUW|Y|100|N|PUW
 PVA|Penn Virginia Corporation Common Stock|N|PVA|N|100|N|PVA
 PVCT|Provectus Biopharmaceuticals, Inc.|A|PVCT|N|100|N|PVCT
@@ -4016,12 +4014,7 @@ RGA|Reinsurance Group of America, Incorporated Common Stock|N|RGA|N|100|N|RGA
 RGC|Regal Entertainment Group Class A Common Stock|N|RGC|N|100|N|RGC
 RGI|Guggenheim S&P 500 Equal Weight Industrials ETF|P|RGI|Y|100|N|RGI
 RGR|Sturm, Ruger & Company, Inc. Common Stock|N|RGR|N|100|N|RGR
-RGRA|RBS Rogers Enhanced Agriculture ETN|P|RGRA|N|100|N|RGRA
-RGRC|RBS Rogers Enhanced Commodity ETN|P|RGRC|N|100|N|RGRC
-RGRE|RBS Rogers Enhanced Energy ETN|P|RGRE|N|100|N|RGRE
-RGRI|RBS Rogers Enhanced Industrial Metals ETN|P|RGRI|N|100|N|RGRI
 RGRO|RevenueShares Global Growth Fund ETF|P|RGRO|Y|100|N|RGRO
-RGRP|RBS Rogers Enhanced Precious Metals ETN|P|RGRP|N|100|N|RGRP
 RGS|Regis Corporation Common Stock|N|RGS|N|100|N|RGS
 RGT|Royce Global Value Trust, Inc. Common Stock|N|RGT|N|100|N|RGT
 RH|Restoration Hardware Holdings Inc. Common Stock|N|RH|N|100|N|RH
@@ -4560,7 +4553,6 @@ TAP.A|Molson Coors Brewing  Company Molson Coors Brewing Company Class A Common 
 TARO|Taro Pharmaceutical Industries Ltd. Ordinary Shares|N|TARO|N|100|N|TARO
 TAS|Tasman Metals Ltd Ordinary Shares (Canada)|A|TAS|N|100|N|TAS
 TAT|TransAtlantic Petroleum Ltd Ordinary Shares (Bermuda)|A|TAT|N|100|N|TAT
-TBAR|RBS Gold Trendpilot Exchange Traded Notes|P|TBAR|N|100|N|TBAR
 TBF|ProShares Short 20+ Year Treasury|P|TBF|Y|100|N|TBF
 TBI|TrueBlue, Inc. Common Stock|N|TBI|N|100|N|TBI
 TBT|ProShares UltraShort Lehman 20  Year Treasury|P|TBT|Y|100|N|TBT
@@ -4574,7 +4566,6 @@ TCB$C|TCF Financial Corporation Perp Pfd Ser B|N|TCBpC|N|100|N|TCB-C
 TCB.W|TCF Financial Corporation TCF Financial Corporation Warrants|N|TCB/WS|N|100|N|TCB+
 TCCA|Triangle Capital Corporation 6.375% Senior Notes due 2022|N|TCCA|N|100|N|TCCA
 TCCB|Triangle Capital Corporation 6.375% Notes due 2022|N|TCCB|N|100|N|TCCB
-TCHI|RBS China Trendpilot Exchange Traded Note|P|TCHI|N|100|N|TCHI
 TCI|Transcontinental Realty Investors, Inc. Common Stock|N|TCI|N|100|N|TCI
 TCK|Teck Resources Ltd Ordinary Shares|N|TCK|N|100|N|TCK
 TCO|Taubman Centers, Inc. Common Stock|N|TCO|N|100|N|TCO
@@ -4683,7 +4674,6 @@ TMUS$A|T-Mobile US, Inc. 5.50% Mandatory Convertible Preferred Stock, Series A|N
 TMV|Direxion Daily 30-Yr Treasury Bear 3x Shrs|P|TMV|Y|100|N|TMV
 TNA|Direxion Small Cap Bull 3X Shares|P|TNA|Y|100|N|TNA
 TNC|Tennant Company Common Stock|N|TNC|N|100|N|TNC
-TNDQ|RBS NASDAQ 100 Trendpilot ETN|P|TNDQ|N|100|N|TNDQ
 TNET|TriNet Group, Inc. Common Stock|N|TNET|N|100|N|TNET
 TNH|Terra Nitrogen Company, L.P. Common Units|N|TNH|N|100|N|TNH
 TNK|Teekay Tankers Ltd.|N|TNK|N|100|N|TNK
@@ -4728,8 +4718,6 @@ TRI|Thomson Reuters Corp Ordinary Shares|N|TRI|N|100|N|TRI
 TRK|Speedway Motorsports, Inc. Common Stock|N|TRK|N|100|N|TRK
 TRMR|Tremor Video, Inc. Common Stock|N|TRMR|N|100|N|TRMR
 TRN|Trinity Industries, Inc. Common Stock|N|TRN|N|100|N|TRN
-TRND|RBS US Large Cap Trendpilot ETN|P|TRND|N|100|N|TRND
-TRNM|RBS US Mid Cap Trendpilot ETN|P|TRNM|N|100|N|TRNM
 TRNO|Terreno Realty Corporation Common Stock|N|TRNO|N|100|N|TRNO
 TRNO$A|Terreno Realty Corporation Preferred Shares Series A|N|TRNOpA|N|100|N|TRNO-A
 TROX|Tronox Limited Ordinary Shares Class A $0.01 par|N|TROX|N|100|N|TROX
@@ -4778,7 +4766,6 @@ TWM|ProShares UltraShort Russell2000|P|TWM|Y|100|N|TWM
 TWN|Taiwan Fund, Inc. (The) Common Stock|N|TWN|N|100|N|TWN
 TWO|Two Harbors Investment Corp|N|TWO|N|100|N|TWO
 TWOK|SPDR Russell 2000 ETF|P|TWOK|Y|100|N|TWOK
-TWTI|RBS Oil Trendpilot ETN|P|TWTI|N|100|N|TWTI
 TWTR|Twitter, Inc. Common Stock|N|TWTR|N|100|N|TWTR
 TWX|Time Warner Inc. New Common Stock|N|TWX|N|100|N|TWX
 TX|Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)|N|TX|N|100|N|TX
@@ -5280,4 +5267,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0706201521:33||||||
+File Creation Time: 0707201521:32||||||
