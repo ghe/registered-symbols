@@ -293,8 +293,8 @@ BASI|Bioanalytical Systems, Inc. - Common Stock|S|N|N|100
 BBBY|Bed Bath & Beyond Inc. - Common Stock|Q|N|N|100
 BBC|BioShares Biotechnology Clinical Trials Fund|G|N|N|100
 BBCN|BBCN Bancorp, Inc. - Common Stock|Q|N|N|100
-BBEP|BreitBurn Energy Partners, L.P. - Common Units Representing Limited Partnership|Q|N|N|100
-BBEPP|BreitBurn Energy Partners, L.P. - 8.25% Series A Cumulative Redeemable Perpetual Preferred Units|Q|N|N|100
+BBEP|Breitburn Energy Partners LP - Common Units Representing Limited Partnership|Q|N|N|100
+BBEPP|Breitburn Energy Partners LP - 8.25% Series A Cumulative Redeemable Perpetual Preferred Units|Q|N|N|100
 BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|G|N|N|100
 BBLU|Blue Earth, Inc. - Common Stock|S|N|N|100
 BBOX|Black Box Corporation - Common Stock|Q|N|N|100
@@ -494,6 +494,7 @@ CCUR|Concurrent Computer Corporation - Common Stock|G|N|N|100
 CCXI|ChemoCentryx, Inc. - Common Stock|Q|N|N|100
 CDC|Compass EMP U S EQ Income 100 Enhanced Volatility Weighted Fund|G|N|N|100
 CDK|CDK Global, Inc. - Common Stock|Q|N|N|100
+CDL|Compass EMP US Large Cap High Dividend 100 Volatility Weighted Index ETF|G|N|N|100
 CDNA|CareDx, Inc. - Common Stock|G|N|N|100
 CDNS|Cadence Design Systems, Inc. - Common Stock|Q|N|N|100
 CDRB|Code Rebel Corporation - Common Stock|S|N|N|100
@@ -577,7 +578,7 @@ CJJD|China Jo-Jo Drugstores, Inc. - Common Stock|S|N|N|100
 CKEC|Carmike Cinemas, Inc. - Common Stock|Q|N|N|100
 CKSW|ClickSoftware Technologies Ltd. - Ordinary Shares|Q|N|N|100
 CLAC|Capitol Acquisition Corp. II - Common Stock|S|N|D|100
-CLACU|Capitol Acquisition Corp. II - Unit|S|N|D|100
+CLACU|Capitol Acquisition Corp. II - Unit|S|N|N|100
 CLACW|Capitol Acquisition Corp. II - Warrant|S|N|D|100
 CLBH|Carolina Bank Holdings Inc. - Common Stock|G|N|N|100
 CLBS|Caladrius Biosciences, Inc. - Common Stock|S|N|N|100
@@ -688,7 +689,9 @@ CRVL|CorVel Corp. - Common Stock|Q|N|N|100
 CRWN|Crown Media Holdings, Inc. - Class A Common Stock|Q|N|N|100
 CRWS|Crown Crafts, Inc. - Common Stock|S|N|N|100
 CRZO|Carrizo Oil & Gas, Inc. - Common Stock|Q|N|N|100
+CSA|Compass EMP Small Cap 500 Volatility Weighted Index ETF|G|N|N|100
 CSAL|Communications Sales & Leasing,Inc. - Common Stock|Q|N|N|100
+CSB|Compass EMP US Small Cap High Dividend 100 Volatility Weighted Index ETF|G|N|N|100
 CSBK|Clifton Bancorp Inc. - Common Stock|Q|N|N|100
 CSCD|Cascade Microtech, Inc. - Common Stock|G|N|N|100
 CSCO|Cisco Systems, Inc. - Common Stock|Q|N|N|100
@@ -849,7 +852,7 @@ DXGE|WisdomTree Germany Hedged Equity Fund|G|N|N|100
 DXJS|WisdomTree Japan Hedged SmallCap Equity Fund|G|N|N|100
 DXKW|WisdomTree Korea Hedged Equity Fund|G|N|N|100
 DXLG|Destination XL Group, Inc. - Common Stock|Q|N|N|100
-DXM|Dex Media, Inc. - Common Stock|Q|N|N|100
+DXM|Dex Media, Inc. - Common Stock|Q|N|D|100
 DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|N|100
 DXPS|WisdomTree United Kingdom Hedged Equity Fund|G|N|N|100
 DXYN|The Dixie Group, Inc. - Common Stock|G|N|N|100
@@ -1481,6 +1484,7 @@ ITEK|Inotek Pharmaceuticals Corporation - Common Stock|G|N|N|100
 ITIC|Investors Title Company - Common Stock|Q|N|N|100
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
+ITUS|ITUS Corporation - Common Stock||N|N|100
 IVAC|Intevac, Inc. - Common Stock|Q|N|N|100
 IVTY|Invuity, Inc. - Common Stock|G|N|N|100
 IXYS|IXYS Corporation - Common Stock|Q|N|N|100
@@ -2160,7 +2164,7 @@ PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|D|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
 PRSC|The Providence Service Corporation - Common Stock|Q|N|D|100
-PRSN|Perseon Corporation - Common Stock|S|N|D|100
+PRSN|Perseon Corporation - Common Stock|S|N|N|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
 PRTA|Prothena Corporation plc - Ordinary Shares|Q|N|N|100
 PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100
@@ -3037,4 +3041,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0707201521:32|||||
+File Creation Time: 0708201521:32|||||
