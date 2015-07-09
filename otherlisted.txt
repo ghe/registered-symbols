@@ -2792,6 +2792,8 @@ KIQ|Kelso Technologies Inc Ordinary Shares|A|KIQ|N|100|N|KIQ
 KKD|Krispy Kreme Doughnuts, Inc. Common Stock|N|KKD|N|100|N|KKD
 KKR|KKR & Co. L.P. Common Units Representing Limited Partnership Interest|N|KKR|N|100|N|KKR
 KLD|iShares MSCI USA ESG Select ETF|P|KLD|Y|100|N|KLD
+KLDW|Exchange Listed Funds Trust GaveKal Knowledge Leaders Developed World ETF|P|KLDW|Y|100|N|KLDW
+KLEM|Exchange Listed Funds Trust GaveKal Knowledge Leaders Emerging Markets ETF|P|KLEM|Y|100|N|KLEM
 KMB|Kimberly-Clark Corporation Common Stock|N|KMB|N|100|N|KMB
 KMF|Kayne Anderson Midstream Energy Fund, Inc Common Stock|N|KMF|N|100|N|KMF
 KMG|KMG Chemicals, Inc. Common Stock|N|KMG|N|100|N|KMG
@@ -3083,7 +3085,6 @@ MIC|Macquarie Infrastructure Company Common Stock|N|MIC|N|100|N|MIC
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
 MIDZ|Direxion Mid Cap Bear 3X Shares|P|MIDZ|Y|100|N|MIDZ
 MIE|Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. Common Stock|N|MIE|N|100|N|MIE
-MIG|Meadowbrook Insurance Group, Inc. Common Stock|N|MIG|N|100|N|MIG
 MIL|MFC Industrial Ltd.|N|MIL|N|100|N|MIL
 MILL|Miller Energy Resourses, Inc. Common Stock|N|MILL|N|100|N|MILL
 MILL$C|Miller Energy Resources, Inc. 10.75% Series C Cumulative, Redeemable Preferred Stock|N|MILLpC|N|100|N|MILL-C
@@ -4695,7 +4696,7 @@ TOTL|SPDR DoubleLine Total Return Tactical ETF|P|TOTL|Y|100|N|TOTL
 TOTS|Direxion Daily Total Market Bear 1X Shares|P|TOTS|Y|100|N|TOTS
 TOWR|Tower International, Inc. Common stock|N|TOWR|N|100|N|TOWR
 TPC|Tutor Perini Corporation Common Stock|N|TPC|N|100|N|TPC
-TPH|Tri Pointe Homes, Inc. Common Stock|N|TPH|N|100|N|TPH
+TPH|TRI Pointe Group, Inc. Common Stock|N|TPH|N|100|N|TPH
 TPI|Tianyin Pharmaceutical Co., Inc. Common Stock|A|TPI|N|100|N|TPI
 TPL|Texas Pacific Land Trust Common Stock|N|TPL|N|100|N|TPL
 TPLM|Triangle Petroleum Corporation Common Stock (DE)|A|TPLM|N|100|N|TPLM
@@ -5267,4 +5268,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0707201521:32||||||
+File Creation Time: 0708201521:32||||||
