@@ -66,7 +66,6 @@ ADRU|BLDRS Europe 100 ADR Index Fund|G|N|N|100
 ADSK|Autodesk, Inc. - Common Stock|Q|N|N|100
 ADTN|ADTRAN, Inc. - Common Stock|Q|N|N|100
 ADUS|Addus HomeCare Corporation - Common Stock|Q|N|N|100
-ADVS|Advent Software, Inc. - Common Stock|Q|N|N|100
 ADXS|Advaxis, Inc. - Common Stock|S|N|N|100
 ADXSW|Advaxis, Inc. - Warrants|S|N|N|100
 AEGN|Aegion Corp - Class A Common Stock|Q|N|N|100
@@ -76,7 +75,7 @@ AEIS|Advanced Energy Industries, Inc. - Common Stock|Q|N|N|100
 AEPI|AEP Industries Inc. - Common Stock|Q|N|N|100
 AERI|Aerie Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 AETI|American Electric Technologies, Inc. - Common Stock|S|N|N|100
-AEY|ADDvantage Technologies Group, Inc. - Common Stock|G|N|N|100
+AEY|ADDvantage Technologies Group, Inc. - Common Stock|G|N|D|100
 AEZS|AEterna Zentaris Inc. - Common Stock|S|N|D|100
 AFAM|Almost Family Inc - Common Stock|Q|N|N|100
 AFCB|Athens Bancshares Corporation - Common Stock|S|N|N|100
@@ -577,9 +576,6 @@ CIZN|Citizens Holding Company - Common Stock|G|N|N|100
 CJJD|China Jo-Jo Drugstores, Inc. - Common Stock|S|N|N|100
 CKEC|Carmike Cinemas, Inc. - Common Stock|Q|N|N|100
 CKSW|ClickSoftware Technologies Ltd. - Ordinary Shares|Q|N|N|100
-CLAC|Capitol Acquisition Corp. II - Common Stock|S|N|D|100
-CLACU|Capitol Acquisition Corp. II - Unit|S|N|N|100
-CLACW|Capitol Acquisition Corp. II - Warrant|S|N|D|100
 CLBH|Carolina Bank Holdings Inc. - Common Stock|G|N|N|100
 CLBS|Caladrius Biosciences, Inc. - Common Stock|S|N|N|100
 CLCD|CoLucid Pharmaceuticals, Inc. - Common Stock|G|N|N|100
@@ -933,8 +929,10 @@ ENZY|Enzymotec Ltd. - Ordinary Shares|Q|N|N|100
 EPAX|Ambassadors Group, Inc. - Common Stock|Q|N|N|100
 EPAY|Bottomline Technologies, Inc. - Common Stock|Q|N|N|100
 EPIQ|EPIQ Systems, Inc. - Common Stock|Q|N|N|100
+EPIX|ESSA Pharma Inc. - Common Stock|S|N|N|100
 EPRS|EPIRUS Biopharmaceuticals, Inc. - Common Stock|S|N|N|100
 EPZM|Epizyme, Inc. - Common Stock|Q|N|N|100
+EQFN|Equitable Financial Corp. - Common Stock|S|N|N|100
 EQIX|Equinix, Inc. - Common Stock|Q|N|N|100
 ERI|Eldorado Resorts, Inc. - Common Stock|Q|N|N|100
 ERIC|Ericsson - ADS each representing 1 underlying Class B share|Q|N|N|100
@@ -1484,7 +1482,6 @@ ITEK|Inotek Pharmaceuticals Corporation - Common Stock|G|N|N|100
 ITIC|Investors Title Company - Common Stock|Q|N|N|100
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
-ITUS|ITUS Corporation - Common Stock||N|N|100
 IVAC|Intevac, Inc. - Common Stock|Q|N|N|100
 IVTY|Invuity, Inc. - Common Stock|G|N|N|100
 IXYS|IXYS Corporation - Common Stock|Q|N|N|100
@@ -1606,6 +1603,8 @@ LILA|Liberty Global plc - Class A Ordinary Shares|Q|N|N|100
 LILAK|Liberty Global plc - Class C Ordinary Shares|Q|N|N|100
 LIME|Lime Energy Co. - Common Stock|S|N|N|100
 LINC|Lincoln Educational Services Corporation - Common Stock|Q|N|N|100
+LIND|Lindblad Expeditions Holdings Inc.  - Common Stock|S|N|D|100
+LINDW|Lindblad Expeditions Holdings Inc.  - Warrant|S|N|D|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
 LION|Fidelity Southern Corporation - Common Stock|Q|N|N|100
 LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
@@ -1724,7 +1723,7 @@ MDVXW|Medovex Corp. - Class A Warrant|S|N|N|100
 MDWD|MediWound Ltd. - Ordinary Shares|G|N|N|100
 MDXG|MiMedx Group, Inc - Common Stock|S|N|N|100
 MEET|MeetMe, Inc. - Common Stock|S|N|N|100
-MEIL|Methes Energies International Ltd - Common Stock|S|N|N|100
+MEIL|Methes Energies International Ltd - Common Stock|S|N|D|100
 MEILW|Methes Energies International Ltd - Class A Warrants|S|N|N|100
 MEILZ|Methes Energies International Ltd - Class B Warrants|S|N|N|100
 MEIP|MEI Pharma, Inc. - Common Stock|S|N|N|100
@@ -1735,7 +1734,6 @@ MEMP|Memorial Production Partners LP - Common Units|Q|N|N|100
 MENT|Mentor Graphics Corporation - Common Stock|Q|N|N|100
 MEOH|Methanex Corporation - Common Stock|Q|N|N|100
 MERC|Mercer International Inc. - Common Stock|Q|N|N|100
-MERU|Meru Networks, Inc. - Common Stock|G|N|N|100
 METR|Metro Bancorp, Inc - Common Stock|Q|N|N|100
 MFLX|Multi-Fineline Electronix, Inc. - Common Stock|Q|N|N|100
 MFNC|Mackinac Financial Corporation - Common Stock|S|N|N|100
@@ -1883,6 +1881,7 @@ NHLD|National Holdings Corporation - Common Stock|S|N|N|100
 NHTC|Natural Health Trends Corp. - Commn Stock|S|N|N|100
 NICE|NICE-Systems Limited - American Depositary Shares each representing one Ordinary Share|Q|N|N|100
 NICK|Nicholas Financial, Inc. - Common Stock|Q|N|N|100
+NIHD|NII Holdings, Inc. - Common Stock|Q|N|N|100
 NILE|Blue Nile, Inc. - Common Stock|Q|N|N|100
 NKSH|National Bankshares, Inc. - Common Stock|S|N|N|100
 NKTR|Nektar Therapeutics - Common Stock|Q|N|N|100
@@ -1996,7 +1995,7 @@ OPGNW|OpGen, Inc. - Warrant|S|N|N|100
 OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|D|100
 OPHT|Ophthotech Corporation - Common Stock|Q|N|N|100
 OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100
-OPTT|Ocean Power Technologies, Inc. - Common Stock|G|N|D|100
+OPTT|Ocean Power Technologies, Inc. - Common Stock|S|N|D|100
 OPXA|Opexa Therapeutics, Inc. - Common Stock|S|N|D|100
 OPXAW|Opexa Therapeutics, Inc. - Warrant|S|N|N|100
 ORBC|ORBCOMM Inc. - Common Stock|Q|N|N|100
@@ -2973,6 +2972,7 @@ WSTG|Wayside Technology Group, Inc. - Common Stock|G|N|N|100
 WSTL|Westell Technologies, Inc. - Class A Common Stock|Q|N|N|100
 WTBA|West Bancorporation - Common Stock|Q|N|N|100
 WTFC|Wintrust Financial Corporation - Common Stock|Q|N|N|100
+WTFCM|Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D|Q|N|N|100
 WTFCW|Wintrust Financial Corporation - Warrants|Q|N|N|100
 WVFC|WVS Financial Corp. - Common Stock|G|N|N|100
 WVVI|Willamette Valley Vineyards, Inc. - Common Stock|S|N|N|100
@@ -3041,4 +3041,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0708201521:32|||||
+File Creation Time: 0709201521:33|||||
