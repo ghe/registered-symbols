@@ -96,6 +96,7 @@ AGCO|AGCO Corporation Common Stock|N|AGCO|N|100|N|AGCO
 AGD|Alpine Global Dynamic Dividend Fund Shares of Beneficial Interest|N|AGD|N|100|N|AGD
 AGF|DB Agriculture Long ETN due April 1, 2038|P|AGF|N|100|N|AGF
 AGG|iShares Core U.S. Aggregate Bond ETF|P|AGG|Y|100|N|AGG
+AGGY|WisdomTree Trust WisdomTree Barclays U.S. Aggregate Bond Enhanced Yield Fund|P|AGGY|Y|100|N|AGGY
 AGI|Alamos Gold Inc. Class A Common Shares|N|AGI|N|100|N|AGI
 AGLS|Accuvest Global Long Short ETF|P|AGLS|Y|100|N|AGLS
 AGM|Federal Agricultural Mortgage Corporation Common Stock|N|AGM|N|100|N|AGM
@@ -2168,6 +2169,7 @@ HDGE|Ranger Equity Bear Bear ETF|P|HDGE|Y|100|N|HDGE
 HDLS|WisdomTree International Hedged SmallCap Dividend Fund|P|HDLS|Y|100|N|HDLS
 HDLV|ETRACS Montly Pay 2xLeveraged US High Dividend Low Volatility ETN due September 30, 2044|P|HDLV|N|100|N|HDLV
 HDV|iShares Core High Dividend ETF|P|HDV|Y|100|N|HDV
+HDWM|WisdomTree Trust WisdomTree International Hedged Equity Fund|P|HDWM|Y|100|N|HDWM
 HE|Hawaiian Electric Industries, Inc. Common Stock|N|HE|N|100|N|HE
 HE$U|Hawaiian Electric Industries, Inc. 6.5 % Cum QUIPS|N|HEpU|N|100|N|HE-U
 HEB|Hemispherx BioPharma, Inc. Common Stock|A|HEB|N|100|N|HEB
@@ -2968,7 +2970,7 @@ LXP$C|Lexington Realty Trust  Preferred Conv. Series C|N|LXPpC|N|100|N|LXP-C
 LXU|LSB Industries, Inc. Common Stock|N|LXU|N|100|N|LXU
 LYB|LyondellBasell Industries NV Ordinary Shares Class A (Netherlands)|N|LYB|N|100|N|LYB
 LYG|Lloyds Banking Group Plc American Depositary Shares|N|LYG|N|100|N|LYG
-LYG$A|Lloyds Banking Group Plc 7.75% Public Income NotES (PINES) due July 15, 2050|N|LYGpA|N|100|N|LYG-A
+LYG$A|Lloyds Banking Group Plc 7.75% Public Income NotES (PINES) due July 15, 2050|N|LYGpA/CL|N|100|N|LYG-A*
 LYV|Live Nation Entertainment, Inc. Common Stock|N|LYV|N|100|N|LYV
 LZB|La-Z-Boy Incorporated Common Stock|N|LZB|N|100|N|LZB
 M|Macy's Inc Common Stock|N|M|N|100|N|M
@@ -3940,7 +3942,6 @@ R|Ryder System, Inc. Common Stock|N|R|N|100|N|R
 RAD|Rite Aid Corporation Common Stock|N|RAD|N|100|N|RAD
 RAI|Reynolds American Inc Common Stock|N|RAI|N|100|N|RAI
 RALS|ProShares RAFI Long Short ETF|P|RALS|Y|100|N|RALS
-RALY|Rally Software Development Corp. Common Stock|N|RALY|N|100|N|RALY
 RAS|RAIT Financial Trust New Common Shares of Beneficial Interest|N|RAS|N|100|N|RAS
 RAS$A|RAIT Financial Trust  7.75% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest|N|RASpA|N|100|N|RAS-A
 RAS$B|RAIT Financial Trust 8.375% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest|N|RASpB|N|100|N|RAS-B
@@ -5230,6 +5231,7 @@ YELP|Yelp Inc. Class A Common Stock|N|YELP|N|100|N|YELP
 YGE|Yingli Green Energy Holding Company Limited ADR|N|YGE|N|100|N|YGE
 YGRO|Royal Bank of Canada Exchange Traded Notes due July 19, 2034 Linked to the Yorkville MLP Distribution Growth Leaders Liquid PR Index|P|YGRO|N|100|N|YGRO
 YINN|Direxion Daily FTSE China Bull 3x Shares|P|YINN|Y|100|N|YINN
+YLD|Principal Exchange-Traded Funds Principal EDGE Active Income ETF|P|YLD|Y|100|N|YLD
 YMLI|Yorkville High Income Infrastructure MLP|P|YMLI|Y|100|N|YMLI
 YMLP|Yorkville High Income MLP Exchange Traded Concepts|P|YMLP|Y|100|N|YMLP
 YOKU|Youku Tudou Inc. American Depositary Shares, each representing 18 Class A ordinary shares.|N|YOKU|N|100|N|YOKU
@@ -5268,4 +5270,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0708201521:32||||||
+File Creation Time: 0709201521:33||||||
