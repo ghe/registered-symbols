@@ -72,6 +72,7 @@ AEGN|Aegion Corp - Class A Common Stock|Q|N|N|100
 AEGR|Aegerion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 AEHR|Aehr Test Systems - Common Stock|S|N|N|100
 AEIS|Advanced Energy Industries, Inc. - Common Stock|Q|N|N|100
+AEMD|Aethlon Medical, Inc. - Common Stock|S|N|N|100
 AEPI|AEP Industries Inc. - Common Stock|Q|N|N|100
 AERI|Aerie Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 AETI|American Electric Technologies, Inc. - Common Stock|S|N|N|100
@@ -727,6 +728,7 @@ CUBA|The Herzfeld Caribbean Basin Fund, Inc. - Closed End FUnd|S|N|N|100
 CUBN|Commerce Union Bancshares, Inc. - Common Stock|S|N|N|100
 CUI|CUI Global, Inc. - Common Stock|S|N|N|100
 CUNB|CU Bancorp (CA) - Common Stock|S|N|N|100
+CUR|Neuralstem, Inc. - Common Stock|S|N|N|100
 CUTR|Cutera, Inc. - Common Stock|Q|N|N|100
 CVBF|CVB Financial Corporation - Common Stock|Q|N|N|100
 CVCO|Cavco Industries, Inc. - Common Stock|Q|N|N|100
@@ -1092,7 +1094,7 @@ FRAN|Francesca's Holdings Corporation - Common Stock|Q|N|N|100
 FRBA|First Bank - Common Stock|G|N|N|100
 FRBK|Republic First Bancorp, Inc. - Common Stock|G|N|N|100
 FRED|Fred's, Inc. - Common Stock|Q|N|N|100
-FREE|FreeSeas Inc. - Common Stock|S|N|D|100
+FREE|FreeSeas Inc. - Common Stock|S|N|N|100
 FRGI|Fiesta Restaurant Group, Inc. - Common Stock|Q|N|N|100
 FRME|First Merchants Corporation - Common Stock|Q|N|N|100
 FRP|FairPoint Communications, Inc. - Common Stock|S|N|N|100
@@ -2107,7 +2109,7 @@ PHII|PHI, Inc. - Voting Common Stock|Q|N|N|100
 PHIIK|PHI, Inc. - Non-Voting Common Stock|Q|N|N|100
 PHMD|PhotoMedex, Inc. - Common Stock|Q|N|N|100
 PICO|PICO Holdings Inc. - Common Stock|Q|N|N|100
-PIH|1347 Property Insurance Holdings, Inc. - Common Stock|S|N|N|100
+PIH|1347 Property Insurance Holdings, Inc. - Common Stock|G|N|N|100
 PINC|Premier, Inc. - Class A Common Stock|Q|N|N|100
 PIRS|Pieris Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 PKBK|Parke Bancorp, Inc. - Common Stock|S|N|N|100
@@ -2335,7 +2337,7 @@ ROLL|RBC Bearings Incorporated - Common Stock|Q|N|N|100
 ROSE|Rosetta Resources Inc. - Common Stock|Q|N|N|100
 ROSG|Rosetta Genomics Ltd. - ordinary shares|S|N|N|100
 ROST|Ross Stores, Inc. - Common Stock|Q|N|N|100
-ROVI|Rovi Corporation - Common Stock|Q|N|D|100
+ROVI|Rovi Corporation - Common Stock|Q|N|N|100
 ROYL|Royale Energy, Inc. - Common Stock|S|N|N|100
 RP|RealPage, Inc. - Common Stock|Q|N|N|100
 RPRX|Repros Therapeutics Inc. - Common Stock|S|N|N|100
@@ -2699,7 +2701,7 @@ TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100
 TNGO|Tangoe, Inc. - Common Stock|Q|N|N|100
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|N|100
 TOPS|TOP Ships Inc. - Common Stock|Q|N|N|100
-TOR|Sutor Technology Group Limited - Common Stock|S|N|D|100
+TOR|Sutor Technology Group Limited - Common Stock|S|N|N|100
 TORM|TOR Minerals International Inc - Common Stock|S|N|N|100
 TOUR|Tuniu Corporation - American Depositary Shares|G|N|N|100
 TOWN|Towne Bank - Common Stock|Q|N|N|100
@@ -3045,4 +3047,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0710201521:33|||||
+File Creation Time: 0713201521:33|||||
