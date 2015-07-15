@@ -127,6 +127,7 @@ ALQA|Alliqua BioMedical, Inc. - Common Stock|S|N|N|100
 ALRM|Alarm.com Holdings, Inc. - Common Stock|Q|N|N|100
 ALSK|Alaska Communications Systems Group, Inc. - Common Stock|Q|N|N|100
 ALTR|Altera Corporation - Common Stock|Q|N|N|100
+ALTY|Global X SuperDividend Alternatives ETF|G|N|N|100
 ALXA|Alexza Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 AMAG|AMAG Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -576,7 +577,6 @@ CIZ|Compass EMP Developed 500 Enhanced Volatility Weighted Index ETF|G|N|N|100
 CIZN|Citizens Holding Company - Common Stock|G|N|N|100
 CJJD|China Jo-Jo Drugstores, Inc. - Common Stock|S|N|N|100
 CKEC|Carmike Cinemas, Inc. - Common Stock|Q|N|N|100
-CKSW|ClickSoftware Technologies Ltd. - Ordinary Shares|Q|N|N|100
 CLBH|Carolina Bank Holdings Inc. - Common Stock|G|N|N|100
 CLBS|Caladrius Biosciences, Inc. - Common Stock|S|N|N|100
 CLCD|CoLucid Pharmaceuticals, Inc. - Common Stock|G|N|N|100
@@ -1001,6 +1001,9 @@ FBNC|First Bancorp - Common Stock|Q|N|N|100
 FBNK|First Connecticut Bancorp, Inc. - Common Stock|Q|N|N|100
 FBRC|FBR & Co - Common Stock|Q|N|N|100
 FBSS|Fauquier Bankshares, Inc. - Common Stock|S|N|N|100
+FBZ|First Trust Brazil AlphaDEX Fund|G|N|N|100
+FCA|First Trust China AlphaDEX Fund|G|N|N|100
+FCAN|First Trust Canada AlphaDEX Fund|G|N|N|100
 FCAP|First Capital, Inc. - Common Stock|S|N|N|100
 FCBC|First Community Bancshares, Inc. - Common Stock|Q|N|D|100
 FCCO|First Community Corporation - Common Stock|S|N|N|100
@@ -1037,7 +1040,9 @@ FFNM|First Federal of Northern Michigan Bancorp, Inc. - Common Stock|S|N|N|100
 FFNW|First Financial Northwest, Inc. - Common Stock|Q|N|N|100
 FFWM|First Foundation Inc. - Common Stock|G|N|N|100
 FGEN|FibroGen, Inc - Common Stock|Q|N|N|100
+FGM|First Trust Germany AlphaDEX Fund|G|N|N|100
 FHCO|Female Health Company (The) - Common Stock|S|N|D|100
+FHK|First Trust Hong Kong AlphaDEX Fund|G|N|N|100
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100
 FINL|The Finish Line, Inc. - Class A Common Stock|Q|N|N|100
 FISI|Financial Institutions, Inc. - Common Stock|Q|N|N|100
@@ -1047,6 +1052,9 @@ FITBI|Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest 
 FIVE|Five Below, Inc. - Common Stock|Q|N|N|100
 FIVN|Five9, Inc. - Common Stock|G|N|N|100
 FIZZ|National Beverage Corp. - Common Stock|Q|N|N|100
+FJP|First Trust Japan AlphaDEX Fund|G|N|N|100
+FKO|First Trust South Korea AlphaDEX Fund|G|N|N|100
+FKU|First Trust United Kingdom AlphaDEX Fund|G|N|N|100
 FLAT|Barclays PLC - iPath US Treasury Flattener ETN|G|N|N|100
 FLDM|Fluidigm Corporation - Common Stock|Q|N|N|100
 FLEX|Flextronics International Ltd. - Ordinary Shares|Q|N|N|100
@@ -1114,6 +1122,7 @@ FSNN|Fusion Telecommunications International, Inc. - Common Stock|S|N|N|100
 FSTR|L.B. Foster Company - Common Stock|Q|N|N|100
 FSV|FirstService Corporation - Subordinate Voting Shares|Q|N|N|100
 FSYS|Fuel Systems Solutions, Inc. - Common Stock|Q|N|N|100
+FSZ|First Trust Switzerland AlphaDEX Fund|G|N|N|100
 FTCS|First Trust Capital Strength ETF|G|N|N|100
 FTD|FTD Companies, Inc. - Common Stock|Q|N|N|100
 FTEK|Fuel Tech, Inc. - Common Stock|Q|N|N|100
@@ -1125,6 +1134,7 @@ FTR|Frontier Communications Corporation - Common Stock|Q|N|N|100
 FTRPR|Frontier Communications Corporation - 11.125% Series A Mandatory Convertible Preferred Stock|Q|N|N|100
 FTSL|First Trust Senior Loan Fund ETF|G|N|N|100
 FTSM|First Trust Enhanced Short Maturity ETF|G|N|N|100
+FTW|First Trust Taiwan AlphaDEX Fund |G|N|N|100
 FUEL|Rocket Fuel Inc. - Common Stock|Q|N|N|100
 FULL|Full Circle Capital Corporation - Common Stock|G|N|N|100
 FULLL|Full Circle Capital Corporation - 8.25% Notes due 2020|G|N|N|100
@@ -1179,7 +1189,7 @@ GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares 
 GHDX|Genomic Health, Inc. - Common Stock|Q|N|N|100
 GIFI|Gulf Island Fabrication, Inc. - Common Stock|Q|N|N|100
 GIGA|Giga-tronics Incorporated - Common Stock|S|N|D|100
-GIGM|GigaMedia Limited - Ordinary Shares|Q|N|D|100
+GIGM|GigaMedia Limited - Ordinary Shares|S|N|D|100
 GIII|G-III Apparel Group, LTD. - Common Stock|Q|N|N|100
 GILD|Gilead Sciences, Inc. - Common Stock|Q|N|N|100
 GILT|Gilat Satellite Networks Ltd. - Ordinary Shares|Q|N|N|100
@@ -3047,4 +3057,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0713201521:33|||||
+File Creation Time: 0714201521:31|||||
