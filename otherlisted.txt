@@ -1144,6 +1144,7 @@ DHF|Dreyfus High Yield Strategies Fund Common Stock|N|DHF|N|100|N|DHF
 DHG|Deutsche High Income Opportunities Fund, Inc  New Common Stock|N|DHG|N|100|N|DHG
 DHI|D.R. Horton, Inc. Common Stock|N|DHI|N|100|N|DHI
 DHR|Danaher Corporation Common Stock|N|DHR|N|100|N|DHR
+DHR.Z|Danaher Corporation Common Stock When Distributed|N|DHR/WD|N|100|N|DHR$
 DHS|WisdomTree High-Yielding Equity Fund|P|DHS|Y|100|N|DHS
 DHT|DHT Holdings, Inc.|N|DHT|N|100|N|DHT
 DHVW|Diamond Hill Valuation-Weighted 500 ETF|P|DHVW|Y|100|N|DHVW
@@ -1645,11 +1646,8 @@ FBP|First BanCorp. New Common Stock|N|FBP|N|100|N|FBP
 FBR|Fibria Celulose S.A.|N|FBR|N|100|N|FBR
 FBS$A|First Preferred Cap Tr Iv First Preferred Capital Trust IV 8.15% Cum Trust Pfd Sec|N|FBSpA|N|100|N|FBS-A
 FBT|First Trust Amex Biotech Index Fund|P|FBT|Y|100|N|FBT
-FBZ|First Trust Brazil AlphaDEX Fund|P|FBZ|Y|100|N|FBZ
 FC|Franklin Covey Company Common Stock|N|FC|N|100|N|FC
-FCA|First Trust China AlphaDEX Fund|P|FCA|Y|100|N|FCA
 FCAM|Fiat Chrysler Automobiles N.V. Mandatory Convertible Securities|N|FCAM|N|100|N|FCAM
-FCAN|First Trust Canada AlphaDex Fund|P|FCAN|Y|100|N|FCAN
 FCAU|Fiat Chrysler Automobiles N.V. Common Shares|N|FCAU|N|100|N|FCAU
 FCB|FCB Financial Holdings, Inc. Class A Common Stock|N|FCB|N|100|N|FCB
 FCE.A|Forest City Enterprises, Inc. Common Stock|N|FCE/A|N|100|N|FCE.A
@@ -1700,9 +1698,7 @@ FFTY|Innovator IBD 50 Fund ETF|P|FFTY|Y|100|N|FFTY
 FGB|First Trust Specialty Finance and Financial Opportunities Fund|N|FGB|N|100|N|FGB
 FGD|First Trust DJ Global Select Dividend|P|FGD|Y|100|N|FGD
 FGL|Fidelity & Guaranty Life Common Stock|N|FGL|N|100|N|FGL
-FGM|First Trust Germany AlphaDex Fund|P|FGM|Y|100|N|FGM
 FGP|Ferrellgas Partners, L.P. Common Stock|N|FGP|N|100|N|FGP
-FHK|First Trust Hong Kong AlphaDex|P|FHK|Y|100|N|FHK
 FHLC|Fidelity MSCI Health Care Index ETF|P|FHLC|Y|100|N|FHLC
 FHN|First Horizon National Corporation Common Stock|N|FHN|N|100|N|FHN
 FHN$A|First Horizon National Corporation Depositary Shares|N|FHNpA|N|100|N|FHN-A
@@ -1727,9 +1723,6 @@ FIT|Fitbit, Inc. Class A Common Stock|N|FIT|N|100|N|FIT
 FIVZ|PIMCO 3-7 Year U.S. Treasury Index Exchange-Traded Fund|P|FIVZ|Y|100|N|FIVZ
 FIW|First Trust ISE Water Index Fund|P|FIW|Y|100|N|FIW
 FIX|Comfort Systems USA, Inc. Common Stock|N|FIX|N|100|N|FIX
-FJP|First Trust Japan AlphaDEX Fund|P|FJP|Y|100|N|FJP
-FKO|First Trust South Korea AlphaDEX Fund|P|FKO|Y|100|N|FKO
-FKU|First Trust United Kingdom AlphaDex Fund|P|FKU|Y|100|N|FKU
 FL|Foot Locker, Inc.|N|FL|N|100|N|FL
 FLAG|Forensic Accounting Exchange Traded Concepts|P|FLAG|Y|100|N|FLAG
 FLC|Flaherty & Crumrine Total Return Fund Inc Common Stock|N|FLC|N|100|N|FLC
@@ -1823,7 +1816,6 @@ FSM|Fortuna Silver Mines Inc Ordinary Shares (Canada)|N|FSM|N|100|N|FSM
 FSP|Franklin Street Properties Corp. Common Stock|A|FSP|N|100|N|FSP
 FSS|Federal Signal Corporation Common Stock|N|FSS|N|100|N|FSS
 FSTA|Fidelity MSCI COnsumer Staples Index ETF|P|FSTA|Y|100|N|FSTA
-FSZ|First Trust Switzerland AlphaDex Fund|P|FSZ|Y|100|N|FSZ
 FT|Franklin Universal Trust Common Stock|N|FT|N|100|N|FT
 FTA|First Trust Large Cap Value AlphaDEX Fund (based onthe Defined Large Cap Value Index symbol DEFILVOI|P|FTA|Y|100|N|FTA
 FTAI|Fortress Transportation and Infrastructure Investors LLC Common Shares|N|FTAI|N|100|N|FTAI
@@ -1835,7 +1827,6 @@ FTK|Flotek Industries, Inc. Common Stock|N|FTK|N|100|N|FTK
 FTLS|First Trust Long/Short Equity|P|FTLS|Y|100|N|FTLS
 FTSD|Franklin Short Duration U.S. Government ETF|P|FTSD|Y|100|N|FTSD
 FTT|Federated Enhanced Treasury Income Fund Common Shares of Beneficial Interest|N|FTT|N|100|N|FTT
-FTW|First Trust Taiwan AlphaDex Fund|P|FTW|Y|100|N|FTW
 FTY|iShares Real Estate 50 ETF|P|FTY|Y|100|N|FTY
 FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Food ETN|P|FUD|N|100|N|FUD
 FUE|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the MLCX Biofuels Index - Total Return Structured Product|P|FUE|N|100|N|FUE
@@ -3157,6 +3148,7 @@ MORE|Monogram Residential Trust, Inc. Common|N|MORE|N|100|N|MORE
 MORL|ETRACS Monthly Pay 2XLeveraged Mortgage REIT ETN|P|MORL|N|100|N|MORL
 MORT|Market Vectors Mortgage REIT Income ETF|P|MORT|Y|100|N|MORT
 MOS|Mosaic Company (The) Common Stock|N|MOS|N|100|N|MOS
+MOTI|Market Vectors Morningstar International Moat ETF|P|MOTI|Y|100|N|MOTI
 MOV|Movado Group Inc. Common Stock|N|MOV|N|100|N|MOV
 MP$D|Mississippi Power Company 5.25 Srs Pfd|N|MPpD|N|100|N|MP-D
 MPA|Blackrock MuniYield Pennsylvania Quality Fund Common Stock|N|MPA|N|100|N|MPA
@@ -3572,6 +3564,7 @@ OSGB|Overseas Shipholding Group, Inc. COM CL B|A|OSGB|N|100|N|OSGB
 OSK|Oshkosh Corporation (Holding Company)Common Stock|N|OSK|N|100|N|OSK
 OSMS|Barclays OFI SteelPath MLP ETN|P|OSMS|N|100|N|OSMS
 OUNZ|Merk Gold Trust ETV|P|OUNZ|Y|100|N|OUNZ
+OUSA|O'Shares FTSE U.S. Quality Dividend ETF|P|OUSA|Y|100|N|OUSA
 OUT|OUTFRONT Media Inc. Common Stock|N|OUT|N|100|N|OUT
 OWW|Orbitz Worldwide, Inc. Common Stock|N|OWW|N|100|N|OWW
 OXM|Oxford Industries, Inc. Common Stock|N|OXM|N|100|N|OXM
@@ -5267,4 +5260,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0713201521:33||||||
+File Creation Time: 0714201521:31||||||
