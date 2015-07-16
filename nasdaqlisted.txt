@@ -1134,7 +1134,7 @@ FTR|Frontier Communications Corporation - Common Stock|Q|N|N|100
 FTRPR|Frontier Communications Corporation - 11.125% Series A Mandatory Convertible Preferred Stock|Q|N|N|100
 FTSL|First Trust Senior Loan Fund ETF|G|N|N|100
 FTSM|First Trust Enhanced Short Maturity ETF|G|N|N|100
-FTW|First Trust Taiwan AlphaDEX Fund |G|N|N|100
+FTW|First Trust Taiwan AlphaDEX Fund|G|N|N|100
 FUEL|Rocket Fuel Inc. - Common Stock|Q|N|N|100
 FULL|Full Circle Capital Corporation - Common Stock|G|N|N|100
 FULLL|Full Circle Capital Corporation - 8.25% Notes due 2020|G|N|N|100
@@ -1843,7 +1843,6 @@ MTSL|MER Telemanagement Solutions Ltd. - Ordinary Shares|S|N|N|100
 MTSN|Mattson Technology, Inc. - Common Stock|Q|N|N|100
 MU|Micron Technology, Inc. - Common Stock|Q|N|N|100
 MULT|AdvisorShares Sunrise Global Multi-Strategy ETF|G|N|N|100
-MVIR|MultiVir Inc. - Common Stock|G|N|N|100
 MVIS|Microvision, Inc. - Common Stock|G|N|N|100
 MXIM|Maxim Integrated Products, Inc. - Common Stock|Q|N|N|100
 MXWL|Maxwell Technologies, Inc. - Common Stock|Q|N|N|100
@@ -2968,7 +2967,6 @@ WLRHW|WL Ross Holding Corp. - Warrant|S|N|N|100
 WMAR|West Marine, Inc. - Common Stock|Q|N|N|100
 WMGI|Wright Medical Group, Inc. - Common Stock|Q|N|N|100
 WMGIZ|Wright Medical Group, Inc. - Contingent Value Right|G|N|N|100
-WNFM|Wayne Farms, Inc. - Class A Common Stock|Q|N|N|100
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100
 WOOF|VCA Inc.  - Common Stock|Q|N|N|100
 WOWO|Wowo Limited - ADS|G|N|N|100
@@ -3057,4 +3055,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0714201521:31|||||
+File Creation Time: 0715201521:33|||||
