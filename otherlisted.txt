@@ -657,7 +657,6 @@ BZF|WisdomTree Brazilian Real Strategy Fund|P|BZF|Y|100|N|BZF
 BZH|Beazer Homes USA, Inc. Common Stock|N|BZH|N|100|N|BZH
 BZM|BlackRock Maryland Municipal Bond Trust Common shares of beneficial interest|A|BZM|N|100|N|BZM
 BZQ|ProShares UltraShort MSCI Brazil Capped|P|BZQ|Y|100|N|BZQ
-BZT|Beazer Homes USA, Inc. Tangible Equity Unit|N|BZT|N|100|N|BZT
 C|Citigroup, Inc. Common Stock|N|C|N|100|N|C
 C$C|Citigroup Inc. Depositary Shares representing 1/1000 Series C Noncumulative Preferred Stock (United States)|N|CpC|N|100|N|C-C
 C$J|Citigroup Inc. Dep Shs Repstg 1/1000 Pfd Ser J Fixed/Fltg|N|CpJ|N|100|N|C-J
@@ -1144,7 +1143,6 @@ DHF|Dreyfus High Yield Strategies Fund Common Stock|N|DHF|N|100|N|DHF
 DHG|Deutsche High Income Opportunities Fund, Inc  New Common Stock|N|DHG|N|100|N|DHG
 DHI|D.R. Horton, Inc. Common Stock|N|DHI|N|100|N|DHI
 DHR|Danaher Corporation Common Stock|N|DHR|N|100|N|DHR
-DHR.Z|Danaher Corporation Common Stock When Distributed|N|DHR/WD|N|100|N|DHR$
 DHS|WisdomTree High-Yielding Equity Fund|P|DHS|Y|100|N|DHS
 DHT|DHT Holdings, Inc.|N|DHT|N|100|N|DHT
 DHVW|Diamond Hill Valuation-Weighted 500 ETF|P|DHVW|Y|100|N|DHVW
@@ -2380,7 +2378,6 @@ ICSH|iShares Liquidity Income ETF|Z|ICSH|Y|100|N|ICSH
 ICVT|iShares Convertible Bond ETF|Z|ICVT|Y|100|N|ICVT
 IDA|IDACORP, Inc. Common Stock|N|IDA|N|100|N|IDA
 IDE|Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest|N|IDE|N|100|N|IDE
-IDG|ING GROEP N V PREF CTF 7.3750% Perp Hybrid Cap Secs (Netherlands)|N|IDG/CL|N|100|N|IDG*
 IDHB|PowerShares S&P International Developed High Beta Portfolio Exchange Traded Fund|P|IDHB|Y|100|N|IDHB
 IDHQ|PowerShares S&P International Developed High Quality Portfolio (S&P International Developed High Quality Ranking Index--index symbol SPIDHQR)|P|IDHQ|Y|100|N|IDHQ
 IDI|IDI, Inc.|A|IDI|N|100|N|IDI
@@ -2959,7 +2956,6 @@ LXP$C|Lexington Realty Trust  Preferred Conv. Series C|N|LXPpC|N|100|N|LXP-C
 LXU|LSB Industries, Inc. Common Stock|N|LXU|N|100|N|LXU
 LYB|LyondellBasell Industries NV Ordinary Shares Class A (Netherlands)|N|LYB|N|100|N|LYB
 LYG|Lloyds Banking Group Plc American Depositary Shares|N|LYG|N|100|N|LYG
-LYG$A|Lloyds Banking Group Plc 7.75% Public Income NotES (PINES) due July 15, 2050|N|LYGpA/CL|N|100|N|LYG-A*
 LYV|Live Nation Entertainment, Inc. Common Stock|N|LYV|N|100|N|LYV
 LZB|La-Z-Boy Incorporated Common Stock|N|LZB|N|100|N|LZB
 M|Macy's Inc Common Stock|N|M|N|100|N|M
@@ -3107,6 +3103,7 @@ MLPL|UBS AG 2X Monthly Leveraged Long Exchnage Traded Access Securities (E-TRACS
 MLPN|Credit Suisse X-Links Cushings MLP Infrastructure due April 20, 2020 Linked to the Cushing 30 MLP Index|P|MLPN|N|100|N|MLPN
 MLPO|Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S&P MLP Index|P|MLPO|N|100|N|MLPO
 MLPS|UBS AG  1xMonthly Short Exchange Traded Access Securities (E-TRACS) Linked to the Alerian MLP Infrastructure Total Return Index due October 1, 2040|P|MLPS|N|100|N|MLPS
+MLPV|ETRACS 2xMonthly Leveraged S&P MLP Index ETN due July 14, 2045|P|MLPV|Y|100|N|MLPV
 MLPW|UBS AG Exchange Traded Access Securities (E0TRACS) Linked to the Wells fargo MLP Index due October 29, 2040|P|MLPW|N|100|N|MLPW
 MLPX|Global X MLP & Energy Infrastructure ETF|P|MLPX|Y|100|N|MLPX
 MLPY|Morgan Stanley Cushing MLP High Income Index ETN|P|MLPY|N|100|N|MLPY
@@ -5260,4 +5257,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0714201521:31||||||
+File Creation Time: 0715201521:33||||||
