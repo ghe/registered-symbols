@@ -19,7 +19,7 @@ ABDC|Alcentra Capital Corp. - Common Stock|Q|N|N|100
 ABEO|Abeona Therapeutics Inc. - Common Stock|S|N|N|100
 ABEOW|Abeona Therapeutics Inc. - Warrant|S|N|N|100
 ABGB|Abengoa, S.A. - American Depositary Shares|Q|N|N|100
-ABIO|ARCA biopharma, Inc. - Common Stock|S|N|D|100
+ABIO|ARCA biopharma, Inc. - Common Stock|S|N|N|100
 ABMD|ABIOMED, Inc. - Common Stock|Q|N|N|100
 ABTL|Autobytel Inc. - Common Stock|S|N|N|100
 ABY|Abengoa Yield plc - Ordinary Shares|Q|N|N|100
@@ -304,6 +304,7 @@ BBRG|Bravo Brio Restaurant Group, Inc. - Common Stock|Q|N|N|100
 BBRY|BlackBerry Limited - Common Stock|Q|N|N|100
 BBSI|Barrett Business Services, Inc. - Common Stock|Q|N|N|100
 BCBP|BCB Bancorp, Inc. (NJ) - Common Stock|G|N|N|100
+BCDA|BioCardia, Inc. - Common Stock|G|N|N|100
 BCLI|Brainstorm Cell Therapeutics Inc. - Common Stock|S|N|N|100
 BCOM|B Communications Ltd. - Ordinary Shares|Q|N|N|100
 BCOR|Blucora, Inc. - Common Stock|Q|N|N|100
@@ -470,7 +471,7 @@ CBAN|Colony Bankcorp, Inc. - Common Stock|G|N|N|100
 CBAY|CymaBay Therapeutics Inc. - Common Stock|S|N|N|100
 CBF|Capital Bank Financial Corp. - Class A Common Stock|Q|N|N|100
 CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100
-CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|D|100
+CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|N|100
 CBMG|Cellular Biomedicine Group, Inc. - Common Stock|G|N|N|100
 CBMX|CombiMatrix Corporation - Common Stock|S|N|N|100
 CBNJ|Cape Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -551,6 +552,7 @@ CHI|Calamos Convertible Opportunities and Income Fund - Common Stock|Q|N|N|100
 CHKE|Cherokee Inc. - Common Stock|Q|N|N|100
 CHKP|Check Point Software Technologies Ltd. - Ordinary Shares|Q|N|N|100
 CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|N|100
+CHMA|Chiasma, Inc. - Common Stock|Q|N|N|100
 CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100
 CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100
 CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|E|100
@@ -811,6 +813,7 @@ DLTR|Dollar Tree, Inc. - Common Stock|Q|N|N|100
 DMLP|Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests|Q|N|N|100
 DMND|Diamond Foods, Inc. - Common Stock|Q|N|N|100
 DMRC|Digimarc Corporation - Common Stock|Q|N|N|100
+DNAI|ProNAi Therapeutics, Inc. - Common Stock|G|N|N|100
 DNBF|DNB Financial Corp - Common Stock|S|N|N|100
 DNKN|Dunkin' Brands Group, Inc. - Common Stock|Q|N|N|100
 DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100
@@ -1663,7 +1666,7 @@ LPNT|LifePoint Health, Inc. - Common Stock|Q|N|N|100
 LPSB|LaPorte Bancorp, Inc. - Common Stock|S|N|N|100
 LPSN|LivePerson, Inc. - Common Stock|Q|N|N|100
 LPTH|LightPath Technologies, Inc. - Class A Common Stock|S|N|N|100
-LPTN|Lpath, Inc. - Class A Common Stock|S|N|N|100
+LPTN|Lpath, Inc. - Class A Common Stock|S|N|D|100
 LQDT|Liquidity Services, Inc. - Common Stock|Q|N|N|100
 LRAD|LRAD Corporation - Common Stock|S|N|N|100
 LRCX|Lam Research Corporation - Common Stock|Q|N|N|100
@@ -1988,6 +1991,7 @@ OIIM|O2Micro International Limited - Ordinary Shares each 50 shares of which are
 OKSB|Southwest Bancorp, Inc. - Common Stock|Q|N|N|100
 OLBK|Old Line Bancshares, Inc. - Common Stock|S|N|N|100
 OLED|Universal Display Corporation - Common Stock|Q|N|N|100
+OLLI|Ollie's Bargain Outlet Holdings, Inc. - Common Stock|G|N|N|100
 OMAB|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares|Q|N|N|100
 OMCL|Omnicell, Inc. - Common Stock|Q|N|N|100
 OMED|OncoMed Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -2218,6 +2222,7 @@ PTXP|PennTex Midstream Partners, LP - Common Units Representing Limited Partners
 PUB|People's Utah Bancorp - Common Stock|S|N|N|100
 PULB|Pulaski Financial Corp. - Common Stock|Q|N|N|100
 PULM|Pulmatrix, Inc. - Common Stock|S|N|N|100
+PVBC|Provident Bancorp, Inc. - Common Stock|S|N|N|100
 PVTB|PrivateBancorp, Inc. - Common Stock|Q|N|N|100
 PVTBP|PrivateBancorp, Inc. - PrivateBancorp Capital Trust IV - 10% Trust Preferred|Q|N|N|100
 PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -2317,6 +2322,7 @@ RIBT|RiceBran Technologies - Common Stock|S|N|N|100
 RIBTW|RiceBran Technologies - Warrant|S|N|N|100
 RICK|RCI Hospitality Holdings, Inc. - Common Stock|G|N|N|100
 RIGL|Rigel Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
+RILY|B. Riley Financial, Inc. - Common Stock|S|N|N|100
 RITT|RIT Technologies Ltd. - ordinary shares|S|N|N|100
 RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
@@ -2970,7 +2976,7 @@ WMGIZ|Wright Medical Group, Inc. - Contingent Value Right|G|N|N|100
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100
 WOOF|VCA Inc.  - Common Stock|Q|N|N|100
 WOWO|Wowo Limited - ADS|G|N|N|100
-WPCS|WPCS International Incorporated - Common Stock|S|N|D|100
+WPCS|WPCS International Incorporated - Common Stock|S|N|N|100
 WPPGY|WPP plc - American Depositary Shares each representing five Ordinary Shares|Q|N|N|100
 WPRT|Westport Innovations Inc - Ordinary Shares|Q|N|N|100
 WRES|Warren Resources, Inc. - Common Stock|Q|N|D|100
@@ -3055,4 +3061,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0715201521:33|||||
+File Creation Time: 0716201521:32|||||
