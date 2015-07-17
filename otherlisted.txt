@@ -430,6 +430,7 @@ BCS$C|Barclays PLC American Depositary Shares Series 4|N|BCSpC|N|100|N|BCS-C
 BCS$D|Barclays PLC American Depositary Shares (Each representing Non-Cumulative Callable Dollar Preference Shares, Series 5|N|BCSpD|N|100|N|BCS-D
 BCV|Bancroft Fund, Ltd.|A|BCV|N|100|N|BCV
 BCX|BlackRock Resources Common Shares of Beneficial Interest|N|BCX|N|100|N|BCX
+BDAT|PureFunds ISE Big Data ETF|P|BDAT|Y|100|N|BDAT
 BDC|Belden Inc Common Stock|N|BDC|N|100|N|BDC
 BDCL|2xLeveraged Long Exchange Traded Access Securities (E-TRACS) Linked to the Wells Fargo Business Development Company Index due May 24, 2041|P|BDCL|N|100|N|BDCL
 BDCS|UBS AG Exchange Traded Access Securities (E TRACS) Linked to the Wells Fargo Business Development Company Index due April 26, 2041|P|BDCS|N|100|N|BDCS
@@ -2497,6 +2498,7 @@ IOO|iShares Global 100 ETF|P|IOO|Y|100|N|IOO
 IOT|Income Opportunity Realty Investors, Inc. Common Stock|A|IOT|N|100|N|IOT
 IP|International Paper Company Common Stock|N|IP|N|100|N|IP
 IPAC|iShares Core MSCI Pacific ETF|P|IPAC|Y|100|N|IPAC
+IPAY|PureFunds ISE Mobile Payments ETF|P|IPAY|Y|100|N|IPAY
 IPB|Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1|A|IPB|N|100|N|IPB
 IPD|SPDR S&P International Consumer Discretionary Sector ETF|P|IPD|Y|100|N|IPD
 IPE|SPDR Barclays TIPS ETF|P|IPE|Y|100|N|IPE
@@ -2690,6 +2692,7 @@ JOE|St. Joe Company (The) Common Stock|N|JOE|N|100|N|JOE
 JOF|Japan Smaller Capitalization Fund Inc Common Stock|N|JOF|N|100|N|JOF
 JONE|Jones Energy, Inc. Class A Common Stock|N|JONE|N|100|N|JONE
 JOY|Joy Global Inc. Common Stock|N|JOY|N|100|N|JOY
+JP|Jupai Holdings Limited American Depositary Shares, each representing six ordinary shares|N|JP|N|100|N|JP
 JPC|Nuveen  Preferred Income Opportunities Fund|N|JPC|N|100|N|JPC
 JPEM|JPMorgan Diversified Return Emerging Markets Equity ETF|P|JPEM|Y|100|N|JPEM
 JPEP|JP Energy Partners LP Common units representing limited partner interests|N|JPEP|N|100|N|JPEP
@@ -3103,7 +3106,7 @@ MLPL|UBS AG 2X Monthly Leveraged Long Exchnage Traded Access Securities (E-TRACS
 MLPN|Credit Suisse X-Links Cushings MLP Infrastructure due April 20, 2020 Linked to the Cushing 30 MLP Index|P|MLPN|N|100|N|MLPN
 MLPO|Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S&P MLP Index|P|MLPO|N|100|N|MLPO
 MLPS|UBS AG  1xMonthly Short Exchange Traded Access Securities (E-TRACS) Linked to the Alerian MLP Infrastructure Total Return Index due October 1, 2040|P|MLPS|N|100|N|MLPS
-MLPV|ETRACS 2xMonthly Leveraged S&P MLP Index ETN due July 14, 2045|P|MLPV|Y|100|N|MLPV
+MLPV|ETRACS 2xMonthly Leveraged S&P MLP Index ETN due July 14, 2045|P|MLPV|N|100|N|MLPV
 MLPW|UBS AG Exchange Traded Access Securities (E0TRACS) Linked to the Wells fargo MLP Index due October 29, 2040|P|MLPW|N|100|N|MLPW
 MLPX|Global X MLP & Energy Infrastructure ETF|P|MLPX|Y|100|N|MLPX
 MLPY|Morgan Stanley Cushing MLP High Income Index ETN|P|MLPY|N|100|N|MLPY
@@ -5257,4 +5260,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0715201521:33||||||
+File Creation Time: 0716201521:32||||||
