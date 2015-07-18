@@ -226,7 +226,6 @@ ANH$A|Anworth Mortgage Asset Corporation Series A Preferred Stock|N|ANHpA|N|100|
 ANH$B|Anworth Mortgage Asset  Corporation Preferred Stock Series B 6.25%|N|ANHpB|N|100|N|ANH-B
 ANH$C|Anworth Mortgage Asset  Corporation 7.625% Series C Cumulative Redeemable  Preferred Stock|N|ANHpC|N|100|N|ANH-C
 ANN|ANN INC. Common Stock|N|ANN|N|100|N|ANN
-ANR|Alpha Natural Resources, inc. comm stock|N|ANR|N|100|N|ANR
 ANTM|Anthem, Inc. Common Stock|N|ANTM|N|100|N|ANTM
 ANTX|Anthem, Inc. Corporate Units|N|ANTX|N|100|N|ANTX
 ANW|Aegean Marine Petroleum Network Inc. Common Stock|N|ANW|N|100|N|ANW
@@ -250,7 +249,7 @@ APLE|Apple Hospitality REIT, Inc. Common Shares|N|APLE|N|100|N|APLE
 APO|Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests|N|APO|N|100|N|APO
 APP|American Apparel Inc Common Stock|A|APP|N|100|N|APP
 APT|Alpha Pro Tech, Ltd. Common Stock|A|APT|N|100|N|APT
-APTS|Preferred Apartment Communities, Inc. Common Stock|A|APTS|N|100|N|APTS
+APTS|Preferred Apartment Communities, Inc. Common Stock|N|APTS|N|100|N|APTS
 APU|AmeriGas Partners, L.P. Common Stock|N|APU|N|100|N|APU
 AR|Antero Resources Corporation Common Stock|N|AR|N|100|N|AR
 ARC|ARC Document Solutions, Inc. Common Stock|N|ARC|N|100|N|ARC
@@ -1005,7 +1004,7 @@ CVA|Covanta Holding Corporation Common Stock|N|CVA|N|100|N|CVA
 CVB|Lehman ABS Corporation 7.75% Corp Backed Tr Ctfs, Kinder Morgan Debenture-Backed  series 2002-6|N|CVB|N|100|N|CVB
 CVC|Cablevision Systems Corporation Class A Common Stock|N|CVC|N|100|N|CVC
 CVE|Cenovus Energy Inc Common Stock|N|CVE|N|100|N|CVE
-CVEO|Civeo Corporation Common Stock|N|CVEO|N|100|N|CVEO
+CVEO|Civeo Corporation (Canada) Common Shares|N|CVEO|N|100|N|CVEO
 CVG|Convergys Corporation Common Stock|N|CVG|N|100|N|CVG
 CVI|CVR Energy Inc. Common Stock|N|CVI|N|100|N|CVI
 CVM|Cel-Sci Corporation Common Stock ($0.001 Par Value)|A|CVM|N|100|N|CVM
@@ -3550,6 +3549,7 @@ ONEK|SPDR Russell 1000 ETF|P|ONEK|Y|100|N|ONEK
 ONG|iPath Pure Beta Energy ETN|P|ONG|N|100|N|ONG
 ONP|Orient Paper, Inc. NEW Common Stock|A|ONP|N|100|N|ONP
 ONVO|Organovo Holdings, Inc. Common Stock|A|ONVO|N|100|N|ONVO
+OOMA|Ooma, Inc. Common Stock|N|OOMA|N|100|N|OOMA
 OPK|OPKO Health Inc. Common Stock|N|OPK|N|100|N|OPK
 OPWR|Opower, Inc. Common Stock|N|OPWR|N|100|N|OPWR
 OPY|Oppenheimer Holdings, Inc. Class A Common Stock (DE)|N|OPY|N|100|N|OPY
@@ -5260,4 +5260,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0716201521:32||||||
+File Creation Time: 0717201521:33||||||
