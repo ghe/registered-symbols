@@ -705,7 +705,7 @@ CSPI|CSP Inc. - Common Stock|G|N|N|100
 CSQ|Calamos Strategic Total Return Fund - Common Stock|Q|N|N|100
 CSRE|CSR plc - American Depositary Shares|Q|N|N|100
 CSTE|CaesarStone Sdot-Yam Ltd. - Ordinary Shares|Q|N|N|100
-CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|E|100
+CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|N|100
 CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -864,7 +864,6 @@ EA|Electronic Arts Inc. - Common Stock|Q|N|N|100
 EAC|Erickson Incorporated - Common Stock|G|N|N|100
 EARS|Auris Medical Holding AG - Common Shares|G|N|N|100
 EBAY|eBay Inc. - Common Stock|Q|N|N|100
-EBAYV|eBay Inc. - Common Stock Ex-Distribution When Issued|Q|N|N|100
 EBIO|Eleven Biotherapeutics, Inc. - Common Stock|G|N|N|100
 EBIX|Ebix, Inc. - Common Stock|Q|N|N|100
 EBMT|Eagle Bancorp Montana, Inc. - Common Stock|G|N|N|100
@@ -1198,7 +1197,6 @@ GIII|G-III Apparel Group, LTD. - Common Stock|Q|N|N|100
 GILD|Gilead Sciences, Inc. - Common Stock|Q|N|N|100
 GILT|Gilat Satellite Networks Ltd. - Ordinary Shares|Q|N|N|100
 GK|G&K Services, Inc. - Class A Common Stock|Q|N|N|100
-GKNT|Geeknet, Inc. - Common Stock|G|N|N|100
 GLAD|Gladstone Capital Corporation - Business Development Company|Q|N|N|100
 GLADO|Gladstone Capital Corporation - Term Preferred Shares, 6.75% Series 2021|Q|N|N|100
 GLBS|Globus Maritime Limited - Common Stock|G|N|N|100
@@ -1736,7 +1734,7 @@ MDLZ|Mondelez International, Inc. - Class A Common Stock|Q|N|N|100
 MDM|Mountain Province Diamonds Inc. - Common Stock|Q|N|N|100
 MDRX|Allscripts Healthcare Solutions, Inc. - common stock|Q|N|N|100
 MDSO|Medidata Solutions, Inc. - Common Stock|Q|N|N|100
-MDSY|ModSys International Ltd. - Ordinary Shares|G|N|N|100
+MDSY|ModSys International Ltd. - Ordinary Shares|G|N|D|100
 MDVN|Medivation, Inc. - Common Stock|Q|N|N|100
 MDVX|Medovex Corp. - Common Stock|S|N|N|100
 MDVXW|Medovex Corp. - Class A Warrant|S|N|N|100
@@ -2231,7 +2229,7 @@ PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
 PWRD|Perfect World Co., Ltd. - American Depositary Shares, each representing five Class B ordinary shares|Q|N|N|100
 PWX|Providence and Worcester Railroad Company - Common Stock|G|N|N|100
 PXLW|Pixelworks, Inc. - Common Stock|G|N|N|100
-PYPLV|PayPal Holdings, Inc. - Common Stock When Issued|Q|N|N|100
+PYPL|PayPal Holdings, Inc. - Common Stock|Q|N|N|100
 PZZA|Papa John'S International, Inc. - Common Stock|Q|N|N|100
 QABA|First Trust NASDAQ ABA Community Bank Index Fund|G|N|N|100
 QADA|QAD Inc. - Class A Common Stock|Q|N|N|100
@@ -3064,4 +3062,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0717201521:33|||||
+File Creation Time: 0720201521:32|||||
