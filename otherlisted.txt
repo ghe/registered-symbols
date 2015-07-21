@@ -385,7 +385,6 @@ BAF|BlackRock Municipal Income Investment Quality Trust|N|BAF|N|100|N|BAF
 BAH|Booz Allen Hamilton Holding Corporation Common Stock|N|BAH|N|100|N|BAH
 BAK|Braskem SA ADR|N|BAK|N|100|N|BAK
 BAL|iPath Bloomberg Cotton Subindex Total Return SM Index ETN|P|BAL|N|100|N|BAL
-BALT|Baltic Trading Limited Common Stock|N|BALT|N|100|N|BALT
 BAM|Brookfield Asset Management Inc. Common Stock|N|BAM|N|100|N|BAM
 BANC|Banc of California, Inc. Common Stock|N|BANC|N|100|N|BANC
 BANC$C|Banc of California, Inc. Depositary Shares|N|BANCpC|N|100|N|BANC-C
@@ -1749,7 +1748,7 @@ FMLP|ETRACS Wells Fargo MLP Ex-Energy ETN|P|FMLP|N|100|N|FMLP
 FMN|Federated Premier Municipal Income Fund Federated Premier Municipal Income Fund|N|FMN|N|100|N|FMN
 FMO|Fiduciary/Claymore MLP Opportunity Fund Fiduciary/Claymore MLP Opportunity Fund Common Shares of Beneficial Interest|N|FMO|N|100|N|FMO
 FMS|Fresenius Medical Care AG Common Stock|N|FMS|N|100|N|FMS
-FMSA|FMSA Holdings Inc. Common Stock|N|FMSA|N|100|N|FMSA
+FMSA|Fairmount Santrol Holdings Inc. Common Stock|N|FMSA|N|100|N|FMSA
 FMX|Fomento Economico Mexicano S.A.B. de C.V. Common Stock|N|FMX|N|100|N|FMX
 FMY|First Trust Motgage Income Fund Common Shares of Beneficial Interest|N|FMY|N|100|N|FMY
 FN|Fabrinet Ordinary Shares|N|FN|N|100|N|FN
@@ -2009,6 +2008,7 @@ GNAT|WisdomTree Global Natural Resources International Index|P|GNAT|Y|100|N|GNAT
 GNC|GNC Holdings, Inc. Class A Common Stock|N|GNC|N|100|N|GNC
 GNE|Genie Energy Ltd. Class B Common Stock Stock|N|GNE|N|100|N|GNE
 GNE$A|Genie Energy Ltd. Series 2012 - A Preferred Stock, $0.01 par value|N|GNEpA|N|100|N|GNE-A
+GNK|Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)|N|GNK|N|100|N|GNK
 GNL|Global Net Lease, Inc. Common Stock|N|GNL|N|100|N|GNL
 GNR|SPDR S&P Global Natural Resources ETF|P|GNR|Y|100|N|GNR
 GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
@@ -5260,4 +5260,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0717201521:33||||||
+File Creation Time: 0720201521:32||||||
