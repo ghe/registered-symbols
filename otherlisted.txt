@@ -1721,7 +1721,6 @@ FIVZ|PIMCO 3-7 Year U.S. Treasury Index Exchange-Traded Fund|P|FIVZ|Y|100|N|FIVZ
 FIW|First Trust ISE Water Index Fund|P|FIW|Y|100|N|FIW
 FIX|Comfort Systems USA, Inc. Common Stock|N|FIX|N|100|N|FIX
 FL|Foot Locker, Inc.|N|FL|N|100|N|FL
-FLAG|Forensic Accounting Exchange Traded Concepts|P|FLAG|Y|100|N|FLAG
 FLC|Flaherty & Crumrine Total Return Fund Inc Common Stock|N|FLC|N|100|N|FLC
 FLGE|Credit Suisse FI Large Cap Growth Enhanced ETN|P|FLGE|N|100|N|FLGE
 FLM|First Trust ISE Glb Engnrg And Const Idx|P|FLM|Y|100|N|FLM
@@ -4874,8 +4873,10 @@ USMV|iShares MSCI USA Minimum Volatility ETF|P|USMV|Y|100|N|USMV
 USNA|USANA Health Sciences, Inc. Common Stock|N|USNA|N|100|N|USNA
 USO|United States Oil Fund|P|USO|Y|100|N|USO
 USPH|U.S. Physical Therapy, Inc. Common Stock|N|USPH|N|100|N|USPH
+USSD|WisdomTree Strong Dollar U.S. Equity Fund|P|USSD|Y|100|N|USSD
 UST|ProShares Ultra 7-10 Year Treasury|P|UST|Y|100|N|UST
 USV|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Silver ETN|P|USV|N|100|N|USV
+USWD|WisdomTree Weak Dollar U.S. Equity Fund|P|USWD|Y|100|N|USWD
 UTF|Cohen & Steers Infrastructure Fund, Inc Common Stock|N|UTF|N|100|N|UTF
 UTG|Reaves Utility Income Fund Common Shares of Beneficial Interest|A|UTG|N|100|N|UTG
 UTI|Universal Technical Institute Inc Common Stock|N|UTI|N|100|N|UTI
@@ -5260,4 +5261,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0720201521:32||||||
+File Creation Time: 0721201521:32||||||
