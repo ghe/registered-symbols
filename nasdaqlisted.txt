@@ -499,6 +499,9 @@ CDK|CDK Global, Inc. - Common Stock|Q|N|N|100
 CDL|Compass EMP US Large Cap High Dividend 100 Volatility Weighted Index ETF|G|N|N|100
 CDNA|CareDx, Inc. - Common Stock|G|N|N|100
 CDNS|Cadence Design Systems, Inc. - Common Stock|Q|N|N|100
+CDOR|Condor Hospitality Trust, Inc. - Common Stock|G|N|N|100
+CDORO|Condor Hospitality Trust, Inc. - Series B Cumulative Preferred Stock|G|N|N|100
+CDORP|Condor Hospitality Trust, Inc. - Series A Convertible Preferred Stock|G|N|N|100
 CDRB|Code Rebel Corporation - Common Stock|S|N|N|100
 CDTI|Clean Diesel Technologies, Inc. - Common Stock|S|N|N|100
 CDTX|Cidara Therapeutics, Inc. - Common Stock|G|N|N|100
@@ -1044,7 +1047,7 @@ FFNW|First Financial Northwest, Inc. - Common Stock|Q|N|N|100
 FFWM|First Foundation Inc. - Common Stock|G|N|N|100
 FGEN|FibroGen, Inc - Common Stock|Q|N|N|100
 FGM|First Trust Germany AlphaDEX Fund|G|N|N|100
-FHCO|Female Health Company (The) - Common Stock|S|N|D|100
+FHCO|Female Health Company (The) - Common Stock|S|N|N|100
 FHK|First Trust Hong Kong AlphaDEX Fund|G|N|N|100
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100
 FINL|The Finish Line, Inc. - Class A Common Stock|Q|N|N|100
@@ -1058,6 +1061,7 @@ FIZZ|National Beverage Corp. - Common Stock|Q|N|N|100
 FJP|First Trust Japan AlphaDEX Fund|G|N|N|100
 FKO|First Trust South Korea AlphaDEX Fund|G|N|N|100
 FKU|First Trust United Kingdom AlphaDEX Fund|G|N|N|100
+FLAG|Forensic Accounting ETF|G|N|N|100
 FLAT|Barclays PLC - iPath US Treasury Flattener ETN|G|N|N|100
 FLDM|Fluidigm Corporation - Common Stock|Q|N|N|100
 FLEX|Flextronics International Ltd. - Ordinary Shares|Q|N|N|100
@@ -2349,7 +2353,6 @@ ROIQU|ROI Acquisition Corp. II - Units|S|N|D|100
 ROIQW|ROI Acquisition Corp. II - Warrants|S|N|D|100
 ROKA|Roka Bioscience, Inc. - Common Stock|G|N|N|100
 ROLL|RBC Bearings Incorporated - Common Stock|Q|N|N|100
-ROSE|Rosetta Resources Inc. - Common Stock|Q|N|N|100
 ROSG|Rosetta Genomics Ltd. - ordinary shares|S|N|N|100
 ROST|Ross Stores, Inc. - Common Stock|Q|N|N|100
 ROVI|Rovi Corporation - Common Stock|Q|N|N|100
@@ -2558,9 +2561,6 @@ SPNE|SeaSpine Holdings Corporation - Common Stock|Q|N|N|100
 SPNS|Sapiens International Corporation N.V. - Common Shares|S|N|N|100
 SPOK|Spok Holdings, Inc. - Common Stock|Q|N|N|100
 SPPI|Spectrum Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
-SPPR|Supertel Hospitality, Inc. - Common Stock|G|N|N|100
-SPPRO|Supertel Hospitality, Inc. - Series B Cumulative Preferred Stock|G|N|N|100
-SPPRP|Supertel Hospitality, Inc. - Series A Convertible Preferred Stock|G|N|N|100
 SPRO|SmartPros Ltd. - Common Stock|S|N|N|100
 SPRT|support.com, Inc. - Common Stock|Q|N|N|100
 SPSC|SPS Commerce, Inc. - Common Stock|Q|N|N|100
@@ -3062,4 +3062,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0720201521:32|||||
+File Creation Time: 0721201521:32|||||
