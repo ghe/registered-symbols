@@ -2185,6 +2185,9 @@ HEZU|iShares Currency Hedged MSCI Eurozone ETF|P|HEZU|Y|100|N|HEZU
 HF|HFF, Inc. Common Stock, Class A|N|HF|N|100|N|HF
 HFC|HollyFrontier Corporation Common Stock|N|HFC|N|100|N|HFC
 HFEZ|SPDR EURO STOXX 50 Currency Hedged ETF|P|HFEZ|Y|100|N|HFEZ
+HFXE|IQ 50 Percent Hedged FTSE Europe ETF|P|HFXE|Y|100|N|HFXE
+HFXI|IQ 50 Percent Hedged FTSE International ETF|P|HFXI|Y|100|N|HFXI
+HFXJ|IQ 50 Percent Hedged FTSE Japan ETF|P|HFXJ|Y|100|N|HFXJ
 HGEU|ProShares Hedged FTSE Europe ETF|P|HGEU|Y|100|N|HGEU
 HGG|HHGregg, Inc. Common Stock|N|HGG|N|100|N|HGG
 HGH|Hartford Financial Services Group, Inc. (The) 7.875% Fixed to Floating Rate Junior Subordinated Debentures due 2042|N|HGH|N|100|N|HGH
@@ -5261,4 +5264,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0721201521:32||||||
+File Creation Time: 0722201521:32||||||
