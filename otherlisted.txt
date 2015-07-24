@@ -510,6 +510,7 @@ BKK|Blackrock Municipal 2020 Term Trust|N|BKK|N|100|N|BKK
 BKLN|PowerShares Exchange-Traded Fund Trust ETF|P|BKLN|Y|100|N|BKLN
 BKN|BlackRock Investment Quality Municipal Trust Inc. (The)|N|BKN|N|100|N|BKN
 BKS|Barnes & Noble, Inc. Common Stock|N|BKS|N|100|N|BKS
+BKS.V|Barnes & Noble, Inc. Common Stock Ex-Distribution When Issued|N|BKSw|N|100|N|BKS#
 BKT|BlackRock Income Trust Inc. (The)|N|BKT|N|100|N|BKT
 BKU|BankUnited, Inc. Common Stock|N|BKU|N|100|N|BKU
 BLD|TopBuild Corp. Common Stock|N|BLD|N|100|N|BLD
@@ -537,6 +538,7 @@ BMR|Biomed Realty Trust Common Stock|N|BMR|N|100|N|BMR
 BMS|Bemis Company, Inc. Common Stock|N|BMS|N|100|N|BMS
 BMY|Bristol-Myers Squibb Company Common Stock|N|BMY|N|100|N|BMY
 BND|Vanguard Total Bond Market ETF|P|BND|Y|100|N|BND
+BNED.V|Barnes & Noble Education, Inc Common Stock When Issued|N|BNEDw|N|100|N|BNED#
 BNJ|BlackRock New Jersey Municipal Income Trust|N|BNJ|N|100|N|BNJ
 BNK|C1 Financial, Inc. Common Stock|N|BNK|N|100|N|BNK
 BNO|United States Brent Oil Fund, LP ETV|P|BNO|Y|100|N|BNO
@@ -837,6 +839,7 @@ CLV|Cliffs Natural Resources Inc. Depositary Shares Representing 1/40th Preferre
 CLW|Clearwater Paper Corporation Common Stock|N|CLW|N|100|N|CLW
 CLX|Clorox Company (The) Common Stock|N|CLX|N|100|N|CLX
 CLY|iShares 10  Year Credit Bond ETF|P|CLY|Y|100|N|CLY
+CLYH|iShares Interest Rate Hedged 10  Year Credit Bond ETF|P|CLYH|Y|100|N|CLYH
 CM|Canadian Imperial Bank of Commerce Common Stock|N|CM|N|100|N|CM
 CMA|Comerica Incorporated Common Stock|N|CMA|N|100|N|CMA
 CMA.W|Comerica Incorporated Warrant expiring November 14, 2018|N|CMA/WS|N|100|N|CMA+
@@ -1399,6 +1402,7 @@ EMAG|Market Vectors Emerging Markets Aggregate Bond ETF|P|EMAG|Y|100|N|EMAG
 EMAN|eMagin Corporation Common Stock|A|EMAN|N|100|N|EMAN
 EMB|iShares J,P. Morgan USD Emerging Markets Bond ETF|P|EMB|Y|100|N|EMB
 EMBB|SPDR MSCI EM Beyond BRIC ETF|P|EMBB|Y|100|N|EMBB
+EMBH|iShares Interest Rate Hedged Emerging Markets Bond ETF|P|EMBH|Y|100|N|EMBH
 EMC|EMC Corporation Common Stock|N|EMC|N|100|N|EMC
 EMCD|SPDR BofA Merrill Emerging Markets Corporate Bond ETF|P|EMCD|Y|100|N|EMCD
 EMCR|EGShares Emerging Markets CORE ETF|P|EMCR|Y|100|N|EMCR
@@ -3904,7 +3908,6 @@ QEH|AdvisorShares QAM Equity Hedge|P|QEH|Y|100|N|QEH
 QEM|Market Vectors MSCI Emerging Markets Quality ETF|P|QEM|Y|100|N|QEM
 QEMM|SPDR MSCI Emerging Markets Quality Mix ETF|P|QEMM|Y|100|N|QEMM
 QEP|QEP Resources, Inc. Common Stock|N|QEP|N|100|N|QEP
-QEPM|QEP Midstream Partners, LP Common Units representing Limited Partner Interests|N|QEPM|N|100|N|QEPM
 QESP|SPDR MSCI Spain Quality Mix ETF|P|QESP|Y|100|N|QESP
 QGBR|SPDR MSCI United Kingdom Quality Mix ETF|P|QGBR|Y|100|N|QGBR
 QID|ProShares UltraShort QQQ|P|QID|Y|100|N|QID
@@ -4103,7 +4106,6 @@ RSXJ|Market Vectors Russia Small-Cap ETF|P|RSXJ|Y|100|N|RSXJ
 RT|Ruby Tuesday, Inc. Common Stock|N|RT|N|100|N|RT
 RTEC|Rudolph Technologies, Inc. Common Stock|N|RTEC|N|100|N|RTEC
 RTH|Market Vectors Retail ETF|P|RTH|Y|100|N|RTH
-RTI|RTI International Metals, Inc. Common Stock|N|RTI|N|100|N|RTI
 RTLA|iPath Long Extended Russell 2000 TR Index ETN|P|RTLA|N|100|N|RTLA
 RTM|Guggenheim S&P 500 Equal Weight Materials ETF|P|RTM|Y|100|N|RTM
 RTN|Raytheon Company Common Stock|N|RTN|N|100|N|RTN
@@ -4628,6 +4630,7 @@ THS|Treehouse Foods, Inc. Common Stock|N|THS|N|100|N|THS
 THW|Tekla World Healthcare Fund Shares of Beneficial Interest|N|THW|N|100|N|THW
 TI|Telecom Italia S.P.A. New|N|TI|N|100|N|TI
 TI.A|Telecom Italia S.P.A. New|N|TI/A|N|100|N|TI.A
+TIER|TIER REIT, Inc. Common Stock|N|TIER|N|100|N|TIER
 TIF|Tiffany & Co. Common Stock|N|TIF|N|100|N|TIF
 TIK|Tel-Instrument Electronics Corp. Common Stock|A|TIK|N|100|N|TIK
 TILT|FlexShares Mornigstar US Market Factors Tilt Index Fund ETF|P|TILT|Y|100|N|TILT
@@ -5264,4 +5267,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0722201521:32||||||
+File Creation Time: 0723201521:32||||||
