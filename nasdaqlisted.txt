@@ -28,7 +28,7 @@ ACAS|American Capital, Ltd. - Common Stock|Q|N|N|100
 ACAT|Arctic Cat Inc. - Common Stock|Q|N|N|100
 ACET|Aceto Corporation - Common Stock|Q|N|N|100
 ACFC|Atlantic Coast Financial Corporation - Common Stock|G|N|N|100
-ACFN|Acorn Energy, Inc. - Common Stock|S|N|D|100
+ACFN|Acorn Energy, Inc. - Common Stock|S|N|N|100
 ACGL|Arch Capital Group Ltd. - Common Stock|Q|N|N|100
 ACHC|Acadia Healthcare Company, Inc. - Common Stock|Q|N|N|100
 ACHN|Achillion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -765,6 +765,8 @@ CYNA|Cynapsus Therapeutics Inc. - Common Shares|G|N|N|100
 CYNO|Cynosure, Inc. - Class A Common Stock|Q|N|N|100
 CYOU|Changyou.com Limited - American Depositary Shares, each representing two Class A ordinary shares|Q|N|N|100
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100
+CYRX|CryoPort, Inc. - Common Stock|S|N|N|100
+CYRXW|CryoPort, Inc. - Warrants|S|N|N|100
 CYTK|Cytokinetics, Incorporated - Common Stock|S|N|N|100
 CYTR|CytRx Corporation - Common Stock|S|N|N|100
 CYTX|Cytori Therapeutics Inc - Common Stock|G|N|D|100
@@ -1277,7 +1279,7 @@ HAFC|Hanmi Financial Corporation - Common Stock|Q|N|N|100
 HAIN|The Hain Celestial Group, Inc. - Common Stock|Q|N|N|100
 HALL|Hallmark Financial Services, Inc. - Common Stock|G|N|N|100
 HALO|Halozyme Therapeutics, Inc. - Common Stock|Q|N|N|100
-HART|Harvard Apparatus Regenerative Technology, Inc. - Common Stock|S|N|N|100
+HART|Harvard Apparatus Regenerative Technology, Inc. - Common Stock|S|N|D|100
 HAS|Hasbro, Inc. - Common Stock|Q|N|N|100
 HAWK|Blackhawk Network Holdings, Inc. - Common Stock|Q|N|N|100
 HAYN|Haynes International, Inc. - Common Stock|Q|N|N|100
@@ -1291,6 +1293,7 @@ HBK|Hamilton Bancorp, Inc. - Common Stock|S|N|N|100
 HBMD|Howard Bancorp, Inc. - Common Stock|S|N|N|100
 HBNC|Horizon Bancorp (IN) - Common Stock|Q|N|N|100
 HBP|Huttig Building Products, Inc. - Common Stock|S|N|N|100
+HCACU|Hennessy Capital Acquisition Corp. II - Unit|S|N|N|100
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100
 HCAPL|Harvest Capital Credit Corporation - 7.00% Notes due 2020|G|N|N|100
 HCBK|Hudson City Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -1630,7 +1633,8 @@ LINDW|Lindblad Expeditions Holdings Inc.  - Warrant|S|N|D|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
 LION|Fidelity Southern Corporation - Common Stock|Q|N|N|100
 LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
-LIQD|Liquid Holdings Group, Inc. - Common Stock|G|N|H|100
+LIQD|Liquid Holdings Group, Inc. - Common Stock|S|N|H|100
+LITEV|Lumentum Holdings Inc. - Common Stock When Issued|Q|N|N|100
 LIVE|LiveDeal, Inc. - Common Stock|S|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
@@ -1655,6 +1659,7 @@ LNCO|Linn Co, LLC - Common Shares|Q|N|N|100
 LNDC|Landec Corporation - Common Stock|Q|N|N|100
 LNTH|Lantheus Holdings, Inc. - Common Stock|G|N|N|100
 LOAN|Manhattan Bridge Capital, Inc - Common Stock|S|N|N|100
+LOB|Live Oak Bancshares, Inc. - Common Stock|Q|N|N|100
 LOCO|El Pollo Loco Holdings, Inc. - Common Stock|Q|N|N|100
 LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100
 LOGM|LogMein, Inc. - Common Stock|Q|N|N|100
@@ -1679,7 +1684,6 @@ LSBK|Lake Shore Bancorp, Inc. - Common Stock|G|N|N|100
 LSCC|Lattice Semiconductor Corporation - Common Stock|Q|N|N|100
 LSTR|Landstar System, Inc. - Common Stock|Q|N|N|100
 LTBR|Lightbridge Corporation - Common Stock|S|N|N|100
-LTRE|Learning Tree International, Inc. - Common Stock|G|N|N|100
 LTRPA|Liberty TripAdvisor Holdings, Inc. - Series A Common Stock|Q|N|N|100
 LTRPB|Liberty TripAdvisor Holdings, Inc. - Series B Common Stock|Q|N|N|100
 LTRX|Lantronix, Inc. - Common Stock|S|N|N|100
@@ -1886,6 +1890,7 @@ NECB|Northeast Community Bancorp, Inc. - Common Stock|G|N|N|100
 NEO|NeoGenomics, Inc. - Common Stock|S|N|N|100
 NEOG|Neogen Corporation - Common Stock|Q|N|N|100
 NEON|Neonode Inc. - Common Stock|S|N|N|100
+NEOS|Neos Therapeutics, Inc. - Common Stock|G|N|N|100
 NEOT|Neothetics, Inc. - Common Stock|G|N|N|100
 NEPT|Neptune Technologies & Bioresources Inc - Ordinary Shares|S|N|N|100
 NERV|Minerva Neurosciences, Inc - Common Stock|G|N|N|100
@@ -1936,7 +1941,7 @@ NTRS|Northern Trust Corporation - Common Stock|Q|N|N|100
 NTRSP|Northern Trust Corporation - Depository Shares|Q|N|N|100
 NTWK|NetSol Technologies Inc. - Common Stock|S|N|N|100
 NUAN|Nuance Communications, Inc. - Common Stock|Q|N|N|100
-NURO|NeuroMetrix, Inc. - Common Stock|S|N|N|100
+NURO|NeuroMetrix, Inc. - Common Stock|S|N|D|100
 NUROW|NeuroMetrix, Inc. - Warrants|S|N|N|100
 NUTR|Nutraceutical International Corporation - Common Stock|Q|N|N|100
 NUVA|NuVasive, Inc. - Common Stock|Q|N|N|100
@@ -2518,7 +2523,7 @@ SMMF|Summit Financial Group, Inc. - Common Stock|S|N|N|100
 SMMT|Summit Therapeutics plc - American Depositary Shares|G|N|N|100
 SMRT|Stein Mart, Inc. - Common Stock|Q|N|N|100
 SMSI|Smith Micro Software, Inc. - Common Stock|Q|N|N|100
-SMT|SMART Technologies Inc. - Common Shares|Q|N|N|100
+SMT|SMART Technologies Inc. - Common Shares|Q|N|D|100
 SMTC|Semtech Corporation - Common Stock|Q|N|N|100
 SMTP|SMTP, Inc. - Common Stock|S|N|N|100
 SMTX|SMTC Corporation - Common Stock|G|N|N|100
@@ -2866,6 +2871,7 @@ VGLT|Vanguard Long-Term Government Bond ETF|G|N|N|100
 VGSH|Vanguard Short-Term Government ETF|G|N|N|100
 VIA|Viacom Inc. - Class A Common Stock|Q|N|N|100
 VIAB|Viacom Inc. - Class B Common Stock|Q|N|N|100
+VIAVV|JDS Uniphase Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100
 VICL|Vical Incorporated - Common Stock|Q|N|N|100
 VICR|Vicor Corporation - Common Stock|Q|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
@@ -3063,4 +3069,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0722201521:32|||||
+File Creation Time: 0723201521:32|||||
