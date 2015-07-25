@@ -28,7 +28,6 @@ ACAS|American Capital, Ltd. - Common Stock|Q|N|N|100
 ACAT|Arctic Cat Inc. - Common Stock|Q|N|N|100
 ACET|Aceto Corporation - Common Stock|Q|N|N|100
 ACFC|Atlantic Coast Financial Corporation - Common Stock|G|N|N|100
-ACFN|Acorn Energy, Inc. - Common Stock|S|N|N|100
 ACGL|Arch Capital Group Ltd. - Common Stock|Q|N|N|100
 ACHC|Acadia Healthcare Company, Inc. - Common Stock|Q|N|N|100
 ACHN|Achillion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -446,8 +445,8 @@ CAMBU|Cambridge Capital Acquisition Corporation - Unit|S|N|N|100
 CAMBW|Cambridge Capital Acquisition Corporation - Warrant|S|N|N|100
 CAMP|CalAmp Corp. - Common Stock|Q|N|N|100
 CAMT|Camtek Ltd. - Ordinary Shares|G|N|N|100
-CAPN|Capnia, Inc. - Common Stock|S|N|N|100
-CAPNW|Capnia, Inc. - Series A Warrant|S|N|N|100
+CAPN|Capnia, Inc. - Common Stock|S|N|D|100
+CAPNW|Capnia, Inc. - Series A Warrant|S|N|D|100
 CAPR|Capricor Therapeutics, Inc. - Common Stock|S|N|N|100
 CAPX|Elkhorn S&P 500 Capital Expenditures Portfolio|G|N|N|100
 CAR|Avis Budget Group, Inc. - Common Stock|Q|N|N|100
@@ -724,7 +723,6 @@ CTRL|Control4 Corporation - Common Stock|Q|N|N|100
 CTRN|Citi Trends, Inc. - Common Stock|Q|N|N|100
 CTRP|Ctrip.com International, Ltd. - American Depositary Shares|Q|N|N|100
 CTRV|ContraVir Pharmaceuticals Inc - Common Stock|S|N|N|100
-CTRX|Catamaran Corporation - Common Stock|Q|N|N|100
 CTSH|Cognizant Technology Solutions Corporation - Class A Common Stock|Q|N|N|100
 CTSO|Cytosorbents Corporation - Common Stock|S|N|N|100
 CTWS|Connecticut Water Service, Inc. - Common Stock|Q|N|N|100
@@ -1040,7 +1038,7 @@ FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100
 FEYE|FireEye, Inc. - Common Stock|Q|N|N|100
 FFBC|First Financial Bancorp. - Common Stock|Q|N|N|100
 FFBCW|First Financial Bancorp. - Warrant 12/23/2018|Q|N|N|100
-FFHL|Fuwei Films (Holdings) Co., Ltd. - ORDINARY SHARES|S|N|D|100
+FFHL|Fuwei Films (Holdings) Co., Ltd. - ORDINARY SHARES|S|N|N|100
 FFIC|Flushing Financial Corporation - Common Stock|Q|N|N|100
 FFIN|First Financial Bankshares, Inc. - Common Stock|Q|N|N|100
 FFIV|F5 Networks, Inc. - Common Stock|Q|N|N|100
@@ -2061,7 +2059,6 @@ OXGN|OXiGENE, Inc. - Common Stock|S|N|N|100
 OXLC|Oxford Lane Capital Corp. - Common Stock|Q|N|N|100
 OXLCN|Oxford Lane Capital Corp. - 8.125% Series 2024 Term Preferred Stock|Q|N|N|100
 OXLCO|Oxford Lane Capital Corp. - Term Preferred Shares, 7.50% Series 2023|Q|N|N|100
-OXLCP|Oxford Lane Capital Corp. - Term Preferred Shares, 8.50% Series 2017|Q|N|N|100
 OZRK|Bank of the Ozarks - Common Stock|Q|N|N|100
 PAAS|Pan American Silver Corp. - Common Stock|Q|N|N|100
 PACB|Pacific Biosciences of California, Inc. - Common Stock|Q|N|N|100
@@ -2900,7 +2897,7 @@ VONE|Vanguard Russell 1000 ETF|G|N|N|100
 VONG|Vanguard Russell 1000 Growth ETF|G|N|N|100
 VONV|Vanguard Russell 1000 Value ETF|G|N|N|100
 VOXX|VOXX International Corporation - Class A Common Stock|Q|N|N|100
-VPCO|Vapor Corp. - Common Stock|S|N|D|100
+VPCO|Vapor Corp. - Common Stock|S|N|N|100
 VRA|Vera Bradley, Inc. - Common Stock|Q|N|D|100
 VRML|Vermillion, Inc. - Common Stock|S|N|N|100
 VRNG|Vringo, Inc. - Common Stock|S|N|D|100
@@ -3069,4 +3066,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0723201521:32|||||
+File Creation Time: 0724201521:32|||||
