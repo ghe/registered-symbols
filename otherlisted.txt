@@ -1175,6 +1175,7 @@ DLA|Delta Apparel, Inc. Common Stock|A|DLA|N|100|N|DLA
 DLB|Dolby Laboratories Common Stock|N|DLB|N|100|N|DLB
 DLN|WisdomTree LargeCap Dividend Fund|P|DLN|Y|100|N|DLN
 DLNG|Dynagas LNG Partners LP Common Units|N|DLNG|N|100|N|DLNG
+DLNG$A|Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units|N|DLNGpA|N|100|N|DLNG-A
 DLPH|Delphi Automotive plc Ordinary Shares|N|DLPH|N|100|N|DLPH
 DLR|Digital Realty Trust, Inc. Common Stock|N|DLR|N|100|N|DLR
 DLR$E|Digital Realty Trust, Inc. Redeemable Pfd Ser E|N|DLRpE|N|100|N|DLR-E
@@ -3185,6 +3186,7 @@ MSCA|Main Street Capital Corporation 6.125% Senior Notes due 2023|N|MSCA|N|100|N
 MSCI|MSCI Inc Common Stock|N|MSCI|N|100|N|MSCI
 MSD|Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock|N|MSD|N|100|N|MSD
 MSF|Morgan Stanley Emerging Markets Fund, Inc. Common Stock|N|MSF|N|100|N|MSF
+MSG|The Madison Square Garden Company Common Stock|N|MSG|N|100|N|MSG
 MSI|Motorola Solutions, Inc. Common Stock|N|MSI|N|100|N|MSI
 MSK|Morgan Stanley Cap TR VIII GDT Cap Securities|N|MSK|N|100|N|MSK
 MSL|MidSouth Bancorp Common Stock|N|MSL|N|100|N|MSL
@@ -5267,4 +5269,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0724201521:32||||||
+File Creation Time: 0727201521:31||||||
