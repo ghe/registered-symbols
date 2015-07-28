@@ -843,7 +843,6 @@ DTLK|Datalink Corporation - Common Stock|Q|N|N|100
 DTSI|DTS, Inc. - Common Stock|Q|N|N|100
 DTUL|Barclays PLC - iPath US Treasury 2 Yr Bull ETN|G|N|N|100
 DTUS|Barclays PLC - iPath US Treasury 2-year Bear ETN|G|N|N|100
-DTV|DIRECTV - Common Stock|Q|N|N|100
 DTYL|Barclays PLC - iPath US Treasury 10 Year Bull ETN|G|N|N|100
 DTYS|Barclays PLC - iPath US Treasury 10-year Bear ETN|G|N|N|100
 DVAX|Dynavax Technologies Corporation - Common Stock|S|N|N|100
@@ -1819,7 +1818,7 @@ MOSY|MoSys, Inc. - Common Stock|Q|N|N|100
 MPAA|Motorcar Parts of America, Inc. - Common Stock|Q|N|N|100
 MPB|Mid Penn Bancorp - Common Stock|G|N|N|100
 MPEL|Melco Crown Entertainment Limited - American depositary shares each representing three ordinary shares|Q|N|N|100
-MPET|Magellan Petroleum Corporation - Common Stock|S|N|D|100
+MPET|Magellan Petroleum Corporation - Common Stock|S|N|N|100
 MPWR|Monolithic Power Systems, Inc. - Common Stock|Q|N|N|100
 MRCC|Monroe Capital Corporation - Common Stock|Q|N|N|100
 MRCY|Mercury Systems Inc - Common Stock|Q|N|N|100
@@ -1837,7 +1836,6 @@ MSCC|Microsemi Corporation - Common Stock|Q|N|N|100
 MSEX|Middlesex Water Company - Common Stock|Q|N|N|100
 MSFG|MainSource Financial Group, Inc. - Common Stock|Q|N|N|100
 MSFT|Microsoft Corporation - Common Stock|Q|N|N|100
-MSG|The Madison Square Garden Company - Class A Common Stock|Q|N|N|100
 MSLI|Merus Labs International Inc. - Common Stock|S|N|N|100
 MSON|MISONIX, Inc. - Common Stock|G|N|N|100
 MSTR|MicroStrategy Incorporated - Class A Common Stock|Q|N|N|100
@@ -2188,7 +2186,7 @@ PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|D|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
 PRSC|The Providence Service Corporation - Common Stock|Q|N|D|100
-PRSN|Perseon Corporation - Common Stock|S|N|N|100
+PRSN|Perseon Corporation - Common Stock|S|N|D|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
 PRTA|Prothena Corporation plc - Ordinary Shares|Q|N|N|100
 PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100
@@ -3066,4 +3064,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0724201521:32|||||
+File Creation Time: 0727201521:31|||||
