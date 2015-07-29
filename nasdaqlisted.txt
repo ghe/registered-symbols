@@ -277,7 +277,7 @@ AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
 AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100
 AXGN|AxoGen, Inc. - Common Stock|S|N|N|100
 AXJS|iShares MSCI All Country Asia ex Japan Small Cap Index Fund|G|N|N|100
-AXPW|Axion Power International, Inc. - Common Stock|S|N|D|100
+AXPW|Axion Power International, Inc. - Common Stock|S|N|N|100
 AXPWW|Axion Power International, Inc. - Series A Warrants|S|N|N|100
 AXTI|AXT Inc - Common Stock|Q|N|N|100
 AYA|Amaya Inc. - Common Stock|Q|N|N|100
@@ -521,6 +521,7 @@ CERE|Ceres, Inc. - Common Stock|S|N|N|100
 CERN|Cerner Corporation - Common Stock|Q|N|N|100
 CERS|Cerus Corporation - Common Stock|G|N|N|100
 CERU|Cerulean Pharma Inc. - Common Stock|G|N|N|100
+CETC|Hongli Clean Energy Technologies Corp. - Common Stock|S|N|N|100
 CETV|Central European Media Enterprises Ltd. - Class A Common Stock|Q|N|N|100
 CETX|Cemtrex Inc. - Common Stock|S|N|N|100
 CEVA|CEVA, Inc. - Common Stock|Q|N|N|100
@@ -684,7 +685,7 @@ CRME|Cardiome Pharma Corporation - Ordinary Shares (Canada)|S|N|N|100
 CRMT|America's Car-Mart, Inc. - Common Stock|Q|N|N|100
 CRNT|Ceragon Networks Ltd. - Ordinary Shares|Q|N|N|100
 CROX|Crocs, Inc. - Common Stock|Q|N|N|100
-CRTN|Cartesian, Inc. - Common Stock|G|N|D|100
+CRTN|Cartesian, Inc. - Common Stock|G|N|N|100
 CRTO|Criteo S.A. - American Depositary Shares|Q|N|N|100
 CRUS|Cirrus Logic, Inc. - Common Stock|Q|N|N|100
 CRVL|CorVel Corp. - Common Stock|Q|N|N|100
@@ -950,7 +951,7 @@ ERS|Empire Resources, Inc. - Common Stock|S|N|N|100
 ERW|Janus Equal Risk Weighted Large Cap ETF|G|N|N|100
 ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
-ESCR|Escalera Resources Co. - Common Stock|Q|N|D|100
+ESCR|Escalera Resources Co. - Common Stock|S|N|D|100
 ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|Q|N|N|100
 ESEA|Euroseas Ltd. - Common Stock|S|N|D|100
 ESES|Eco-Stim Energy Solutions, Inc. - Common Stock|S|N|N|100
@@ -989,6 +990,7 @@ EXPE|Expedia, Inc. - Common Stock|Q|N|N|100
 EXPO|Exponent, Inc. - Common Stock|Q|N|N|100
 EXTR|Extreme Networks, Inc. - Common Stock|Q|N|N|100
 EXXI|Energy XXI Ltd. - Common Stock|Q|N|N|100
+EYEG|Eyegate Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 EYES|Second Sight Medical Products, Inc. - Common Stock|S|N|N|100
 EZCH|EZchip Semiconductor Limited - Ordinary Shares|Q|N|N|100
 EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|E|100
@@ -1906,6 +1908,7 @@ NICE|NICE-Systems Limited - American Depositary Shares each representing one Ord
 NICK|Nicholas Financial, Inc. - Common Stock|Q|N|N|100
 NIHD|NII Holdings, Inc. - Common Stock|Q|N|N|100
 NILE|Blue Nile, Inc. - Common Stock|Q|N|N|100
+NK|NantKwest, Inc. - Common Stock|Q|N|N|100
 NKSH|National Bankshares, Inc. - Common Stock|S|N|N|100
 NKTR|Nektar Therapeutics - Common Stock|Q|N|N|100
 NLNK|NewLink Genetics Corporation - Common Stock|G|N|N|100
@@ -2422,7 +2425,6 @@ SCHL|Scholastic Corporation - Common Stock|Q|N|N|100
 SCHN|Schnitzer Steel Industries, Inc. - Class A Common Stock|Q|N|N|100
 SCLN|SciClone Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 SCMP|Sucampo Pharmaceuticals, Inc. - Class A Common Stock|G|N|N|100
-SCOK|SinoCoking Coal and Coke Chemical Industries, Inc - Common Stock|S|N|N|100
 SCON|Superconductor Technologies Inc. - Common Stock|S|N|N|100
 SCOR|comScore, Inc. - Common Stock|Q|N|N|100
 SCSC|ScanSource, Inc. - Common Stock|Q|N|N|100
@@ -2883,7 +2885,7 @@ VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|N|100
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100
 VNDA|Vanda Pharmaceuticals Inc. - Common Stock|G|N|N|100
-VNET|21Vianet Group, Inc. - American Depositary Shares|Q|N|N|100
+VNET|21Vianet Group, Inc. - American Depositary Shares|Q|N|D|100
 VNOM|Viper Energy Partners LP - Common Unit|Q|N|N|100
 VNQI|Vanguard Global ex-U.S. Real Estate ETF|G|N|N|100
 VNR|Vanguard Natural Resources LLC - Common Units|Q|N|N|100
@@ -3064,4 +3066,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0727201521:31|||||
+File Creation Time: 0728201521:33|||||
