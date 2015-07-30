@@ -675,7 +675,7 @@ CRAI|CRA International,Inc. - Common Stock|Q|N|N|100
 CRAY|Cray Inc - Common Stock|Q|N|N|100
 CRBP|Corbus Pharmaceuticals Holdings, Inc. - Common Stock|S|N|N|100
 CRDC|Cardica, Inc. - Common Stock|S|N|D|100
-CRDS|Crossroads Systems, Inc. - Common Stock|S|N|N|100
+CRDS|Crossroads Systems, Inc. - Common Stock|S|N|D|100
 CRDT|WisdomTree Strategic Corporate Bond Fund|G|N|N|100
 CREE|Cree, Inc. - Common Stock|Q|N|N|100
 CREG|China Recycling Energy Corporation - Common Stock|G|N|D|100
@@ -1546,7 +1546,7 @@ JYNT|The Joint Corp. - Common Stock|S|N|N|100
 KALU|Kaiser Aluminum Corporation - Common Stock|Q|N|N|100
 KANG|iKang Healthcare Group, Inc. - American Depositary Shares|Q|N|N|100
 KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100
-KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|D|100
+KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 KBSF|KBS Fashion Group Limited - Common Stock|S|N|E|100
 KCAP|KCAP Financial, Inc. - common stock|Q|N|N|100
 KCLI|Kansas City Life Insurance Company - Common Stock|S|N|N|100
@@ -2234,7 +2234,6 @@ PVBC|Provident Bancorp, Inc. - Common Stock|S|N|N|100
 PVTB|PrivateBancorp, Inc. - Common Stock|Q|N|N|100
 PVTBP|PrivateBancorp, Inc. - PrivateBancorp Capital Trust IV - 10% Trust Preferred|Q|N|N|100
 PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
-PWRD|Perfect World Co., Ltd. - American Depositary Shares, each representing five Class B ordinary shares|Q|N|N|100
 PWX|Providence and Worcester Railroad Company - Common Stock|G|N|N|100
 PXLW|Pixelworks, Inc. - Common Stock|G|N|N|100
 PYPL|PayPal Holdings, Inc. - Common Stock|Q|N|N|100
@@ -3066,4 +3065,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0728201521:33|||||
+File Creation Time: 0729201521:32|||||
