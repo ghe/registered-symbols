@@ -866,6 +866,7 @@ DYNT|Dynatronics Corporation - Common Stock|S|N|N|100
 DYSL|Dynasil Corporation of America - Common Stock|S|N|N|100
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100
 EAC|Erickson Incorporated - Common Stock|G|N|N|100
+EACQU|Easterly Acquisition Corp. - Unit|S|N|N|100
 EARS|Auris Medical Holding AG - Common Shares|G|N|N|100
 EBAY|eBay Inc. - Common Stock|Q|N|N|100
 EBIO|Eleven Biotherapeutics, Inc. - Common Stock|G|N|N|100
@@ -1238,6 +1239,7 @@ GOODO|Gladstone Commercial Corporation - 7.50% Series B Cumulative Redeemable Pr
 GOODP|Gladstone Commercial Corporation - 7.75% Series A Cumulative Redeemable Preferred Stock|Q|N|N|100
 GOOG|Google Inc. - Class C Capital Stock|Q|N|N|100
 GOOGL|Google Inc. - Class A Common Stock|Q|N|N|100
+GPACU|Global Partner Acquisition Corp. - Units|S|N|N|100
 GPIA|GP Investments Acquisition Corp. - Ordinary Shares|S|N|N|100
 GPIAU|GP Investments Acquisition Corp. - Unit|S|N|N|100
 GPIAW|GP Investments Acquisition Corp. - Warrants|S|N|N|100
@@ -2040,7 +2042,7 @@ OSHC|Ocean Shore Holding Co. - Common Stock|G|N|N|100
 OSIR|Osiris Therapeutics, Inc. - Common Stock|G|N|N|100
 OSIS|OSI Systems, Inc. - Common Stock|Q|N|N|100
 OSM|SLM Corporation - Medium Term Notes, Series A, CPI-Linked Notes due March 15, 2017|G|N|N|100
-OSN|Ossen Innovation Co., Ltd. - American Depositary Shares|S|N|D|100
+OSN|Ossen Innovation Co., Ltd. - American Depositary Shares|S|N|N|100
 OSTK|Overstock.com, Inc. - Common Stock|G|N|N|100
 OSUR|OraSure Technologies, Inc. - Common Stock|Q|N|N|100
 OTEL|Otelco Inc. - Common Stock|S|N|N|100
@@ -2190,6 +2192,7 @@ PRPH|ProPhase Labs, Inc. - Common Stock|G|N|D|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
 PRSC|The Providence Service Corporation - Common Stock|Q|N|D|100
 PRSN|Perseon Corporation - Common Stock|S|N|D|100
+PRSNW|Perseon Corporation - Warrants|S|N|D|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
 PRTA|Prothena Corporation plc - Ordinary Shares|Q|N|N|100
 PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100
@@ -2610,7 +2613,6 @@ STPP|Barclays PLC - iPath US Treasury Steepener ETN|G|N|N|100
 STRA|Strayer Education, Inc. - Common Stock|Q|N|N|100
 STRL|Sterling Construction Company Inc - Common Stock|Q|N|N|100
 STRM|Streamline Health Solutions, Inc. - Common Stock|S|N|N|100
-STRN|Sutron Corporation - Common Stock|S|N|N|100
 STRS|Stratus Properties, Inc. - Common Stock|Q|N|N|100
 STRT|Strattec Security Corporation - Common Stock|G|N|N|100
 STRZA|Starz - Series A Common Stock|Q|N|N|100
@@ -2897,6 +2899,7 @@ VONG|Vanguard Russell 1000 Growth ETF|G|N|N|100
 VONV|Vanguard Russell 1000 Value ETF|G|N|N|100
 VOXX|VOXX International Corporation - Class A Common Stock|Q|N|N|100
 VPCO|Vapor Corp. - Common Stock|S|N|N|100
+VPCOU|Vapor Corp. - Unit|S|N|N|100
 VRA|Vera Bradley, Inc. - Common Stock|Q|N|D|100
 VRML|Vermillion, Inc. - Common Stock|S|N|N|100
 VRNG|Vringo, Inc. - Common Stock|S|N|D|100
@@ -2919,6 +2922,7 @@ VTHR|Vanguard Russell 3000 ETF|G|N|N|100
 VTIP|Vanguard Short-Term Inflation-Protected Securities Index Fund|G|N|N|100
 VTL|Vital Therapies, Inc. - Common Stock|Q|N|N|100
 VTNR|Vertex Energy, Inc - Common Stock|S|N|N|100
+VTVT|vTv Therapeutics Inc. - Class A Common Stock|G|N|N|100
 VTWG|Vanguard Russell 2000 Growth ETF|G|N|N|100
 VTWO|Vanguard Russell 2000 ETF|G|N|N|100
 VTWV|Vanguard Russell 2000 Value ETF|G|N|N|100
@@ -3065,4 +3069,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0729201521:32|||||
+File Creation Time: 0730201521:33|||||
