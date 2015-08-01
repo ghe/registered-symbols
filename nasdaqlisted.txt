@@ -188,13 +188,12 @@ APPY|Venaxis, Inc. - Common Stock|S|N|D|100
 APRI|Apricus Biosciences, Inc - Common Stock|S|N|N|100
 APTO|Aptose Biosciences, Inc. - Common Shares|S|N|N|100
 APWC|Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share|G|N|N|100
+AQMS|Aqua Metals, Inc. - Common Stock|S|N|N|100
 AQXP|Aquinox Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ARAY|Accuray Incorporated - Common Stock|Q|N|N|100
 ARCB|ArcBest Corporation - Common Stock|Q|N|N|100
 ARCC|Ares Capital Corporation - Closed End Fund|Q|N|N|100
 ARCI|Appliance Recycling Centers of America, Inc. - Common Stock|S|N|N|100
-ARCP|American Realty Capital Properties, Inc. - Common Stock|Q|N|N|100
-ARCPP|American Realty Capital Properties, Inc. - 6.70% Series F Cumulative Redeemable Preferred Stock|Q|N|N|100
 ARCW|ARC Group Worldwide, Inc. - Common Stock|S|N|N|100
 ARDM|Aradigm Corporation - Common Stock|S|N|N|100
 ARDX|Ardelyx, Inc. - Common Stock|G|N|N|100
@@ -992,6 +991,7 @@ EXPO|Exponent, Inc. - Common Stock|Q|N|N|100
 EXTR|Extreme Networks, Inc. - Common Stock|Q|N|N|100
 EXXI|Energy XXI Ltd. - Common Stock|Q|N|N|100
 EYEG|Eyegate Pharmaceuticals, Inc. - Common Stock|S|N|N|100
+EYEGW|Eyegate Pharmaceuticals, Inc. - Warrants|S|N|N|100
 EYES|Second Sight Medical Products, Inc. - Common Stock|S|N|N|100
 EZCH|EZchip Semiconductor Limited - Ordinary Shares|Q|N|N|100
 EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|E|100
@@ -1206,6 +1206,7 @@ GILT|Gilat Satellite Networks Ltd. - Ordinary Shares|Q|N|N|100
 GK|G&K Services, Inc. - Class A Common Stock|Q|N|N|100
 GLAD|Gladstone Capital Corporation - Business Development Company|Q|N|N|100
 GLADO|Gladstone Capital Corporation - Term Preferred Shares, 6.75% Series 2021|Q|N|N|100
+GLBL|TerraForm Global, Inc. - Class A Common Stock|Q|N|N|100
 GLBS|Globus Maritime Limited - Common Stock|G|N|N|100
 GLBZ|Glen Burnie Bancorp - Common Stock|S|N|N|100
 GLDC|Golden Enterprises, Inc. - Common Stock|G|N|N|100
@@ -1931,6 +1932,7 @@ NSTG|NanoString Technologies, Inc. - Common Stock|G|N|N|100
 NSYS|Nortech Systems Incorporated - Common Stock|S|N|N|100
 NTAP|NetApp, Inc. - Common Stock|Q|N|N|100
 NTCT|NetScout Systems, Inc. - Common Stock|Q|N|N|100
+NTEC|Intec Pharma Ltd. - Ordinary Shares|S|N|N|100
 NTES|NetEase, Inc. - American Depositary Shares, each representing 25 ordinary shares|Q|N|N|100
 NTGR|NETGEAR, Inc. - Common Stock|Q|N|N|100
 NTIC|Northern Technologies International Corporation - Common Stock|G|N|N|100
@@ -2240,7 +2242,7 @@ PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
 PWX|Providence and Worcester Railroad Company - Common Stock|G|N|N|100
 PXLW|Pixelworks, Inc. - Common Stock|G|N|N|100
 PYPL|PayPal Holdings, Inc. - Common Stock|Q|N|N|100
-PZZA|Papa John'S International, Inc. - Common Stock|Q|N|N|100
+PZZA|Papa John's International, Inc. - Common Stock|Q|N|N|100
 QABA|First Trust NASDAQ ABA Community Bank Index Fund|G|N|N|100
 QADA|QAD Inc. - Class A Common Stock|Q|N|N|100
 QADB|QAD Inc. - Common Stock|Q|N|N|100
@@ -2345,6 +2347,7 @@ RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100
 RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
+RMI|RiverBanc Multifamily Investors, Inc. - Common Stock|S|N|N|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
@@ -2886,7 +2889,7 @@ VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100
 VLTC|Voltari Corporation - Common Stock|S|N|N|100
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100
 VNDA|Vanda Pharmaceuticals Inc. - Common Stock|G|N|N|100
-VNET|21Vianet Group, Inc. - American Depositary Shares|Q|N|D|100
+VNET|21Vianet Group, Inc. - American Depositary Shares|Q|N|N|100
 VNOM|Viper Energy Partners LP - Common Unit|Q|N|N|100
 VNQI|Vanguard Global ex-U.S. Real Estate ETF|G|N|N|100
 VNR|Vanguard Natural Resources LLC - Common Units|Q|N|N|100
@@ -3010,6 +3013,7 @@ WYNN|Wynn Resorts, Limited - Common Stock|Q|N|N|100
 XBIT|XBiotech Inc. - Common Stock|Q|N|N|100
 XBKS|Xenith Bankshares, Inc. - Common Stock|S|N|N|100
 XCRA|Xcerra Corporation - Common Stock|Q|N|N|100
+XELB|Xcel Brands, Inc - Common Stock|G|N|N|100
 XENE|Xenon Pharmaceuticals Inc. - Common Shares|G|N|N|100
 XENT|Intersect ENT, Inc. - Common Stock|G|N|N|100
 XGTI|XG Technology, Inc - Common Stock|S|N|D|100
@@ -3042,9 +3046,11 @@ YY|YY Inc. - American Depositary Shares|Q|N|N|100
 Z|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
 ZAGG|ZAGG Inc - Common Stock|Q|N|N|100
 ZAIS|ZAIS Group Holdings, Inc. - Class A Common Stock|S|N|N|100
+ZAVVV|Zillow Group, Inc. - Class A Common Stock Ex-Distribution When-Issued|Q|N|N|100
 ZAZA|ZaZa Energy Corporation - Common Stock|S|N|D|100
 ZBIO|ProShares UltraPro Short NASDAQ Biotechnology|G|N|N|100
 ZBRA|Zebra Technologies Corporation - Class A Common Stock|Q|N|N|100
+ZCVVV|Zillow Group, Inc. - Capital Stock When Issued|Q|N|N|100
 ZEUS|Olympic Steel, Inc. - Common Stock|Q|N|N|100
 ZFGN|Zafgen, Inc. - Common Stock|Q|N|N|100
 ZGNX|Zogenix, Inc. - Common Stock|G|N|N|100
@@ -3069,4 +3075,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0730201521:33|||||
+File Creation Time: 0731201521:33|||||
