@@ -15,6 +15,7 @@ AB|Allianceberstein Holding L.P.  Units|N|AB|N|100|N|AB
 ABB|ABB Ltd Common Stock|N|ABB|N|100|N|ABB
 ABBV|AbbVie Inc. Common Stock|N|ABBV|N|100|N|ABBV
 ABC|AmerisourceBergen Corporation Common Stock|N|ABC|N|100|N|ABC
+ABE|Aberdeen Emerging Markets Company Oppotunities Fund, Inc. Common Stock|A|ABE|N|100|N|ABE
 ABEV|Ambev S.A. American Depositary Shares (Each representing 1 Common Share)|N|ABEV|N|100|N|ABEV
 ABG|Asbury Automotive Group Inc Common Stock|N|ABG|N|100|N|ABG
 ABM|ABM Industries Incorporated Common Stock|N|ABM|N|100|N|ABM
@@ -510,7 +511,6 @@ BKK|Blackrock Municipal 2020 Term Trust|N|BKK|N|100|N|BKK
 BKLN|PowerShares Exchange-Traded Fund Trust ETF|P|BKLN|Y|100|N|BKLN
 BKN|BlackRock Investment Quality Municipal Trust Inc. (The)|N|BKN|N|100|N|BKN
 BKS|Barnes & Noble, Inc. Common Stock|N|BKS|N|100|N|BKS
-BKS.V|Barnes & Noble, Inc. Common Stock Ex-Distribution When Issued|N|BKSw|N|100|N|BKS#
 BKT|BlackRock Income Trust Inc. (The)|N|BKT|N|100|N|BKT
 BKU|BankUnited, Inc. Common Stock|N|BKU|N|100|N|BKU
 BLD|TopBuild Corp. Common Stock|N|BLD|N|100|N|BLD
@@ -538,7 +538,7 @@ BMR|Biomed Realty Trust Common Stock|N|BMR|N|100|N|BMR
 BMS|Bemis Company, Inc. Common Stock|N|BMS|N|100|N|BMS
 BMY|Bristol-Myers Squibb Company Common Stock|N|BMY|N|100|N|BMY
 BND|Vanguard Total Bond Market ETF|P|BND|Y|100|N|BND
-BNED.V|Barnes & Noble Education, Inc Common Stock When Issued|N|BNEDw|N|100|N|BNED#
+BNED|Barnes & Noble Education, Inc Common Stock|N|BNED|N|100|N|BNED
 BNJ|BlackRock New Jersey Municipal Income Trust|N|BNJ|N|100|N|BNJ
 BNK|C1 Financial, Inc. Common Stock|N|BNK|N|100|N|BNK
 BNO|United States Brent Oil Fund, LP ETV|P|BNO|Y|100|N|BNO
@@ -1040,7 +1040,6 @@ CYH|Community Health Systems, Inc. Common Stock|N|CYH|N|100|N|CYH
 CYN|City National Corporation Common Stock|N|CYN|N|100|N|CYN
 CYN$C|City National Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series Series C|N|CYNpC|N|100|N|CYN-C
 CYN$D|City National Corporation Depositary Shares Representing 1/40th Preferred Series D Fixed/Floating|N|CYNpD|N|100|N|CYN-D
-CYNI|Cyan, Inc. Common Stock|N|CYNI|N|100|N|CYNI
 CYS|CYS Investments, Inc. Common Stock|N|CYS|N|100|N|CYS
 CYS$A|CYS Investments Inc Cumulative Redeemable Preferred Series A|N|CYSpA|N|100|N|CYS-A
 CYS$B|CYS Investments, Inc. Preferred Series B|N|CYSpB|N|100|N|CYS-B
@@ -1526,7 +1525,6 @@ ESV|Ensco plc Class A Ordinary Shares|N|ESV|N|100|N|ESV
 ETAK|Elephant Talk Communication Corp. Delaware Common Stock|A|ETAK|N|100|N|ETAK
 ETB|Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest|N|ETB|N|100|N|ETB
 ETE|Energy Transfer Equity, L.P. Energy Transfer Equity, L.P. Common Units representing Limited Partnership interests|N|ETE|N|100|N|ETE
-ETF|Aberdeen Emerging Markets Company Oppotunities Fund, Inc. Common Stock|A|ETF|N|100|N|ETF
 ETG|Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest|N|ETG|N|100|N|ETG
 ETH|Ethan Allen Interiors Inc. Common Stock|N|ETH|N|100|N|ETH
 ETJ|Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest|N|ETJ|N|100|N|ETJ
@@ -1615,8 +1613,6 @@ EXG|Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Ta
 EXH|Exterran Holdings, Inc. Common Stock|N|EXH|N|100|N|EXH
 EXI|iShares Global Industrials ETF|P|EXI|Y|100|N|EXI
 EXK|Endeavour Silver Corporation Ordinary Shares (Canada)|N|EXK|N|100|N|EXK
-EXL|Excel Trust, Inc. Common Stock|N|EXL|N|100|N|EXL
-EXL$B|Excel Trust, Inc. 8.125% Series B Cumulative Redeemable Preferred Stock, $0.01 par value|N|EXLpB|N|100|N|EXL-B
 EXP|Eagle Materials Inc Common Stock|N|EXP|N|100|N|EXP
 EXPR|Express, Inc. Common Stock|N|EXPR|N|100|N|EXPR
 EXR|Extra Space Storage Inc Common Stock|N|EXR|N|100|N|EXR
@@ -3168,7 +3164,6 @@ MQY|Blackrock MuniYield Quality Fund, Inc. Common Stock|N|MQY|N|100|N|MQY
 MR|Mindray Medical International Limited Sponsored ADR representing Class A shares (China)|N|MR|N|100|N|MR
 MRC|MRC Global Inc. Common Stock|N|MRC|N|100|N|MRC
 MRGR|ProShares Merger ETF|Z|MRGR|Y|100|N|MRGR
-MRH|Montpelier Re Holdings Ltd.|N|MRH|N|100|N|MRH
 MRIN|Marin Software Incorporated Common Stock|N|MRIN|N|100|N|MRIN
 MRK|Merck & Company, Inc. Common Stock (new)|N|MRK|N|100|N|MRK
 MRO|Marathon Oil Corporation Common Stock|N|MRO|N|100|N|MRO
@@ -3319,7 +3314,6 @@ NEFF|Neff Corporation Common Stock|N|NEFF|N|100|N|NEFF
 NEM|Newmont Mining Corporation|N|NEM|N|100|N|NEM
 NEN|New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership|A|NEN|N|100|N|NEN
 NEP|NextEra Energy Partners, LP Common Units representing limited partner interests|N|NEP|N|100|N|NEP
-NEPG|NEP Group, Inc. Common Stock|N|NEPG|N|100|N|NEPG
 NES|Nuverra Environmental Solutions, Inc. Common Stock|N|NES|N|100|N|NES
 NEU|NewMarket Corp Common Stock|N|NEU|N|100|N|NEU
 NEV|Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest|N|NEV|N|100|N|NEV
@@ -4890,7 +4884,6 @@ UTI|Universal Technical Institute Inc Common Stock|N|UTI|N|100|N|UTI
 UTL|UNITIL Corporation Common Stock|N|UTL|N|100|N|UTL
 UTLT|Deutsche X-trackers Regulated Utilities ETF|P|UTLT|Y|100|N|UTLT
 UTX|United Technologies Corporation Common Stock|N|UTX|N|100|N|UTX
-UTX$A|United Technologies Corp Corp Unit|N|UTXpA|N|100|N|UTX-A
 UUP|PowerShares DB USD Index Bullish|P|UUP|Y|100|N|UUP
 UUU|Universal Security Instruments, Inc. Common Stock|A|UUU|N|100|N|UUU
 UUUU|Energy Fuels Inc Ordinary Shares (Canada)|A|UUUU|N|100|N|UUUU
@@ -5271,4 +5264,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0731201521:33||||||
+File Creation Time: 0803201521:33||||||
