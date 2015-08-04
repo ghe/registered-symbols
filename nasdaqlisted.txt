@@ -22,6 +22,7 @@ ABGB|Abengoa, S.A. - American Depositary Shares|Q|N|N|100
 ABIO|ARCA biopharma, Inc. - Common Stock|S|N|N|100
 ABMD|ABIOMED, Inc. - Common Stock|Q|N|N|100
 ABTL|Autobytel Inc. - Common Stock|S|N|N|100
+ABUS|Arbutus Biopharma Corporation - Common Stock|S|N|N|100
 ABY|Abengoa Yield plc - Ordinary Shares|Q|N|N|100
 ACAD|ACADIA Pharmaceuticals Inc. - Common Stock|Q|N|N|100
 ACAS|American Capital, Ltd. - Common Stock|Q|N|N|100
@@ -85,6 +86,8 @@ AFMD|Affimed N.V. - Common Stock|G|N|N|100
 AFOP|Alliance Fiber Optic Products, Inc. - Common Stock|G|N|N|100
 AFSI|AmTrust Financial Services, Inc. - Common Stock|Q|N|N|100
 AGEN|Agenus Inc. - Common Stock|S|N|N|100
+AGFS|AgroFresh Solutions, Inc. - Common Stock|Q|N|N|100
+AGFSW|AgroFresh Solutions, Inc. - Warrants|Q|N|N|100
 AGII|Argo Group International Holdings, Ltd. - Common Stock|Q|N|N|100
 AGIIL|Argo Group International Holdings, Ltd. - 6.5% Senior Notes Due 2042|Q|N|N|100
 AGIO|Agios Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -359,9 +362,6 @@ BLMT|BSB Bancorp, Inc. - Common Stock|S|N|N|100
 BLPH|Bellerophon Therapeutics, Inc. - Common Stock|G|N|N|100
 BLRX|BioLineRx Ltd. - American Depositary Shares|S|N|N|100
 BLUE|bluebird bio, Inc. - Common Stock|Q|N|N|100
-BLVD|Boulevard Acquisition Corp. - Common Stock|S|N|N|100
-BLVDU|Boulevard Acquisition Corp. - Units|S|N|N|100
-BLVDW|Boulevard Acquisition Corp. - Warrants|S|N|N|100
 BMRC|Bank of Marin Bancorp - Common Stock|S|N|N|100
 BMRN|BioMarin Pharmaceutical Inc. - Common Stock|Q|N|N|100
 BMTC|Bryn Mawr Bank Corporation - Common Stock|Q|N|N|100
@@ -2627,7 +2627,6 @@ SUMR|Summer Infant, Inc. - Common Stock|S|N|N|100
 SUNS|Solar Senior Capital Ltd. - Common Stock|Q|N|N|100
 SUPN|Supernus Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 SURG|Synergetics USA, Inc. - Common Stock|S|N|N|100
-SUSQ|Susquehanna Bancshares, Inc. - Common Stock|Q|N|N|100
 SVA|Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)|Q|N|N|100
 SVBI|Severn Bancorp Inc - Common Stock|S|N|N|100
 SVVC|Firsthand Technology Value Fund, Inc. - Common Stock|Q|N|N|100
@@ -2715,7 +2714,6 @@ TISA|Top Image Systems, Ltd. - Ordinary Shares|S|N|N|100
 TITN|Titan Machinery Inc. - Common Stock|Q|N|N|100
 TIVO|TiVo Inc. - Common Stock|Q|N|N|100
 TKAI|Tokai Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-TKMR|Tekmira Pharmaceuticals Corp - Common Stock|S|N|N|100
 TLF|Tandy Leather Factory, Inc. - Common Stock|G|N|N|100
 TLMR|Talmer Bancorp, Inc. - Class A Common Stock|S|N|N|100
 TLOG|TetraLogic Pharmaceuticals Corporation - Common Stock|G|N|N|100
@@ -3075,4 +3073,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0731201521:33|||||
+File Creation Time: 0803201521:33|||||
