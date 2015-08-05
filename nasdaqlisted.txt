@@ -571,9 +571,11 @@ CHUY|Chuy's Holdings, Inc. - Common Stock|Q|N|N|100
 CHW|Calamos Global Dynamic Income Fund - Common Stock|Q|N|N|100
 CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
 CIBR|First Trust NASDAQ CEA Cybersecurity ETF|G|N|N|100
+CID|Compass EMP International High Dividend 100 Volatility Weighted Index ETF|G|N|N|100
 CIDM|Cinedigm Corp - Class A Common Stock|G|N|D|100
 CIFC|CIFC Corp. - Common Stock|S|N|N|100
 CIGI|Colliers International Group Inc.  - Subordinate Voting Shares|Q|N|N|100
+CIL|Compass EMP International 500 Volatility Weighted Index ETF|G|N|N|100
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100
 CISG|CNinsure Inc. - American depositary shares, each representing 20 ordinary shares|Q|N|N|100
 CIVB|Civista Bancshares, Inc.  - Common Stock|S|N|N|100
@@ -1182,6 +1184,7 @@ GBSNU|Great Basin Scientific, Inc. - Units|S|N|N|100
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100
 GCVRZ|Sanofi - Contingent Value Right (Expiring 12/31/2020)|G|N|N|100
 GDEF|Global Defense & National Security Systems, Inc. - Common Stock|S|N|D|100
+GDEN|Golden Entertainment, Inc. - Common Stock|G|N|N|100
 GENC|Gencor Industries Inc. - Common Stock|G|N|N|100
 GENE|Genetic Technologies Ltd - American Depositary Shares representing 30 ordinary shares|S|N|N|100
 GEOS|Geospace Technologies Corporation - Common Stock|Q|N|N|100
@@ -1527,7 +1530,6 @@ JCOM|j2 Global, Inc. - Common Stock|Q|N|N|100
 JCS|Communications Systems, Inc. - Common Stock|G|N|N|100
 JCTCF|Jewett-Cameron Trading Company - Common Shares|S|N|N|100
 JD|JD.com, Inc. - American Depositary Shares|Q|N|N|100
-JDSU|JDS Uniphase Corporation - Common Stock|Q|N|N|100
 JGBB|WisdomTree Japan Interest Rate Strategy Fund|G|N|N|100
 JIVE|Jive Software, Inc. - Common Stock|Q|N|N|100
 JJSF|J & J Snack Foods Corp. - Common Stock|Q|N|N|100
@@ -1592,7 +1594,6 @@ KYTH|Kythera Biopharmaceuticals, Inc. - Common Stock|Q|N|N|100
 KZ|KongZhong Corporation - American Depositary Shares, each representing 40 ordinary shares|Q|N|N|100
 LABC|Louisiana Bancorp, Inc. - Common Stock|G|N|N|100
 LABL|Multi-Color Corporation - Common Stock|Q|N|N|100
-LACO|Lakes Entertainment, Inc. - Common Stock|G|N|N|100
 LAKE|Lakeland Industries, Inc. - Common Stock|G|N|N|100
 LALT|PowerShares Multi-Strategy Alternative Portfolio|G|N|N|100
 LAMR|Lamar Advertising Company - Class A Common Stock|Q|N|N|100
@@ -1636,7 +1637,7 @@ LINE|Linn Energy, LLC - Common Units representing limited liability company inte
 LION|Fidelity Southern Corporation - Common Stock|Q|N|N|100
 LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
 LIQD|Liquid Holdings Group, Inc. - Common Stock|S|N|H|100
-LITEV|Lumentum Holdings Inc. - Common Stock When Issued|Q|N|N|100
+LITE|Lumentum Holdings Inc. - Common Stock|Q|N|N|100
 LIVE|LiveDeal, Inc. - Common Stock|S|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
@@ -1734,7 +1735,6 @@ MCHX|Marchex, Inc. - Class B Common Stock|Q|N|N|100
 MCOX|Mecox Lane Limited - American Depositary Shares|Q|N|N|100
 MCRB|Seres Therapeutics, Inc. - Common Stock|Q|N|N|100
 MCRI|Monarch Casino & Resort, Inc. - Common Stock|Q|N|N|100
-MCRL|Micrel, Incorporated - Common Stock|Q|N|N|100
 MCUR|Macrocure Ltd. - Ordinary Shares|G|N|N|100
 MDAS|MedAssets, Inc. - Common Stock|Q|N|N|100
 MDCA|MDC Partners Inc. - Class A Subordinate Voting Shares|Q|N|N|100
@@ -2870,7 +2870,7 @@ VGLT|Vanguard Long-Term Government Bond ETF|G|N|N|100
 VGSH|Vanguard Short-Term Government ETF|G|N|N|100
 VIA|Viacom Inc. - Class A Common Stock|Q|N|N|100
 VIAB|Viacom Inc. - Class B Common Stock|Q|N|N|100
-VIAVV|JDS Uniphase Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100
+VIAV|Viavi Solutions Inc. - Common Stock|Q|N|N|100
 VICL|Vical Incorporated - Common Stock|Q|N|N|100
 VICR|Vicor Corporation - Common Stock|Q|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
@@ -3073,4 +3073,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0803201521:33|||||
+File Creation Time: 0804201521:32|||||
