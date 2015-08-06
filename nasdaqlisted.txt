@@ -1458,7 +1458,7 @@ INNL|Innocoll AG - American Depositary Share|G|N|N|100
 INO|Inovio Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 INOD|Innodata Inc. - Common Stock|G|N|N|100
 INOV|Inovalon Holdings, Inc. - Class A Common Stock|Q|N|N|100
-INPH|Interphase Corporation - Common Stock|S|N|N|100
+INPH|Interphase Corporation - Common Stock|S|N|D|100
 INSM|Insmed, Inc. - Common Stock|Q|N|N|100
 INSY|Insys Therapeutics, Inc. - Common Stock|G|N|N|100
 INTC|Intel Corporation - Common Stock|Q|N|N|100
@@ -2382,6 +2382,7 @@ RTIX|RTI Surgical, Inc. - Common Stock|Q|N|N|100
 RTK|Rentech, Inc. - Common Stock|S|N|N|100
 RTRX|Retrophin, Inc. - Common Stock|G|N|N|100
 RTTR|Ritter Pharmaceuticals, Inc. - Common Stock|S|N|N|100
+RUN|Sunrun Inc. - Common Stock|Q|N|N|100
 RUSHA|Rush Enterprises, Inc. - Class A Common Stock|Q|N|N|100
 RUSHB|Rush Enterprises, Inc. - Class B Common Stock|Q|N|N|100
 RUTH|Ruth's Hospitality Group, Inc. - Common Stock|Q|N|N|100
@@ -3014,7 +3015,7 @@ XCRA|Xcerra Corporation - Common Stock|Q|N|N|100
 XELB|Xcel Brands, Inc - Common Stock|G|N|N|100
 XENE|Xenon Pharmaceuticals Inc. - Common Shares|G|N|N|100
 XENT|Intersect ENT, Inc. - Common Stock|G|N|N|100
-XGTI|XG Technology, Inc - Common Stock|S|N|D|100
+XGTI|XG Technology, Inc - Common Stock|S|N|N|100
 XGTIW|XG Technology, Inc - Warrants|S|N|N|100
 XIV|Credit Suisse AG - VelocityShares Daily Inverse VIX Short Term ETN|G|N|N|100
 XLNX|Xilinx, Inc. - Common Stock|Q|N|N|100
@@ -3073,4 +3074,5 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0804201521:32|||||
+ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
+File Creation Time: 0805201521:32|||||
