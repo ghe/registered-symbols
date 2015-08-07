@@ -102,6 +102,7 @@ AGZD|WisdomTree Barclays U.S. Aggregate Bond Zero Duration Fund|G|N|N|100
 AHGP|Alliance Holdings GP, L.P. - Common Units Representing Limited Partner Interests|Q|N|N|100
 AHPI|Allied Healthcare Products, Inc. - Common Stock|G|N|N|100
 AIMC|Altra Industrial Motion Corp. - Common Stock|Q|N|N|100
+AIMT|Aimmune Therapeutics, Inc. - Common Stock|Q|N|N|100
 AINV|Apollo Investment Corporation - Closed End Fund|Q|N|N|100
 AIQ|Alliance HealthCare Services, Inc. - Common Stock|G|N|N|100
 AIRM|Air Methods Corporation - Common Stock|Q|N|N|100
@@ -370,6 +371,7 @@ BNCN|BNC Bancorp - Common Stock|S|N|N|100
 BNDX|Vanguard Total International Bond ETF|G|N|N|100
 BNFT|Benefitfocus, Inc. - Common Stock|G|N|N|100
 BNSO|Bonso Electronics International, Inc. - Common Stock|S|N|N|100
+BNTC|Benitec Biopharma Limited - American Depositary Shares|G|N|N|100
 BOBE|Bob Evans Farms, Inc. - Common Stock|Q|N|N|100
 BOCH|Bank of Commerce Holdings (CA) - Common Stock|G|N|N|100
 BOFI|BofI Holding, Inc. - Common Stock|Q|N|N|100
@@ -758,7 +760,7 @@ CYAN|Cyanotech Corporation - Common Stock|S|N|N|100
 CYBE|CyberOptics Corporation - Common Stock|G|N|N|100
 CYBR|CyberArk Software Ltd. - Ordinary Shares|Q|N|N|100
 CYBX|Cyberonics, Inc. - Common Stock|Q|N|N|100
-CYCC|Cyclacel Pharmaceuticals, Inc. - Common Stock|G|N|D|100
+CYCC|Cyclacel Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 CYCCP|Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock|S|N|N|100
 CYHHZ|Community Health Systems, Inc. - Series A Contingent Value Rights|G|N|N|100
 CYNA|Cynapsus Therapeutics Inc. - Common Shares|G|N|N|100
@@ -955,7 +957,7 @@ ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
 ESCR|Escalera Resources Co. - Common Stock|S|N|D|100
 ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|Q|N|N|100
-ESEA|Euroseas Ltd. - Common Stock|S|N|D|100
+ESEA|Euroseas Ltd. - Common Stock|S|N|N|100
 ESES|Eco-Stim Energy Solutions, Inc. - Common Stock|S|N|N|100
 ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100
 ESIO|Electro Scientific Industries, Inc. - Common Stock|Q|N|N|100
@@ -1181,6 +1183,7 @@ GBLI|Global Indemnity plc - Class A Common Shares|Q|N|N|100
 GBNK|Guaranty Bancorp - Common Stock|Q|N|N|100
 GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|N|100
 GBSNU|Great Basin Scientific, Inc. - Units|S|N|N|100
+GCAA|GC Aesthetics plc - Ordinary Shares|G|N|N|100
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100
 GCVRZ|Sanofi - Contingent Value Right (Expiring 12/31/2020)|G|N|N|100
 GDEF|Global Defense & National Security Systems, Inc. - Common Stock|S|N|D|100
@@ -3075,4 +3078,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0805201521:32|||||
+File Creation Time: 0806201521:32|||||
