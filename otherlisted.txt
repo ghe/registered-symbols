@@ -358,7 +358,6 @@ AXTA|Axalta Coating Systems Ltd. Common Shares|N|AXTA|N|100|N|AXTA
 AXU|Alexco Resource Corp Common Shares (Canada)|A|AXU|N|100|N|AXU
 AXX|Alderon Iron Ore Corp. Ordinary Shares (Canada)|A|AXX|N|100|N|AXX
 AYI|Acuity Brands Inc (Holding Company)|N|AYI|N|100|N|AYI
-AYN|Alliance New York Municipal Income Fund Inc|N|AYN|N|100|N|AYN
 AYR|Aircastle Limited Common Stock|N|AYR|N|100|N|AYR
 AYT|iPath GEMS Asia 8 ETN|P|AYT|N|100|N|AYT
 AZIA|Global X Central Asia & Mongolia Index ETF|P|AZIA|Y|100|N|AZIA
@@ -726,6 +725,7 @@ CCK|Crown Holdings, Inc.|N|CCK|N|100|N|CCK
 CCL|Carnival Corporation Common Stock|N|CCL|N|100|N|CCL
 CCM|Concord Medical Services Holdings Limited ADS (Each represents three ordinary shares)|N|CCM|N|100|N|CCM
 CCO|Clear Channel Outdoor Holdings, Inc. Clear Channel Outdoor Holdings, Inc. Class A Common Stock|N|CCO|N|100|N|CCO
+CCP.V|Care Capital Properties, Inc. Common Stock When Issued|N|CCPw|N|100|N|CCP#
 CCS|Century Communities, Inc. Common Stock|N|CCS|N|100|N|CCS
 CCSC|Country Style Cooking Restaurant Chain Co., Ltd American Depositary Shares, each representing four ordinary shares|N|CCSC|N|100|N|CCSC
 CCU|Compania Cervecerias Unidas, S.A. Common Stock|N|CCU|N|100|N|CCU
@@ -3651,6 +3651,7 @@ PEP|Pepsico, Inc. Common Stock|N|PEP|N|100|N|PEP
 PER|SandRidge Permian Trust Common Units of Benficial Interest|N|PER|N|100|N|PER
 PERM|Global X Permanent ETF|P|PERM|Y|100|N|PERM
 PES|Pioneer Energy Services Corp. Common Stk|N|PES|N|100|N|PES
+PESC|Philadelphia Energy Solutions Inc. Class A Common Stock|N|PESC|N|100|N|PESC
 PEX|ProShares Global Listed Private Equity ETF|Z|PEX|Y|100|N|PEX
 PEY|PowerShares High Yield Dividend Achievers|P|PEY|Y|100|N|PEY
 PEZ|PowerShares DWA Consumer Cyclicals Momentum Portfolio|P|PEZ|Y|100|N|PEZ
@@ -3736,6 +3737,7 @@ PLG|Platinum Group Metals Ltd. Ordinary Shares (Canada)|A|PLG|N|100|N|PLG
 PLL|Pall Corporation Common Stock|N|PLL|N|100|N|PLL
 PLM|Polymet Mining Corporation Ordinary Shares (Canada)|A|PLM|N|100|N|PLM
 PLND|Market Vectors Poland ETF|P|PLND|Y|100|N|PLND
+PLNT|Planet Fitness, Inc. Common Stock|N|PLNT|N|100|N|PLNT
 PLOW|Douglas Dynamics, Inc. Common Stock|N|PLOW|N|100|N|PLOW
 PLT|Plantronics, Inc. Common Stock|N|PLT|N|100|N|PLT
 PLW|PowerShares 1-30 Treasury Ladder Portfolio|P|PLW|Y|100|N|PLW
@@ -5020,6 +5022,7 @@ VTG|Vantage Drilling Company|A|VTG|N|100|N|VTG
 VTI|Vanguard Total Stock Market ETF|P|VTI|Y|100|N|VTI
 VTN|Invesco Trust for Investment Grade New York Municipals Common Stock|N|VTN|N|100|N|VTN
 VTR|Ventas, Inc. Common Stock|N|VTR|N|100|N|VTR
+VTR.V|Ventas, Inc. Common Stock Ex-Distribution When Issued|N|VTRw|N|100|N|VTR#
 VTRB|Ventas Realty, Limited Partnership // Ventas Capital Corporation 5.45% Senior Notes due 2043|N|VTRB|N|100|N|VTRB
 VTTI|VTTI Energy Partners LP Common Units representing limited partner interests|N|VTTI|N|100|N|VTTI
 VTV|Vanguard Value ETF - DNQ|P|VTV|Y|100|N|VTV
@@ -5266,4 +5269,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0805201521:32||||||
+File Creation Time: 0806201521:32||||||
