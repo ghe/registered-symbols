@@ -55,7 +55,6 @@ ADX|Adams Diversified Equity Fund Inc.|N|ADX|N|100|N|ADX
 ADZ|DB Agriculture Short ETN due April 1, 2038|P|ADZ|N|100|N|ADZ
 AE|Adams Resources & Energy, Inc. Common Stock|A|AE|N|100|N|AE
 AEB|AEGON N.V. Perp. Cap. Secs. Floating Rate (Netherlands)|N|AEB|N|100|N|AEB
-AEC|Associated Estates Realty Corporation Common Stock|N|AEC|N|100|N|AEC
 AED|AEGON N.V. Perp. Cap. Securities (Netherlands)|N|AED|N|100|N|AED
 AEE|Ameren Corporation Common Stock|N|AEE|N|100|N|AEE
 AEG|AEGON N.V. Common Stock|N|AEG|N|100|N|AEG
@@ -4700,6 +4699,7 @@ TPRE|Third Point Reinsurance Ltd. Common Shares|N|TPRE|N|100|N|TPRE
 TPS|ProShares UltraShort TIPS|P|TPS|Y|100|N|TPS
 TPUB|Tribune Publishing Company Common Stock|N|TPUB|N|100|N|TPUB
 TPVG|TriplePoint Venture Growth BDC Corp. Common Stock|N|TPVG|N|100|N|TPVG
+TPVZ|TriplePoint Venture Growth BDC Corp. 6.75% Notes due 2020|N|TPVZ|N|100|N|TPVZ
 TPX|Tempur Sealy International, Inc. Common Stock|N|TPX|N|100|N|TPX
 TPYP|Tortoise North American Pipeline Fund ETF|P|TPYP|Y|100|N|TPYP
 TPZ|Tortoise Power and Energy Infrastructure Fund, Inc Common Stock|N|TPZ|N|100|N|TPZ
@@ -5269,4 +5269,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0806201521:32||||||
+File Creation Time: 0807201521:32||||||
