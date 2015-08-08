@@ -76,7 +76,7 @@ AEMD|Aethlon Medical, Inc. - Common Stock|S|N|N|100
 AEPI|AEP Industries Inc. - Common Stock|Q|N|N|100
 AERI|Aerie Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 AETI|American Electric Technologies, Inc. - Common Stock|S|N|N|100
-AEY|ADDvantage Technologies Group, Inc. - Common Stock|G|N|D|100
+AEY|ADDvantage Technologies Group, Inc. - Common Stock|G|N|N|100
 AEZS|AEterna Zentaris Inc. - Common Stock|S|N|D|100
 AFAM|Almost Family Inc - Common Stock|Q|N|N|100
 AFCB|Athens Bancshares Corporation - Common Stock|S|N|N|100
@@ -1452,7 +1452,6 @@ INCR|INC Research Holdings, Inc. - Class A Common Stock|Q|N|N|100
 INCY|Incyte Corporation - Common Stock|Q|N|N|100
 INDB|Independent Bank Corp. - Common Stock|Q|N|N|100
 INDY|iShares S&P India Nifty 50 Index Fund|G|N|N|100
-INFA|Informatica Corporation - Common Stock|Q|N|N|100
 INFI|Infinity Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 INFN|Infinera Corporation - Common Stock|Q|N|N|100
 INGN|Inogen, Inc - Common Stock|Q|N|N|100
@@ -2350,7 +2349,6 @@ RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100
 RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
-RMI|RiverBanc Multifamily Investors, Inc. - Common Stock|S|N|N|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
@@ -3078,4 +3076,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0806201521:32|||||
+File Creation Time: 0807201521:32|||||
