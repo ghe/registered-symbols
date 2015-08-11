@@ -1068,7 +1068,7 @@ FIZZ|National Beverage Corp. - Common Stock|Q|N|N|100
 FJP|First Trust Japan AlphaDEX Fund|G|N|N|100
 FKO|First Trust South Korea AlphaDEX Fund|G|N|N|100
 FKU|First Trust United Kingdom AlphaDEX Fund|G|N|N|100
-FLAG|Forensic Accounting ETF|G|N|N|100
+FLAG|WeatherStorm Forensic Accounting Long Short ETF|G|N|N|100
 FLAT|Barclays PLC - iPath US Treasury Flattener ETN|G|N|N|100
 FLDM|Fluidigm Corporation - Common Stock|Q|N|N|100
 FLEX|Flextronics International Ltd. - Ordinary Shares|Q|N|N|100
@@ -2493,6 +2493,7 @@ SINA|Sina Corporation - Ordinary Shares|Q|N|N|100
 SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|N|100
 SIRI|Sirius XM Holdings Inc. - Common Stock|Q|N|N|100
 SIRO|Sirona Dental Systems, Inc. - Common Stock|Q|N|N|100
+SITO|SITO Mobile, Ltd. - Common Stock|S|N|N|100
 SIVB|SVB Financial Group - Common Stock|Q|N|N|100
 SIVBO|SVB Financial Group - 7% Cumulative Trust Preferred Securities - SVB Capital II|Q|N|N|100
 SIXD|6D Global Technologies, Inc. - Common Stock|S|N|N|100
@@ -2561,7 +2562,7 @@ SPAR|Spartan Motors, Inc. - Common Stock|Q|N|N|100
 SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|N|100
 SPDC|Speed Commerce, Inc. - Common Stock|G|N|D|100
 SPEX|Spherix Incorporated - Common Stock|S|N|D|100
-SPHS|Sophiris Bio, Inc. - Common Shares|G|N|N|100
+SPHS|Sophiris Bio, Inc. - Common Shares|G|N|D|100
 SPIL|Siliconware Precision Industries Company, Ltd. - ADS represents common shares|Q|N|N|100
 SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100
 SPLK|Splunk Inc. - Common Stock|Q|N|N|100
@@ -3076,4 +3077,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0807201521:32|||||
+File Creation Time: 0810201521:32|||||
