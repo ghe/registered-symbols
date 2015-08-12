@@ -3321,6 +3321,7 @@ NEWM|New Media Investment Group Inc. Common Stock|N|NEWM|N|100|N|NEWM
 NEWR|New Relic, Inc. Common Stock|N|NEWR|N|100|N|NEWR
 NFG|National Fuel Gas Company Common Stock|N|NFG|N|100|N|NFG
 NFJ|AllianzGI NFJ Dividend, Interest & Premium Strategy Fund|N|NFJ|N|100|N|NFJ
+NFLT|Virtus Newfleet Multi-Sector Unconstrained Bond ETF|P|NFLT|Y|100|N|NFLT
 NFO|Guggenheim Insider ETF|P|NFO|Y|100|N|NFO
 NFRA|FlexShares STOXX Global Broad Infrastructure Index Fund|P|NFRA|Y|100|N|NFRA
 NFX|Newfield Exploration Company Common Stock|N|NFX|N|100|N|NFX
@@ -5268,4 +5269,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0810201521:32||||||
+File Creation Time: 0811201521:32||||||
