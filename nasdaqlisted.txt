@@ -614,7 +614,6 @@ CMCSK|Comcast Corporation - Class A Special Common Stock|Q|N|N|100
 CMCT|CIM Commercial Trust Corporation - Common Stock|G|N|N|100
 CME|CME Group Inc. - Class A Common Stock|Q|N|N|100
 CMFN|CM Finance Inc - Common Stock|Q|N|N|100
-CMGE|China Mobile Games and Entertainment Group Limited - American Depositary Shares|G|N|N|100
 CMLS|Cumulus Media Inc. - Common Stock|Q|N|N|100
 CMPR|Cimpress N.V - Ordinary Shares (The Netherlands)|Q|N|N|100
 CMRX|Chimerix, Inc. - Common Stock|G|N|N|100
@@ -967,7 +966,7 @@ ESND|Essendant Inc. - Common Stock|Q|N|N|100
 ESPR|Esperion Therapeutics, Inc. - Common Stock|G|N|N|100
 ESRX|Express Scripts Holding Company - Common Stock|Q|N|N|100
 ESSA|ESSA Bancorp, Inc. - common stock|Q|N|N|100
-ESSX|Essex Rental Corporation - Common Stock|S|N|N|100
+ESSX|Essex Rental Corporation - Common Stock|S|N|D|100
 ESXB|Community Bankers Trust Corporation. - Common Stock|S|N|N|100
 ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100
 ETRM|EnteroMedics Inc. - Common Stock|S|N|N|100
@@ -2243,6 +2242,7 @@ PVTBP|PrivateBancorp, Inc. - PrivateBancorp Capital Trust IV - 10% Trust Preferr
 PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
 PWX|Providence and Worcester Railroad Company - Common Stock|G|N|N|100
 PXLW|Pixelworks, Inc. - Common Stock|G|N|N|100
+PYDS|Payment Data Systems, Inc. - Common Stock|S|N|N|100
 PYPL|PayPal Holdings, Inc. - Common Stock|Q|N|N|100
 PZZA|Papa John's International, Inc. - Common Stock|Q|N|N|100
 QABA|First Trust NASDAQ ABA Community Bank Index Fund|G|N|N|100
@@ -3077,4 +3077,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0810201521:32|||||
+File Creation Time: 0811201521:32|||||
