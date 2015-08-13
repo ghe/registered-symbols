@@ -679,7 +679,7 @@ CALX|Calix, Inc Common Stock|N|CALX|N|100|N|CALX
 CAM|Cameron International Corporation Common Stock|N|CAM|N|100|N|CAM
 CANE|Teucrium Sugar Fund ETV|P|CANE|Y|100|N|CANE
 CANF|Can-Fite Biopharma Ltd Sponsored ADR (Israel)|A|CANF|N|100|N|CANF
-CAP|Cai International, Inc. Common Stock|N|CAP|N|100|N|CAP
+CAP|CAI International, Inc. Common Stock|N|CAP|N|100|N|CAP
 CAPE|Barclays ETN Schiller CAPE|P|CAPE|N|100|N|CAPE
 CAPL|CrossAmerica Partners LP Common Units representing limited partner interests|N|CAPL|N|100|N|CAPL
 CAS|Castle (A.M.) & Co. Common Stock|N|CAS|N|100|N|CAS
@@ -2149,7 +2149,11 @@ HCN$I|Health Care REIT, Inc. PFD PERPETUAL CONV SER I|N|HCNpI|N|100|N|HCN-I
 HCN$J|HEALTH CARE REIT INC Preferred Stock 6.5% PFD SERIES J|N|HCNpJ|N|100|N|HCN-J
 HCP|HCP, Inc. Common Stock|N|HCP|N|100|N|HCP
 HD|Home Depot, Inc. (The) Common Stock|N|HD|N|100|N|HD
+HDAW|Deutsche X-trackers MSCI All World ex US High Dividend Yield Hedged Equity ETF|P|HDAW|Y|100|N|HDAW
 HDB|HDFC Bank Limited Common Stock|N|HDB|N|100|N|HDB
+HDEE|Deutsche X-trackers MSCI Emerging Markets High Dividend Yield Hedged Equity ETF|P|HDEE|Y|100|N|HDEE
+HDEF|Deutsche X-trackers MSCI EAFE High Dividend Yield Hedged Equity ETF|P|HDEF|Y|100|N|HDEF
+HDEZ|Deutsche X-trackers MSCI Eurozone High Dividend Yield Hedged Equity ETF|P|HDEZ|Y|100|N|HDEZ
 HDG|ProShares Hedge Replication ETF|P|HDG|Y|100|N|HDG
 HDGE|Ranger Equity Bear Bear ETF|P|HDGE|Y|100|N|HDGE
 HDLS|WisdomTree International Hedged SmallCap Dividend Fund|P|HDLS|Y|100|N|HDLS
@@ -5269,4 +5273,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0811201521:32||||||
+File Creation Time: 0812201521:34||||||
