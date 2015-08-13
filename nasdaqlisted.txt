@@ -622,6 +622,7 @@ CNAT|Conatus Pharmaceuticals Inc. - Common Stock|G|N|N|100
 CNBKA|Century Bancorp, Inc. - Class A Common Stock|Q|N|N|100
 CNCE|Concert Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 CNET|ChinaNet Online Holdings, Inc. - Common Stock|S|N|N|100
+CNFR|Conifer Holdings, Inc. - Common Stock|G|N|N|100
 CNIT|China Information Technology, Inc. - Ordinary Shares|Q|N|N|100
 CNLM|CB Pharma Acquisition Corp. - Ordinary Shares|S|N|N|100
 CNLMR|CB Pharma Acquisition Corp. - Rights|S|N|N|100
@@ -648,7 +649,7 @@ COMM|CommScope Holding Company, Inc. - Common Stock|Q|N|N|100
 COMT|iShares Commodities Select Strategy ETF|G|N|N|100
 CONE|CyrusOne Inc - Common Stock|Q|N|N|100
 CONN|Conn's, Inc. - Common Stock|Q|N|N|100
-COOL|Majesco Entertainment Company - Common Stock|S|N|N|100
+COOL|Majesco Entertainment Company - Common Stock|S|N|D|100
 CORE|Core-Mark Holding Company, Inc. - Common Stock|Q|N|N|100
 CORI|Corium International, Inc. - Common Stock|G|N|N|100
 CORT|Corcept Therapeutics Incorporated - Common Stock|S|N|N|100
@@ -904,7 +905,9 @@ EGRX|Eagle Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 EGT|Entertainment Gaming Asia Incorporated - Common Stock|S|N|N|100
 EHTH|eHealth, Inc. - Common Stock|Q|N|N|100
 EIGI|Endurance International Group Holdings, Inc. - Common Stock|Q|N|N|100
+ELEC|Electrum Special Acquisition Corporation - Ordinary Shares|S|N|N|100
 ELECU|Electrum Special Acquisition Corporation - Units|S|N|N|100
+ELECW|Electrum Special Acquisition Corporation - Warrants|S|N|N|100
 ELGX|Endologix, Inc. - Common Stock|Q|N|N|100
 ELNK|EarthLink Holdings Corp. - Common Stock|Q|N|N|100
 ELON|Echelon Corporation - Common Stock|Q|N|D|100
@@ -1182,6 +1185,7 @@ GBLI|Global Indemnity plc - Class A Common Shares|Q|N|N|100
 GBNK|Guaranty Bancorp - Common Stock|Q|N|N|100
 GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|N|100
 GBSNU|Great Basin Scientific, Inc. - Units|S|N|N|100
+GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100
 GCAA|GC Aesthetics plc - Ordinary Shares|G|N|N|100
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100
 GCVRZ|Sanofi - Contingent Value Right (Expiring 12/31/2020)|G|N|N|100
@@ -1504,7 +1508,7 @@ ISM|SLM Corporation - Medium Term Notes, Series A, CPI-Linked Notes due January 
 ISNS|Image Sensing Systems, Inc. - Common Stock|S|N|N|100
 ISRG|Intuitive Surgical, Inc. - Common Stock|Q|N|N|100
 ISRL|Isramco, Inc. - Common Stock|S|N|N|100
-ISSC|Innovative Solutions and Support, Inc. - Common Stock|Q|N|N|100
+ISSC|Innovative Solutions and Support, Inc. - Common Stock|Q|N|D|100
 ISSI|Integrated Silicon Solution, Inc. - Common Stock|Q|N|N|100
 ISTR|Investar Holding Corporation - Common Stock|G|N|N|100
 ITCI|Intra-Cellular Therapies Inc. - Common Stock|Q|N|N|100
@@ -2312,7 +2316,7 @@ RDUS|Radius Health, Inc. - Common Stock|G|N|N|100
 RDVY|First Trust NASDAQ Rising Dividend Achievers ETF|G|N|N|100
 RDWR|Radware Ltd. - Ordinary Shares|Q|N|N|100
 RECN|Resources Connection, Inc. - Common Stock|Q|N|N|100
-REDF|Rediff.com India Limited - American Depositary Shares, each represented by one-half of one equity share|G|N|N|100
+REDF|Rediff.com India Limited - American Depositary Shares, each represented by one-half of one equity share|G|N|D|100
 REFR|Research Frontiers Incorporated - Common Stock|S|N|N|100
 REGI|Renewable Energy Group, Inc. - Common Stock|Q|N|N|100
 REGN|Regeneron Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -2624,7 +2628,7 @@ STRT|Strattec Security Corporation - Common Stock|G|N|N|100
 STRZA|Starz - Series A Common Stock|Q|N|N|100
 STRZB|Starz - Series B Common Stock|Q|N|N|100
 STX|Seagate Technology. - Common Stock|Q|N|N|100
-STXS|Stereotaxis, Inc. - Common Stock|S|N|N|100
+STXS|Stereotaxis, Inc. - Common Stock|S|N|D|100
 SUBK|Suffolk Bancorp - Common Stock|Q|N|N|100
 SUMR|Summer Infant, Inc. - Common Stock|S|N|N|100
 SUNS|Solar Senior Capital Ltd. - Common Stock|Q|N|N|100
@@ -2731,7 +2735,7 @@ TOUR|Tuniu Corporation - American Depositary Shares|G|N|N|100
 TOWN|Towne Bank - Common Stock|Q|N|N|100
 TQQQ|ProShares UltraPro QQQ|G|N|N|100
 TRAK|Dealertrack Technologies, Inc. - Common Stock|Q|N|N|100
-TRCB|Two River Bancorp - Common Stock|S|N|N|100
+TRCB|Two River Bancorp - Common Stock|G|N|N|100
 TRCH|Torchlight Energy Resources, Inc. - Common Stock|S|N|N|100
 TREE|LendingTree, Inc. - Common Stock|Q|N|N|100
 TRGT|Targacept, Inc. - Common Stock|Q|N|N|100
@@ -2874,7 +2878,7 @@ VGSH|Vanguard Short-Term Government ETF|G|N|N|100
 VIA|Viacom Inc. - Class A Common Stock|Q|N|N|100
 VIAB|Viacom Inc. - Class B Common Stock|Q|N|N|100
 VIAV|Viavi Solutions Inc. - Common Stock|Q|N|N|100
-VICL|Vical Incorporated - Common Stock|Q|N|N|100
+VICL|Vical Incorporated - Common Stock|Q|N|D|100
 VICR|Vicor Corporation - Common Stock|Q|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
 VIIX|Credit Suisse AG - VelocityShares VIX Short Term ETN|G|N|N|100
@@ -3077,4 +3081,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0811201521:32|||||
+File Creation Time: 0812201521:34|||||
