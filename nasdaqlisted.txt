@@ -710,7 +710,6 @@ CSIQ|Canadian Solar Inc. - common shares|Q|N|N|100
 CSOD|Cornerstone OnDemand, Inc. - Common Stock|Q|N|N|100
 CSPI|CSP Inc. - Common Stock|G|N|N|100
 CSQ|Calamos Strategic Total Return Fund - Common Stock|Q|N|N|100
-CSRE|CSR plc - American Depositary Shares|Q|N|N|100
 CSTE|CaesarStone Sdot-Yam Ltd. - Ordinary Shares|Q|N|N|100
 CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|N|100
 CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100
@@ -877,6 +876,7 @@ EBIX|Ebix, Inc. - Common Stock|Q|N|N|100
 EBMT|Eagle Bancorp Montana, Inc. - Common Stock|G|N|N|100
 EBSB|Meridian Bancorp, Inc. - Common Stock|Q|N|N|100
 EBTC|Enterprise Bancorp Inc - Common Stock|Q|N|N|100
+ECACU|E-compass Acquisition Corp. - Units|S|N|N|100
 ECHO|Echo Global Logistics, Inc. - Common Stock|Q|N|N|100
 ECOL|US Ecology, Inc. - Common Stock|Q|N|N|100
 ECPG|Encore Capital Group Inc - Common Stock|Q|N|N|100
@@ -1186,7 +1186,6 @@ GBNK|Guaranty Bancorp - Common Stock|Q|N|N|100
 GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|N|100
 GBSNU|Great Basin Scientific, Inc. - Units|S|N|N|100
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100
-GCAA|GC Aesthetics plc - Ordinary Shares|G|N|N|100
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100
 GCVRZ|Sanofi - Contingent Value Right (Expiring 12/31/2020)|G|N|N|100
 GDEF|Global Defense & National Security Systems, Inc. - Common Stock|S|N|D|100
@@ -1249,7 +1248,9 @@ GOODO|Gladstone Commercial Corporation - 7.50% Series B Cumulative Redeemable Pr
 GOODP|Gladstone Commercial Corporation - 7.75% Series A Cumulative Redeemable Preferred Stock|Q|N|N|100
 GOOG|Google Inc. - Class C Capital Stock|Q|N|N|100
 GOOGL|Google Inc. - Class A Common Stock|Q|N|N|100
+GPAC|Global Partner Acquisition Corp. - Common Stock|S|N|N|100
 GPACU|Global Partner Acquisition Corp. - Units|S|N|N|100
+GPACW|Global Partner Acquisition Corp. - Warrants|S|N|N|100
 GPIA|GP Investments Acquisition Corp. - Ordinary Shares|S|N|N|100
 GPIAU|GP Investments Acquisition Corp. - Unit|S|N|N|100
 GPIAW|GP Investments Acquisition Corp. - Warrants|S|N|N|100
@@ -1636,8 +1637,8 @@ LILA|Liberty Global plc - Class A Ordinary Shares|Q|N|N|100
 LILAK|Liberty Global plc - Class C Ordinary Shares|Q|N|N|100
 LIME|Lime Energy Co. - Common Stock|S|N|N|100
 LINC|Lincoln Educational Services Corporation - Common Stock|Q|N|N|100
-LIND|Lindblad Expeditions Holdings Inc.  - Common Stock|S|N|D|100
-LINDW|Lindblad Expeditions Holdings Inc.  - Warrant|S|N|D|100
+LIND|Lindblad Expeditions Holdings Inc.  - Common Stock|S|N|N|100
+LINDW|Lindblad Expeditions Holdings Inc.  - Warrant|S|N|N|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
 LION|Fidelity Southern Corporation - Common Stock|Q|N|N|100
 LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
@@ -3081,4 +3082,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0812201521:34|||||
+File Creation Time: 0813201521:32|||||
