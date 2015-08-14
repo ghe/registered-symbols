@@ -109,7 +109,6 @@ AGO|Assured Guaranty Ltd. Common Stock|N|AGO|N|100|N|AGO
 AGO$B|Assured Guaranty Ltd.|N|AGOpB|N|100|N|AGO-B
 AGO$E|Assured Guaranty Ltd.|N|AGOpE|N|100|N|AGO-E
 AGO$F|Assured Guaranty Ltd.|N|AGOpF|N|100|N|AGO-F
-AGOL|ETFS Asian Gold Trust|P|AGOL|Y|100|N|AGOL
 AGQ|ProShares Ultra Silver|P|AGQ|Y|100|N|AGQ
 AGRO|Adecoagro S.A. Common Shares|N|AGRO|N|100|N|AGRO
 AGU|Agrium Inc. Common Stock|N|AGU|N|100|N|AGU
@@ -1589,6 +1588,7 @@ EWN|iShares MSCI Netherlands Index Fund|P|EWN|Y|100|N|EWN
 EWO|iShares MSCI Austria Capped Investable Market Index Fund|P|EWO|Y|100|N|EWO
 EWP|iShares MSCI Spain Capped Index Fund|P|EWP|Y|100|N|EWP
 EWQ|iShares MSCI France Index Fund|P|EWQ|Y|100|N|EWQ
+EWRE|Guggenheim S&P 500 Equal Weight Real Estate ETF|P|EWRE|Y|100|N|EWRE
 EWRI|Guggenheim Russell 1000 Equal Weight ETF|P|EWRI|Y|100|N|EWRI
 EWRM|Guggenheim Russell MidCap Equal Weight ETF|P|EWRM|Y|100|N|EWRM
 EWRS|Guggenheim Russell 2000 Equal Weight ETF|P|EWRS|Y|100|N|EWRS
@@ -2225,6 +2225,7 @@ HKOR|Horizons Korea KOSPI 200 ETF|P|HKOR|Y|100|N|HKOR
 HL|Hecla Mining Company Common Stock|N|HL|N|100|N|HL
 HL$B|Hecla Mining Company Preferred Stock|N|HLpB|N|100|N|HL-B
 HLF|Herbalife Ltd. Common Stock|N|HLF|N|100|N|HLF
+HLI|Houlihan Lokey, Inc. Class A Common Stock|N|HLI|N|100|N|HLI
 HLM$|Hillman Group Capital Trust Preferred Stock|A|HLMp|N|100|N|HLM-
 HLS|HealthSouth Corporation Common Stock|N|HLS|N|100|N|HLS
 HLT|Hilton Worldwide Holdings Inc. Common Stock|N|HLT|N|100|N|HLT
@@ -5273,4 +5274,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0812201521:34||||||
+File Creation Time: 0813201521:32||||||
