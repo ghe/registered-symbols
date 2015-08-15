@@ -672,13 +672,13 @@ CAF|Morgan Stanley China A Share Fund Inc. Common Stock|N|CAF|N|100|N|CAF
 CAFE|iPath Pure Beta Coffee ETN|P|CAFE|N|100|N|CAFE
 CAG|ConAgra Foods, Inc. Common Stock|N|CAG|N|100|N|CAG
 CAH|Cardinal Health, Inc. Common Stock|N|CAH|N|100|N|CAH
+CAI|CAI International, Inc. Common Stock|N|CAI|N|100|N|CAI
 CAJ|Canon, Inc. American Depositary Shares|N|CAJ|N|100|N|CAJ
 CAL|Caleres, Inc. Common Stock|N|CAL|N|100|N|CAL
 CALX|Calix, Inc Common Stock|N|CALX|N|100|N|CALX
 CAM|Cameron International Corporation Common Stock|N|CAM|N|100|N|CAM
 CANE|Teucrium Sugar Fund ETV|P|CANE|Y|100|N|CANE
 CANF|Can-Fite Biopharma Ltd Sponsored ADR (Israel)|A|CANF|N|100|N|CANF
-CAP|CAI International, Inc. Common Stock|N|CAP|N|100|N|CAP
 CAPE|Barclays ETN Schiller CAPE|P|CAPE|N|100|N|CAPE
 CAPL|CrossAmerica Partners LP Common Units representing limited partner interests|N|CAPL|N|100|N|CAPL
 CAS|Castle (A.M.) & Co. Common Stock|N|CAS|N|100|N|CAS
@@ -5274,4 +5274,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0813201521:32||||||
+File Creation Time: 0814201521:32||||||
