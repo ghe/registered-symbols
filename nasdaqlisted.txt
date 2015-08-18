@@ -954,7 +954,7 @@ ERW|Janus Equal Risk Weighted Large Cap ETF|G|N|N|100
 ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
 ESCR|Escalera Resources Co. - Common Stock|S|N|D|100
-ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|Q|N|N|100
+ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|S|N|N|100
 ESEA|Euroseas Ltd. - Common Stock|S|N|N|100
 ESES|Eco-Stim Energy Solutions, Inc. - Common Stock|S|N|N|100
 ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100
@@ -1659,7 +1659,6 @@ LMNS|Lumenis Ltd. - Class B Ordinary Shares|Q|N|N|100
 LMNX|Luminex Corporation - Common Stock|Q|N|N|100
 LMOS|Lumos Networks Corp. - Common Stock|Q|N|N|100
 LMRK|Landmark Infrastructure Partners LP - Common Units|G|N|N|100
-LNBB|LNB Bancorp, Inc. - Common Stock|G|N|N|100
 LNCE|Snyder's-Lance, Inc. - Common Stock|Q|N|N|100
 LNCO|Linn Co, LLC - Common Shares|Q|N|N|100
 LNDC|Landec Corporation - Common Stock|Q|N|N|100
@@ -2333,7 +2332,7 @@ RGCO|RGC Resources Inc. - Common Stock|G|N|N|100
 RGEN|Repligen Corporation - Common Stock|Q|N|N|100
 RGLD|Royal Gold, Inc. - Common Stock|Q|N|N|100
 RGLS|Regulus Therapeutics Inc. - Common Stock|G|N|N|100
-RGSE|Real Goods Solar, Inc. - Class A Common Stock|S|N|D|100
+RGSE|Real Goods Solar, Inc. - Class A Common Stock|S|N|N|100
 RIBT|RiceBran Technologies - Common Stock|S|N|N|100
 RIBTW|RiceBran Technologies - Warrant|S|N|N|100
 RICK|RCI Hospitality Holdings, Inc. - Common Stock|G|N|N|100
@@ -3046,16 +3045,15 @@ YORW|The York Water Company - Common Stock|Q|N|N|100
 YPRO|AdvisorShares YieldPro ETF|G|N|N|100
 YRCW|YRC Worldwide, Inc. - Common Stock|Q|N|N|100
 YY|YY Inc. - American Depositary Shares|Q|N|N|100
-Z|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
+Z|Zillow Group, Inc. - Class C Capital Stock|Q|N|N|100
 ZAGG|ZAGG Inc - Common Stock|Q|N|N|100
 ZAIS|ZAIS Group Holdings, Inc. - Class A Common Stock|S|N|N|100
-ZAVVV|Zillow Group, Inc. - Class A Common Stock Ex-Distribution When-Issued|Q|N|N|100
 ZAZA|ZaZa Energy Corporation - Common Stock|S|N|D|100
 ZBIO|ProShares UltraPro Short NASDAQ Biotechnology|G|N|N|100
 ZBRA|Zebra Technologies Corporation - Class A Common Stock|Q|N|N|100
-ZCVVV|Zillow Group, Inc. - Capital Stock When Issued|Q|N|N|100
 ZEUS|Olympic Steel, Inc. - Common Stock|Q|N|N|100
 ZFGN|Zafgen, Inc. - Common Stock|Q|N|N|100
+ZG|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
 ZGNX|Zogenix, Inc. - Common Stock|G|N|N|100
 ZHNE|Zhone Technologies, Inc. - Common Stock|S|N|N|100
 ZINC|Horsehead Holding Corp. - Common Stock|Q|N|N|100
@@ -3079,4 +3077,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0814201521:32|||||
+File Creation Time: 0817201521:33|||||
