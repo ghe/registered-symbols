@@ -370,6 +370,8 @@ BNCN|BNC Bancorp - Common Stock|S|N|N|100
 BNDX|Vanguard Total International Bond ETF|G|N|N|100
 BNFT|Benefitfocus, Inc. - Common Stock|G|N|N|100
 BNSO|Bonso Electronics International, Inc. - Common Stock|S|N|N|100
+BNTC|Benitec Biopharma Limited - American Depositary Shares|S|N|N|100
+BNTCW|Benitec Biopharma Limited - Warrant|G|N|N|100
 BOBE|Bob Evans Farms, Inc. - Common Stock|Q|N|N|100
 BOCH|Bank of Commerce Holdings (CA) - Common Stock|G|N|N|100
 BOFI|BofI Holding, Inc. - Common Stock|Q|N|N|100
@@ -781,7 +783,7 @@ DAX|Recon Capital DAX Germany ETF|G|N|N|100
 DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100
 DCIX|Diana Containerships Inc. - Common Shares|Q|N|N|100
 DCOM|Dime Community Bancshares, Inc. - Common Stock|Q|N|N|100
-DCTH|Delcath Systems, Inc. - Common Stock|S|N|N|100
+DCTH|Delcath Systems, Inc. - Common Stock|S|N|D|100
 DELT|Delta Technology Holdings Limited - Ordinary Shares|S|N|N|100
 DELTW|Delta Technology Holdings Limited - Warrant|S|N|N|100
 DENN|Denny's Corporation - Common Stock|S|N|N|100
@@ -1566,7 +1568,7 @@ KERX|Keryx Biopharmaceuticals, Inc. - Common Stock|S|N|N|100
 KEYW|The KEYW Holding Corporation - Common Stock|Q|N|N|100
 KFFB|Kentucky First Federal Bancorp - Common Stock|G|N|N|100
 KFRC|Kforce, Inc. - Common Stock|Q|N|N|100
-KGJI|Kingold Jewelry Inc. - Common Stock|S|N|N|100
+KGJI|Kingold Jewelry Inc. - Common Stock|S|N|D|100
 KHC|The Kraft Heinz Company - Common Stock|Q|N|N|100
 KIN|Kindred Biosciences, Inc. - Common Stock|S|N|N|100
 KINS|Kingstone Companies, Inc - Common Stock|S|N|N|100
@@ -2524,7 +2526,7 @@ SMCI|Super Micro Computer, Inc. - Common Stock|Q|N|N|100
 SMCP|AlphaMark Actively Managed Small Cap ETF|G|N|N|100
 SMED|Sharps Compliance Corp - Common Stock|S|N|N|100
 SMIT|Schmitt Industries, Inc. - Common Stock|S|N|N|100
-SMLR|Semler Scientific, Inc. - Common Stock|S|N|N|100
+SMLR|Semler Scientific, Inc. - Common Stock|S|N|D|100
 SMMF|Summit Financial Group, Inc. - Common Stock|S|N|N|100
 SMMT|Summit Therapeutics plc - American Depositary Shares|G|N|N|100
 SMRT|Stein Mart, Inc. - Common Stock|Q|N|N|100
@@ -3077,4 +3079,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0817201521:33|||||
+File Creation Time: 0818201521:33|||||
