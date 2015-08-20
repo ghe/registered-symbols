@@ -371,7 +371,7 @@ BNDX|Vanguard Total International Bond ETF|G|N|N|100
 BNFT|Benefitfocus, Inc. - Common Stock|G|N|N|100
 BNSO|Bonso Electronics International, Inc. - Common Stock|S|N|N|100
 BNTC|Benitec Biopharma Limited - American Depositary Shares|S|N|N|100
-BNTCW|Benitec Biopharma Limited - Warrant|G|N|N|100
+BNTCW|Benitec Biopharma Limited - Warrant|S|N|N|100
 BOBE|Bob Evans Farms, Inc. - Common Stock|Q|N|N|100
 BOCH|Bank of Commerce Holdings (CA) - Common Stock|G|N|N|100
 BOFI|BofI Holding, Inc. - Common Stock|Q|N|N|100
@@ -825,7 +825,7 @@ DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100
 DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100
 DPRX|Dipexium Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 DRAD|Digirad Corporation - Common Stock|G|N|N|100
-DRAM|Dataram Corporation - Common Stock|S|N|N|100
+DRAM|Dataram Corporation - Common Stock|S|N|D|100
 DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 DRRX|DURECT Corporation - Common Stock|G|N|N|100
 DRWI|DragonWave Inc - Common Shares|Q|N|D|100
@@ -970,7 +970,7 @@ ESSA|ESSA Bancorp, Inc. - common stock|Q|N|N|100
 ESSX|Essex Rental Corporation - Common Stock|S|N|D|100
 ESXB|Community Bankers Trust Corporation. - Common Stock|S|N|N|100
 ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100
-ETRM|EnteroMedics Inc. - Common Stock|S|N|N|100
+ETRM|EnteroMedics Inc. - Common Stock|S|N|D|100
 ETSY|Etsy, Inc. - Common Stock|Q|N|N|100
 EUFN|iShares MSCI Europe Financials Sector Index Fund|G|N|N|100
 EVAL|iShares MSCI Emerging Markets Value Index Fund|G|N|N|100
@@ -1020,7 +1020,7 @@ FCAP|First Capital, Inc. - Common Stock|S|N|N|100
 FCBC|First Community Bancshares, Inc. - Common Stock|Q|N|D|100
 FCCO|First Community Corporation - Common Stock|S|N|N|100
 FCCY|1st Constitution Bancorp (NJ) - Common Stock|G|N|N|100
-FCEL|FuelCell Energy, Inc. - Common Stock|G|N|N|100
+FCEL|FuelCell Energy, Inc. - Common Stock|G|N|D|100
 FCFP|First Community Financial Partners, Inc. - Common Stock|S|N|N|100
 FCFS|First Cash Financial Services, Inc. - Common Stock|Q|N|N|100
 FCHI|iShares FTSE China (HK Listed) Index Fund|G|N|N|100
@@ -1733,7 +1733,6 @@ MCBC|Macatawa Bank Corporation - Common Stock|Q|N|N|100
 MCBK|Madison County Financial, Inc. - Common Stock|S|N|N|100
 MCEP|Mid-Con Energy Partners, LP - Common Units|Q|N|N|100
 MCFT|MCBC Holdings, Inc. - Common Stock|G|N|N|100
-MCGC|MCG Capital Corporation - Closed End Fund|Q|N|N|100
 MCHP|Microchip Technology Incorporated - Common Stock|Q|N|N|100
 MCHX|Marchex, Inc. - Class B Common Stock|Q|N|N|100
 MCOX|Mecox Lane Limited - American Depositary Shares|Q|N|N|100
@@ -1909,6 +1908,7 @@ NFLX|Netflix, Inc. - Common Stock|Q|N|N|100
 NGHC|National General Holdings Corp - Common Stock|G|N|N|100
 NGHCO|National General Holdings Corp - Depositary Shares|G|N|N|100
 NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A|G|N|N|100
+NGHCZ|National General Holdings Corp - 7.625% Subordinated Notes due 2055|G|N|N|100
 NHLD|National Holdings Corporation - Common Stock|S|N|N|100
 NHTC|Natural Health Trends Corp. - Commn Stock|S|N|N|100
 NICE|NICE-Systems Limited - American Depositary Shares each representing one Ordinary Share|Q|N|N|100
@@ -2265,7 +2265,6 @@ QKLS|QKL Stores, Inc. - Common Stock|S|N|N|100
 QLGC|QLogic Corporation - Common Stock|Q|N|N|100
 QLIK|Qlik Technologies Inc. - Common Stock|Q|N|N|100
 QLTI|QLT Inc. - Common Shares|Q|N|N|100
-QLTY|Quality Distribution, Inc. - Common Stock|G|N|N|100
 QLYS|Qualys, Inc. - Common Stock|Q|N|N|100
 QNST|QuinStreet, Inc. - Common Stock|Q|N|N|100
 QPAC|Quinpario Acquisition Corp. 2 - Common Stock|S|N|N|100
@@ -2836,7 +2835,7 @@ UNXL|Uni-Pixel, Inc. - Common Stock|S|N|N|100
 UPIP|Unwired Planet, Inc. - Common Stock|Q|N|D|100
 UPLD|Upland Software, Inc. - Common Stock|G|N|N|100
 URBN|Urban Outfitters, Inc. - Common Stock|Q|N|N|100
-URRE|Uranium Resources, Inc. - Common Stock|S|N|N|100
+URRE|Uranium Resources, Inc. - Common Stock|S|N|D|100
 USAK|USA Truck, Inc. - Common Stock|Q|N|N|100
 USAP|Universal Stainless & Alloy Products, Inc. - Common Stock|Q|N|N|100
 USAT|USA Technologies, Inc. - Common Stock|G|N|N|100
@@ -3079,4 +3078,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0818201521:33|||||
+File Creation Time: 0819201521:31|||||
