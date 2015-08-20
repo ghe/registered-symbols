@@ -818,6 +818,7 @@ CKP|Checkpoint Systms, Inc. Common Stock|N|CKP|N|100|N|CKP
 CKX|CKX Lands, Inc. Common Stock|A|CKX|N|100|N|CKX
 CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
 CLA|Capitala Finance Corp. 7.125% Notes due 2021|N|CLA|N|100|N|CLA
+CLAW|Direxion Daily Homebuilders & Supplies Bear 3X Shares|P|CLAW|Y|100|N|CLAW
 CLB|Core Laboratories N.V. Common Stock|N|CLB|N|100|N|CLB
 CLC|CLARCOR Inc. Common Stock|N|CLC|N|100|N|CLC
 CLD|Cloud Peak Energy Inc Common Stock|N|CLD|N|100|N|CLD
@@ -930,6 +931,7 @@ CQH|Cheniere Energy Partners LP Holdings, LLC Common Shares|A|CQH|N|100|N|CQH
 CQP|Cheniere Energy Partners, LP Cheniere Energy Partners, LP Common Units|A|CQP|N|100|N|CQP
 CQQQ|Guggenheim China Technology ETF|P|CQQQ|Y|100|N|CQQQ
 CR|Crane Company Common Stock|N|CR|N|100|N|CR
+CRAK|Market Vectors Oil Refiners ETF|P|CRAK|Y|100|N|CRAK
 CRBN|iShares MSCI ACWI Low Carbon Target ETF|P|CRBN|Y|100|N|CRBN
 CRBQ|Global Commodity Equity ETF|P|CRBQ|Y|100|N|CRBQ
 CRC|California Resources Corporation Common Stock|N|CRC|N|100|N|CRC
@@ -1056,6 +1058,7 @@ DATA|Tableau Software, Inc. Class A Common Stock|N|DATA|N|100|N|DATA
 DB|Deutsche Bank AG Common Stock|N|DB|N|100|N|DB
 DBA|PowerShares DB Agriculture Fund|P|DBA|Y|100|N|DBA
 DBAP|Deutsche X-Trackers MSCI AC Asia Pacific ex Japan Hedged Equity ETF|P|DBAP|Y|100|N|DBAP
+DBAU|Deutsche X-trackers MSCI Australia Hedged Equity ETF|P|DBAU|Y|100|N|DBAU
 DBAW|Deutsche X-trackers MSCI All World ex US Hedged Equity ETF|P|DBAW|Y|100|N|DBAW
 DBB|PowerShares DB Base Metals Fund|P|DBB|Y|100|N|DBB
 DBBR|Deutsche X-trackers MSCI Brazil Hedged Equity Fund|P|DBBR|Y|100|N|DBBR
@@ -1064,10 +1067,12 @@ DBD|Diebold, Incorporated Common Stock|N|DBD|N|100|N|DBD
 DBE|PowerShares DB Energy Fund|P|DBE|Y|100|N|DBE
 DBEF|Deutsche X-trackers MSCI EAFE Hedged Equity ETF|P|DBEF|Y|100|N|DBEF
 DBEM|Deutsche X-trackers MSCI Emerging Markets Hedged Equity ETF|P|DBEM|Y|100|N|DBEM
+DBES|Deutsche X-trackers MSCI EAFE Small Cap Hedged Equity ETF|P|DBES|Y|100|N|DBES
 DBEU|Deutsche X-Trackers MSCI Europe Hedged Equity ETF|P|DBEU|Y|100|N|DBEU
 DBEZ|Deutsche X-trackers MSCI Eurozone Hedged Equity ETF|P|DBEZ|Y|100|N|DBEZ
 DBGR|Deutsche X-trackers MSCI Germany Hedged Equity ETF|P|DBGR|Y|100|N|DBGR
 DBIF|Deutsche X-trackers S&P Hedged Global Infrastructure ETF|P|DBIF|Y|100|N|DBIF
+DBIT|Deutsche X-trackers MSCI Italy Hedged Equity ETF|P|DBIT|Y|100|N|DBIT
 DBIZ|AdvisorShares Pring Turner Business Cycle ETF|P|DBIZ|Y|100|N|DBIZ
 DBJP|Deutsche X-trackers MSCI Japan Hedged Equity ETF|P|DBJP|Y|100|N|DBJP
 DBKO|Deutsche X-trackers MSCI South Korea Hedged Equity ETF|P|DBKO|Y|100|N|DBKO
@@ -1077,6 +1082,8 @@ DBO|PowerShares DB Oil Fund|P|DBO|Y|100|N|DBO
 DBP|PowerShares DB Precious Metals Fund|P|DBP|Y|100|N|DBP
 DBRE|Deutsche X-trackers Dow Jones Hedged International Real Estate ETF|P|DBRE|Y|100|N|DBRE
 DBS|PowerShares DB Silver Fund|P|DBS|Y|100|N|DBS
+DBSE|Deutsche X-trackers MSCI Southern Europe Hedged Equity ETF|P|DBSE|Y|100|N|DBSE
+DBSP|Deutsche X-trackers MSCI Spain Hedged Equity ETF|P|DBSP|Y|100|N|DBSP
 DBU|WisdomTree Global ex-US Utility IndexInternational Utilities Sector Fund|P|DBU|Y|100|N|DBU
 DBUK|Deutsche X-Trackers MSCI United Kingdom Hedged Equity ETF|P|DBUK|Y|100|N|DBUK
 DBV|PowerShares DB G10 Currency Harvest|P|DBV|Y|100|N|DBV
@@ -1210,6 +1217,7 @@ DPK|Direxion Developed Markets Bear 3x Shares|P|DPK|Y|100|N|DPK
 DPLO|Diplomat Pharmacy, Inc. Common Stock|N|DPLO|N|100|N|DPLO
 DPM|DCP Midstream Partners, LP DCP Midstream Partnership, LP Common Units|N|DPM|N|100|N|DPM
 DPS|Dr Pepper Snapple Group, Inc Dr Pepper Snapple Group, Inc  Common Stock|N|DPS|N|100|N|DPS
+DPST|Direxion Daily Regional Banks Bull 3X Shares|P|DPST|Y|100|N|DPST
 DPU|DB Commodity Long ETN due April 1, 2038|P|DPU|N|100|N|DPU
 DPW|Digital Power Corporation Common Stock|A|DPW|N|100|N|DPW
 DPZ|Domino's Pizza Inc Common Stock|N|DPZ|N|100|N|DPZ
@@ -2718,6 +2726,7 @@ JPM$H|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th inter
 JPM.W|J P Morgan Chase & Co Warrant expiring October 28, 2018|N|JPM/WS|N|100|N|JPM+
 JPMV|iShares MSCI Japan Minimum Volatility ETF|P|JPMV|Y|100|N|JPMV
 JPN|Deutsche X-trackers Japan JPX-Nikkei 400 Equity ETF|P|JPN|Y|100|N|JPN
+JPNH|Deutsche X-trackers Japan JPX-Nikkei 400 Hedged Equity ETF|P|JPNH|Y|100|N|JPNH
 JPNL|Direxion Daily Japan Bull 3X ETF|P|JPNL|Y|100|N|JPNL
 JPP|SPDR Russell/Nomura PRIME Japan ETF|P|JPP|Y|100|N|JPP
 JPS|Nuveen Quality Preferred Income Fund 2 Shares of Beneficial Interest|N|JPS|N|100|N|JPS
@@ -3268,6 +3277,7 @@ N|Netsuite Inc Common Stock|N|N|N|100|N|N
 NAC|Nuveen California Dividend Advantage Municipal Fund Common Stock|N|NAC|N|100|N|NAC
 NAD|Nuveen Dividend Advantage Municipal Fund Common Stock|N|NAD|N|100|N|NAD
 NADL|North Atlantic Drilling Ltd. Common Shares|N|NADL|N|100|N|NADL
+NAIL|Direxion Daily Homebuilders & Supplies Bull 3X Shares|P|NAIL|Y|100|N|NAIL
 NAK|Northern Dynasty Minerals, Ltd. Common Stock|A|NAK|N|100|N|NAK
 NAN|Nuveen New York Dividend Advantage Municipal Fund Common Stock|N|NAN|N|100|N|NAN
 NAO|Nordic Amern Offshore Ltd Ordinary Shares Reg S (Marshall Islands)|N|NAO|N|100|N|NAO
@@ -3508,6 +3518,7 @@ OAK|Oaktree Capital Group, LLC Class A Units Representing Limited Liability Comp
 OAKS|Five Oaks Investment Corp. Common Stock|N|OAKS|N|100|N|OAKS
 OAKS$A|Five Oaks Investment Corp. 8.75% Series A Cumulative Redeemable Preferred Stock|N|OAKSpA|N|100|N|OAKS-A
 OAS|Oasis Petroleum Inc. Common Stock|N|OAS|N|100|N|OAS
+OASI|O'Shares FTSE Asia Pacific Quality Dividend ETF|P|OASI|Y|100|N|OASI
 OB|OneBeacon Insurance Group, Ltd. Class A Common Stock|N|OB|N|100|N|OB
 OC|Owens Corning Inc Common Stock New|N|OC|N|100|N|OC
 OCIP|OCI Partners LP Common Units representing Limited Partner Interests|N|OCIP|N|100|N|OCIP
@@ -3518,6 +3529,7 @@ OCR$B|Omnicare, Inc. Omnicare Capital Trust II Series B 4.00% Trust Preferred In
 ODC|Oil-Dri Corporation Of America Common Stock|N|ODC|N|100|N|ODC
 OEC|Orion Engineered Carbons S.A Common Shares|N|OEC|N|100|N|OEC
 OEF|iShares S&P 100 ETF|P|OEF|Y|100|N|OEF
+OEUR|O'Shares FTSE Europe Quality Dividend ETF|P|OEUR|Y|100|N|OEUR
 OFC|Corporate Office Properties Trust Common Stock|N|OFC|N|100|N|OFC
 OFC$L|Corporate Office Properties Trust Preferred Series L|N|OFCpL|N|100|N|OFC-L
 OFG|OFG Bancorp Common Stock|N|OFG|N|100|N|OFG
@@ -4448,12 +4460,12 @@ ST|Sensata Technologies Holding N.V. Ordinary Shares|N|ST|N|100|N|ST
 STAG|Stag Industrial, Inc. Common Stock|N|STAG|N|100|N|STAG
 STAG$A|Stag Industrial, Inc. Preferred Series A|N|STAGpA|N|100|N|STAG-A
 STAG$B|Stag Industrial, Inc. Cum Pfd Ser B|N|STAGpB|N|100|N|STAG-B
-STAR|iStar Financial Inc. Common Stock|N|STAR|N|100|N|STAR
-STAR$D|iStar Financial Inc. Preferred Stock|N|STARpD|N|100|N|STAR-D
-STAR$E|iStar Financial Inc. 7.875% Preferred Ser E|N|STARpE|N|100|N|STAR-E
-STAR$F|iStar Financial Inc. Series F Preferred Stock|N|STARpF|N|100|N|STAR-F
-STAR$G|iStar Financial Inc. Preferred Stock Series G|N|STARpG|N|100|N|STAR-G
-STAR$I|iStar Financial Inc. Preferred Series I|N|STARpI|N|100|N|STAR-I
+STAR|iStar Inc. Common Stock|N|STAR|N|100|N|STAR
+STAR$D|iStar Inc. Series D Cumulative Redeemable Preferred Stock|N|STARpD|N|100|N|STAR-D
+STAR$E|iStar Inc. 7.875% Series E Cumulative Redeemable|N|STARpE|N|100|N|STAR-E
+STAR$F|iStar Inc. Series F Cumulative Redeemable Preferred Stock|N|STARpF|N|100|N|STAR-F
+STAR$G|iStar Inc. Series G Cumulative Redeemable Preferred Stock|N|STARpG|N|100|N|STAR-G
+STAR$I|iStar Inc. Series I Cumulative Redeemable Preferred Stock|N|STARpI|N|100|N|STAR-I
 STAY|Extended Stay America, Inc. Common Stock|N|STAY|N|100|N|STAY
 STC|Stewart Information Services Corporation Common Stock|N|STC|N|100|N|STC
 STE|STERIS Corporation Common Stock|N|STE|N|100|N|STE
@@ -5072,6 +5084,7 @@ WD|Walker & Dunlop, Inc Common Stock|N|WD|N|100|N|WD
 WDAY|Workday, Inc. Common Stock|N|WDAY|N|100|N|WDAY
 WDIV|SPDR S&P Global Dividend|P|WDIV|Y|100|N|WDIV
 WDR|Waddell & Reed Financial, Inc. Common Stock|N|WDR|N|100|N|WDR
+WDRW|Direxion Daily Regional Banks Bear 3X Shares|P|WDRW|Y|100|N|WDRW
 WDTI|WisdomTree Managed Futures Strategy Fund|P|WDTI|Y|100|N|WDTI
 WEA|Western Asset Bond Fund Share of Beneficial Interest|N|WEA|N|100|N|WEA
 WEAT|Teucrium Wheat Fund ETV|P|WEAT|Y|100|N|WEAT
@@ -5270,4 +5283,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0818201521:33||||||
+File Creation Time: 0819201521:31||||||
