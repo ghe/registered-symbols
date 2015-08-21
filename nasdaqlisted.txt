@@ -573,9 +573,11 @@ CHUY|Chuy's Holdings, Inc. - Common Stock|Q|N|N|100
 CHW|Calamos Global Dynamic Income Fund - Common Stock|Q|N|N|100
 CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
 CIBR|First Trust NASDAQ CEA Cybersecurity ETF|G|N|N|100
+CID|Compass EMP International High Dividend 100 Volatility Weighted Index ETF|G|N|N|100
 CIDM|Cinedigm Corp - Class A Common Stock|G|N|D|100
 CIFC|CIFC Corp. - Common Stock|S|N|N|100
 CIGI|Colliers International Group Inc.  - Subordinate Voting Shares|Q|N|N|100
+CIL|Compass EMP International 500 Volatility Weighted Index ETF|G|N|N|100
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100
 CISG|CNinsure Inc. - American depositary shares, each representing 20 ordinary shares|Q|N|N|100
 CIVB|Civista Bancshares, Inc.  - Common Stock|S|N|N|100
@@ -1324,7 +1326,7 @@ HEAR|Turtle Beach Corporation - Common Stock|G|N|N|100
 HEES|H&E Equipment Services, Inc. - Common Stock|Q|N|N|100
 HELE|Helen of Troy Limited - Common Stock|Q|N|N|100
 HEOP|Heritage Oaks Bancorp - Common Stock|S|N|N|100
-HERO|Hercules Offshore, Inc. - Common Stock|Q|N|D|100
+HERO|Hercules Offshore, Inc. - Common Stock|Q|N|G|100
 HFBC|HopFed Bancorp, Inc. - Common Stock|G|N|N|100
 HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock|S|N|N|100
 HFFC|HF Financial Corp. - Common Stock|G|N|N|100
@@ -1592,7 +1594,7 @@ KTCC|Key Tronic Corporation - Common Stock|G|N|N|100
 KTEC|Key Technology, Inc. - Common Stock|G|N|N|100
 KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock|Q|N|N|100
 KTWO|K2M Group Holdings, Inc. - Common Stock|Q|N|N|100
-KUTV|Ku6 Media Co., Ltd. - American Depositary Shares, each representing 100 ordinary shares|G|N|N|100
+KUTV|Ku6 Media Co., Ltd. - American Depositary Shares, each representing 100 ordinary shares|G|N|D|100
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100
 KWEB|KraneShares CSI China Internet ETF|G|N|N|100
 KYTH|Kythera Biopharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -3078,4 +3080,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0819201521:31|||||
+File Creation Time: 0820201521:33|||||
