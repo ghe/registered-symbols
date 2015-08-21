@@ -951,7 +951,6 @@ CROP|IQ Global Agribusiness Small Cap ETF|P|CROP|Y|100|N|CROP
 CRR|Carbo Ceramics, Inc. Common Stock|N|CRR|N|100|N|CRR
 CRS|Carpenter Technology Corporation Common Stock|N|CRS|N|100|N|CRS
 CRT|Cross Timbers Royalty Trust Common Stock|N|CRT|N|100|N|CRT
-CRV|Coast Distribution System, Inc. (The) Common Stock|A|CRV|N|100|N|CRV
 CRVP|Crystal Rock Holdings, Inc. Class A Common Stock|A|CRVP|N|100|N|CRVP
 CRY|CryoLife, Inc. Common Stock|N|CRY|N|100|N|CRY
 CS|Credit Suisse Group American Depositary Shares|N|CS|N|100|N|CS
@@ -5283,4 +5282,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0819201521:31||||||
+File Creation Time: 0820201521:33||||||
