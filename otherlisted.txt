@@ -243,6 +243,7 @@ APC|Anadarko Petroleum Corporation Common Stock|N|APC|N|100|N|APC
 APD|Air Products and Chemicals, Inc. Common Stock|N|APD|N|100|N|APD
 APF|Morgan Stanley Asia-Pacific Fund, Inc.|N|APF|N|100|N|APF
 APH|Amphenol Corporation Common Stock|N|APH|N|100|N|APH
+APHB|AmpliPhi Biosciences Corporation Common Stock|A|APHB|N|100|N|APHB
 APLE|Apple Hospitality REIT, Inc. Common Shares|N|APLE|N|100|N|APLE
 APO|Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests|N|APO|N|100|N|APO
 APP|American Apparel Inc Common Stock|A|APP|N|100|N|APP
@@ -5282,4 +5283,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0820201521:33||||||
+File Creation Time: 0821201521:32||||||
