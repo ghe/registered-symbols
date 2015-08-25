@@ -201,7 +201,6 @@ AMJ|JPMorgan Chase Capital XVI JP Morgan Alerian MLP ETN|P|AMJ|N|100|N|AMJ
 AMLP|Alerian MLP ETF|P|AMLP|Y|100|N|AMLP
 AMP|Ameriprise Financial, Inc. Common Stock|N|AMP|N|100|N|AMP
 AMPE|Ampio Pharmaceuticals, Inc.|A|AMPE|N|100|N|AMPE
-AMPS|iShares Utilities Bond ETF|P|AMPS|Y|100|N|AMPS
 AMRC|Ameresco, Inc. Class A Common Stock|N|AMRC|N|100|N|AMRC
 AMS|American Shared Hospital Services Common Stock|A|AMS|N|100|N|AMS
 AMT|American Tower Corporation (REIT) Common Stock|N|AMT|N|100|N|AMT
@@ -223,7 +222,6 @@ ANH|Anworth Mortgage Asset Corporation Common Stock|N|ANH|N|100|N|ANH
 ANH$A|Anworth Mortgage Asset Corporation Series A Preferred Stock|N|ANHpA|N|100|N|ANH-A
 ANH$B|Anworth Mortgage Asset  Corporation Preferred Stock Series B 6.25%|N|ANHpB|N|100|N|ANH-B
 ANH$C|Anworth Mortgage Asset  Corporation 7.625% Series C Cumulative Redeemable  Preferred Stock|N|ANHpC|N|100|N|ANH-C
-ANN|ANN INC. Common Stock|N|ANN|N|100|N|ANN
 ANTM|Anthem, Inc. Common Stock|N|ANTM|N|100|N|ANTM
 ANTX|Anthem, Inc. Corporate Units|N|ANTX|N|100|N|ANTX
 ANW|Aegean Marine Petroleum Network Inc. Common Stock|N|ANW|N|100|N|ANW
@@ -362,7 +360,7 @@ AZIA|Global X Central Asia & Mongolia Index ETF|P|AZIA|Y|100|N|AZIA
 AZN|Astrazeneca PLC Common Stock|N|AZN|N|100|N|AZN
 AZO|AutoZone, Inc. Common Stock|N|AZO|N|100|N|AZO
 AZUR|Azure Midstream Partners, LP Common Units Limited Partnership|N|AZUR|N|100|N|AZUR
-AZZ|AZZ Incorporated Common Stock|N|AZZ|N|100|N|AZZ
+AZZ|AZZ Inc.|N|AZZ|N|100|N|AZZ
 B|Barnes Group, Inc. Common Stock|N|B|N|100|N|B
 BA|Boeing Company (The) Common Stock|N|BA|N|100|N|BA
 BAA|BANRO CORPORATION Ordinary Shares|A|BAA|N|100|N|BAA
@@ -1440,7 +1438,6 @@ EMZ|Entergy Mississippi, Inc. First Mortgage Bonds, 6.0% Series due May 1, 2051|
 ENB|Enbridge Inc Common Stock|N|ENB|N|100|N|ENB
 ENBL|Enable Midstream Partners, LP Common Units representing limited partner interests|N|ENBL|N|100|N|ENBL
 ENFR|Alerian Energy Infrastructure ETF|P|ENFR|Y|100|N|ENFR
-ENGN|iShares Industrial Bond ETF|P|ENGN|Y|100|N|ENGN
 ENH|Endurance Specialty Holdings Ltd Common Stock|N|ENH|N|100|N|ENH
 ENH$A|Endurance Specialty Holdings Ltd Preferred Series A|N|ENHpA|N|100|N|ENH-A
 ENH$B|Endurance Specialty Holdings Ltd PFD SER B (Bermuda)|N|ENHpB|N|100|N|ENH-B
@@ -1523,7 +1520,6 @@ ESL|Esterline Technologies Corporation Common Stock|N|ESL|N|100|N|ESL
 ESNC|EnSync, Inc. Common Stock|A|ESNC|N|100|N|ESNC
 ESNT|Essent Group Ltd. Common Shares|N|ESNT|N|100|N|ESNT
 ESP|Espey Mfg. & Electronics Corp. Common Stock|A|ESP|N|100|N|ESP
-ESR|iShares MSCI Emerging Markets Eastern Europe Index Fund|P|ESR|Y|100|N|ESR
 ESRT|Empire State Realty Trust, Inc. Class A Common Stock|N|ESRT|N|100|N|ESRT
 ESS|Essex Property Trust, Inc. Common Stock|N|ESS|N|100|N|ESS
 ESS$H|Essex Property Trust, Inc. 7.125% Series H Cumulative Redeemable Preferred Stock|N|ESSpH|N|100|N|ESS-H
@@ -1572,6 +1568,7 @@ EVN|Eaton Vance Municipal Income Trust Common Stock|N|EVN|N|100|N|EVN
 EVO|Eaton Vance Ohio Municipal Income Trust Shares of Beneficial Interest|A|EVO|N|100|N|EVO
 EVP|Eaton Vance Pennsylvania Municipal Income Trust Shares of Beneficial Interest|A|EVP|N|100|N|EVP
 EVR|Evercore Partners Inc Class A Common Stock|N|EVR|N|100|N|EVR
+EVRI|Everi Holdings Inc. Common Stock|N|EVRI|N|100|N|EVRI
 EVT|Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest|N|EVT|N|100|N|EVT
 EVTC|Evertec, Inc. Common Stock|N|EVTC|N|100|N|EVTC
 EVV|Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest|A|EVV|N|100|N|EVV
@@ -1579,15 +1576,12 @@ EVX|Market Vectors Environment Index ETF Fund|P|EVX|Y|100|N|EVX
 EVY|Eaton Vance New York Municipal Income Trust Shares of Beneficial Interest|A|EVY|N|100|N|EVY
 EW|Edwards Lifesciences Corporation Common Stock|N|EW|N|100|N|EW
 EWA|iShares MSCI Australia Index Fund|P|EWA|Y|100|N|EWA
-EWAS|Ishares MSCI Australia Small Cap ETF|Z|EWAS|Y|100|N|EWAS
 EWC|iShares MSCI Canada Index Fund|P|EWC|Y|100|N|EWC
-EWCS|Ishares MSCI Canada Small Cap ETF|Z|EWCS|Y|100|N|EWCS
 EWD|iShares MSCI Sweden Index Fund|P|EWD|Y|100|N|EWD
 EWEM|Guggenheim MSCI Emerging Markets Equal Country Weight ETF|P|EWEM|Y|100|N|EWEM
 EWG|iShares MSCI Germany Index Fund|P|EWG|Y|100|N|EWG
 EWGS|Ishares MSCI Germany Small Cap ETF|Z|EWGS|Y|100|N|EWGS
 EWH|iShares MSCI Hong Kong Index Fund|P|EWH|Y|100|N|EWH
-EWHS|iShares MSCI Hong Kong Small-Cap ETF|P|EWHS|Y|100|N|EWHS
 EWI|iShares MSCI Italy Capped Index Fund|P|EWI|Y|100|N|EWI
 EWJ|iShares MSCI Japan Index Fund|P|EWJ|Y|100|N|EWJ
 EWK|iShares MSCI Belgium Capped Investable Market Index Fund|P|EWK|Y|100|N|EWK
@@ -1602,7 +1596,6 @@ EWRI|Guggenheim Russell 1000 Equal Weight ETF|P|EWRI|Y|100|N|EWRI
 EWRM|Guggenheim Russell MidCap Equal Weight ETF|P|EWRM|Y|100|N|EWRM
 EWRS|Guggenheim Russell 2000 Equal Weight ETF|P|EWRS|Y|100|N|EWRS
 EWS|iShares MSCI Singapore Index Fund|P|EWS|Y|100|N|EWS
-EWSS|iShares MSCI Singapore Small-Cap ETF|P|EWSS|Y|100|N|EWSS
 EWT|iShares MSCI Taiwan Index Fund|P|EWT|Y|100|N|EWT
 EWU|iShares MSCI United Kingdom ETF|P|EWU|Y|100|N|EWU
 EWUS|Ishares MSCI United Kingdom Small Cap ETF|Z|EWUS|Y|100|N|EWUS
@@ -1893,7 +1886,6 @@ GBF|iShares Government/Credit Bond ETF|P|GBF|Y|100|N|GBF
 GBL|Gamco Investors, Inc. Common Stock|N|GBL|N|100|N|GBL
 GBR|New Concept Energy, Inc Common Stock|A|GBR|N|100|N|GBR
 GBX|Greenbrier Companies, Inc. (The) Common Stock|N|GBX|N|100|N|GBX
-GCA|Global Cash Access Holdings, Inc. Common Stock|N|GCA|N|100|N|GCA
 GCAP|GAIN Capital Holdings, Inc. Common Stock|N|GCAP|N|100|N|GCAP
 GCC|GreenHaven Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
 GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
@@ -3156,7 +3148,6 @@ MOG.B|Moog Inc. Class B Common Stock|N|MOG/B|N|100|N|MOG.B
 MOH|Molina Healthcare Inc Common Stock|N|MOH|N|100|N|MOH
 MOM|QuantShares U.S. Market Neutral Momentum Fund ETF|P|MOM|Y|100|N|MOM
 MON|Monsanto Company Common Stock|N|MON|N|100|N|MON
-MONY|iShares Financial Bond ETF|P|MONY|Y|100|N|MONY
 MOO|Market Vectors Agribusiness ETF|P|MOO|Y|100|N|MOO
 MORE|Monogram Residential Trust, Inc. Common|N|MORE|N|100|N|MORE
 MORL|ETRACS Monthly Pay 2XLeveraged Mortgage REIT ETN|P|MORL|N|100|N|MORL
@@ -5283,4 +5274,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0821201521:32||||||
+File Creation Time: 0824201521:34||||||
