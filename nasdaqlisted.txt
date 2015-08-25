@@ -1,5 +1,4 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size
-AAIT|iShares MSCI All Country Asia Information Technology Index Fund|G|N|N|100
 AAL|American Airlines Group, Inc. - Common Stock|Q|N|N|100
 AAME|Atlantic American Corporation - Common Stock|G|N|N|100
 AAOI|Applied Optoelectronics, Inc. - Common Stock|G|N|N|100
@@ -278,7 +277,6 @@ AWRE|Aware, Inc. - Common Stock|G|N|N|100
 AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
 AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100
 AXGN|AxoGen, Inc. - Common Stock|S|N|N|100
-AXJS|iShares MSCI All Country Asia ex Japan Small Cap Index Fund|G|N|N|100
 AXPW|Axion Power International, Inc. - Common Stock|S|N|N|100
 AXPWW|Axion Power International, Inc. - Series A Warrants|S|N|N|100
 AXTI|AXT Inc - Common Stock|Q|N|N|100
@@ -888,7 +886,6 @@ EDUC|Educational Development Corporation - Common Stock|G|N|N|100
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100
 EEI|Ecology and Environment, Inc. - Class A Common Stock|G|N|N|100
 EEMA|iShares MSCI Emerging Markets Asia Index Fund|G|N|N|100
-EEME|iShares MSCI Emerging Markets EMEA Index Fund|G|N|N|100
 EEML|iShares MSCI Emerging Markets Latin America Index Fund|G|N|N|100
 EFII|Electronics for Imaging, Inc. - Common Stock|Q|N|N|100
 EFOI|Energy Focus, Inc. - Common Stock|S|N|N|100
@@ -900,7 +897,6 @@ EGHT|8x8 Inc - Common Stock|Q|N|N|100
 EGLE|Eagle Bulk Shipping Inc. - Common Stock|Q|N|N|100
 EGLT|Egalet Corporation - Common Stock|G|N|N|100
 EGOV|NIC Inc. - Common Stock|Q|N|N|100
-EGRW|iShares MSCI Emerging Markets Growth Index Fund|G|N|N|100
 EGRX|Eagle Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 EGT|Entertainment Gaming Asia Incorporated - Common Stock|S|N|N|100
 EHTH|eHealth, Inc. - Common Stock|Q|N|N|100
@@ -919,8 +915,6 @@ EMCB|WisdomTree Emerging Markets Corporate Bond Fund|G|N|N|100
 EMCF|Emclaire Financial Corp - Common Stock|S|N|N|100
 EMCG|WisdomTree Emerging Markets Consumer Growth Fund|G|N|N|100
 EMCI|EMC Insurance Group Inc. - Common Stock|Q|N|N|100
-EMDI|iShares MSCI Emerging Markets Consumer Discrectionary Sector Index Fund|G|N|N|100
-EMEY|iShares MSCI Emerging Markets Energy Sector Capped Index Fund|G|N|N|100
 EMIF|iShares S&P Emerging Markets Infrastructure Index Fund|G|N|N|100
 EMITF|Elbit Imaging Ltd. - Ordinary Shares|Q|N|N|100
 EMKR|EMCORE Corporation - Common Stock|G|N|N|100
@@ -975,7 +969,6 @@ ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100
 ETRM|EnteroMedics Inc. - Common Stock|S|N|D|100
 ETSY|Etsy, Inc. - Common Stock|Q|N|N|100
 EUFN|iShares MSCI Europe Financials Sector Index Fund|G|N|N|100
-EVAL|iShares MSCI Emerging Markets Value Index Fund|G|N|N|100
 EVAR|Lombard Medical, Inc. - Ordinary Shares|G|N|N|100
 EVBS|Eastern Virginia Bankshares, Inc. - Common Stock|Q|N|N|100
 EVEP|EV Energy Partners, L.P. - common units representing limited partnership interest|Q|N|N|100
@@ -1025,7 +1018,6 @@ FCCY|1st Constitution Bancorp (NJ) - Common Stock|G|N|N|100
 FCEL|FuelCell Energy, Inc. - Common Stock|G|N|D|100
 FCFP|First Community Financial Partners, Inc. - Common Stock|S|N|N|100
 FCFS|First Cash Financial Services, Inc. - Common Stock|Q|N|N|100
-FCHI|iShares FTSE China (HK Listed) Index Fund|G|N|N|100
 FCLF|First Clover Leaf Financial Corp. - Common Stock|S|N|N|100
 FCNCA|First Citizens BancShares, Inc. - Class A Common Stock|Q|N|N|100
 FCS|Fairchild Semiconductor International, Inc. - Common Stock|Q|N|N|100
@@ -1326,7 +1318,6 @@ HEAR|Turtle Beach Corporation - Common Stock|G|N|N|100
 HEES|H&E Equipment Services, Inc. - Common Stock|Q|N|N|100
 HELE|Helen of Troy Limited - Common Stock|Q|N|N|100
 HEOP|Heritage Oaks Bancorp - Common Stock|S|N|N|100
-HERO|Hercules Offshore, Inc. - Common Stock|Q|N|N|100
 HFBC|HopFed Bancorp, Inc. - Common Stock|G|N|N|100
 HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock|S|N|N|100
 HFFC|HF Financial Corp. - Common Stock|G|N|N|100
@@ -1424,10 +1415,8 @@ IDXX|IDEXX Laboratories, Inc. - Common Stock|Q|N|N|100
 IEP|Icahn Enterprises L.P. - Depositary units|Q|N|N|100
 IESC|Integrated Electrical Services, Inc. - Common Stock|G|N|N|100
 IEUS|iShares MSCI Europe Small-Cap ETF|G|N|N|100
-IFAS|iShares FTSE EPRA/NAREIT Asia Index Fund|G|N|N|100
 IFEU|iShares FTSE EPRA/NAREIT Europe Index Fund|G|N|N|100
 IFGL|iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund|G|N|N|100
-IFNA|iShares FTSE EPRA/NAREIT North America Index Fund|G|N|N|100
 IFON|InfoSonics Corp - Common Stock|S|N|N|100
 IFV|First Trust Dorsey Wright International Focus 5 ETF|G|N|N|100
 IGLD|Internet Gold Golden Lines Ltd. - Ordinary Shares|Q|N|N|100
@@ -1963,7 +1952,7 @@ NVEE|NV5 Holdings, Inc. - Common Stock|S|N|N|100
 NVET|Nexvet Biopharma plc - Ordinary Shares|G|N|N|100
 NVFY|Nova Lifestyle, Inc - Common Stock|G|N|N|100
 NVGN|Novogen Limited - American Depositary Shares each representing twenty five Ordinary Shares|S|N|N|100
-NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|S|N|N|100
+NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|G|N|N|100
 NVLS|Nivalis Therapeutics, Inc. - Common Stock|G|N|N|100
 NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares|Q|N|N|100
 NVSL|Naugatuck Valley Financial Corporation - Common Stock|G|N|N|100
@@ -2316,7 +2305,7 @@ RDUS|Radius Health, Inc. - Common Stock|G|N|N|100
 RDVY|First Trust NASDAQ Rising Dividend Achievers ETF|G|N|N|100
 RDWR|Radware Ltd. - Ordinary Shares|Q|N|N|100
 RECN|Resources Connection, Inc. - Common Stock|Q|N|N|100
-REDF|Rediff.com India Limited - American Depositary Shares, each represented by one-half of one equity share|S|N|D|100
+REDF|Rediff.com India Limited - American Depositary Shares, each represented by one-half of one equity share|S|N|N|100
 REFR|Research Frontiers Incorporated - Common Stock|S|N|N|100
 REGI|Renewable Energy Group, Inc. - Common Stock|Q|N|N|100
 REGN|Regeneron Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -2384,7 +2373,7 @@ RRM|RR Media Ltd. - Ordinary Shares|Q|N|N|100
 RSTI|Rofin-Sinar Technologies, Inc. - Common Stock|Q|N|N|100
 RSYS|RadiSys Corporation - Common Stock|Q|N|N|100
 RTIX|RTI Surgical, Inc. - Common Stock|Q|N|N|100
-RTK|Rentech, Inc. - Common Stock|S|N|N|100
+RTK|Rentech, Inc. - Common Stock|S|N|D|100
 RTRX|Retrophin, Inc. - Common Stock|G|N|N|100
 RTTR|Ritter Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 RUN|Sunrun Inc. - Common Stock|Q|N|N|100
@@ -3079,4 +3068,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0821201521:32|||||
+File Creation Time: 0824201521:34|||||
