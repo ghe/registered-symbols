@@ -395,7 +395,7 @@ BBG|Bill Barrett Corporation Common Stock|N|BBG|N|100|N|BBG
 BBH|Market Vectors Biotech ETF|P|BBH|Y|100|N|BBH
 BBK|Blackrock Municipal Bond Trust|N|BBK|N|100|N|BBK
 BBL|BHP Billiton plc Sponsored ADR|N|BBL|N|100|N|BBL
-BBN|BlackRock Build America Bond Trust Common Shares of Beneficial Interest|N|BBN|N|100|N|BBN
+BBN|BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest|N|BBN|N|100|N|BBN
 BBRC|EGShares Beyond BRICs ETF|P|BBRC|Y|100|N|BBRC
 BBT|BB&T Corporation Common Stock|N|BBT|N|100|N|BBT
 BBT$D|BB&T Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series D|N|BBTpD|N|100|N|BBT-D
@@ -1802,7 +1802,6 @@ FRI|First Trust S&P REIT Index Fund|P|FRI|Y|100|N|FRI
 FRM|Furmanite Corporation Common Stock|N|FRM|N|100|N|FRM
 FRN|Guggenheim Frontier Markets ETF|P|FRN|Y|100|N|FRN
 FRO|Frontline Ltd. Ordinary Shares|N|FRO|N|100|N|FRO
-FRS|Frisch's Restaurants, Inc. Common Stock|A|FRS|N|100|N|FRS
 FRT|Federal Realty Investment Trust Common Stock|N|FRT|N|100|N|FRT
 FSB|Franklin Financial Network, Inc. Common Stock|N|FSB|N|100|N|FSB
 FSCE|Fifth Street Finance Corp. 5.875% Senior Notes due 2024|N|FSCE|N|100|N|FSCE
@@ -2873,7 +2872,6 @@ LBY|Libbey, Inc. Common Stock|A|LBY|N|100|N|LBY
 LC|LendingClub Corporation Common Stock|N|LC|N|100|N|LC
 LCI|Lannett Co Inc Common Stock|N|LCI|N|100|N|LCI
 LCM|Advent/Claymore Enhanced Growth & Income Fund Advent/Claymore Enhanced Growth & Income Fund Common Shares of Beneficial Interest|N|LCM|N|100|N|LCM
-LCRT|LoanCore Realty Trust, Inc. Common Stock|N|LCRT|N|100|N|LCRT
 LD|iPath Bloomberg Lead Subindex Total Return SM Index ETN|P|LD|N|100|N|LD
 LDF|Latin American Discovery Fund, Inc. (The) Common Stock|N|LDF|N|100|N|LDF
 LDL|Lydall, Inc. Common Stock|N|LDL|N|100|N|LDL
@@ -3508,6 +3506,7 @@ OA|Orbital ATK, Inc. Common Stock|N|OA|N|100|N|OA
 OAK|Oaktree Capital Group, LLC Class A Units Representing Limited Liability Company Interests|N|OAK|N|100|N|OAK
 OAKS|Five Oaks Investment Corp. Common Stock|N|OAKS|N|100|N|OAKS
 OAKS$A|Five Oaks Investment Corp. 8.75% Series A Cumulative Redeemable Preferred Stock|N|OAKSpA|N|100|N|OAKS-A
+OAPH|O'Shares FTSE Asia Pacific Quality Dividend Hedged ETF|P|OAPH|Y|100|N|OAPH
 OAS|Oasis Petroleum Inc. Common Stock|N|OAS|N|100|N|OAS
 OASI|O'Shares FTSE Asia Pacific Quality Dividend ETF|P|OASI|Y|100|N|OASI
 OB|OneBeacon Insurance Group, Ltd. Class A Common Stock|N|OB|N|100|N|OB
@@ -3520,6 +3519,7 @@ OCR$B|Omnicare, Inc. Omnicare Capital Trust II Series B 4.00% Trust Preferred In
 ODC|Oil-Dri Corporation Of America Common Stock|N|ODC|N|100|N|ODC
 OEC|Orion Engineered Carbons S.A Common Shares|N|OEC|N|100|N|OEC
 OEF|iShares S&P 100 ETF|P|OEF|Y|100|N|OEF
+OEUH|O'Shares FTSE Europe Quality Dividend Hedged ETF|P|OEUH|Y|100|N|OEUH
 OEUR|O'Shares FTSE Europe Quality Dividend ETF|P|OEUR|Y|100|N|OEUR
 OFC|Corporate Office Properties Trust Common Stock|N|OFC|N|100|N|OFC
 OFC$L|Corporate Office Properties Trust Preferred Series L|N|OFCpL|N|100|N|OFC-L
@@ -5025,6 +5025,7 @@ VSS|Vanguard FTSE All-Wld ex-US SmCp Idx ETF|P|VSS|Y|100|N|VSS
 VSTO|Vista Outdoor Inc. Common Stock|N|VSTO|N|100|N|VSTO
 VT|Vanguard Total World Stock Index ETF|P|VT|Y|100|N|VT
 VTA|Invesco Credit Opportunities Fund Common Shares of Beneficial Interest|N|VTA|N|100|N|VTA
+VTEB|Vanguard Tax-Exempt Bond ETF|P|VTEB|Y|100|N|VTEB
 VTG|Vantage Drilling Company|A|VTG|N|100|N|VTG
 VTI|Vanguard Total Stock Market ETF|P|VTI|Y|100|N|VTI
 VTN|Invesco Trust for Investment Grade New York Municipals Common Stock|N|VTN|N|100|N|VTN
@@ -5274,4 +5275,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0824201521:34||||||
+File Creation Time: 0825201521:34||||||
