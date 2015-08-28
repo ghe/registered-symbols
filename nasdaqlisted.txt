@@ -910,7 +910,7 @@ ELON|Echelon Corporation - Common Stock|Q|N|D|100
 ELOS|Syneron Medical Ltd. - Ordinary Shares|Q|N|N|100
 ELRC|Electro Rent Corporation - Common Stock|Q|N|N|100
 ELSE|Electro-Sensors, Inc. - Common Stock|S|N|N|100
-ELTK|Eltek Ltd. - Ordinary Shares|S|N|D|100
+ELTK|Eltek Ltd. - Ordinary Shares|S|N|N|100
 EMCB|WisdomTree Emerging Markets Corporate Bond Fund|G|N|N|100
 EMCF|Emclaire Financial Corp - Common Stock|S|N|N|100
 EMCG|WisdomTree Emerging Markets Consumer Growth Fund|G|N|N|100
@@ -952,7 +952,7 @@ ERW|Janus Equal Risk Weighted Large Cap ETF|G|N|N|100
 ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
 ESCR|Escalera Resources Co. - Common Stock|S|N|D|100
-ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|S|N|N|100
+ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|S|N|D|100
 ESEA|Euroseas Ltd. - Common Stock|S|N|N|100
 ESES|Eco-Stim Energy Solutions, Inc. - Common Stock|S|N|N|100
 ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100
@@ -1032,7 +1032,7 @@ FEIC|FEI Company - Common Stock|Q|N|N|100
 FEIM|Frequency Electronics, Inc. - Common Stock|G|N|N|100
 FELE|Franklin Electric Co., Inc. - Common Stock|Q|N|N|100
 FEMB|First Trust Emerging Markets Local Currency Bond ETF|G|N|N|100
-FENX|Fenix Parts, Inc. - Common Stock|G|N|N|100
+FENX|Fenix Parts, Inc. - Common Stock|G|N|E|100
 FES|Forbes Energy Services Ltd - Ordinary shares (Bermuda)|G|N|N|100
 FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100
 FEYE|FireEye, Inc. - Common Stock|Q|N|N|100
@@ -3069,4 +3069,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0826201521:32|||||
+File Creation Time: 0827201521:32|||||
