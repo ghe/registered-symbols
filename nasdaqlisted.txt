@@ -828,8 +828,8 @@ DRAD|Digirad Corporation - Common Stock|G|N|N|100
 DRAM|Dataram Corporation - Common Stock|S|N|H|100
 DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 DRRX|DURECT Corporation - Common Stock|G|N|N|100
-DRWI|DragonWave Inc - Common Shares|Q|N|D|100
-DRWIW|DragonWave Inc - Warrants|Q|N|N|100
+DRWI|DragonWave Inc - Common Shares|S|N|D|100
+DRWIW|DragonWave Inc - Warrants|S|N|N|100
 DRYS|DryShips Inc. - Common Stock|Q|N|D|100
 DSCI|Derma Sciences, Inc. - Common Stock|S|N|N|100
 DSCO|Discovery Laboratories, Inc. - Common Stock|S|N|D|100
@@ -920,7 +920,7 @@ EMITF|Elbit Imaging Ltd. - Ordinary Shares|Q|N|N|100
 EMKR|EMCORE Corporation - Common Stock|G|N|N|100
 EML|Eastern Company (The) - Common Stock|G|N|N|100
 EMMS|Emmis Communications Corporation - Class A Common Stock|Q|N|N|100
-EMMSP|Emmis Communications Corporation - 6.25% Series A Cumulative Convertible Preferred Stock|Q|N|N|100
+EMMSP|Emmis Communications Corporation - 6.25% Series A Cumulative Convertible Preferred Stock|Q|N|D|100
 ENDP|Endo International plc - Ordinary Shares|Q|N|N|100
 ENFC|Entegra Financial Corp. - Common Stock|G|N|N|100
 ENG|ENGlobal Corporation - Common Stock|S|N|N|100
@@ -1174,6 +1174,7 @@ GBCI|Glacier Bancorp, Inc. - Common Stock|Q|N|N|100
 GBDC|Golub Capital BDC, Inc. - Common Stock|Q|N|N|100
 GBIM|GlobeImmune, Inc. - Common Stock|S|N|N|100
 GBLI|Global Indemnity plc - Class A Common Shares|Q|N|N|100
+GBLIZ|Global Indemnity plc - 7.75% Subordinated Note Due 2045|Q|N|N|100
 GBNK|Guaranty Bancorp - Common Stock|Q|N|N|100
 GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|N|100
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100
@@ -2293,7 +2294,6 @@ RCKY|Rocky Brands, Inc. - Common Stock|Q|N|N|100
 RCMT|RCM Technologies, Inc. - Common Stock|G|N|N|100
 RCON|Recon Technology, Ltd. - Ordinary Shares|S|N|N|100
 RCPI|Rock Creek Pharmaceuticals, Inc. - Common Stock|S|N|D|100
-RCPT|Receptos, Inc. - Common Stock|Q|N|N|100
 RDCM|Radcom Ltd. - Ordinary Shares|S|N|N|100
 RDEN|Elizabeth Arden, Inc. - Common Stock|Q|N|N|100
 RDHL|Redhill Biopharma Ltd. - American Depositary Shares|S|N|N|100
@@ -2340,7 +2340,7 @@ RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100
-RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
+RMGN|RMG Networks Holding Corporation - Common Stock|G|N|N|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
@@ -3069,4 +3069,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0827201521:32|||||
+File Creation Time: 0828201521:33|||||
