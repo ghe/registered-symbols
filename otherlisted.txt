@@ -1185,6 +1185,7 @@ DLR$E|Digital Realty Trust, Inc. Redeemable Pfd Ser E|N|DLRpE|N|100|N|DLR-E
 DLR$F|Digital Realty Trust, Inc. Preferred Series F|N|DLRpF|N|100|N|DLR-F
 DLR$G|Digital Realty Trust, Inc. Preferred Series G|N|DLRpG|N|100|N|DLR-G
 DLR$H|Digital Realty Trust, Inc. Redeemable Preferred Stock Series H|N|DLRpH|N|100|N|DLR-H
+DLR$I|Digital Realty Trust, Inc. 6.350% Series I Cumulative Redeemable Preferred Stock, par value $0.01 per share|N|DLRpI|N|100|N|DLR-I
 DLS|WisdomTree International SmallCap Fund|P|DLS|Y|100|N|DLS
 DLX|Deluxe Corporation Common Stock|N|DLX|N|100|N|DLX
 DM|Dominion Midstream Partners, LP Common Units representing Limited Partner Interests|N|DM|N|100|N|DM
@@ -5276,4 +5277,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0827201521:32||||||
+File Creation Time: 0828201521:33||||||
