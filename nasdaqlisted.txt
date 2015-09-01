@@ -398,7 +398,7 @@ BRKS|Brooks Automation, Inc. - Common Stock|Q|N|N|100
 BSET|Bassett Furniture Industries, Incorporated - Common Stock|Q|N|N|100
 BSF|Bear State Financial, Inc. - Common Stock|G|N|D|100
 BSFT|BroadSoft, Inc. - Common Stock|Q|N|N|100
-BSPM|Biostar Pharmaceuticals, Inc. - Common Stock|S|N|N|100
+BSPM|Biostar Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 BSQR|BSQUARE Corporation - Common Stock|G|N|N|100
 BSRR|Sierra Bancorp - Common Stock|Q|N|N|100
 BSTC|BioSpecifics Technologies Corp - Common Stock|G|N|N|100
@@ -799,9 +799,9 @@ DGICB|Donegal Group, Inc. - Class B Common Stock|Q|N|N|100
 DGII|Digi International Inc. - Common Stock|Q|N|N|100
 DGLD|Credit Suisse AG - VelocityShares 3x Inverse Gold ETN|G|N|N|100
 DGLY|Digital Ally, Inc. - Common Stock|S|N|N|100
-DGRE|WisdomTree Emerging Markets Dividend Growth Fund|G|N|N|100
-DGRS|WisdomTree U.S. SmallCap Dividend Growth Fund|G|N|N|100
-DGRW|WisdomTree U.S. Dividend Growth Fund|G|N|N|100
+DGRE|WisdomTree Emerging Markets Quality Dividend Growth Fund|G|N|N|100
+DGRS|WisdomTree U.S. SmallCap Quality Dividend Growth Fund|G|N|N|100
+DGRW|WisdomTree U.S. Quality Dividend Growth Fund|G|N|N|100
 DHIL|Diamond Hill Investment Group, Inc. - Class A Common Stock|Q|N|N|100
 DHRM|Dehaier Medical Systems Limited - Common Stock|S|N|N|100
 DHXM|DHX Media Ltd. - Variable Voting Shares|Q|N|N|100
@@ -1012,7 +1012,7 @@ FBZ|First Trust Brazil AlphaDEX Fund|G|N|N|100
 FCA|First Trust China AlphaDEX Fund|G|N|N|100
 FCAN|First Trust Canada AlphaDEX Fund|G|N|N|100
 FCAP|First Capital, Inc. - Common Stock|S|N|N|100
-FCBC|First Community Bancshares, Inc. - Common Stock|Q|N|D|100
+FCBC|First Community Bancshares, Inc. - Common Stock|Q|N|N|100
 FCCO|First Community Corporation - Common Stock|S|N|N|100
 FCCY|1st Constitution Bancorp (NJ) - Common Stock|G|N|N|100
 FCEL|FuelCell Energy, Inc. - Common Stock|G|N|D|100
@@ -1392,6 +1392,7 @@ IART|Integra LifeSciences Holdings Corporation - Common Stock|Q|N|N|100
 IBB|iShares Nasdaq Biotechnology Index Fund|G|N|N|100
 IBCP|Independent Bank Corporation - Common Stock|Q|N|N|100
 IBKC|IBERIABANK Corporation - Common Stock|Q|N|N|100
+IBKCP|IBERIABANK Corporation - Depositary Shares|Q|N|N|100
 IBKR|Interactive Brokers Group, Inc. - Common Stock|Q|N|N|100
 IBOC|International Bancshares Corporation - Common Stock|Q|N|N|100
 IBTX|Independent Bank Group, Inc - Common Stock|Q|N|N|100
@@ -3069,4 +3070,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0828201521:33|||||
+File Creation Time: 0831201521:34|||||
