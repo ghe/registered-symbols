@@ -79,7 +79,7 @@ AFGE|American Financial Group, Inc. 6.25% Subordinated Debentures due 2054|N|AFG
 AFK|Market Vectors-Africa Index ETF|P|AFK|Y|100|N|AFK
 AFL|AFLAC Incorporated Common Stock|N|AFL|N|100|N|AFL
 AFM|Affiliated Managers Group, Inc. 5.250% Senior Notes due 2022|N|AFM|N|100|N|AFM
-AFQ|American Financial Group, Inc. 7% Senior Notes due 2050|N|AFQ|N|100|N|AFQ
+AFQ|American Financial Group, Inc. 7% Senior Notes due 2050|N|AFQ/CL|N|100|N|AFQ*
 AFSD|Aflac Incorporated 5.50% Subordinated Debentures due September 15, 2052|N|AFSD|N|100|N|AFSD
 AFSI$A|AmTrust Financial Services, Inc. Preferred Series A|N|AFSIpA|N|100|N|AFSI-A
 AFSI$B|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series B|N|AFSIpB|N|100|N|AFSI-B
@@ -266,7 +266,6 @@ ARKK|ARK Innovation ETF|P|ARKK|Y|100|N|ARKK
 ARKQ|ARK Industrial Innovation ETF|P|ARKQ|Y|100|N|ARKQ
 ARKW|ARK Web x.0 ETF|P|ARKW|Y|100|N|ARKW
 ARL|American Realty Investors, Inc. Common Stock|N|ARL|N|100|N|ARL
-ARMF|Ares Multi-Strategy Credit Fund, Inc. Common Stock|N|ARMF|N|100|N|ARMF
 ARMK|Aramark Common Stock|N|ARMK|N|100|N|ARMK
 ARO|Aeropostale Inc Common Stock|N|ARO|N|100|N|ARO
 ARP|Atlas Resource Partners, L.P. Common Units representing Limited Partner Interests|N|ARP|N|100|N|ARP
@@ -1119,10 +1118,10 @@ DEG|Etablissements Delhaize Freres et Cie "Le Lion" S.A. Common Stock|N|DEG|N|10
 DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
 DEJ|Dejour Energy Inc. Ltd Ordinary Shares (Canada) New|A|DEJ|N|100|N|DEJ
 DEL|Deltic Timber Corporation Common Stock|N|DEL|N|100|N|DEL
-DEM|WisdomTree Emerging Markets High-Yielding Fund|P|DEM|Y|100|N|DEM
+DEM|WisdomTree Emerging Markets High Dividend Fund|P|DEM|Y|100|N|DEM
 DEO|Diageo plc Common Stock|N|DEO|N|100|N|DEO
 DES|WisdomTree Trust SmallCap Dividend Fund|P|DES|Y|100|N|DES
-DEW|WisdomTree Europe High-Yielding Equity Fund|P|DEW|Y|100|N|DEW
+DEW|WisdomTree Global High Dividend Fund|P|DEW|Y|100|N|DEW
 DEX|Delaware Enhanced Global Dividend Common Shares of Beneficial Interest|N|DEX|N|100|N|DEX
 DF|Dean Foods Company Common Stock|N|DF|N|100|N|DF
 DFE|WisdomTree Europe SmallCap Dividend Fund|P|DFE|Y|100|N|DFE
@@ -1148,7 +1147,7 @@ DHF|Dreyfus High Yield Strategies Fund Common Stock|N|DHF|N|100|N|DHF
 DHG|Deutsche High Income Opportunities Fund, Inc  New Common Stock|N|DHG|N|100|N|DHG
 DHI|D.R. Horton, Inc. Common Stock|N|DHI|N|100|N|DHI
 DHR|Danaher Corporation Common Stock|N|DHR|N|100|N|DHR
-DHS|WisdomTree High-Yielding Equity Fund|P|DHS|Y|100|N|DHS
+DHS|WisdomTree High Dividend Fund|P|DHS|Y|100|N|DHS
 DHT|DHT Holdings, Inc.|N|DHT|N|100|N|DHT
 DHVW|Diamond Hill Valuation-Weighted 500 ETF|P|DHVW|Y|100|N|DHVW
 DHX|DHI Group, Inc. Common Stock|N|DHX|N|100|N|DHX
@@ -1195,7 +1194,7 @@ DMF|Dreyfus Municipal Income, Inc. Common Stock|A|DMF|N|100|N|DMF
 DMO|Western Asset Mortgage Defined Opportunity Fund Inc Common Stock|N|DMO|N|100|N|DMO
 DNB|Dun & Bradstreet Corporation (The) Common Stock|N|DNB|N|100|N|DNB
 DNI|Dividend and Income Fund Common Stock|N|DNI|N|100|N|DNI
-DNL|WisdomTree Global ex-U.S. Growth Fund|P|DNL|Y|100|N|DNL
+DNL|WisdomTree Global ex-US Quality Dividend Growth Fund|P|DNL|Y|100|N|DNL
 DNN|Denison Mines Corp Ordinary Shares (Canada)|A|DNN|N|100|N|DNN
 DNO|United States Short Oil Fund|P|DNO|Y|100|N|DNO
 DNOW|NOW Inc. Common Stock|N|DNOW|N|100|N|DNOW
@@ -1250,7 +1249,7 @@ DSXN|Diana Shipping Inc. 8.50% Senior Notes due 2020|N|DSXN|N|100|N|DSXN
 DTD|WisdomTree Total Dividend Fund|P|DTD|Y|100|N|DTD
 DTE|DTE Energy Company Common Stock|N|DTE|N|100|N|DTE
 DTF|DTF Tax-Free Income, Inc. Common Stock|N|DTF|N|100|N|DTF
-DTH|WisdomTree DEFA High-Yielding Equity Fund|P|DTH|Y|100|N|DTH
+DTH|WisdomTree International High Dividend Fund|P|DTH|Y|100|N|DTH
 DTK|Deutsche Bk Contingent Cap Tr III Tr Pfd Secs|N|DTK|N|100|N|DTK
 DTLA$|Brookfield DTLA Inc. 7.625% Series A Cumulative Redeemable Preferred Stock|N|DTLAp|N|100|N|DTLA-
 DTN|WisdomTree Dividend Ex-Financials Fund|P|DTN|Y|100|N|DTN
@@ -1276,7 +1275,7 @@ DVYL|ETRACS Monthly Pay 2x Leveraged Dow Jones Select Dividend Index ETN|P|DVYL|
 DW|Drew Industries Incorporated Common Stock ($0.01 Par Value)|N|DW|N|100|N|DW
 DWAQ|PowerShares DWA NASDAQ Momentum Portfolio|P|DWAQ|Y|100|N|DWAQ
 DWAS|PowerShares DWA SmallCap Momentum Portfolio|P|DWAS|Y|100|N|DWAS
-DWM|WisdomTree DEFA Fund|P|DWM|Y|100|N|DWM
+DWM|WisdomTree International Equity Fund|P|DWM|Y|100|N|DWM
 DWRE|DEMANDWARE, INC. Common Stock|N|DWRE|N|100|N|DWRE
 DWTI|VelocityShares 3X Inverse Crude ETN linked to the S&P GSCI Crude Oil Index Excess Return|P|DWTI|N|100|N|DWTI
 DWX|SPDR S&P International Dividend ETF|P|DWX|Y|100|N|DWX
@@ -1542,7 +1541,7 @@ ETV|Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund
 ETW|Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest|N|ETW|N|100|N|ETW
 ETX|Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest|N|ETX|N|100|N|ETX
 ETY|Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,|N|ETY|N|100|N|ETY
-EUDG|WisdomTree Europe Dividend Growth Fu|P|EUDG|Y|100|N|EUDG
+EUDG|WisdomTree Europe Quality Dividend Growth Fund|P|EUDG|Y|100|N|EUDG
 EUFX|ProShares Short Euro|P|EUFX|Y|100|N|EUFX
 EUM|ProShares Short MSCI Emerging Markets|P|EUM|Y|100|N|EUM
 EUMV|iShares MSCI Europe Minimum Volatility ETF|P|EUMV|Y|100|N|EUMV
@@ -2438,7 +2437,7 @@ IGV|iShares North American Tech-Software ETF|P|IGV|Y|100|N|IGV
 IGZ|IGZ (Listing Market NYSE Arca Network B F) Common Stock|P|IGZ|N|100|Y|IGZ
 IHC|Independence Holding Company Common Stock|N|IHC|N|100|N|IHC
 IHD|Voya Emerging Markets High Income Dividend Equity Fund Common Shares|N|IHD|N|100|N|IHD
-IHDG|WisdomTree International Hedged Dividend Growth Fund|P|IHDG|Y|100|N|IHDG
+IHDG|WisdomTree International Hedged Quality Dividend Growth Fund|P|IHDG|Y|100|N|IHDG
 IHE|iShares U.S. Pharmaceutical ETF|P|IHE|Y|100|N|IHE
 IHF|iShares U.S. Health Care Providers ETF|P|IHF|Y|100|N|IHF
 IHG|Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)|N|IHG|N|100|N|IHG
@@ -2636,7 +2635,7 @@ JCE|Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of
 JCI|Johnson Controls, Inc. Common Stock|N|JCI|N|100|N|JCI
 JCP|J.C. Penney Company, Inc. Holding Company Common Stock|N|JCP|N|100|N|JCP
 JDD|Nuveen Diversified Dividend and Income Fund Shares of Beneficial Interest|N|JDD|N|100|N|JDD
-JDG|WisdomTree Japan Dividend Growth Fund|P|JDG|Y|100|N|JDG
+JDG|WisdomTree Japan Quality Dividend Growth Fund|P|JDG|Y|100|N|JDG
 JDST|Direxion Daily Junior Gold Miners Index Bear 3X Shares|P|JDST|Y|100|N|JDST
 JE|Just Energy Group, Inc. Ordinary Shares (Canada)|N|JE|N|100|N|JE
 JEC|Jacobs Engineering Group Inc. Common Stock|N|JEC|N|100|N|JEC
@@ -2652,7 +2651,7 @@ JGBT|DB 3X Japanese Govt Bond Futures ETN|P|JGBT|N|100|N|JGBT
 JGH|Nuveen Global High Income Fund Common Shares of Beneficial Interest|N|JGH|N|100|N|JGH
 JGV|Nuveen Global Equity Income Fund|N|JGV|N|100|N|JGV
 JGW|J.G. Wentworth Company (The) Class A Common Stock|N|JGW|N|100|N|JGW
-JHDG|WisdomTree Japan Hedged Dividend Growth Fund|P|JHDG|Y|100|N|JHDG
+JHDG|WisdomTree Japan Hedged Quality Dividend Growth Fund|P|JHDG|Y|100|N|JHDG
 JHI|John Hancock Investors Trust Common Stock|N|JHI|N|100|N|JHI
 JHP|Nuveen Quality Preferred Income Fund 3 Preferred Income 3|N|JHP|N|100|N|JHP
 JHS|John Hancock Income Securities Trust Common Stock|N|JHS|N|100|N|JHS
@@ -3363,7 +3362,7 @@ NKY|MAXIS Nikkei 225 Index Fund ETF|P|NKY|Y|100|N|NKY
 NL|NL Industries, Inc. Common Stock|N|NL|N|100|N|NL
 NLR|Market Vectors Uranium & Nuclear Energy ETF|P|NLR|Y|100|N|NLR
 NLS|Nautilus, Inc. Common Stock|N|NLS|N|100|N|NLS
-NLSN|Nielsen N.V. Common Stock|N|NLSN|N|100|N|NLSN
+NLSN|Nielsen N.V. Ordinary Shares|N|NLSN|N|100|N|NLSN
 NLY|Annaly Capital Management Inc Common Stock|N|NLY|N|100|N|NLY
 NLY$A|Annaly Capital Management Inc Preferred Stock Series A|N|NLYpA|N|100|N|NLY-A
 NLY$C|Annaly Capital Management Inc 7.625% Series C Cumulative Redeemable Preferred Stock|N|NLYpC|N|100|N|NLY-C
@@ -3742,7 +3741,6 @@ PL$C|Protective Life Corporation 6.25% Subordinated Debentures due 2042|N|PLpC|N
 PL$E|Protective Life Corporation 6.00% Subordinated Debentures due 2042|N|PLpE|N|100|N|PL-E
 PLD|ProLogis, Inc. Common Stock|N|PLD|N|100|N|PLD
 PLG|Platinum Group Metals Ltd. Ordinary Shares (Canada)|A|PLG|N|100|N|PLG
-PLL|Pall Corporation Common Stock|N|PLL|N|100|N|PLL
 PLM|Polymet Mining Corporation Ordinary Shares (Canada)|A|PLM|N|100|N|PLM
 PLND|Market Vectors Poland ETF|P|PLND|Y|100|N|PLND
 PLNT|Planet Fitness, Inc. Common Stock|N|PLNT|N|100|N|PLNT
@@ -5277,4 +5275,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0828201521:33||||||
+File Creation Time: 0831201521:34||||||
