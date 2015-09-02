@@ -138,7 +138,7 @@ AMBA|Ambarella, Inc. - Ordinary Shares|Q|N|N|100
 AMBC|Ambac Financial Group, Inc. - Common Stock|Q|N|N|100
 AMBCW|Ambac Financial Group, Inc. - Warrants|Q|N|N|100
 AMCC|Applied Micro Circuits Corporation - Common Stock|Q|N|N|100
-AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|H|100
+AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|N|100
 AMCN|AirMedia Group Inc - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 AMCX|AMC Networks Inc. - Class A Common Stock|Q|N|N|100
 AMD|Advanced Micro Devices, Inc. - Common Stock|S|N|N|100
@@ -277,8 +277,8 @@ AWRE|Aware, Inc. - Common Stock|G|N|N|100
 AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
 AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100
 AXGN|AxoGen, Inc. - Common Stock|S|N|N|100
-AXPW|Axion Power International, Inc. - Common Stock|S|N|N|100
-AXPWW|Axion Power International, Inc. - Series A Warrants|S|N|N|100
+AXPW|Axion Power International, Inc. - Common Stock|S|N|D|100
+AXPWW|Axion Power International, Inc. - Series A Warrants|S|N|D|100
 AXTI|AXT Inc - Common Stock|Q|N|N|100
 AYA|Amaya Inc. - Common Stock|Q|N|N|100
 AZPN|Aspen Technology, Inc. - Common Stock|Q|N|N|100
@@ -601,7 +601,7 @@ CLRBW|Cellectar Biosciences, Inc. - Warrants|S|N|D|100
 CLRO|ClearOne, Inc. - Common Stock|S|N|N|100
 CLRX|CollabRx, Inc. - Common Stock|S|N|D|100
 CLSN|Celsion Corporation - Common Stock|S|N|N|100
-CLTX|Celsus Therapeutics Plc - American Depositary Shares|S|N|D|100
+CLTX|Celsus Therapeutics Plc - American Depositary Shares|S|N|N|100
 CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|N|100
 CLVS|Clovis Oncology, Inc. - Common Stock|Q|N|N|100
 CLWT|Euro Tech Holdings Company Limited - Ordinary Shares|S|N|N|100
@@ -1277,7 +1277,7 @@ GULTU|Gulf Coast Ultra Deep Royalty Trust - Royalty Trust Unit|S|N|D|100
 GURE|Gulf Resources, Inc. - Common Stock|Q|N|N|100
 GWGH|GWG Holdings, Inc - Common Stock|S|N|N|100
 GWPH|GW Pharmaceuticals Plc - American Depositary Shares|G|N|N|100
-GYRO|Gyrodyne Company of America, Inc. - Common Stock|S|N|N|100
+GYRO|Gyrodyne , LLC - Common Stock|S|N|N|100
 HA|Hawaiian Holdings, Inc. - Common Stock|Q|N|N|100
 HABT|The Habit Restaurants, Inc. - Class A Common Stock|G|N|N|100
 HAFC|Hanmi Financial Corporation - Common Stock|Q|N|N|100
@@ -2141,7 +2141,6 @@ PLBC|Plumas Bancorp - Common Stock|S|N|N|100
 PLCE|Children's Place, Inc. (The) - Common Stock|Q|N|N|100
 PLCM|Polycom, Inc. - Common Stock|Q|N|N|100
 PLKI|Popeyes Louisiana Kitchen, Inc. - Common Stock|Q|N|N|100
-PLMT|Palmetto Bancshares, Inc. (SC) - Common Stock|S|N|N|100
 PLNR|Planar Systems, Inc. - Common Stock|G|N|N|100
 PLPC|Preformed Line Products Company - Common Stock|Q|N|N|100
 PLPM|Planet Payment, Inc. - Common Stock|S|N|N|100
@@ -2341,7 +2340,7 @@ RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100
-RMGN|RMG Networks Holding Corporation - Common Stock|G|N|N|100
+RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
@@ -2814,7 +2813,7 @@ UK|Recon Capital FTSE 100 ETF|G|N|N|100
 ULBI|Ultralife Corporation - Common Stock|G|N|N|100
 ULTA|Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock|Q|N|N|100
 ULTI|The Ultimate Software Group, Inc. - Common Stock|Q|N|N|100
-ULTR|Ultrapetrol (Bahamas) Limited - common stock|Q|N|N|100
+ULTR|Ultrapetrol (Bahamas) Limited - common stock|Q|N|D|100
 UMBF|UMB Financial Corporation - Common Stock|Q|N|N|100
 UMPQ|Umpqua Holdings Corporation - Common Stock|Q|N|N|100
 UNAM|Unico American Corporation - Common Stock|G|N|N|100
@@ -3070,4 +3069,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0831201521:34|||||
+File Creation Time: 0901201521:33|||||
