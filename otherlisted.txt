@@ -1418,6 +1418,7 @@ EMES|Emerge Energy Services LP Common Units representing Limited Partner Interes
 EMF|Templeton Emerging Markets Fund Common Stock|N|EMF|N|100|N|EMF
 EMFM|Global X Next Emerging & Frontier ETF|P|EMFM|Y|100|N|EMFM
 EMFT|SPDR MSCI EM 50 ETF|P|EMFT|Y|100|N|EMFT
+EMG|Emergent Capital, Inc. Common Stock|N|EMG|N|100|N|EMG
 EMHY|iShares Emerging Markets High Yield Bond ETF|Z|EMHY|Y|100|N|EMHY
 EMHZ|iShares MSCI Emerging Markets Horizon ETF|Z|EMHZ|Y|100|N|EMHZ
 EMI|Eaton Vance Michigan Municipal Income Trust Shares of Beneficial Interest|A|EMI|N|100|N|EMI
@@ -1548,7 +1549,7 @@ EUMV|iShares MSCI Europe Minimum Volatility ETF|P|EUMV|Y|100|N|EUMV
 EUO|ProShares UltraShort Euro|P|EUO|Y|100|N|EUO
 EURL|Direxion Daily FTSE Europe Bull 3x Shares|P|EURL|Y|100|N|EURL
 EURN|Euronav NV Ordinary Shares|N|EURN|N|100|N|EURN
-EUSA|iShares MSCI USA Index Fund|P|EUSA|Y|100|N|EUSA
+EUSA|iShares MSCI USA Equal Weighted ETF|P|EUSA|Y|100|N|EUSA
 EUSC|WisdomTree Europe Hedged SmallCap Equity Fund|P|EUSC|Y|100|N|EUSC
 EV|Eaton Vance Corporation Common Stock|N|EV|N|100|N|EV
 EVA|Enviva Partners, LP Common units representing limited partner interests|N|EVA|N|100|N|EVA
@@ -2193,7 +2194,7 @@ HFXE|IQ 50 Percent Hedged FTSE Europe ETF|P|HFXE|Y|100|N|HFXE
 HFXI|IQ 50 Percent Hedged FTSE International ETF|P|HFXI|Y|100|N|HFXI
 HFXJ|IQ 50 Percent Hedged FTSE Japan ETF|P|HFXJ|Y|100|N|HFXJ
 HGEU|ProShares Hedged FTSE Europe ETF|P|HGEU|Y|100|N|HGEU
-HGG|HHGregg, Inc. Common Stock|N|HGG|N|100|N|HGG
+HGG|HHGregg, Inc. Common Stock (IN)|N|HGG|N|100|N|HGG
 HGH|Hartford Financial Services Group, Inc. (The) 7.875% Fixed to Floating Rate Junior Subordinated Debentures due 2042|N|HGH|N|100|N|HGH
 HGI|Guggenheim International Multi-Asset Income Index ETF|P|HGI|Y|100|N|HGI
 HGJP|ProShares Hedged FTSE Japan ETF|P|HGJP|Y|100|N|HGJP
@@ -2416,7 +2417,6 @@ IF|Aberdeen Indonesia Fund, Inc. (Common Stock|A|IF|N|100|N|IF
 IFF|Internationa Flavors & Fragrances, Inc. Common Stock|N|IFF|N|100|N|IFF
 IFMI|Institutional Financial Markets, Inc.|A|IFMI|N|100|N|IFMI
 IFN|India Fund, Inc. (The) Common Stock|N|IFN|N|100|N|IFN
-IFT|Imperial Holdings, Inc. Common Stock|N|IFT|N|100|N|IFT
 IG|IGI, Laboratories Inc. Common Stock|A|IG|N|100|N|IG
 IGA|Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest|N|IGA|N|100|N|IGA
 IGC|India Globalization Capital Inc. Common Stock|A|IGC|N|100|N|IGC
@@ -3313,7 +3313,6 @@ NEE$G|NextEra Energy, Inc. Series G Junior Subordinated Debenture due March 1, 2
 NEE$H|NextEra Energy, Inc. Series H Junior Subordinated Debentures due June 15, 2072|N|NEEpH|N|100|N|NEE-H
 NEE$I|NextEra Energy, Inc. Series I Junior Subordinated Debentures due November 15, 2072|N|NEEpI|N|100|N|NEE-I
 NEE$J|NextEra Energy, Inc. Series J Junior Subordinated Debentures due January 15, 2073|N|NEEpJ|N|100|N|NEE-J
-NEE$O|NextEra Energy, Inc. Units Expiring 09/01/2015|N|NEEpO|N|100|N|NEE-O
 NEE$P|NextEra Energy, Inc. EQUITY UNIT|N|NEEpP|N|100|N|NEE-P
 NEFF|Neff Corporation Common Stock|N|NEFF|N|100|N|NEFF
 NEM|Newmont Mining Corporation|N|NEM|N|100|N|NEM
@@ -3958,10 +3957,6 @@ RBS$G|RBS Capital Funding Trust VII|N|RBSpG|N|100|N|RBS-G
 RBS$H|Royal Bank of Scotland Group Plc (The) Preferred Stock|N|RBSpH|N|100|N|RBS-H
 RBS$I|RBS Capital Funding Trust VI|N|RBSpI|N|100|N|RBS-I
 RBS$L|Royal Bank of Scotland Group Plc (The) ADR representing One Non-cumulative Dollar 5.75% Preference Shares, Series L|N|RBSpL|N|100|N|RBS-L
-RBS$M|Royal Bank of Scotland Group Plc (The) ADS Series M|N|RBSpM/CL|N|100|N|RBS-M*
-RBS$N|Royal Bank of Scotland Group Plc (The) Royal Bank of Scotland Group PLC (The) American Depositary Shares (each representing One Non-Cumulative Dollar Preferenced Shares, Series N)|N|RBSpN/CL|N|100|N|RBS-N*
-RBS$P|Royal Bank of Scotland Group Plc (The) ADR representing Preferred Shares Series P|N|RBSpP/CL|N|100|N|RBS-P*
-RBS$Q|Royal Bank of Scotland Group Plc (The) ADR repstg Pref Shs Ser Q|N|RBSpQ/CL|N|100|N|RBS-Q*
 RBS$R|Royal Bank of Scotland Group Plc (The) ADR repstg USD Pfd Shs Ser R (United Kingdom)|N|RBSpR|N|100|N|RBS-R
 RBS$S|Royal Bank of Scotland Group Plc (The) Sponsored ADR Repstg Pref Ser S (United Kingdom)|N|RBSpS|N|100|N|RBS-S
 RBS$T|Royal Bank of Scotland Group Plc (The) Sponsored ADR Representing Pfef shs ser T (United Kingdom)|N|RBSpT|N|100|N|RBS-T
@@ -5249,7 +5244,6 @@ YUME|YuMe, Inc. Common Stock|N|YUME|N|100|N|YUME
 YXI|ProShares Short FTSE China 50|P|YXI|Y|100|N|YXI
 YYY|YieldShares High Income ETF|P|YYY|Y|100|N|YYY
 YZC|Yanzhou Coal Mining Company Limited Common Stock|N|YZC|N|100|N|YZC
-ZA|Zuoan Fashion Limited American Depositary Shares|N|ZA|N|100|N|ZA
 ZAYO|Zayo Group Holdings, Inc. Common Stock|N|ZAYO|N|100|N|ZAYO
 ZB$A|Zions Bancorporation Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)|N|ZBpA|N|100|N|ZB-A
 ZB$F|Zions Bancorporation Dep shs Repstg 1/40th Int Sh Ser F Fxd Rate Non Cum (Perp Pfd Stk)|N|ZBpF|N|100|N|ZB-F
@@ -5275,4 +5269,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0831201521:34||||||
+File Creation Time: 0901201521:33||||||
