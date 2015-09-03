@@ -138,7 +138,6 @@ AMBA|Ambarella, Inc. - Ordinary Shares|Q|N|N|100
 AMBC|Ambac Financial Group, Inc. - Common Stock|Q|N|N|100
 AMBCW|Ambac Financial Group, Inc. - Warrants|Q|N|N|100
 AMCC|Applied Micro Circuits Corporation - Common Stock|Q|N|N|100
-AMCF|Andatee China Marine Fuel Services Corporation - Common Stock|S|N|N|100
 AMCN|AirMedia Group Inc - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 AMCX|AMC Networks Inc. - Class A Common Stock|Q|N|N|100
 AMD|Advanced Micro Devices, Inc. - Common Stock|S|N|N|100
@@ -3069,4 +3068,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0901201521:33|||||
+File Creation Time: 0902201521:33|||||
