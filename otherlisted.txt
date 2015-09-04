@@ -940,6 +940,7 @@ CRD.B|Crawford & Company Common Stock|N|CRD/B|N|100|N|CRD.B
 CRED|iShares Core U.S. Credit Bond ETF|P|CRED|Y|100|N|CRED
 CRF|Cornerstone Total Return Fund, Inc. (The) Common Stock|A|CRF|N|100|N|CRF
 CRH|CRH PLC American Depositary Shares|N|CRH|N|100|N|CRH
+CRHM|CRH Medical Corporation Common Shares of Beneficial Interest|P|CRHM|N|100|N|CRHM
 CRI|Carter's, Inc. Common Stock|N|CRI|N|100|N|CRI
 CRK|Comstock Resources, Inc. Common Stock|N|CRK|N|100|N|CRK
 CRL|Charles River Laboratories International, Inc. Common Stock|N|CRL|N|100|N|CRL
@@ -2278,7 +2279,6 @@ HSCZ|iShares Currency Hedged MSCI EAFE Small-Cap ETF|P|HSCZ|Y|100|N|HSCZ
 HSEA|HSBC Holdings, plc. Perpetual Sub Cap Secs|N|HSEA|N|100|N|HSEA
 HSEB|HSBC Holdings plc PERP SUB CAP SECS EXCH PREF SHS SER 2 (United Kingdom)|N|HSEB|N|100|N|HSEB
 HSFC$B|HSBC Finance Corp Dep. Shares reptsg 1/40 Preferred Series B|N|HSFCpB|N|100|N|HSFC-B
-HSP|Hospira Inc|N|HSP|N|100|N|HSP
 HSPX|Horizons S&P 500 Covered Call|P|HSPX|Y|100|N|HSPX
 HST|Host Hotels & Resorts, Inc. Common Stock|N|HST|N|100|N|HST
 HSY|The Hershey Company Common Stock|N|HSY|N|100|N|HSY
@@ -2369,6 +2369,8 @@ IBMF|iShares iBonds Sep 2017 AMT-Free Muni Bond ETF|P|IBMF|Y|100|N|IBMF
 IBMG|iShares iBonds Sep 2018 AMT-Free Bond Term|P|IBMG|Y|100|N|IBMG
 IBMH|iShares iBonds Sep 2019 AMT-Free Muni Bond ETF|P|IBMH|Y|100|N|IBMH
 IBMI|iShares iBonds Sep 2020 AMT-Free Muni Bond ETF|P|IBMI|Y|100|N|IBMI
+IBMJ|iShares Trust iShares iBonds Dec 2021 AMT-Free Muni Bond ETF|P|IBMJ|Y|100|N|IBMJ
+IBMK|iShares Trust iShares iBonds Dec 2022 AMT-Free Muni Bond ETF|P|IBMK|Y|100|N|IBMK
 IBN|ICICI Bank Limited Common Stock|N|IBN|N|100|N|IBN
 IBND|SPDR Barclays International Bond ETF|P|IBND|Y|100|N|IBND
 IBO|IBO (Listing Market - NYSE Amex Network B F) Common Stock|A|IBO|N|100|Y|IBO
@@ -5269,4 +5271,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0902201521:33||||||
+File Creation Time: 0903201521:33||||||
