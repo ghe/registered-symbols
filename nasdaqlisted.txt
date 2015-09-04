@@ -481,7 +481,7 @@ CBSHP|Commerce Bancshares, Inc. - Depositary Shares, each representing a 1/1000t
 CBYL|Carbylan Therapeutics, Inc. - Common Stock|G|N|N|100
 CCBG|Capital City Bank Group - Common Stock|Q|N|N|100
 CCCL|China Ceramics Co., Ltd. - Common Stock|G|N|N|100
-CCCR|China Commercial Credit, Inc. - Common Stock|S|N|N|100
+CCCR|China Commercial Credit, Inc. - Common Stock|S|N|D|100
 CCD|Calamos Dynamic Convertible & Income Fund - Common Shares|Q|N|N|100
 CCIH|ChinaCache International Holdings Ltd. - American Depositary Shares|Q|N|N|100
 CCLP|CSI Compressco LP - common units|Q|N|N|100
@@ -1136,7 +1136,7 @@ FTEK|Fuel Tech, Inc. - Common Stock|Q|N|N|100
 FTGC|First Trust Global Tactical Commodity Strategy Fund|G|N|N|100
 FTHI|First Trust High Income ETF|G|N|N|100
 FTLB|First Trust Low Beta Income ETF|G|N|N|100
-FTNT|Fortinet, Inc. - Common Stock|Q|N|N|100
+FTNT|Fortinet, Inc. - Common Stock|Q|N|D|100
 FTR|Frontier Communications Corporation - Common Stock|Q|N|N|100
 FTRPR|Frontier Communications Corporation - 11.125% Series A Mandatory Convertible Preferred Stock|Q|N|N|100
 FTSL|First Trust Senior Loan Fund ETF|G|N|N|100
@@ -1694,7 +1694,6 @@ LWAY|Lifeway Foods, Inc. - Common Stock|G|N|E|100
 LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 LYTS|LSI Industries Inc. - Common Stock|Q|N|N|100
 MACK|Merrimack Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-MAG|Magnetek, Inc. - Common Stock|G|N|N|100
 MAGS|Magal Security Systems Ltd. - Ordinary Shares|G|N|N|100
 MAMS|MAM Software Group, Inc. - Common Stock|S|N|N|100
 MANH|Manhattan Associates, Inc. - Common Stock|Q|N|N|100
@@ -3068,4 +3067,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0902201521:33|||||
+File Creation Time: 0903201521:33|||||
