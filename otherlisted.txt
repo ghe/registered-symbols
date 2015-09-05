@@ -2562,7 +2562,6 @@ ITA|iShares U.S. Aerospace & Defense ETF|P|ITA|Y|100|N|ITA
 ITB|iShares U.S. Home Construction ETF|P|ITB|Y|100|N|ITB
 ITC|ITC Holdings Corp. Common Stock|N|ITC|N|100|N|ITC
 ITE|SPDR Barclays Intermediate Term Treasury ETF|P|ITE|Y|100|N|ITE
-ITF|iShares Japn Large-Cap ETF|P|ITF|Y|100|N|ITF
 ITG|Investment Technology Group, Inc. Common Stock|N|ITG|N|100|N|ITG
 ITI|Iteris, Inc. Common Stock|A|ITI|N|100|N|ITI
 ITIP|iShares International Inflation-Linked Bond ETF|P|ITIP|Y|100|N|ITIP
@@ -2725,6 +2724,7 @@ JPP|SPDR Russell/Nomura PRIME Japan ETF|P|JPP|Y|100|N|JPP
 JPS|Nuveen Quality Preferred Income Fund 2 Shares of Beneficial Interest|N|JPS|N|100|N|JPS
 JPW|Nuveen Flexible Investment Income Fund Common Shares of Beneficial Interest|N|JPW|N|100|N|JPW
 JPX|ProShares UltraShort MSCI Pacific ex-Japan|P|JPX|Y|100|N|JPX
+JPXN|iShares JPX-Nikkei 400 ETF|P|JPXN|Y|100|N|JPXN
 JQC|Nuveen Credit Strategies Income Fund Shares of Beneficial Interest|N|JQC|N|100|N|JQC
 JRI|Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest|N|JRI|N|100|N|JRI
 JRO|Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest|N|JRO|N|100|N|JRO
@@ -5271,4 +5271,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0903201521:33||||||
+File Creation Time: 0904201521:32||||||
