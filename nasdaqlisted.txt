@@ -2150,7 +2150,6 @@ PMBC|Pacific Mercantile Bancorp - Common Stock|Q|N|N|100
 PMCS|PMC - Sierra, Inc. - Common Stock|Q|N|N|100
 PMD|Psychemedics Corporation - Common Stock|S|N|N|100
 PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares|S|N|N|100
-PMFG|PMFG, Inc. - Common Stock|Q|N|N|100
 PNBK|Patriot National Bancorp Inc. - Common Stock|G|N|N|100
 PNFP|Pinnacle Financial Partners, Inc. - Common Stock|Q|N|N|100
 PNNT|PennantPark Investment Corporation - common stock|Q|N|N|100
@@ -2370,7 +2369,7 @@ RRM|RR Media Ltd. - Ordinary Shares|Q|N|N|100
 RSTI|Rofin-Sinar Technologies, Inc. - Common Stock|Q|N|N|100
 RSYS|RadiSys Corporation - Common Stock|Q|N|N|100
 RTIX|RTI Surgical, Inc. - Common Stock|Q|N|N|100
-RTK|Rentech, Inc. - Common Stock|S|N|D|100
+RTK|Rentech, Inc. - Common Stock|S|N|N|100
 RTRX|Retrophin, Inc. - Common Stock|G|N|N|100
 RTTR|Ritter Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 RUN|Sunrun Inc. - Common Stock|Q|N|N|100
@@ -3067,4 +3066,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0903201521:33|||||
+File Creation Time: 0904201521:32|||||
