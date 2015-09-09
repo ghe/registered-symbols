@@ -1781,7 +1781,7 @@ FORX|PIMCO Foreign Currency Strategy Active ETF|P|FORX|Y|100|N|FORX
 FPA|First Trust Asia Pacific ex-Japan AlphaDEX Fund|P|FPA|Y|100|N|FPA
 FPE|First Trust Preferred Securities and Income ETF ETF|P|FPE|Y|100|N|FPE
 FPF|First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest|N|FPF|N|100|N|FPF
-FPI|Farmland Partners Inc. Common Stock|A|FPI|N|100|N|FPI
+FPI|Farmland Partners Inc. Common Stock|N|FPI|N|100|N|FPI
 FPL|First Trust New Opportunities MLP & Energy Fund Common Shares of Beneficial Interest|N|FPL|N|100|N|FPL
 FPO|First Potomac Realty Trust Common Shares of Beneficial Interest|N|FPO|N|100|N|FPO
 FPO$A|First Potomac Realty Trust CUMULATIVE REDEEMABLE PFD PERPETUAL SER A|N|FPOpA|N|100|N|FPO-A
@@ -1997,7 +1997,6 @@ GM.C|General Motors Company Warrants (expiring December 31, 2015)|N|GM/WS/C|N|10
 GME|Gamestop Corporation Common Stock|N|GME|N|100|N|GME
 GMED|Globus Medical, Inc. Class A Common Stock|N|GMED|N|100|N|GMED
 GMF|SPDR S&P Emerging Asia Pacific ETF|P|GMF|Y|100|N|GMF
-GMK|GRUMA, S.A.B de C.V. Common Stock|N|GMK|N|100|N|GMK
 GML|SPDR S&P Emerging Latin America ETF|P|GML|Y|100|N|GML
 GMM|SPDR S&P Emerging Markets ETF|P|GMM|Y|100|N|GMM
 GMMB|Columbia Intermediate Municipal Bond Fund|P|GMMB|Y|100|N|GMMB
@@ -4670,7 +4669,7 @@ TMP|Tompkins Financial Corporation Common Stock|A|TMP|N|100|N|TMP
 TMST|Timken Steel Corporation Common Shares|N|TMST|N|100|N|TMST
 TMUS|T-Mobile US, Inc. Common Stock|N|TMUS|N|100|N|TMUS
 TMUS$A|T-Mobile US, Inc. 5.50% Mandatory Convertible Preferred Stock, Series A|N|TMUSpA|N|100|N|TMUS-A
-TMV|Direxion Daily 30-Yr Treasury Bear 3x Shrs|P|TMV|Y|100|N|TMV
+TMV|Direxion Daily 20-Year Treasury Bear 3X|P|TMV|Y|100|N|TMV
 TNA|Direxion Small Cap Bull 3X Shares|P|TNA|Y|100|N|TNA
 TNC|Tennant Company Common Stock|N|TNC|N|100|N|TNC
 TNET|TriNet Group, Inc. Common Stock|N|TNET|N|100|N|TNET
@@ -5271,4 +5270,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0904201521:32||||||
+File Creation Time: 0908201521:32||||||
