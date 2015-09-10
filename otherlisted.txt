@@ -3806,7 +3806,7 @@ PRTY|Party City Holdco Inc. Common Stock|N|PRTY|N|100|N|PRTY
 PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
 PSA$A|Public Storage Depositary Shares each representing 1/1,000 of a 5.875% Cumulative Preferred SBI, Series A|N|PSApA|N|100|N|PSA-A
-PSA$P|Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)|N|PSApP|N|100|N|PSA-P
+PSA$P|Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)|N|PSApP/CL|N|100|N|PSA-P*
 PSA$Q|Public Storage DEPOSITARY SHS REPSTG 1/1000TH PFD SHS BEN INT SER Q|N|PSApQ|N|100|N|PSA-Q
 PSA$R|Public Storage Depository Sh Repstg 1/1000th Pfd Ser R|N|PSApR|N|100|N|PSA-R
 PSA$S|Public Storage DEP SH REPSTG PFD SH BEN INT SER S|N|PSApS|N|100|N|PSA-S
@@ -3818,7 +3818,7 @@ PSA$X|Public Storage Depositary Shares Representing 1/1000th Cumulative Preferre
 PSA$Y|Public Storage Dep Shs Repstg 1/1000th Pfd Sh Ben Int Ser Y|N|PSApY|N|100|N|PSA-Y
 PSA$Z|Public Storage Dep Shs Representing 1/1000th Pfd Sh Ben Int Ser Z|N|PSApZ|N|100|N|PSA-Z
 PSB|PS Business Parks, Inc. Common Stock|N|PSB|N|100|N|PSB
-PSB$R|PS Business Parks, Inc. Depositary Shares, Each representing 1/1,000 of a share of 6.875% Cumulative Preferred stock, Series R, $0.01 par|N|PSBpR|N|100|N|PSB-R
+PSB$R|PS Business Parks, Inc. Depositary Shares, Each representing 1/1,000 of a share of 6.875% Cumulative Preferred stock, Series R, $0.01 par|N|PSBpR/CL|N|100|N|PSB-R*
 PSB$S|PS Business Parks, Inc. Depositary Shares, each representing 1/1,000 of a share of 6.45% Cumulative Preferred Stock|N|PSBpS|N|100|N|PSB-S
 PSB$T|PS Business Parks, Inc. Depositary Shares Representing 1/1000th Preferred Series T|N|PSBpT|N|100|N|PSB-T
 PSB$U|PS Business Parks, Inc. Dep Shs Repstg 1/1000 Pfd Ser U|N|PSBpU|N|100|N|PSB-U
@@ -4910,6 +4910,7 @@ VAC|Marriot Vacations Worldwide Corporation Common Stock|N|VAC|N|100|N|VAC
 VAL|Valspar Corporation (The) Common Stock|N|VAL|N|100|N|VAL
 VALE|VALE S.A.  American Depositary Shares Each Representing one common share|N|VALE|N|100|N|VALE
 VALE.P|VALE S.A.|N|VALE/P|N|100|N|VALE.P
+VAMO|Cambria ETF Trust Cambria Value and Momentum ETF|P|VAMO|Y|100|N|VAMO
 VAR|Varian Medical Systems, Inc. Common Stock|N|VAR|N|100|N|VAR
 VAW|Vanguard Materials ETF - DNQ|P|VAW|Y|100|N|VAW
 VB|Vanguard Small-Cap ETF - DNQ|P|VB|Y|100|N|VB
@@ -5270,4 +5271,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0908201521:32||||||
+File Creation Time: 0909201521:33||||||
