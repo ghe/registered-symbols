@@ -626,7 +626,6 @@ CNLMU|CB Pharma Acquisition Corp. - Units|S|N|N|100
 CNLMW|CB Pharma Acquisition Corp. - Warrants|S|N|N|100
 CNMD|CONMED Corporation - Common Stock|Q|N|N|100
 CNOB|ConnectOne Bancorp, Inc. - Common Stock|Q|N|N|100
-CNSI|Comverse Inc. - Common Stock|G|N|N|100
 CNSL|Consolidated Communications Holdings, Inc. - Common Stock|Q|N|N|100
 CNTF|China TechFaith Wireless Communication Technology Limited - American Depositary Shares, each representing 15 ordinary shares|Q|N|N|100
 CNTY|Century Casinos, Inc. - Common Stock|S|N|N|100
@@ -1756,6 +1755,7 @@ MEMP|Memorial Production Partners LP - Common Units|Q|N|N|100
 MENT|Mentor Graphics Corporation - Common Stock|Q|N|N|100
 MEOH|Methanex Corporation - Common Stock|Q|N|N|100
 MERC|Mercer International Inc. - Common Stock|Q|N|N|100
+MESG|Xura, Inc. - Common Stock|G|N|N|100
 METR|Metro Bancorp, Inc - Common Stock|Q|N|N|100
 MFLX|Multi-Fineline Electronix, Inc. - Common Stock|Q|N|N|100
 MFNC|Mackinac Financial Corporation - Common Stock|S|N|N|100
@@ -2212,8 +2212,8 @@ PSIX|Power Solutions International, Inc. - Common Stock|S|N|D|100
 PSMT|PriceSmart, Inc. - Common Stock|Q|N|N|100
 PSTB|Park Sterling Corporation - Common Stock|Q|N|N|100
 PSTI|Pluristem Therapeutics, Inc. - Common Stock|S|N|N|100
-PSTR|PostRock Energy Corporation - Common Stock|G|N|D|100
-PSUN|Pacific Sunwear of California, Inc. - Common Stock|Q|N|N|100
+PSTR|PostRock Energy Corporation - Common Stock|G|N|N|100
+PSUN|Pacific Sunwear of California, Inc. - Common Stock|Q|N|D|100
 PTC|PTC Inc. - Common Stock|Q|N|N|100
 PTCT|PTC Therapeutics, Inc. - Common Stock|Q|N|N|100
 PTEN|Patterson-UTI Energy, Inc. - Common Stock|Q|N|N|100
@@ -2263,7 +2263,7 @@ QQQ|PowerShares QQQ Trust, Series 1|G|N|N|100
 QQQC|Global X NASDAQ China Technology ETF|G|N|N|100
 QQQX|Nuveen NASDAQ 100 Dynamic Overwrite Fund - Shares of Beneficial Interest|Q|N|N|100
 QQXT|First Trust NASDAQ-100 Ex-Technology Sector Index Fund|G|N|N|100
-QRHC|Quest Resource Holding Corporation. - Common Stock|S|N|N|100
+QRHC|Quest Resource Holding Corporation. - Common Stock|S|N|D|100
 QRVO|Qorvo, Inc. - Common Stock|Q|N|N|100
 QSII|Quality Systems, Inc. - Common Stock|Q|N|N|100
 QTEC|First Trust NASDAQ-100- Technology Index Fund|G|N|N|100
@@ -3066,4 +3066,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0908201521:32|||||
+File Creation Time: 0909201521:33|||||
