@@ -848,7 +848,6 @@ CMDT|iShares Commodity Optimized Trust|P|CMDT|Y|100|N|CMDT
 CMF|iShares California AMT-Free Muni Bond ETF|P|CMF|Y|100|N|CMF
 CMG|Chipotle Mexican Grill, Inc. Common Stock|N|CMG|N|100|N|CMG
 CMI|Cummins Inc. Common Stock|N|CMI|N|100|N|CMI
-CMK|MFS Intermarket Income Trust I Common Stock|N|CMK|N|100|N|CMK
 CMLP|Crestwood Midstream Partners LP|N|CMLP|N|100|N|CMLP
 CMN|Cantel Medical Corp. Common Stock|N|CMN|N|100|N|CMN
 CMO|Capstead Mortgage Corporation Common Stock|N|CMO|N|100|N|CMO
@@ -1544,6 +1543,7 @@ ETW|Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunite
 ETX|Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest|N|ETX|N|100|N|ETX
 ETY|Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,|N|ETY|N|100|N|ETY
 EUDG|WisdomTree Europe Quality Dividend Growth Fund|P|EUDG|Y|100|N|EUDG
+EUDV|ProShares MSCI Europe Dividend Growers ETF|P|EUDV|Y|100|N|EUDV
 EUFX|ProShares Short Euro|P|EUFX|Y|100|N|EUFX
 EUM|ProShares Short MSCI Emerging Markets|P|EUM|Y|100|N|EUM
 EUMV|iShares MSCI Europe Minimum Volatility ETF|P|EUMV|Y|100|N|EUMV
@@ -3441,7 +3441,6 @@ NSAT|Norsat International Inc. (NEW) Common Stock|A|NSAT|N|100|N|NSAT
 NSC|Norfolk Southern Corporation Common Stock|N|NSC|N|100|N|NSC
 NSH|Nustar GP Holdings, LLC Units|N|NSH|N|100|N|NSH
 NSL|Nuveen Senior Income Fund Common Stock|N|NSL|N|100|N|NSL
-NSLP|New Source Energy Partners L.P. Common Units Representing Limited Partner Interests|N|NSLP|N|100|N|NSLP
 NSLP$A|New Source Energy Partners L.P. 11.00% Series A Cumulative Convertible Preferred Units|N|NSLPpA|N|100|N|NSLP-A
 NSM|Nationstar Mortgage Holdings Inc. Common Stock|N|NSM|N|100|N|NSM
 NSP|Insperity, Inc. Common Stock|N|NSP|N|100|N|NSP
@@ -4486,7 +4485,6 @@ STZ|Constellation Brands, Inc. Common Stock|N|STZ|N|100|N|STZ
 STZ.B|Constellation Brands, Inc. Common Stock|N|STZ/B|N|100|N|STZ.B
 SU|Suncor Energy  Inc. Common Stock|N|SU|N|100|N|SU
 SUB|iShares Short Term National AMT-Free Muni Bond ETF|P|SUB|Y|100|N|SUB
-SUBD|Deutsche X-trackers Solactive Investment Grade Subordinated Debt ETF|P|SUBD|Y|100|N|SUBD
 SUI|Sun Communities, Inc. Common Stock|N|SUI|N|100|N|SUI
 SUI$A|Sun Communities, Inc. Preferred Series A|N|SUIpA|N|100|N|SUI-A
 SUM|Summit Materials, Inc. Class A Common Stock|N|SUM|N|100|N|SUM
@@ -4888,7 +4886,6 @@ UTF|Cohen & Steers Infrastructure Fund, Inc Common Stock|N|UTF|N|100|N|UTF
 UTG|Reaves Utility Income Fund Common Shares of Beneficial Interest|A|UTG|N|100|N|UTG
 UTI|Universal Technical Institute Inc Common Stock|N|UTI|N|100|N|UTI
 UTL|UNITIL Corporation Common Stock|N|UTL|N|100|N|UTL
-UTLT|Deutsche X-trackers Regulated Utilities ETF|P|UTLT|Y|100|N|UTLT
 UTX|United Technologies Corporation Common Stock|N|UTX|N|100|N|UTX
 UUP|PowerShares DB USD Index Bullish|P|UUP|Y|100|N|UUP
 UUU|Universal Security Instruments, Inc. Common Stock|A|UUU|N|100|N|UUU
@@ -5262,7 +5259,6 @@ ZMLP|Direxion Zacks MLP High Income Shares|P|ZMLP|Y|100|N|ZMLP
 ZNH|China Southern Airlines Company Limited Common Stock|N|ZNH|N|100|N|ZNH
 ZOES|Zoe's Kitchen, Inc. Common Stock|N|ZOES|N|100|N|ZOES
 ZPIN|Zhaopin Limited American Depositary Shares, each reprenting two Ordinary Shares|N|ZPIN|N|100|N|ZPIN
-ZQK|Quiksilver, Inc. Common Stock|N|ZQK|N|100|N|ZQK
 ZROZ|PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund|P|ZROZ|Y|100|N|ZROZ
 ZSL|ProShares UltraShort Silver|P|ZSL|Y|100|N|ZSL
 ZSML|ETFS Zacks Earnings Small-Cap U.S. Index Fund|P|ZSML|Y|100|N|ZSML
@@ -5271,4 +5267,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0909201521:33||||||
+File Creation Time: 0910201521:33||||||
