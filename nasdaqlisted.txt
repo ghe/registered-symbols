@@ -2212,7 +2212,6 @@ PSIX|Power Solutions International, Inc. - Common Stock|S|N|D|100
 PSMT|PriceSmart, Inc. - Common Stock|Q|N|N|100
 PSTB|Park Sterling Corporation - Common Stock|Q|N|N|100
 PSTI|Pluristem Therapeutics, Inc. - Common Stock|S|N|N|100
-PSTR|PostRock Energy Corporation - Common Stock|G|N|N|100
 PSUN|Pacific Sunwear of California, Inc. - Common Stock|Q|N|D|100
 PTC|PTC Inc. - Common Stock|Q|N|N|100
 PTCT|PTC Therapeutics, Inc. - Common Stock|Q|N|N|100
@@ -3066,4 +3065,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0909201521:33|||||
+File Creation Time: 0910201521:33|||||
