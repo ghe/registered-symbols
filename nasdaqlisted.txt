@@ -707,7 +707,7 @@ CSOD|Cornerstone OnDemand, Inc. - Common Stock|Q|N|N|100
 CSPI|CSP Inc. - Common Stock|G|N|N|100
 CSQ|Calamos Strategic Total Return Fund - Common Stock|Q|N|N|100
 CSTE|CaesarStone Sdot-Yam Ltd. - Ordinary Shares|Q|N|N|100
-CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|N|100
+CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|D|100
 CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -3067,4 +3067,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0911201518:03|||||
+File Creation Time: 0911201521:33|||||
