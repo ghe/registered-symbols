@@ -1892,7 +1892,7 @@ NERV|Minerva Neurosciences, Inc - Common Stock|G|N|N|100
 NETE|Net Element, Inc. - Common Stock|S|N|D|100
 NEWP|Newport Corporation - Common Stock|Q|N|N|100
 NEWS|NewStar Financial, Inc. - Common Stock|Q|N|N|100
-NEWT|Newtek Business Services Corp. - Common Stock|S|N|N|100
+NEWT|Newtek Business Services Corp. - Common Stock|G|N|N|100
 NFBK|Northfield Bancorp, Inc. - Common Stock|Q|N|N|100
 NFEC|NF Energy Saving Corporation - Common Stock|S|N|N|100
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100
@@ -2617,6 +2617,7 @@ STRZA|Starz - Series A Common Stock|Q|N|N|100
 STRZB|Starz - Series B Common Stock|Q|N|N|100
 STX|Seagate Technology. - Common Stock|Q|N|N|100
 STXS|Stereotaxis, Inc. - Common Stock|S|N|D|100
+STXSW|Stereotaxis, Inc. - Warrants|S|N|D|100
 SUBK|Suffolk Bancorp - Common Stock|Q|N|N|100
 SUMR|Summer Infant, Inc. - Common Stock|S|N|N|100
 SUNS|Solar Senior Capital Ltd. - Common Stock|Q|N|N|100
@@ -3016,7 +3017,7 @@ XLRN|Acceleron Pharma Inc. - Common Stock|G|N|N|100
 XNCR|Xencor, Inc. - Common Stock|G|N|N|100
 XNET|Xunlei Limited - American Depositary Receipts|Q|N|N|100
 XNPT|XenoPort, Inc. - Common Stock|Q|N|N|100
-XOMA|XOMA Corporation - Common Stock|G|N|N|100
+XOMA|XOMA Corporation - Common Stock|G|N|D|100
 XONE|The ExOne Company - Common Stock|Q|N|N|100
 XOOM|Xoom Corporation - Common Stock|Q|N|N|100
 XPLR|Xplore Technologies Corp - Common Stock|S|N|N|100
@@ -3067,4 +3068,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0911201521:33|||||
+File Creation Time: 0914201521:32|||||
