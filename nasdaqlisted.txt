@@ -323,7 +323,7 @@ BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100
 BFIN|BankFinancial Corporation - Common Stock|Q|N|N|100
 BGCP|BGC Partners, Inc. - Class A Common Stock|Q|N|N|100
 BGFV|Big 5 Sporting Goods Corporation - Common Stock|Q|N|N|100
-BGMD|BG Medicine, Inc. - Common Stock|S|N|D|100
+BGMD|BG Medicine, Inc. - Common Stock|S|N|N|100
 BHAC|Barington/Hilco Acquisition Corp. - Common Stock|S|N|N|100
 BHACR|Barington/Hilco Acquisition Corp. - Rights|S|N|N|100
 BHACU|Barington/Hilco Acquisition Corp. - Units|S|N|N|100
@@ -617,7 +617,7 @@ CMTL|Comtech Telecommunications Corp. - Common Stock|Q|N|N|100
 CNAT|Conatus Pharmaceuticals Inc. - Common Stock|G|N|N|100
 CNBKA|Century Bancorp, Inc. - Class A Common Stock|Q|N|N|100
 CNCE|Concert Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-CNET|ChinaNet Online Holdings, Inc. - Common Stock|S|N|N|100
+CNET|ChinaNet Online Holdings, Inc. - Common Stock|S|N|D|100
 CNFR|Conifer Holdings, Inc. - Common Stock|G|N|N|100
 CNIT|China Information Technology, Inc. - Ordinary Shares|Q|N|N|100
 CNLM|CB Pharma Acquisition Corp. - Ordinary Shares|S|N|N|100
@@ -1297,7 +1297,9 @@ HBK|Hamilton Bancorp, Inc. - Common Stock|S|N|N|100
 HBMD|Howard Bancorp, Inc. - Common Stock|S|N|N|100
 HBNC|Horizon Bancorp (IN) - Common Stock|Q|N|N|100
 HBP|Huttig Building Products, Inc. - Common Stock|S|N|N|100
+HCAC|Hennessy Capital Acquisition Corp. II - Common Stock|S|N|N|100
 HCACU|Hennessy Capital Acquisition Corp. II - Unit|S|N|N|100
+HCACW|Hennessy Capital Acquisition Corp. II - Warrant|S|N|N|100
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100
 HCAPL|Harvest Capital Credit Corporation - 7.00% Notes due 2020|G|N|N|100
 HCBK|Hudson City Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -3001,7 +3003,9 @@ WVFC|WVS Financial Corp. - Common Stock|G|N|N|100
 WVVI|Willamette Valley Vineyards, Inc. - Common Stock|S|N|N|100
 WWD|Woodward, Inc. - Common Stock|Q|N|N|100
 WWWW|Web.com Group, Inc. - Common Stock|Q|N|N|100
+WYIG|JM Global Holding Company - Common Stock|S|N|N|100
 WYIGU|JM Global Holding Company - Units|S|N|N|100
+WYIGW|JM Global Holding Company - Warrants|S|N|N|100
 WYNN|Wynn Resorts, Limited - Common Stock|Q|N|N|100
 XBIT|XBiotech Inc. - Common Stock|Q|N|N|100
 XBKS|Xenith Bankshares, Inc. - Common Stock|S|N|N|100
@@ -3068,4 +3072,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0914201521:32|||||
+File Creation Time: 0915201521:32|||||
