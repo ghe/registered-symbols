@@ -2128,6 +2128,8 @@ H|Hyatt Hotels Corporation Class A Common Stock|N|H|N|100|N|H
 HACK|PureFunds ISE Cyber Security ETF|P|HACK|Y|100|N|HACK
 HACW|iShares Currency Hedged MSCI ACWI ETF|P|HACW|Y|100|N|HACW
 HAE|Haemonetics Corporation Common Stock|N|HAE|N|100|N|HAE
+HAKD|Direxion Daily Cyber Security Bear 2X Shares|P|HAKD|Y|100|N|HAKD
+HAKK|Direxion Daily Cyber Security Bull 2X Shares|P|HAKK|Y|100|N|HAKK
 HAL|Halliburton Company Common Stock|N|HAL|N|100|N|HAL
 HAO|Guggenheim China Small Cap Index ETF|P|HAO|Y|100|N|HAO
 HAP|Market Vectors Natural Resources ETF|P|HAP|Y|100|N|HAP
@@ -3716,6 +3718,8 @@ PICK|iShaes MSCI Global Select Metals & Mining Producers Fund|P|PICK|Y|100|N|PIC
 PID|PowerShares Intl Dividend Achievers|P|PID|Y|100|N|PID
 PIE|PowerShares DWA Emerging Market Momentum Portfolio|P|PIE|Y|100|N|PIE
 PII|Polaris Industries Inc. Common Stock|N|PII|N|100|N|PII
+PILL|Direxion Daily Pharmaceutical & Medical Bull 2X Shares|P|PILL|Y|100|N|PILL
+PILS|Direxion Daily Pharmaceutical & Medical Bear 2X Shares|P|PILS|Y|100|N|PILS
 PIM|Putnam Master Intermediate Income Trust Common Stock|N|PIM|N|100|N|PIM
 PIN|PowerShares India Portfolio|P|PIN|Y|100|N|PIN
 PIO|PowerShares Global Water Portfolio|P|PIO|Y|100|N|PIO
@@ -5086,6 +5090,7 @@ WFC$P|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Non Cum Perp Cl A Pfd (S
 WFC$Q|Wells Fargo & Company Depositary Shares Representing 1/1000th Interest Perpetual Preferred Class A Series Q Fixed to Floating|N|WFCpQ|N|100|N|WFC-Q
 WFC$R|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Perp Pfd Cl A (Ser R Fixed To Flltg)|N|WFCpR|N|100|N|WFC-R
 WFC$T|Wells Fargo & Company New Depository Share Representing 1/1000th Perp. Preferred Class A Series T|N|WFCpT|N|100|N|WFC-T
+WFC$V|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series V|N|WFCpV|N|100|N|WFC-V
 WFC.W|Wells Fargo & Company Warrants expiring October 28, 2018|N|WFC/WS|N|100|N|WFC+
 WFE$A|Wells Fargo & Company Cumulative Perpetual Preferred Stock, Series A, Liquidation Preference $25 per share|N|WFEpA|N|100|N|WFE-A
 WFT|Weatherford International plc (Ireland)|N|WFT|N|100|N|WFT
@@ -5266,4 +5271,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0915201521:32||||||
+File Creation Time: 0916201521:32||||||
