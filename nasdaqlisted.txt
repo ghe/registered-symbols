@@ -43,7 +43,7 @@ ACTA|Actua Corporation - Common Stock|Q|N|N|100
 ACTG|Acacia Research Corporation - Common Stock|Q|N|N|100
 ACTS|Actions Semiconductor Co., Ltd. - American Depositary Shares, each representing Six Ordinary Shares|Q|N|N|100
 ACTX|Global X Guru Activist ETF|G|N|N|100
-ACUR|Acura Pharmaceuticals, Inc. - Common Stock|S|N|D|100
+ACUR|Acura Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 ACWI|iShares MSCI ACWI Index Fund|G|N|N|100
 ACWX|iShares MSCI ACWI ex US Index Fund|G|N|N|100
 ACXM|Acxiom Corporation - Common Stock|Q|N|N|100
@@ -323,7 +323,6 @@ BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100
 BFIN|BankFinancial Corporation - Common Stock|Q|N|N|100
 BGCP|BGC Partners, Inc. - Class A Common Stock|Q|N|N|100
 BGFV|Big 5 Sporting Goods Corporation - Common Stock|Q|N|N|100
-BGMD|BG Medicine, Inc. - Common Stock|S|N|N|100
 BHAC|Barington/Hilco Acquisition Corp. - Common Stock|S|N|N|100
 BHACR|Barington/Hilco Acquisition Corp. - Rights|S|N|N|100
 BHACU|Barington/Hilco Acquisition Corp. - Units|S|N|N|100
@@ -654,7 +653,6 @@ COVS|Covisint Corporation - Common Stock|Q|N|N|100
 COWN|Cowen Group, Inc. - Class A Common Stock|Q|N|N|100
 COWNL|Cowen Group, Inc. - 8.25% Senior Notes due 2021|Q|N|N|100
 CPAH|CounterPath Corporation - Common Stock|S|N|D|100
-CPGI|China Shengda Packaging Group, Inc. - Common Stock|S|N|N|100
 CPHC|Canterbury Park Holding Corporation - Common Stock|G|N|N|100
 CPHD|CEPHEID - Common Stock|Q|N|N|100
 CPHR|Cipher Pharmaceuticals Inc. - Common Shares|G|N|N|100
@@ -709,6 +707,8 @@ CSQ|Calamos Strategic Total Return Fund - Common Stock|Q|N|N|100
 CSTE|CaesarStone Sdot-Yam Ltd. - Ordinary Shares|Q|N|N|100
 CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|D|100
 CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100
+CSWCV|Capital Southwest Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100
+CSWIV|CSW Industrials, Inc. - Common Stock When Issued|Q|N|N|100
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100
 CTCM|CTC Media, Inc. - Common Stock|Q|N|N|100
@@ -1031,7 +1031,7 @@ FEIC|FEI Company - Common Stock|Q|N|N|100
 FEIM|Frequency Electronics, Inc. - Common Stock|G|N|N|100
 FELE|Franklin Electric Co., Inc. - Common Stock|Q|N|N|100
 FEMB|First Trust Emerging Markets Local Currency Bond ETF|G|N|N|100
-FENX|Fenix Parts, Inc. - Common Stock|G|N|E|100
+FENX|Fenix Parts, Inc. - Common Stock|G|N|N|100
 FES|Forbes Energy Services Ltd - Ordinary shares (Bermuda)|G|N|N|100
 FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100
 FEYE|FireEye, Inc. - Common Stock|Q|N|N|100
@@ -1590,7 +1590,6 @@ KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100
 KWEB|KraneShares CSI China Internet ETF|G|N|N|100
 KYTH|Kythera Biopharmaceuticals, Inc. - Common Stock|Q|N|N|100
 KZ|KongZhong Corporation - American Depositary Shares, each representing 40 ordinary shares|Q|N|N|100
-LABC|Louisiana Bancorp, Inc. - Common Stock|G|N|N|100
 LABL|Multi-Color Corporation - Common Stock|Q|N|N|100
 LAKE|Lakeland Industries, Inc. - Common Stock|G|N|N|100
 LALT|PowerShares Multi-Strategy Alternative Portfolio|G|N|N|100
@@ -2580,6 +2579,7 @@ SQNM|Sequenom, Inc. - Common Stock|Q|N|N|100
 SQQQ|ProShares UltraPro Short QQQ|G|N|N|100
 SRCE|1st Source Corporation - Common Stock|Q|N|N|100
 SRCL|Stericycle, Inc. - Common Stock|Q|N|N|100
+SRCLP|Stericycle, Inc. - Depository Receipt|Q|N|N|100
 SRDX|SurModics, Inc. - Common Stock|Q|N|N|100
 SRET|Global X SuperDividend REIT ETF|G|N|N|100
 SREV|ServiceSource International, Inc. - Common Stock|Q|N|N|100
@@ -3072,4 +3072,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0915201521:32|||||
+File Creation Time: 0916201521:32|||||
