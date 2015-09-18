@@ -626,7 +626,7 @@ CNLMW|CB Pharma Acquisition Corp. - Warrants|S|N|N|100
 CNMD|CONMED Corporation - Common Stock|Q|N|N|100
 CNOB|ConnectOne Bancorp, Inc. - Common Stock|Q|N|N|100
 CNSL|Consolidated Communications Holdings, Inc. - Common Stock|Q|N|N|100
-CNTF|China TechFaith Wireless Communication Technology Limited - American Depositary Shares, each representing 15 ordinary shares|Q|N|N|100
+CNTF|China TechFaith Wireless Communication Technology Limited - American Depositary Shares, each representing 15 ordinary shares|Q|N|D|100
 CNTY|Century Casinos, Inc. - Common Stock|S|N|N|100
 CNV|Cnova N.V. - Ordinary Shares|Q|N|N|100
 CNXR|Connecture, Inc. - Common Stock|G|N|N|100
@@ -2322,6 +2322,7 @@ RGCO|RGC Resources Inc. - Common Stock|G|N|N|100
 RGEN|Repligen Corporation - Common Stock|Q|N|N|100
 RGLD|Royal Gold, Inc. - Common Stock|Q|N|N|100
 RGLS|Regulus Therapeutics Inc. - Common Stock|G|N|N|100
+RGNX|REGENXBIO Inc. - Common Stock|Q|N|N|100
 RGSE|Real Goods Solar, Inc. - Class A Common Stock|S|N|N|100
 RIBT|RiceBran Technologies - Common Stock|S|N|N|100
 RIBTW|RiceBran Technologies - Warrant|S|N|N|100
@@ -2520,7 +2521,7 @@ SMLR|Semler Scientific, Inc. - Common Stock|S|N|D|100
 SMMF|Summit Financial Group, Inc. - Common Stock|S|N|N|100
 SMMT|Summit Therapeutics plc - American Depositary Shares|G|N|N|100
 SMRT|Stein Mart, Inc. - Common Stock|Q|N|N|100
-SMSI|Smith Micro Software, Inc. - Common Stock|Q|N|N|100
+SMSI|Smith Micro Software, Inc. - Common Stock|Q|N|D|100
 SMT|SMART Technologies Inc. - Common Shares|Q|N|D|100
 SMTC|Semtech Corporation - Common Stock|Q|N|N|100
 SMTP|SMTP, Inc. - Common Stock|S|N|N|100
@@ -3072,4 +3073,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0916201521:32|||||
+File Creation Time: 0917201521:32|||||
