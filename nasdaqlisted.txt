@@ -167,7 +167,6 @@ ANAC|Anacor Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANAD|ANADIGICS, Inc. - Common Stock|Q|N|D|100
 ANAT|American National Insurance Company - Common Stock|Q|N|N|100
 ANCB|Anchor Bancorp - Common Stock|G|N|N|100
-ANCI|American Caresource Holdings Inc - Common Stock|S|N|D|100
 ANCX|Access National Corporation - Common Stock|G|N|N|100
 ANDE|The Andersons, Inc. - Common Stock|Q|N|N|100
 ANGI|Angie's List, Inc. - Common Stock|Q|N|N|100
@@ -599,7 +598,7 @@ CLRBW|Cellectar Biosciences, Inc. - Warrants|S|N|D|100
 CLRO|ClearOne, Inc. - Common Stock|S|N|N|100
 CLRX|CollabRx, Inc. - Common Stock|S|N|D|100
 CLSN|Celsion Corporation - Common Stock|S|N|N|100
-CLTX|Celsus Therapeutics Plc - American Depositary Shares|S|N|N|100
+CLTX|Akari Therapeutics Plc - American Depositary Shares|S|N|N|100
 CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|N|100
 CLVS|Clovis Oncology, Inc. - Common Stock|Q|N|N|100
 CLWT|Euro Tech Holdings Company Limited - Ordinary Shares|S|N|N|100
@@ -1227,6 +1226,7 @@ GNCA|Genocea Biosciences, Inc. - Common Stock|G|N|N|100
 GNCMA|General Communication, Inc. - Class A Common Stock|Q|N|N|100
 GNMA|iShares Core GNMA Bond ETF|G|N|N|100
 GNMK|GenMark Diagnostics, Inc. - Common Stock|G|N|N|100
+GNOW|American Caresource Holdings Inc - Common Stock|S|N|D|100
 GNTX|Gentex Corporation - Common Stock|Q|N|N|100
 GNVC|GenVec, Inc. - Common Stock|S|N|N|100
 GOGL|Golden Ocean Group Limited - Common Stock|Q|N|N|100
@@ -1872,6 +1872,7 @@ NAVI|Navient Corporation - Common Stock|Q|N|N|100
 NBBC|NewBridge Bancorp - Common Stock|Q|N|N|100
 NBIX|Neurocrine Biosciences, Inc. - Common Stock|Q|N|N|100
 NBN|Northeast Bancorp - Common Stock|G|N|N|100
+NBRV|Nabriva Therapeutics AG - American Depositary Shares|Q|N|N|100
 NBTB|NBT Bancorp Inc. - Common Stock|Q|N|N|100
 NCIT|NCI, Inc. - Class A Common Stock|Q|N|N|100
 NCLH|Norwegian Cruise Line Holdings Ltd. - Ordinary Shares|Q|N|N|100
@@ -2755,7 +2756,6 @@ TSCO|Tractor Supply Company - Common Stock|Q|N|N|100
 TSEM|Tower Semiconductor Ltd. - Ordinary Shares|Q|N|N|100
 TSLA|Tesla Motors, Inc. - Common Stock|Q|N|N|100
 TSRA|Tessera Technologies, Inc. - Common Stock|Q|N|N|100
-TSRE|Trade Street Residential, Inc. - Common Stock|G|N|N|100
 TSRI|TSR, Inc. - Common Stock|S|N|N|100
 TSRO|TESARO, Inc. - Common Stock|Q|N|N|100
 TST|TheStreet, Inc. - Common Stock|G|N|N|100
@@ -3073,4 +3073,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0917201521:32|||||
+File Creation Time: 0918201521:32|||||
