@@ -86,7 +86,7 @@ AFSI$B|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Pr
 AFSI$C|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series C|N|AFSIpC|N|100|N|AFSI-C
 AFSI$D|AmTrust Financial Services, Inc. Depositary Shares, Each Representing 1/40th Interest in a shares of 7.50% Non-Cumulative Preferred Stock, Series D|N|AFSIpD|N|100|N|AFSI-D
 AFSS|AmTrust Financial Services, Inc. 7.25% Subordinated Notes due 2055|N|AFSS|N|100|N|AFSS
-AFST|AmTrust Financial Services, Inc. .50% Subordinated Notes due September 15, 2055|N|AFST|N|100|N|AFST
+AFST|AmTrust Financial Services, Inc. 7.50% Subordinated Notes due September 15, 2055|N|AFST|N|100|N|AFST
 AFT|Apollo Senior Floating Rate Fund Inc. Common Stock|N|AFT|N|100|N|AFT
 AFTY|CSOP FTSE China A50 ETF|P|AFTY|Y|100|N|AFTY
 AFW|American Financial Group, Inc. 6 3/8% Senior Notes due 2042|N|AFW|N|100|N|AFW
@@ -638,6 +638,7 @@ BWX|SPDR Barclays Intl Treasury Bd|P|BWX|Y|100|N|BWX
 BWXT|BWX Technologies, Inc. Common Stock|N|BWXT|N|100|N|BWXT
 BWZ|SPDR Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
 BX|The Blackstone Group L.P. Common Units Representing Limited Partnership Interests|N|BX|N|100|N|BX
+BX.V|The Blackstone Group L.P. Common Units Representing Limited Partner Interests Ex-Distribution When Issued|N|BXw|N|100|N|BX#
 BXC|Bluelinx Holdings Inc. Common Stock|N|BXC|N|100|N|BXC
 BXE|Bellatrix Exploration Ltd Ordinary Shares (Canada)|N|BXE|N|100|N|BXE
 BXLT|Baxalta Incorporated Common Stock|N|BXLT|N|100|N|BXLT
@@ -1770,6 +1771,7 @@ FNDX|Schwab Fundamental U.S. Large Company Index ETF|P|FNDX|Y|100|N|FNDX
 FNF|FNF Group of Fidelity National Financial, Inc. Common Stock|N|FNF|N|100|N|FNF
 FNFG$B|First Niagara Financial Group Inc. PFD NON CUM SER B FXD/FLTG|N|FNFGpB|N|100|N|FNFG-B
 FNFV|FNFV Group of Fidelity National Financial, Inc. Common Stock|N|FNFV|N|100|N|FNFV
+FNFV.V|Fidelity National Financial, Inc. Common Stock Ex-Distribution When Issued|N|FNFVw|N|100|N|FNFV#
 FNI|First Trust ISE Chindia|P|FNI|Y|100|N|FNI
 FNK|First Trust Mid Cap Value AlphaDEX Fund|P|FNK|Y|100|N|FNK
 FNV|Franco-Nevada Corporation|N|FNV|N|100|N|FNV
@@ -2630,6 +2632,7 @@ IYW|iShares U.S. Technology ETF|P|IYW|Y|100|N|IYW
 IYY|iShares Dow Jones U.S. ETF|P|IYY|Y|100|N|IYY
 IYZ|iShares U.S. Telecommunications ETF|P|IYZ|Y|100|N|IYZ
 JAH|Jarden Corporation Common Stock|N|JAH|N|100|N|JAH
+JAX.V|J. Alexander's Holdings, Inc. Common Stock When Issued|N|JAXw|N|100|N|JAX#
 JBK|Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I|N|JBK|N|100|N|JBK
 JBL|Jabil Circuit, Inc. Common Stock|N|JBL|N|100|N|JBL
 JBN|Select Asset Inc. Select Asset Inc. on behalf of Corporate Backed Callable Trust Certificates, J.C. Penney Debenture Backed Series 2007-1 Trust|N|JBN|N|100|N|JBN
@@ -3321,6 +3324,7 @@ NEE$H|NextEra Energy, Inc. Series H Junior Subordinated Debentures due June 15, 
 NEE$I|NextEra Energy, Inc. Series I Junior Subordinated Debentures due November 15, 2072|N|NEEpI|N|100|N|NEE-I
 NEE$J|NextEra Energy, Inc. Series J Junior Subordinated Debentures due January 15, 2073|N|NEEpJ|N|100|N|NEE-J
 NEE$P|NextEra Energy, Inc. EQUITY UNIT|N|NEEpP|N|100|N|NEE-P
+NEE$Q|NextEra Energy, Inc. Corporate Units|N|NEEpQ|N|100|N|NEE-Q
 NEFF|Neff Corporation Common Stock|N|NEFF|N|100|N|NEFF
 NEM|Newmont Mining Corporation|N|NEM|N|100|N|NEM
 NEN|New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership|A|NEN|N|100|N|NEN
@@ -3658,6 +3662,7 @@ PEI$A|Pennsylvania Real Estate Investment Trust PFD sh CL A|N|PEIpA|N|100|N|PEI-
 PEI$B|Pennsylvania Real Estate Investment Trust Cumulative Redeemable Perpetual Preferred Shares Series B|N|PEIpB|N|100|N|PEI-B
 PEJ|PowerShares Dynamic Leisure & Entertainment Portfolio|P|PEJ|Y|100|N|PEJ
 PEK|Market Vectors ChinaAMC A-Share ETF|P|PEK|Y|100|N|PEK
+PEN|Penumbra, Inc. Common Stock|N|PEN|N|100|N|PEN
 PEO|Adams Natural Resources Fund, Inc. Common Stock|N|PEO|N|100|N|PEO
 PEP|Pepsico, Inc. Common Stock|N|PEP|N|100|N|PEP
 PER|SandRidge Permian Trust Common Units of Benficial Interest|N|PER|N|100|N|PER
@@ -3734,6 +3739,7 @@ PJC|Piper Jaffray Companies Common Stock|N|PJC|N|100|N|PJC
 PJH|Prudential Financial, Inc. 5.75% Junior Subordinated Notes due 2052|N|PJH|N|100|N|PJH
 PJP|PowerShares Dynamic Pharmaceuticals|P|PJP|Y|100|N|PJP
 PJS|PreferredPlus Trust Ser FAR 1 Tr Ctf|N|PJS|N|100|N|PJS
+PJT.V|PJT Partners Inc. Class A Common Stock When Issued|N|PJTw|N|100|N|PJT#
 PKB|PowerShares Dynamic Build & Construction|P|PKB|Y|100|N|PKB
 PKD|Parker Drilling Company Common Stock|N|PKD|N|100|N|PKD
 PKE|Park Electrochemical Corporation Common Stock|N|PKE|N|100|N|PKE
@@ -5274,4 +5280,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0917201521:32||||||
+File Creation Time: 0918201521:32||||||
