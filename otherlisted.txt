@@ -2077,6 +2077,7 @@ GSJ|Goldman Sachs Group, Inc. (The) 6.50% Notes due 2061|N|GSJ|N|100|N|GSJ
 GSK|GlaxoSmithKline PLC Common Stock|N|GSK|N|100|N|GSK
 GSL|Global Ship Lease Inc New Class A Common Shares|N|GSL|N|100|N|GSL
 GSL$B|Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)|N|GSLpB|N|100|N|GSL-B
+GSLC|Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF|P|GSLC|Y|100|N|GSLC
 GSP|Barclays Bank PLC iPath Exchange Traded Notes due June 12, 2036 Linked to GSCI Total Return Index|P|GSP|N|100|N|GSP
 GSS|Golden Star Resources, Ltd Common Stock|A|GSS|N|100|N|GSS
 GST|Gastar Exploration Inc Common Stock|A|GST|N|100|N|GST
@@ -3912,15 +3913,12 @@ QAI|IQ Hedge MultiIQ Hedge Multi-Strategy Tracker ETF|P|QAI|Y|100|N|QAI
 QAUS|SPDR MSCI Australia Quality Mix ETF|P|QAUS|Y|100|N|QAUS
 QCAN|SPDR MSCI Canada Quality Mix ETF|P|QCAN|Y|100|N|QCAN
 QDEF|FlexShares Quality Dividend Defensive Index Fund|P|QDEF|Y|100|N|QDEF
-QDEM|Market Vectors MSCI Emerging Markets Quality Dividend ETF|P|QDEM|Y|100|N|QDEM
 QDEU|SPDR MSCI Germany Quality Mix ETF|P|QDEU|Y|100|N|QDEU
 QDF|FlexShares Quality Dividend Index Fund|P|QDF|Y|100|N|QDF
-QDXU|Market Vectors MSCI International Quality Dividend ETF|P|QDXU|Y|100|N|QDXU
 QDYN|FlexShares Quality Dynamic Index Fund|P|QDYN|Y|100|N|QDYN
 QED|IQ Hedge Event-Driven Tracker ETF|P|QED|Y|100|N|QED
 QEFA|SPDR EURO STOXX Small Cap ETF|P|QEFA|Y|100|N|QEFA
 QEH|AdvisorShares QAM Equity Hedge|P|QEH|Y|100|N|QEH
-QEM|Market Vectors MSCI Emerging Markets Quality ETF|P|QEM|Y|100|N|QEM
 QEMM|SPDR MSCI Emerging Markets Quality Mix ETF|P|QEMM|Y|100|N|QEMM
 QEP|QEP Resources, Inc. Common Stock|N|QEP|N|100|N|QEP
 QESP|SPDR MSCI Spain Quality Mix ETF|P|QESP|Y|100|N|QESP
@@ -3948,7 +3946,6 @@ QUS|SPDR MSCI USA Quality Mix ETF|P|QUS|Y|100|N|QUS
 QVAL|ValueShares U.S. Quantitative Value ETF ETF|Z|QVAL|Y|100|N|QVAL
 QVM|Arrow QVM Equity Factor ETF|P|QVM|Y|100|N|QVM
 QWLD|SPDR MSCI World Quality Mix ETF|P|QWLD|Y|100|N|QWLD
-QXUS|Market Vectors MSCI Int'l Qlty|P|QXUS|Y|100|N|QXUS
 R|Ryder System, Inc. Common Stock|N|R|N|100|N|R
 RAD|Rite Aid Corporation Common Stock|N|RAD|N|100|N|RAD
 RAI|Reynolds American Inc Common Stock|N|RAI|N|100|N|RAI
@@ -5280,4 +5277,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0918201521:32||||||
+File Creation Time: 0921201510:01||||||
