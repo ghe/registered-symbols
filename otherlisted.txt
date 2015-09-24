@@ -78,7 +78,7 @@ AFG|American Financial Group, Inc. Common Stock|N|AFG|N|100|N|AFG
 AFGE|American Financial Group, Inc. 6.25% Subordinated Debentures due 2054|N|AFGE|N|100|N|AFGE
 AFK|Market Vectors-Africa Index ETF|P|AFK|Y|100|N|AFK
 AFL|AFLAC Incorporated Common Stock|N|AFL|N|100|N|AFL
-AFM|Affiliated Managers Group, Inc. 5.250% Senior Notes due 2022|N|AFM|N|100|N|AFM
+AFM|Affiliated Managers Group, Inc. 5.250% Senior Notes due 2022|N|AFM/CL|N|100|N|AFM*
 AFQ|American Financial Group, Inc. 7% Senior Notes due 2050|N|AFQ/CL|N|100|N|AFQ*
 AFSD|Aflac Incorporated 5.50% Subordinated Debentures due September 15, 2052|N|AFSD|N|100|N|AFSD
 AFSI$A|AmTrust Financial Services, Inc. Preferred Series A|N|AFSIpA|N|100|N|AFSI-A
@@ -5277,4 +5277,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0922201521:32||||||
+File Creation Time: 0923201521:32||||||
