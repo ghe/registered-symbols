@@ -2201,6 +2201,7 @@ PRTO|Proteon Therapeutics, Inc. - Common Stock|G|N|N|100
 PRTS|U.S. Auto Parts Network, Inc. - Common Stock|Q|N|N|100
 PRXI|Premier Exhibitions, Inc. - Common Stock|S|N|D|100
 PRXL|PAREXEL International Corporation - Common Stock|Q|N|N|100
+PRZM|Prism Technologies Group, Inc. - Common Stock|S|N|N|100
 PSAU|PowerShares Global Gold & Precious Metals Portfolio|G|N|N|100
 PSBH|PSB Holdings, Inc. - Common Stock|S|N|N|100
 PSCC|PowerShares S&P SmallCap Consumer Staples Portfolio|G|N|N|100
@@ -2226,7 +2227,6 @@ PTEN|Patterson-UTI Energy, Inc. - Common Stock|Q|N|N|100
 PTIE|Pain Therapeutics - Common Stock|Q|N|N|100
 PTLA|Portola Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 PTNR|Partner Communications Company Ltd. - American Depositary Shares, each representing one ordinary share|Q|N|N|100
-PTNT|Internet Patents Corporation - Common Stock|S|N|N|100
 PTSI|P.A.M. Transportation Services, Inc. - Common Stock|G|N|N|100
 PTX|Pernix Therapeutics Holdings, Inc. - Common Stock|G|N|N|100
 PTXP|PennTex Midstream Partners, LP - Common Units Representing Limited Partnership Interests|Q|N|N|100
@@ -3075,4 +3075,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0922201521:32|||||
+File Creation Time: 0923201521:32|||||
