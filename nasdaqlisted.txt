@@ -239,7 +239,7 @@ ASUR|Asure Software Inc - Common Stock|S|N|N|100
 ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100
 ATAI|ATA Inc. - American Depositary Shares, each representing two common shares|G|N|N|100
 ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests|Q|N|N|100
-ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100
+ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|D|100
 ATHN|athenahealth, Inc. - Common Stock|Q|N|N|100
 ATHX|Athersys, Inc. - Common Stock|S|N|N|100
 ATLC|Atlanticus Holdings Corporation - Common Stock|Q|N|N|100
@@ -395,7 +395,7 @@ BRKL|Brookline Bancorp, Inc. - Common Stock|Q|N|N|100
 BRKR|Bruker Corporation - Common Stock|Q|N|N|100
 BRKS|Brooks Automation, Inc. - Common Stock|Q|N|N|100
 BSET|Bassett Furniture Industries, Incorporated - Common Stock|Q|N|N|100
-BSF|Bear State Financial, Inc. - Common Stock|G|N|D|100
+BSF|Bear State Financial, Inc. - Common Stock|G|N|N|100
 BSFT|BroadSoft, Inc. - Common Stock|Q|N|N|100
 BSPM|Biostar Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 BSQR|BSQUARE Corporation - Common Stock|G|N|N|100
@@ -1641,6 +1641,7 @@ LITE|Lumentum Holdings Inc. - Common Stock|Q|N|N|100
 LIVE|LiveDeal, Inc. - Common Stock|S|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
+LKOR|FlexShares Credit-Scored US Long Corporate Bond Index Fund|G|N|N|100
 LKQ|LKQ Corporation - Common Stock|Q|N|N|100
 LLEX|Lilis Energy, Inc. - Common Stock|G|N|D|100
 LLNW|Limelight Networks, Inc. - Common Stock|Q|N|N|100
@@ -2044,7 +2045,7 @@ OSHC|Ocean Shore Holding Co. - Common Stock|G|N|N|100
 OSIR|Osiris Therapeutics, Inc. - Common Stock|G|N|N|100
 OSIS|OSI Systems, Inc. - Common Stock|Q|N|N|100
 OSM|SLM Corporation - Medium Term Notes, Series A, CPI-Linked Notes due March 15, 2017|G|N|N|100
-OSN|Ossen Innovation Co., Ltd. - American Depositary Shares|S|N|N|100
+OSN|Ossen Innovation Co., Ltd. - American Depositary Shares|S|N|D|100
 OSTK|Overstock.com, Inc. - Common Stock|G|N|N|100
 OSUR|OraSure Technologies, Inc. - Common Stock|Q|N|N|100
 OTEL|Otelco Inc. - Common Stock|S|N|N|100
@@ -2256,6 +2257,7 @@ QGEN|Qiagen N.V. - Common Shares|Q|N|N|100
 QINC|First Trust RBA Quality Income ETF|G|N|N|100
 QIWI|QIWI plc - American Depositary Shares|Q|N|N|100
 QKLS|QKL Stores, Inc. - Common Stock|S|N|N|100
+QLC|FlexShares US Quality Large Cap Index Fund|G|N|N|100
 QLGC|QLogic Corporation - Common Stock|Q|N|N|100
 QLIK|Qlik Technologies Inc. - Common Stock|Q|N|N|100
 QLTI|QLT Inc. - Common Shares|Q|N|N|100
@@ -2842,6 +2844,7 @@ USLM|United States Lime & Minerals, Inc. - Common Stock|Q|N|N|100
 USLV|Credit Suisse AG - VelocityShares 3x Long Silver ETN|G|N|N|100
 USMD|USMD Holdings, Inc. - Common Stock|S|N|N|100
 UTEK|Ultratech, Inc. - Common Stock|Q|N|N|100
+UTES|Reaves Utilities ETF|G|N|N|100
 UTHR|United Therapeutics Corporation - Common Stock|Q|N|N|100
 UTIW|UTi Worldwide Inc. - Ordinary Shares|Q|N|N|100
 UTMD|Utah Medical Products, Inc. - Common Stock|Q|N|N|100
@@ -3075,4 +3078,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0923201521:32|||||
+File Creation Time: 0924201521:32|||||
