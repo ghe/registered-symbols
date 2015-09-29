@@ -1735,7 +1735,7 @@ FLM|First Trust ISE Glb Engnrg And Const Idx|P|FLM|Y|100|N|FLM
 FLN|First Trust Latin America AlphaDEX Fund|P|FLN|Y|100|N|FLN
 FLO|Flowers Foods, Inc. Common Stock|N|FLO|N|100|N|FLO
 FLOT|iShares Floating Rate Bond ETF|P|FLOT|Y|100|N|FLOT
-FLOW.V|SPX FLOW, Inc. Common Stock When Issued|N|FLOWw|N|100|N|FLOW#
+FLOW|SPX FLOW, Inc. Common Stock|N|FLOW|N|100|N|FLOW
 FLR|Fluor Corporation Common Stock|N|FLR|N|100|N|FLR
 FLRN|SPDR Barclays Investment Grade Floating Rate ETF|P|FLRN|Y|100|N|FLRN
 FLRT|AdvisorShares Pacific Asset Enhanced Floating Rate ETF|P|FLRT|Y|100|N|FLRT
@@ -4411,8 +4411,7 @@ SPPP|Sprott Physical Platinum and Palladium Trust|P|SPPP|Y|100|N|SPPP
 SPR|Spirit Aerosystems Holdings, Inc. Common Stock|N|SPR|N|100|N|SPR
 SPUN|Market Vectors Global Spin-Off ETF|P|SPUN|Y|100|N|SPUN
 SPUU|Direxion Daily S&P 500 Bull 2X Shares|P|SPUU|Y|100|N|SPUU
-SPW|SPX Corporation Common Stock|N|SPW|N|100|N|SPW
-SPXC.V|SPX Corporation Common Stock Ex-Distribution When Issued|N|SPXCw|N|100|N|SPXC#
+SPXC|SPX Corporation Common Stock|N|SPXC|N|100|N|SPXC
 SPXE|ProShares S&P 500 Ex-Energy ETF|P|SPXE|Y|100|N|SPXE
 SPXH|Janus Velocity Volatility Hedged Large Cap ETF|P|SPXH|Y|100|N|SPXH
 SPXL|Direxion Daily S&P 500 Bull 3X Shares|P|SPXL|Y|100|N|SPXL
@@ -5279,4 +5278,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0925201521:33||||||
+File Creation Time: 0928201521:32||||||
