@@ -8,7 +8,7 @@ AAPL|Apple Inc. - Common Stock|Q|N|N|100
 AAVL|Avalanche Biotechnologies, Inc. - Common Stock|G|N|N|100
 AAWW|Atlas Air Worldwide Holdings - Common Stock|Q|N|N|100
 AAXJ|iShares MSCI All Country Asia ex Japan Index Fund|G|N|N|100
-ABAC|Aoxin Tianli Group, Inc. - Common Shares|S|N|N|100
+ABAC|Aoxin Tianli Group, Inc. - Common Shares|S|N|D|100
 ABAX|ABAXIS, Inc. - Common Stock|Q|N|N|100
 ABCB|Ameris Bancorp - Common Stock|Q|N|N|100
 ABCD|Cambium Learning Group, Inc. - Common Stock|S|N|N|100
@@ -334,7 +334,7 @@ BIDU|Baidu, Inc. - American Depositary Shares, each representing one tenth Class
 BIIB|Biogen Inc. - Common Stock|Q|N|N|100
 BIND|BIND Therapeutics, Inc. - Common Stock|Q|N|N|100
 BIOC|Biocept, Inc. - Common Stock|S|N|N|100
-BIOD|Biodel Inc. - Common Stock|S|N|N|100
+BIOD|Biodel Inc. - Common Stock|S|N|D|100
 BIOL|Biolase, Inc. - Common Stock|S|N|N|100
 BIOS|BioScrip, Inc. - Common Stock|Q|N|N|100
 BIS|ProShares UltraShort Nasdaq Biotechnology|G|N|N|100
@@ -467,7 +467,7 @@ CBAN|Colony Bankcorp, Inc. - Common Stock|G|N|N|100
 CBAY|CymaBay Therapeutics Inc. - Common Stock|S|N|N|100
 CBF|Capital Bank Financial Corp. - Class A Common Stock|Q|N|N|100
 CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100
-CBIO|Catalyst Inc.  - Common Stock|S|N|N|100
+CBIO|Catalyst Biosciences, Inc.  - Common Stock|S|N|N|100
 CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|N|100
 CBMG|Cellular Biomedicine Group, Inc. - Common Stock|G|N|N|100
 CBMX|CombiMatrix Corporation - Common Stock|S|N|N|100
@@ -480,7 +480,7 @@ CBSH|Commerce Bancshares, Inc. - Common Stock|Q|N|N|100
 CBSHP|Commerce Bancshares, Inc. - Depositary Shares, each representing a 1/1000th interest of 6.00% Series B Non-Cumulative Perpetual Preferred Stock|Q|N|N|100
 CBYL|Carbylan Therapeutics, Inc. - Common Stock|G|N|N|100
 CCBG|Capital City Bank Group - Common Stock|Q|N|N|100
-CCCL|China Ceramics Co., Ltd. - Common Stock|G|N|N|100
+CCCL|China Ceramics Co., Ltd. - Common Stock|G|N|D|100
 CCCR|China Commercial Credit, Inc. - Common Stock|S|N|D|100
 CCD|Calamos Dynamic Convertible & Income Fund - Common Shares|Q|N|N|100
 CCIH|ChinaCache International Holdings Ltd. - American Depositary Shares|Q|N|N|100
@@ -1899,6 +1899,7 @@ NETE|Net Element, Inc. - Common Stock|S|N|D|100
 NEWP|Newport Corporation - Common Stock|Q|N|N|100
 NEWS|NewStar Financial, Inc. - Common Stock|Q|N|N|100
 NEWT|Newtek Business Services Corp. - Common Stock|G|N|N|100
+NEWTZ|Newtek Business Services Corp. - Notes due 2022|G|N|N|100
 NFBK|Northfield Bancorp, Inc. - Common Stock|Q|N|N|100
 NFEC|NF Energy Saving Corporation - Common Stock|S|N|N|100
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100
@@ -2985,6 +2986,7 @@ WLRHW|WL Ross Holding Corp. - Warrant|S|N|D|100
 WMAR|West Marine, Inc. - Common Stock|Q|N|N|100
 WMGI|Wright Medical Group, Inc. - Common Stock|Q|N|N|100
 WMGIZ|Wright Medical Group, Inc. - Contingent Value Right|G|N|N|100
+WMIH|WMIH Corp. - Common Stock|S|N|N|100
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100
 WOOF|VCA Inc.  - Common Stock|Q|N|N|100
 WOWO|Wowo Limited - ADS|G|N|N|100
@@ -3078,4 +3080,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0925201521:33|||||
+File Creation Time: 0928201521:32|||||
