@@ -2603,6 +2603,7 @@ SSRG|Symmetry Surgical Inc. - Common Stock|G|N|N|100
 SSRI|Silver Standard Resources Inc. - Common Stock|Q|N|N|100
 SSYS|Stratasys, Ltd. - Common Stock|Q|N|N|100
 STAA|STAAR Surgical Company - Common Stock|G|N|N|100
+STAF|Staffing 360 Solutions, Inc. - Common Stock|S|N|N|100
 STB|Student Transportation Inc - Common shares|Q|N|N|100
 STBA|S&T Bancorp, Inc. - Common Stock|Q|N|N|100
 STBZ|State Bank Financial Corporation. - Common Stock|S|N|N|100
@@ -3080,4 +3081,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0928201521:32|||||
+File Creation Time: 0929201521:33|||||
