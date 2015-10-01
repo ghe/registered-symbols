@@ -1432,7 +1432,6 @@ IIJI|Internet Initiative Japan, Inc. - ADS represents common stock|Q|N|N|100
 IILG|Interval Leisure Group, Inc. - Common Stock|Q|N|N|100
 IIN|IntriCon Corporation - Common Stock|G|N|N|100
 IIVI|II-VI Incorporated - Common Stock|Q|N|N|100
-IKAN|Ikanos Communications, Inc. - Common Stock|S|N|N|100
 IKGH|Iao Kun Group Holding Company Limited - Ordinary Shares (Cayman Islands)|G|N|N|100
 IKNX|Ikonics Corporation - Common Stock|S|N|N|100
 ILMN|Illumina, Inc. - Common Stock|Q|N|N|100
@@ -2667,7 +2666,7 @@ TATT|TAT Technologies Ltd. - Ordinary Shares|G|N|N|100
 TAX|Liberty Tax, Inc. - Class A Common Stock|Q|N|N|100
 TAXI|Medallion Financial Corp. - Common Stock|Q|N|N|100
 TAYD|Taylor Devices, Inc. - Common Stock|S|N|N|100
-TBBK|The Bancorp, Inc. - Common Stock|Q|N|E|100
+TBBK|The Bancorp, Inc. - Common Stock|Q|N|N|100
 TBIO|Transgenomic, Inc. - Common Stock|S|N|N|100
 TBK|Triumph Bancorp, Inc. - Common Stock|Q|N|N|100
 TBNK|Territorial Bancorp Inc. - Common Stock|Q|N|N|100
@@ -3081,4 +3080,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0929201521:33|||||
+File Creation Time: 0930201521:32|||||
