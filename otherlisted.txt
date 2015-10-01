@@ -79,7 +79,6 @@ AFGE|American Financial Group, Inc. 6.25% Subordinated Debentures due 2054|N|AFG
 AFK|Market Vectors-Africa Index ETF|P|AFK|Y|100|N|AFK
 AFL|AFLAC Incorporated Common Stock|N|AFL|N|100|N|AFL
 AFM|Affiliated Managers Group, Inc. 5.250% Senior Notes due 2022|N|AFM/CL|N|100|N|AFM*
-AFQ|American Financial Group, Inc. 7% Senior Notes due 2050|N|AFQ/CL|N|100|N|AFQ*
 AFSD|Aflac Incorporated 5.50% Subordinated Debentures due September 15, 2052|N|AFSD|N|100|N|AFSD
 AFSI$A|AmTrust Financial Services, Inc. Preferred Series A|N|AFSIpA|N|100|N|AFSI-A
 AFSI$B|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series B|N|AFSIpB|N|100|N|AFSI-B
@@ -2152,9 +2151,9 @@ HCHC|HC2 Holdings, Inc. Common Stock|A|HCHC|N|100|N|HCHC
 HCI|HCI Group, Inc. Common Stock|N|HCI|N|100|N|HCI
 HCJ|HCI Group, Inc. 8% Senior Notes due 2020|N|HCJ|N|100|N|HCJ
 HCLP|Hi-Crush Partners LP Common Units representing limited partner interests|N|HCLP|N|100|N|HCLP
-HCN|Health Care REIT, Inc. Common Stock|N|HCN|N|100|N|HCN
-HCN$I|Health Care REIT, Inc. PFD PERPETUAL CONV SER I|N|HCNpI|N|100|N|HCN-I
-HCN$J|HEALTH CARE REIT INC Preferred Stock 6.5% PFD SERIES J|N|HCNpJ|N|100|N|HCN-J
+HCN|Welltower Inc. Common Stock|N|HCN|N|100|N|HCN
+HCN$I|Welltower Inc. PFD PERPETUAL CONV SER I|N|HCNpI|N|100|N|HCN-I
+HCN$J|Welltower Inc. Preferred Stock 6.5% PFD SERIES J|N|HCNpJ|N|100|N|HCN-J
 HCP|HCP, Inc. Common Stock|N|HCP|N|100|N|HCP
 HD|Home Depot, Inc. (The) Common Stock|N|HD|N|100|N|HD
 HDAW|Deutsche X-trackers MSCI All World ex US High Dividend Yield Hedged Equity ETF|P|HDAW|Y|100|N|HDAW
@@ -2392,7 +2391,7 @@ ICI|iPath iPath Optimized Currency Carry ETN|P|ICI|N|100|N|ICI
 ICL|Israel Chemicals Limited Ordinary Shares|N|ICL|N|100|N|ICL
 ICN|WisdomTree Indian Rupee Strategy Fund|P|ICN|Y|100|N|ICN
 ICOL|iShares MSCI Colombia Capped|P|ICOL|Y|100|N|ICOL
-ICSH|iShares Liquidity Income ETF|Z|ICSH|Y|100|N|ICSH
+ICSH|iShares Ultra Short-Term Bond ETF|Z|ICSH|Y|100|N|ICSH
 ICVT|iShares Convertible Bond ETF|Z|ICVT|Y|100|N|ICVT
 IDA|IDACORP, Inc. Common Stock|N|IDA|N|100|N|IDA
 IDE|Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest|N|IDE|N|100|N|IDE
@@ -2737,6 +2736,7 @@ JPNH|Deutsche X-trackers Japan JPX-Nikkei 400 Hedged Equity ETF|P|JPNH|Y|100|N|J
 JPNL|Direxion Daily Japan Bull 3X ETF|P|JPNL|Y|100|N|JPNL
 JPP|SPDR Russell/Nomura PRIME Japan ETF|P|JPP|Y|100|N|JPP
 JPS|Nuveen Quality Preferred Income Fund 2 Shares of Beneficial Interest|N|JPS|N|100|N|JPS
+JPUS|JPMorgan Diversified Return U.S. Equity ETF|P|JPUS|Y|100|N|JPUS
 JPW|Nuveen Flexible Investment Income Fund Common Shares of Beneficial Interest|N|JPW|N|100|N|JPW
 JPX|ProShares UltraShort MSCI Pacific ex-Japan|P|JPX|Y|100|N|JPX
 JPXN|iShares JPX-Nikkei 400 ETF|P|JPXN|Y|100|N|JPXN
@@ -3133,6 +3133,7 @@ MLPX|Global X MLP & Energy Infrastructure ETF|P|MLPX|Y|100|N|MLPX
 MLPY|Morgan Stanley Cushing MLP High Income Index ETN|P|MLPY|N|100|N|MLPY
 MLR|Miller Industries, Inc. Common Stock|N|MLR|N|100|N|MLR
 MLSS|Milestone Scientific, Inc. Common Stock|A|MLSS|N|100|N|MLSS
+MLTI|Credit Suisse X-Links Multi-Asset High Income Exchange Traded Notes (ETNs) due September 28, 2035|P|MLTI|Y|100|N|MLTI
 MM|Millennial Media, Inc. Common Stock|N|MM|N|100|N|MM
 MMC|Marsh & McLennan Companies, Inc. Common Stock|N|MMC|N|100|N|MMC
 MMD|MainStay DefinedTerm Municipal Opportunities Fund Common Shares of Beneficial Interest|N|MMD|N|100|N|MMD
@@ -3929,6 +3930,7 @@ QEMM|SPDR MSCI Emerging Markets Quality Mix ETF|P|QEMM|Y|100|N|QEMM
 QEP|QEP Resources, Inc. Common Stock|N|QEP|N|100|N|QEP
 QESP|SPDR MSCI Spain Quality Mix ETF|P|QESP|Y|100|N|QESP
 QGBR|SPDR MSCI United Kingdom Quality Mix ETF|P|QGBR|Y|100|N|QGBR
+QGTA|IQ Leaders GTAA Tracker ETF|P|QGTA|Y|100|N|QGTA
 QID|ProShares UltraShort QQQ|P|QID|Y|100|N|QID
 QIHU|Qihoo 360 Technology Co. Ltd. American Depositary Shares, every 2 of which representing three Class A Ordinary Shares|N|QIHU|N|100|N|QIHU
 QJPN|SPDR MSCI Japan Quality Mix ETF|P|QJPN|Y|100|N|QJPN
@@ -4492,7 +4494,6 @@ STON|StoneMor Partners L.P. Common Unit Rep Limited Partnership Interests|N|STON
 STOR|STORE Capital Corporation Common Stock|N|STOR|N|100|N|STOR
 STPZ|PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund|P|STPZ|Y|100|N|STPZ
 STR|Questar Corporation Common Stock|N|STR|N|100|N|STR
-STRI|STR Holdings, Inc Common Stock|N|STRI|N|100|N|STRI
 STRP|Straight Path Communications Inc. Class B Common Stock|A|STRP|N|100|N|STRP
 STS|Supreme Industries, Inc. Common Stock|A|STS|N|100|N|STS
 STT|State Street Corporation Common Stock|N|STT|N|100|N|STT
@@ -5284,4 +5285,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0929201521:33||||||
+File Creation Time: 0930201521:32||||||
