@@ -707,8 +707,7 @@ CSQ|Calamos Strategic Total Return Fund - Common Stock|Q|N|N|100
 CSTE|CaesarStone Sdot-Yam Ltd. - Ordinary Shares|Q|N|N|100
 CSUN|China Sunergy Co., Ltd. - American Depositary Shares, each representing 18 ordinary shares|Q|N|D|100
 CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100
-CSWCV|Capital Southwest Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100
-CSWIV|CSW Industrials, Inc. - Common Stock When Issued|Q|N|N|100
+CSWI|CSW Industrials, Inc. - Common Stock|Q|N|N|100
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100
 CTCM|CTC Media, Inc. - Common Stock|Q|N|N|100
@@ -882,6 +881,7 @@ ECPG|Encore Capital Group Inc - Common Stock|Q|N|N|100
 ECTE|Echo Therapeutics, Inc. - Common Stock|S|N|D|100
 ECYT|Endocyte, Inc. - Common Stock|Q|N|N|100
 EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share|G|N|N|100
+EDGE|Edge Therapeutics, Inc. - Common Stock|Q|N|N|100
 EDGW|Edgewater Technology, Inc. - Common Stock|G|N|N|100
 EDUC|Educational Development Corporation - Common Stock|G|N|N|100
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100
@@ -1694,7 +1694,7 @@ LULU|lululemon athletica inc. - Common Stock|Q|N|N|100
 LUNA|Luna Innovations Incorporated - Common Stock|S|N|N|100
 LVNTA|Liberty Interactive Corporation - Series A Liberty Ventures Common Stock|Q|N|N|100
 LVNTB|Liberty Interactive Corporation - Series B Liberty Ventures Common Stock|Q|N|N|100
-LWAY|Lifeway Foods, Inc. - Common Stock|G|N|E|100
+LWAY|Lifeway Foods, Inc. - Common Stock|G|N|N|100
 LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 LYTS|LSI Industries Inc. - Common Stock|Q|N|N|100
 MACK|Merrimack Pharmaceuticals, Inc. - Common Stock|G|N|N|100
@@ -1786,6 +1786,7 @@ MIFI|Novatel Wireless, Inc. - Common Stock|Q|N|N|100
 MIK|The Michaels Companies, Inc. - Common Stock|Q|N|N|100
 MIND|Mitcham Industries, Inc. - Common Stock|Q|N|N|100
 MINI|Mobile Mini, Inc. - Common Stock|Q|N|N|100
+MIRN|Mirna Therapeutics, Inc. - Common Stock|G|N|N|100
 MITK|Mitek Systems, Inc. - Common Stock|S|N|N|100
 MITL|Mitel Networks Corporation - Common Shares|Q|N|N|100
 MKSI|MKS Instruments, Inc. - Common Stock|Q|N|N|100
@@ -2463,6 +2464,7 @@ SGNL|Signal Genetics, Inc. - Common Stock|S|N|N|100
 SGNT|Sagent Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 SGOC|SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)|S|N|D|100
 SGRP|SPAR Group, Inc. - Common Stock|S|N|N|100
+SGRY|Surgery Partners, Inc. - Common Stock|Q|N|N|100
 SGYP|Synergy Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 SGYPU|Synergy Pharmaceuticals, Inc. - Unit|S|N|N|100
 SGYPW|Synergy Pharmaceuticals, Inc. - Warrants|S|N|N|100
@@ -3080,4 +3082,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0930201521:32|||||
+File Creation Time: 1001201521:33|||||
