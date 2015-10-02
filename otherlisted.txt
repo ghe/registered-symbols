@@ -637,7 +637,6 @@ BWX|SPDR Barclays Intl Treasury Bd|P|BWX|Y|100|N|BWX
 BWXT|BWX Technologies, Inc. Common Stock|N|BWXT|N|100|N|BWXT
 BWZ|SPDR Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
 BX|The Blackstone Group L.P. Common Units Representing Limited Partnership Interests|N|BX|N|100|N|BX
-BX.V|The Blackstone Group L.P. Common Units Representing Limited Partner Interests Ex-Distribution When Issued|N|BXw|N|100|N|BX#
 BXC|Bluelinx Holdings Inc. Common Stock|N|BXC|N|100|N|BXC
 BXE|Bellatrix Exploration Ltd Ordinary Shares (Canada)|N|BXE|N|100|N|BXE
 BXLT|Baxalta Incorporated Common Stock|N|BXLT|N|100|N|BXLT
@@ -663,6 +662,7 @@ C$N|Citigroup Capital VIII 7.875% Fixed rate Floating Rate trust Preferred Secur
 C$P|Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser AA|N|CpP|N|100|N|C-P
 C.A|Citigroup Inc. Warrants Class A expiring January 4, 2019|N|C/WS/A|N|100|N|C+A
 C.B|Citigroup Inc. Class B Warant expiring October 28, 2018|N|C/WS/B|N|100|N|C+B
+CAA|CalAtlantic Group, Inc. Common Stock|N|CAA|N|100|N|CAA
 CAB|Cabela's Inc Class A Common Stock|N|CAB|N|100|N|CAB
 CABO|Cable One, Inc. Common Stock|N|CABO|N|100|N|CABO
 CACI|CACI International, Inc. Class A Common Stock|N|CACI|N|100|N|CACI
@@ -849,7 +849,6 @@ CMDT|iShares Commodity Optimized Trust|P|CMDT|Y|100|N|CMDT
 CMF|iShares California AMT-Free Muni Bond ETF|P|CMF|Y|100|N|CMF
 CMG|Chipotle Mexican Grill, Inc. Common Stock|N|CMG|N|100|N|CMG
 CMI|Cummins Inc. Common Stock|N|CMI|N|100|N|CMI
-CMLP|Crestwood Midstream Partners LP|N|CMLP|N|100|N|CMLP
 CMN|Cantel Medical Corp. Common Stock|N|CMN|N|100|N|CMN
 CMO|Capstead Mortgage Corporation Common Stock|N|CMO|N|100|N|CMO
 CMO$E|Capstead Mortgage Corporation Pfd Ser E|N|CMOpE|N|100|N|CMO-E
@@ -940,7 +939,7 @@ CRD.B|Crawford & Company Common Stock|N|CRD/B|N|100|N|CRD.B
 CRED|iShares Core U.S. Credit Bond ETF|P|CRED|Y|100|N|CRED
 CRF|Cornerstone Total Return Fund, Inc. (The) Common Stock|A|CRF|N|100|N|CRF
 CRH|CRH PLC American Depositary Shares|N|CRH|N|100|N|CRH
-CRHM|CRH Medical Corporation Common Shares of Beneficial Interest|P|CRHM|N|100|N|CRHM
+CRHM|CRH Medical Corporation Common Shares of Beneficial Interest|A|CRHM|N|100|N|CRHM
 CRI|Carter's, Inc. Common Stock|N|CRI|N|100|N|CRI
 CRK|Comstock Resources, Inc. Common Stock|N|CRK|N|100|N|CRK
 CRL|Charles River Laboratories International, Inc. Common Stock|N|CRL|N|100|N|CRL
@@ -1427,7 +1426,7 @@ EMI|Eaton Vance Michigan Municipal Income Trust Shares of Beneficial Interest|A|
 EMIH|Deutsche X-trackers Emerging Markets Bond - Interest Rate Hedged ETF|P|EMIH|Y|100|N|EMIH
 EMJ|Eaton Vance New Jersey Municipal Bond Fund Common Shres of Beneficial Interest, $.01 par value|A|EMJ|N|100|N|EMJ
 EMLB|iPath Long Enhanced MSCI Emerging Markets Index ETN|P|EMLB|N|100|N|EMLB
-EMLC|Market Vectors Emerging Markets Local Currency Bond ETF|P|EMLC|Y|100|N|EMLC
+EMLC|Market Vectors J.P. Morgan EM Local Currency Bond ETF|P|EMLC|Y|100|N|EMLC
 EMLP|First Trust North American Energy Infrastructure Fund|P|EMLP|Y|100|N|EMLP
 EMN|Eastman Chemical Company Common Stock|N|EMN|N|100|N|EMN
 EMO|ClearBridge Energy MLP Opportunity Fund Inc. Common Stock|N|EMO|N|100|N|EMO
@@ -2112,7 +2111,6 @@ GWB|Great Western Bancorp, Inc. Common Stock|N|GWB|N|100|N|GWB
 GWL|SPDR S&P World ex-US ETF|P|GWL|Y|100|N|GWL
 GWR|Genesee & Wyoming Inc. Class A Common Stock|N|GWR|N|100|N|GWR
 GWRE|Guidewire Software, Inc. Common Stock|N|GWRE|N|100|N|GWRE
-GWRU|Genesee & Wyoming, Inc. Tangible Equity Unit|N|GWRU|N|100|N|GWRU
 GWW|W.W. Grainger, Inc. Common Stock|N|GWW|N|100|N|GWW
 GWX|SPDR S&P International SmallCap ETF|P|GWX|Y|100|N|GWX
 GXC|SPDR S&P China ETF|P|GXC|Y|100|N|GXC
@@ -2227,6 +2225,7 @@ HIPS|Master Income ETF|P|HIPS|Y|100|N|HIPS
 HIVE|Aerohive Networks, Inc. Common Stock|N|HIVE|N|100|N|HIVE
 HIW|Highwoods Properties, Inc. Common Stock|N|HIW|N|100|N|HIW
 HIX|Western Asset High Income Fund II Inc. Common Stock|N|HIX|N|100|N|HIX
+HJPX|iShares Currency Hedged JPX-Nikkei 400 ETF|P|HJPX|Y|100|N|HJPX
 HJV|MS Structured Asset Corp MS Structured Asset Corp. SATURNS J.C. Penney Company, Inc. Debenture Backed Series 2007-1, 7% Callable Class A Units|N|HJV|N|100|N|HJV
 HK|Halcon Resources Corporation Common Stock|N|HK|N|100|N|HK
 HKOR|Horizons Korea KOSPI 200 ETF|P|HKOR|Y|100|N|HKOR
@@ -3200,9 +3199,8 @@ MSCA|Main Street Capital Corporation 6.125% Senior Notes due 2023|N|MSCA|N|100|N
 MSCI|MSCI Inc Common Stock|N|MSCI|N|100|N|MSCI
 MSD|Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock|N|MSD|N|100|N|MSD
 MSF|Morgan Stanley Emerging Markets Fund, Inc. Common Stock|N|MSF|N|100|N|MSF
-MSG|The Madison Square Garden Company Common Stock|N|MSG|N|100|N|MSG
-MSG.V|The Madison Square Garden Company Class A Common Stock (New) When Issued|N|MSGw|N|100|N|MSG#
-MSGN.V|The Madison Square Garden Company Common Stock Ex-Distribution When Issued|N|MSGNw|N|100|N|MSGN#
+MSG|The Madison Square Garden Company Class A Common Stock (New)|N|MSG|N|100|N|MSG
+MSGN|MSG Networks Inc. Common Stock|N|MSGN|N|100|N|MSGN
 MSI|Motorola Solutions, Inc. Common Stock|N|MSI|N|100|N|MSI
 MSK|Morgan Stanley Cap TR VIII GDT Cap Securities|N|MSK|N|100|N|MSK
 MSL|MidSouth Bancorp Common Stock|N|MSL|N|100|N|MSL
@@ -3532,8 +3530,6 @@ OC|Owens Corning Inc Common Stock New|N|OC|N|100|N|OC
 OCIP|OCI Partners LP Common Units representing Limited Partner Interests|N|OCIP|N|100|N|OCIP
 OCIR|OCI Resources LP Common Units representing Limited Partner Interests|N|OCIR|N|100|N|OCIR
 OCN|Ocwen Financial Corporation NEW Common Stock|N|OCN|N|100|N|OCN
-OCR$A|Omnicare, Inc. Trust Preferred Income Equity Redeemable Securities (PIERS)|N|OCRpA|N|100|N|OCR-A
-OCR$B|Omnicare, Inc. Omnicare Capital Trust II Series B 4.00% Trust Preferred Income Equity Redeemable Securities (PIERS)|N|OCRpB|N|100|N|OCR-B
 ODC|Oil-Dri Corporation Of America Common Stock|N|ODC|N|100|N|ODC
 OEC|Orion Engineered Carbons S.A Common Shares|N|OEC|N|100|N|OEC
 OEF|iShares S&P 100 ETF|P|OEF|Y|100|N|OEF
@@ -3685,6 +3681,7 @@ PFE|Pfizer, Inc. Common Stock|N|PFE|N|100|N|PFE
 PFEM|PowerShares Fundamental Emerging Markets Local Debt Portfolio|P|PFEM|Y|100|N|PFEM
 PFF|iShares US Preferred Stock ETF|P|PFF|Y|100|N|PFF
 PFG|Principal Financial Group Inc Common Stock|N|PFG|N|100|N|PFG
+PFGC|Performance Food Group Company Common Stock|N|PFGC|N|100|N|PFGC
 PFH|Cabco Tr Jcp 7.625 Common Stock|N|PFH|N|100|N|PFH
 PFI|PowerShares DWA Financial Momentum Portfolio|P|PFI|Y|100|N|PFI
 PFIG|PowerShares Fundamental Investment Grade Corporate Bond Portfolio ETF|P|PFIG|Y|100|N|PFIG
@@ -3747,7 +3744,7 @@ PJC|Piper Jaffray Companies Common Stock|N|PJC|N|100|N|PJC
 PJH|Prudential Financial, Inc. 5.75% Junior Subordinated Notes due 2052|N|PJH|N|100|N|PJH
 PJP|PowerShares Dynamic Pharmaceuticals|P|PJP|Y|100|N|PJP
 PJS|PreferredPlus Trust Ser FAR 1 Tr Ctf|N|PJS|N|100|N|PJS
-PJT.V|PJT Partners Inc. Class A Common Stock When Issued|N|PJTw|N|100|N|PJT#
+PJT|PJT Partners Inc. Class A Common Stock|N|PJT|N|100|N|PJT
 PKB|PowerShares Dynamic Build & Construction|P|PKB|Y|100|N|PKB
 PKD|Parker Drilling Company Common Stock|N|PKD|N|100|N|PKD
 PKE|Park Electrochemical Corporation Common Stock|N|PKE|N|100|N|PKE
@@ -4156,7 +4153,6 @@ RYF|Guggenheim S&P 500 Equal Weight Financials ETF|P|RYF|Y|100|N|RYF
 RYH|Guggenheim S&P 500 Equal Weight Healthcare ETF|P|RYH|Y|100|N|RYH
 RYI|Ryerson Holding Corporation Common Stock|N|RYI|N|100|N|RYI
 RYJ|Guggenheim Raymond James SB-1 Equity Fund|P|RYJ|Y|100|N|RYJ
-RYL|Ryland Group, Inc. (The) Common Stock|N|RYL|N|100|N|RYL
 RYN|Rayonier Inc. REIT Common Stock|N|RYN|N|100|N|RYN
 RYT|Guggenheim S&P 500 Equal Weight Technology ETF|P|RYT|Y|100|N|RYT
 RYU|Guggenheim S&P 500 Equal Weight Utilities ETF|P|RYU|Y|100|N|RYU
@@ -4401,7 +4397,6 @@ SOYB|Teucrium Soybean Fund ETV|P|SOYB|Y|100|N|SOYB
 SPA|Sparton Corporation Common Stock|N|SPA|N|100|N|SPA
 SPB|Spectrum Brands Holdings, Inc. Common Stock|N|SPB|N|100|N|SPB
 SPE|Special Opportunities Fund, Inc Common Stock|N|SPE|N|100|N|SPE
-SPF|Standard Pacific Corp Common Stock|N|SPF|N|100|N|SPF
 SPFF|Global X SuperIncome Preferred ETF|P|SPFF|Y|100|N|SPFF
 SPG|Simon Property Group, Inc. Common Stock|N|SPG|N|100|N|SPG
 SPG$J|Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock|N|SPGpJ|N|100|N|SPG-J
@@ -5285,4 +5280,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0930201521:32||||||
+File Creation Time: 1001201521:33||||||
