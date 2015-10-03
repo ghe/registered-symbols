@@ -4508,7 +4508,6 @@ SUM|Summit Materials, Inc. Class A Common Stock|N|SUM|N|100|N|SUM
 SUN|Sunoco LP Common Units representing limited partner interests|N|SUN|N|100|N|SUN
 SUNE|SunEdison, Inc. Common Stock|N|SUNE|N|100|N|SUNE
 SUP|Superior Industries International, Inc. Common Stock (DE)|N|SUP|N|100|N|SUP
-SVLC|SilverCrest Mines, Inc. Ordinary Shares (Canada)|A|SVLC|N|100|N|SVLC
 SVT|Servotronics, Inc. Common Stock|A|SVT|N|100|N|SVT
 SVU|SuperValu Inc. Common Stock|N|SVU|N|100|N|SVU
 SVXY|ProShares Short VIX Short Term Futures ETF|P|SVXY|Y|100|N|SVXY
@@ -5280,4 +5279,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1001201521:33||||||
+File Creation Time: 1002201521:32||||||
