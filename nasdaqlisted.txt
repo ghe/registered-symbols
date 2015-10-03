@@ -1590,7 +1590,6 @@ KTWO|K2M Group Holdings, Inc. - Common Stock|Q|N|N|100
 KUTV|Ku6 Media Co., Ltd. - American Depositary Shares, each representing 100 ordinary shares|G|N|D|100
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100
 KWEB|KraneShares CSI China Internet ETF|G|N|N|100
-KYTH|Kythera Biopharmaceuticals, Inc. - Common Stock|Q|N|N|100
 KZ|KongZhong Corporation - American Depositary Shares, each representing 40 ordinary shares|Q|N|N|100
 LABL|Multi-Color Corporation - Common Stock|Q|N|N|100
 LAKE|Lakeland Industries, Inc. - Common Stock|G|N|N|100
@@ -1781,7 +1780,7 @@ MHLD|Maiden Holdings, Ltd. - Common Stock|Q|N|N|100
 MHLDO|Maiden Holdings, Ltd. - 7.25% Mandatory Convertible Preference Shares, Series B|Q|N|N|100
 MICT|Micronet Enertec Technologies, Inc. - Common Stock|S|N|N|100
 MICTW|Micronet Enertec Technologies, Inc. - Warrant|S|N|N|100
-MIDD|The Middleby Corporation - Common Stock|Q|N|N|100
+MIDD|The Middleby Corporation - Common Stock|Q|N|D|100
 MIFI|Novatel Wireless, Inc. - Common Stock|Q|N|N|100
 MIK|The Michaels Companies, Inc. - Common Stock|Q|N|N|100
 MIND|Mitcham Industries, Inc. - Common Stock|Q|N|N|100
@@ -1952,6 +1951,7 @@ NUTR|Nutraceutical International Corporation - Common Stock|Q|N|N|100
 NUVA|NuVasive, Inc. - Common Stock|Q|N|N|100
 NVAX|Novavax, Inc. - Common Stock|Q|N|N|100
 NVCN|Neovasc Inc. - Common Shares|S|N|N|100
+NVCR|NovoCure Limited - Ordinary Shares|Q|N|N|100
 NVDA|NVIDIA Corporation - Common Stock|Q|N|N|100
 NVDQ|Novadaq Technologies Inc - Common Shares|G|N|N|100
 NVEC|NVE Corporation - Common Stock|S|N|N|100
@@ -2629,7 +2629,7 @@ STRZA|Starz - Series A Common Stock|Q|N|N|100
 STRZB|Starz - Series B Common Stock|Q|N|N|100
 STX|Seagate Technology. - Common Stock|Q|N|N|100
 STXS|Stereotaxis, Inc. - Common Stock|S|N|D|100
-STXSW|Stereotaxis, Inc. - Warrants|S|N|D|100
+STXSW|Stereotaxis, Inc. - Warrants|S|N|N|100
 SUBK|Suffolk Bancorp - Common Stock|Q|N|N|100
 SUMR|Summer Infant, Inc. - Common Stock|S|N|N|100
 SUNS|Solar Senior Capital Ltd. - Common Stock|Q|N|N|100
@@ -2734,7 +2734,6 @@ TORM|TOR Minerals International Inc - Common Stock|S|N|N|100
 TOUR|Tuniu Corporation - American Depositary Shares|G|N|N|100
 TOWN|Towne Bank - Common Stock|Q|N|N|100
 TQQQ|ProShares UltraPro QQQ|G|N|N|100
-TRAK|Dealertrack Technologies, Inc. - Common Stock|Q|N|N|100
 TRCB|Two River Bancorp - Common Stock|G|N|N|100
 TRCH|Torchlight Energy Resources, Inc. - Common Stock|S|N|N|100
 TREE|LendingTree, Inc. - Common Stock|Q|N|N|100
@@ -2745,7 +2744,6 @@ TRIV|TriVascular Technologies, Inc. - Common Stock|Q|N|N|100
 TRMB|Trimble Navigation Limited - Common Stock|Q|N|N|100
 TRMK|Trustmark Corporation - Common Stock|Q|N|N|100
 TRNS|Transcat, Inc. - Common Stock|G|N|N|100
-TRNX|Tornier N.V. - Ordinary Shares|Q|N|N|100
 TROV|TrovaGene, Inc. - Common Stock|S|N|N|100
 TROVU|TrovaGene, Inc. - Unit|S|N|N|100
 TROVW|TrovaGene, Inc. - Warrant|S|N|N|100
@@ -2986,8 +2984,8 @@ WLRH|WL Ross Holding Corp. - Common Stock|S|N|D|100
 WLRHU|WL Ross Holding Corp. - Unit|S|N|D|100
 WLRHW|WL Ross Holding Corp. - Warrant|S|N|D|100
 WMAR|West Marine, Inc. - Common Stock|Q|N|N|100
-WMGI|Wright Medical Group, Inc. - Common Stock|Q|N|N|100
-WMGIZ|Wright Medical Group, Inc. - Contingent Value Right|G|N|N|100
+WMGI|Wright Medical Group N.V. - Ordinary Shares|Q|N|N|100
+WMGIZ|Wright Medical Group N.V. - Contingent Value Right|G|N|N|100
 WMIH|WMIH Corp. - Common Stock|S|N|N|100
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100
 WOOF|VCA Inc.  - Common Stock|Q|N|N|100
@@ -3053,7 +3051,7 @@ YY|YY Inc. - American Depositary Shares|Q|N|N|100
 Z|Zillow Group, Inc. - Class C Capital Stock|Q|N|N|100
 ZAGG|ZAGG Inc - Common Stock|Q|N|N|100
 ZAIS|ZAIS Group Holdings, Inc. - Class A Common Stock|S|N|N|100
-ZAZA|ZaZa Energy Corporation - Common Stock|S|N|D|100
+ZAZA|ZaZa Energy Corporation - Common Stock|S|N|N|100
 ZBIO|ProShares UltraPro Short NASDAQ Biotechnology|G|N|N|100
 ZBRA|Zebra Technologies Corporation - Class A Common Stock|Q|N|N|100
 ZEUS|Olympic Steel, Inc. - Common Stock|Q|N|N|100
@@ -3075,11 +3073,10 @@ ZNGA|Zynga Inc. - Class A Common Stock|Q|N|N|100
 ZNWAA|Zion Oil & Gas Inc - Warrants|G|N|N|100
 ZSAN|Zosano Pharma Corporation - Common Stock|S|N|N|100
 ZSPH|ZS Pharma, Inc. - Common Stock|G|N|N|100
-ZU|zulily, inc. - Class A Common Stock|Q|N|N|100
 ZUMZ|Zumiez Inc. - Common Stock|Q|N|N|100
 ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1001201521:33|||||
+File Creation Time: 1002201521:32|||||
