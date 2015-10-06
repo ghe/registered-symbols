@@ -1072,7 +1072,6 @@ DBEZ|Deutsche X-trackers MSCI Eurozone Hedged Equity ETF|P|DBEZ|Y|100|N|DBEZ
 DBGR|Deutsche X-trackers MSCI Germany Hedged Equity ETF|P|DBGR|Y|100|N|DBGR
 DBIF|Deutsche X-trackers S&P Hedged Global Infrastructure ETF|P|DBIF|Y|100|N|DBIF
 DBIT|Deutsche X-trackers MSCI Italy Hedged Equity ETF|P|DBIT|Y|100|N|DBIT
-DBIZ|AdvisorShares Pring Turner Business Cycle ETF|P|DBIZ|Y|100|N|DBIZ
 DBJP|Deutsche X-trackers MSCI Japan Hedged Equity ETF|P|DBJP|Y|100|N|DBJP
 DBKO|Deutsche X-trackers MSCI South Korea Hedged Equity ETF|P|DBKO|Y|100|N|DBKO
 DBL|DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest|N|DBL|N|100|N|DBL
@@ -1212,6 +1211,7 @@ DOO|WisdomTree International Dividend Top 100 Fund|P|DOO|Y|100|N|DOO
 DOOR|Masonite International Corporation Ordinary Shares (Canada)|N|DOOR|N|100|N|DOOR
 DOV|Dover Corporation Common Stock|N|DOV|N|100|N|DOV
 DOW|Dow Chemical Company (The) Common Stock|N|DOW|N|100|N|DOW
+DOW.Z|Dow Chemical Company (The) Common Stock When Distributed|N|DOW/WD|N|100|N|DOW$
 DPG|Duff & Phelps Global Utility Income Fund Inc. Common Stock|N|DPG|N|100|N|DPG
 DPK|Direxion Developed Markets Bear 3x Shares|P|DPK|Y|100|N|DPK
 DPLO|Diplomat Pharmacy, Inc. Common Stock|N|DPLO|N|100|N|DPLO
@@ -3355,7 +3355,7 @@ NGLS|Targa Resources Partners LP Common Units Representing Limited Partnership I
 NGS|Natural Gas Services Group, Inc. Common Stock|N|NGS|N|100|N|NGS
 NGVC|Natural Grocers by Vitamin Cottage, Inc. Common Stock|N|NGVC|N|100|N|NGVC
 NHC|National HealthCare Corporation Common Stock|A|NHC|N|100|N|NHC
-NHC$A|National HealthCare Corporation Series A Convertible Pfd Stk|A|NHCpA|N|100|N|NHC-A
+NHC$A|National HealthCare Corporation Series A Convertible Pfd Stk|A|NHCpA/CL|N|100|N|NHC-A*
 NHF|NexPoint Credit Strategies Fund|N|NHF|N|100|N|NHF
 NHI|National Health Investors, Inc. Common Stock|N|NHI|N|100|N|NHI
 NHS|Neuberger Berman High Yield Strategies Fund|A|NHS|N|100|N|NHS
@@ -3558,6 +3558,7 @@ OKE|ONEOK, Inc. Common Stock|N|OKE|N|100|N|OKE
 OKS|ONEOK Partners, L.P. Common Stock|N|OKS|N|100|N|OKS
 OLEM|iPath Pure Beta Crude Oil ETN|P|OLEM|N|100|N|OLEM
 OLN|Olin Corporation Common Stock|N|OLN|N|100|N|OLN
+OLN.V|Olin Corporation Common Stock Additional Shares When Issued|N|OLNw|N|100|N|OLN#
 OLO|DB Crude Oil Long Exchange Traded Notes due June 1, 2038|P|OLO|N|100|N|OLO
 OLP|One Liberty Properties, Inc. Common Stock|N|OLP|N|100|N|OLP
 OMAM|OM Asset Management plc Ordinary Shares|N|OMAM|N|100|N|OMAM
@@ -5279,4 +5280,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1002201521:32||||||
+File Creation Time: 1005201521:32||||||
