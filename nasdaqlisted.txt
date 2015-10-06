@@ -247,7 +247,7 @@ ATLO|Ames National Corporation - Common Stock|S|N|N|100
 ATML|Atmel Corporation - Common Stock|Q|N|N|100
 ATNI|Atlantic Tele-Network, Inc. - Common Stock|Q|N|N|100
 ATNY|API Technologies Corp. - Common Stock|S|N|N|100
-ATOS|Atossa Genetics Inc. - Common Stock|S|N|N|100
+ATOS|Atossa Genetics Inc. - Common Stock|S|N|D|100
 ATRA|Atara Biotherapeutics, Inc. - Common Stock|Q|N|N|100
 ATRC|AtriCure, Inc. - Common Stock|G|N|N|100
 ATRI|ATRION Corporation - Common Stock|Q|N|N|100
@@ -1240,8 +1240,8 @@ GOOD|Gladstone Commercial Corporation - Real Estate Investment Trust|Q|N|N|100
 GOODN|Gladstone Commercial Corporation - 7.125% Series C Cumulative Term Preferred Stock|Q|N|N|100
 GOODO|Gladstone Commercial Corporation - 7.50% Series B Cumulative Redeemable Preferred Stock|Q|N|N|100
 GOODP|Gladstone Commercial Corporation - 7.75% Series A Cumulative Redeemable Preferred Stock|Q|N|N|100
-GOOG|Google Inc. - Class C Capital Stock|Q|N|N|100
-GOOGL|Google Inc. - Class A Common Stock|Q|N|N|100
+GOOG|Alphabet Inc. - Class C Capital Stock|Q|N|N|100
+GOOGL|Alphabet Inc. - Class A Common Stock|Q|N|N|100
 GPAC|Global Partner Acquisition Corp. - Common Stock|S|N|N|100
 GPACU|Global Partner Acquisition Corp. - Units|S|N|N|100
 GPACW|Global Partner Acquisition Corp. - Warrants|S|N|N|100
@@ -2629,7 +2629,6 @@ STRZA|Starz - Series A Common Stock|Q|N|N|100
 STRZB|Starz - Series B Common Stock|Q|N|N|100
 STX|Seagate Technology. - Common Stock|Q|N|N|100
 STXS|Stereotaxis, Inc. - Common Stock|S|N|D|100
-STXSW|Stereotaxis, Inc. - Warrants|S|N|N|100
 SUBK|Suffolk Bancorp - Common Stock|Q|N|N|100
 SUMR|Summer Infant, Inc. - Common Stock|S|N|N|100
 SUNS|Solar Senior Capital Ltd. - Common Stock|Q|N|N|100
@@ -3021,7 +3020,7 @@ XCRA|Xcerra Corporation - Common Stock|Q|N|N|100
 XELB|Xcel Brands, Inc - Common Stock|G|N|N|100
 XENE|Xenon Pharmaceuticals Inc. - Common Shares|G|N|N|100
 XENT|Intersect ENT, Inc. - Common Stock|G|N|N|100
-XGTI|XG Technology, Inc - Common Stock|S|N|N|100
+XGTI|XG Technology, Inc - Common Stock|S|N|D|100
 XGTIW|XG Technology, Inc - Warrants|S|N|N|100
 XIV|Credit Suisse AG - VelocityShares Daily Inverse VIX Short Term ETN|G|N|N|100
 XLNX|Xilinx, Inc. - Common Stock|Q|N|N|100
@@ -3051,7 +3050,6 @@ YY|YY Inc. - American Depositary Shares|Q|N|N|100
 Z|Zillow Group, Inc. - Class C Capital Stock|Q|N|N|100
 ZAGG|ZAGG Inc - Common Stock|Q|N|N|100
 ZAIS|ZAIS Group Holdings, Inc. - Class A Common Stock|S|N|N|100
-ZAZA|ZaZa Energy Corporation - Common Stock|S|N|N|100
 ZBIO|ProShares UltraPro Short NASDAQ Biotechnology|G|N|N|100
 ZBRA|Zebra Technologies Corporation - Class A Common Stock|Q|N|N|100
 ZEUS|Olympic Steel, Inc. - Common Stock|Q|N|N|100
@@ -3079,4 +3077,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1002201521:32|||||
+File Creation Time: 1005201521:32|||||
