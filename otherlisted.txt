@@ -244,7 +244,6 @@ APH|Amphenol Corporation Common Stock|N|APH|N|100|N|APH
 APHB|AmpliPhi Biosciences Corporation Common Stock|A|APHB|N|100|N|APHB
 APLE|Apple Hospitality REIT, Inc. Common Shares|N|APLE|N|100|N|APLE
 APO|Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests|N|APO|N|100|N|APO
-APP|American Apparel Inc Common Stock|A|APP|N|100|N|APP
 APT|Alpha Pro Tech, Ltd. Common Stock|A|APT|N|100|N|APT
 APTS|Preferred Apartment Communities, Inc. Common Stock|N|APTS|N|100|N|APTS
 APU|AmeriGas Partners, L.P. Common Stock|N|APU|N|100|N|APU
@@ -2956,7 +2955,6 @@ LPX|Louisiana-Pacific Corporation Common Stock|N|LPX|N|100|N|LPX
 LQ|La Quinta Holdings Inc. Common Stock|N|LQ|N|100|N|LQ
 LQD|iShares iBoxx $ Investment Grade Corporate Bond ETF|P|LQD|Y|100|N|LQD
 LQDH|iShares Interest Rate Hedged Corporate Bond ETF|P|LQDH|Y|100|N|LQDH
-LRE|LRR Energy, L.P. Common Units Representing Limited Partner Interests|N|LRE|N|100|N|LRE
 LRET|ETRACS Monthly Pay 2xLeveraged MSCI US REIT Index ETN due May 5, 2045|P|LRET|N|100|N|LRET
 LRGF|iShares FactorSelect MSCI USA ETF|P|LRGF|Y|100|N|LRGF
 LRN|K12 Inc Common Stock|N|LRN|N|100|N|LRN
@@ -5280,4 +5278,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1005201521:32||||||
+File Creation Time: 1006201521:33||||||
