@@ -99,7 +99,7 @@ AGTC|Applied Genetic Technologies Corporation - Common Stock|G|N|N|100
 AGYS|Agilysys, Inc. - Common Stock|Q|N|N|100
 AGZD|WisdomTree Barclays U.S. Aggregate Bond Zero Duration Fund|G|N|N|100
 AHGP|Alliance Holdings GP, L.P. - Common Units Representing Limited Partner Interests|Q|N|N|100
-AHPI|Allied Healthcare Products, Inc. - Common Stock|G|N|N|100
+AHPI|Allied Healthcare Products, Inc. - Common Stock|G|N|D|100
 AIMC|Altra Industrial Motion Corp. - Common Stock|Q|N|N|100
 AIMT|Aimmune Therapeutics, Inc. - Common Stock|Q|N|N|100
 AINV|Apollo Investment Corporation - Closed End Fund|Q|N|N|100
@@ -518,7 +518,7 @@ CERE|Ceres, Inc. - Common Stock|S|N|N|100
 CERN|Cerner Corporation - Common Stock|Q|N|N|100
 CERS|Cerus Corporation - Common Stock|G|N|N|100
 CERU|Cerulean Pharma Inc. - Common Stock|G|N|N|100
-CETC|Hongli Clean Energy Technologies Corp. - Common Stock|S|N|N|100
+CETC|Hongli Clean Energy Technologies Corp. - Common Stock|S|N|D|100
 CETV|Central European Media Enterprises Ltd. - Class A Common Stock|Q|N|N|100
 CETX|Cemtrex Inc. - Common Stock|S|N|N|100
 CEVA|CEVA, Inc. - Common Stock|Q|N|N|100
@@ -2019,7 +2019,7 @@ ONCS|OncoSec Medical Incorporated - Common Stock|S|N|N|100
 ONCY|Oncolytics Biotech, Inc. - Common Shares|S|N|D|100
 ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100
 ONFC|Oneida Financial Corp. - Common Stock|G|N|N|100
-ONTX|Onconova Therapeutics, Inc. - Common Stock|Q|N|N|100
+ONTX|Onconova Therapeutics, Inc. - Common Stock|Q|N|D|100
 ONTY|Oncothyreon Inc. - Common Shares|Q|N|N|100
 ONVI|Onvia, Inc. - Common Stock|S|N|N|100
 OPB|Opus Bank - Common Stock|Q|N|N|100
@@ -2135,7 +2135,7 @@ PGNX|Progenics Pharmaceuticals Inc. - Common Stock|Q|N|N|100
 PGTI|PGT, Inc. - Common Stock|G|N|N|100
 PHII|PHI, Inc. - Voting Common Stock|Q|N|N|100
 PHIIK|PHI, Inc. - Non-Voting Common Stock|Q|N|N|100
-PHMD|PhotoMedex, Inc. - Common Stock|Q|N|N|100
+PHMD|PhotoMedex, Inc. - Common Stock|Q|N|D|100
 PICO|PICO Holdings Inc. - Common Stock|Q|N|N|100
 PIH|1347 Property Insurance Holdings, Inc. - Common Stock|G|N|N|100
 PINC|Premier, Inc. - Class A Common Stock|Q|N|N|100
@@ -3077,4 +3077,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1005201521:32|||||
+File Creation Time: 1006201521:33|||||
