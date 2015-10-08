@@ -588,6 +588,7 @@ BSCL|Guggenheim BulletShares 2021 Corporate Bond ETF|P|BSCL|Y|100|N|BSCL
 BSCM|Guggenheim BulletShares 2022 Corporate Bond ETF|P|BSCM|Y|100|N|BSCM
 BSCN|Guggenheim BulletShares 2023 Corporate Bond ETF|P|BSCN|Y|100|N|BSCN
 BSCO|Guggenheim BulletShares 2024 Corporate Bond ETF|P|BSCO|Y|100|N|BSCO
+BSCP|Guggenheim BulletShares 2025 Corporate Bond ETF|P|BSCP|Y|100|N|BSCP
 BSD|BlackRock Strategic Municipal Trust Inc. (The) Common Stock|N|BSD|N|100|N|BSD
 BSE|Blackrock New York Municipal Income Quality Trust Common Shares of Beneficial Interest|N|BSE|N|100|N|BSE
 BSI|Alon Blue Square Israel Ltd.|N|BSI|N|100|N|BSI
@@ -599,6 +600,7 @@ BSJJ|Guggenheim BulletShares 2019 High Yield Corporate Bond ETF|P|BSJJ|Y|100|N|B
 BSJK|Guggenheim BulletShares 2020 High Yield Corporate Bond ETF|P|BSJK|Y|100|N|BSJK
 BSJL|Guggenheim BulletShares 2021 High Yield Corporate Bond ETF|P|BSJL|Y|100|N|BSJL
 BSJM|Guggenheim BulletShares 2022 High Yield Corporate Bond ETF|P|BSJM|Y|100|N|BSJM
+BSJN|Guggenheim BulletShares 2023 High Yield Corporate Bond ETF|P|BSJN|Y|100|N|BSJN
 BSL|Blackstone GSO Senior Floating Rate Term Fund Common Shares of Beneficial Interest|N|BSL|N|100|N|BSL
 BSM|Black Stone Minerals, L.P. Common units representing limited partner interests|N|BSM|N|100|N|BSM
 BSMX|Grupo Financiero Santander Mexico S.A. B. de C.V. American Depositary Shares, each representing five Series B shares|N|BSMX|N|100|N|BSMX
@@ -2808,6 +2810,7 @@ KKD|Krispy Kreme Doughnuts, Inc. Common Stock|N|KKD|N|100|N|KKD
 KKR|KKR & Co. L.P. Common Units Representing Limited Partnership Interest|N|KKR|N|100|N|KKR
 KLD|iShares MSCI USA ESG Select ETF|P|KLD|Y|100|N|KLD
 KLDW|Exchange Listed Funds Trust GaveKal Knowledge Leaders Developed World ETF|P|KLDW|Y|100|N|KLDW
+KLDX|Klondex Mines Ltd. Common Stock|A|KLDX|N|100|N|KLDX
 KLEM|Exchange Listed Funds Trust GaveKal Knowledge Leaders Emerging Markets ETF|P|KLEM|Y|100|N|KLEM
 KMB|Kimberly-Clark Corporation Common Stock|N|KMB|N|100|N|KMB
 KMF|Kayne Anderson Midstream Energy Fund, Inc Common Stock|N|KMF|N|100|N|KMF
@@ -3852,6 +3855,7 @@ PSP|PowerShares Listed Private Equity|P|PSP|Y|100|N|PSP
 PSQ|ProShares Short QQQ|P|PSQ|Y|100|N|PSQ
 PSR|PowerShares Active U.S. Real Estate Fund|P|PSR|Y|100|N|PSR
 PST|ProShares UltraShort Lehman 7-10 Year Treasury|P|PST|Y|100|N|PST
+PSTG|Pure Storage, Inc. Class A Common Stock|N|PSTG|N|100|N|PSTG
 PSX|Phillips 66 Common Stock|N|PSX|N|100|N|PSX
 PSXP|Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership|N|PSXP|N|100|N|PSXP
 PTF|PowerShares DWA Technology Momentum Portfolio|P|PTF|Y|100|N|PTF
@@ -5278,4 +5282,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1006201521:33||||||
+File Creation Time: 1007201521:32||||||
