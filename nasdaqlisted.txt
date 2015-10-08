@@ -36,6 +36,7 @@ ACLS|Axcelis Technologies, Inc. - Common Stock|Q|N|N|100
 ACNB|ACNB Corporation - Common Stock|S|N|N|100
 ACOR|Acorda Therapeutics, Inc. - Common Stock|Q|N|N|100
 ACPW|Active Power, Inc. - Common Stock|S|N|N|100
+ACRS|Aclaris Therapeutics, Inc. - Common Stock|Q|N|N|100
 ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ACSF|American Capital Senior Floating, Ltd. - Common Stock|Q|N|N|100
 ACST|Acasti Pharma, Inc. - Class A Common Stock|S|N|D|100
@@ -1034,7 +1035,7 @@ FEIM|Frequency Electronics, Inc. - Common Stock|G|N|N|100
 FELE|Franklin Electric Co., Inc. - Common Stock|Q|N|N|100
 FEMB|First Trust Emerging Markets Local Currency Bond ETF|G|N|N|100
 FENX|Fenix Parts, Inc. - Common Stock|G|N|N|100
-FES|Forbes Energy Services Ltd - Ordinary shares (Bermuda)|G|N|N|100
+FES|Forbes Energy Services Ltd - Ordinary shares (Bermuda)|G|N|D|100
 FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100
 FEYE|FireEye, Inc. - Common Stock|Q|N|N|100
 FFBC|First Financial Bancorp. - Common Stock|Q|N|N|100
@@ -1331,7 +1332,6 @@ HIBB|Hibbett Sports, Inc. - Common Stock|Q|N|N|100
 HIFS|Hingham Institution for Savings - Common Stock|G|N|N|100
 HIHO|Highway Holdings Limited - Common Stock|S|N|N|100
 HIIQ|Health Insurance Innovations, Inc. - Class A Common Stock|G|N|N|100
-HILL|Dot Hill Systems Corporation - Common Stock|G|N|N|100
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100
 HKTV|Hong Kong Television Network Limited - American Depositary Shares, each representing 20 Ordinary Shares|Q|N|N|100
 HLG|Hailiang Education Group Inc. - American Depositary Shares|G|N|N|100
@@ -1967,7 +1967,7 @@ NWBI|Northwest Bancshares, Inc. - Common Stock|Q|N|N|100
 NWBO|Northwest Biotherapeutics, Inc. - Common Stock|S|N|N|100
 NWBOW|Northwest Biotherapeutics, Inc. - Warrant|S|N|N|100
 NWFL|Norwood Financial Corp. - Common Stock|G|N|N|100
-NWLI|National Western Life Insurance Company - Class A Common Stock|Q|N|N|100
+NWLI|National Western Life Group, Inc. - Class A Common Stock|Q|N|N|100
 NWPX|Northwest Pipe Company - Common Stock|Q|N|N|100
 NWS|News Corporation - Class B Common Stock|Q|N|N|100
 NWSA|News Corporation - Class A Common Stock|Q|N|N|100
@@ -3077,4 +3077,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1006201521:33|||||
+File Creation Time: 1007201521:32|||||
