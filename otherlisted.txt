@@ -2240,7 +2240,6 @@ HLT|Hilton Worldwide Holdings Inc. Common Stock|N|HLT|N|100|N|HLT
 HLTH|Nobilis Health Corp. Common Stock|A|HLTH|N|100|N|HLTH
 HLX|Helix Energy Solutions Group, Inc. Common Stock|N|HLX|N|100|N|HLX
 HMC|Honda Motor Company, Ltd. Common Stock|N|HMC|N|100|N|HMC
-HME|Home Properties, Inc. Common Stock|N|HME|N|100|N|HME
 HMG|HMG/Courtland Properties, Inc. Common Stock|A|HMG|N|100|N|HMG
 HMLP|Hoegh LNG Partners LP Common Units representing Limited Partner Interests|N|HMLP|N|100|N|HMLP
 HMN|Horace Mann Educators Corporation Common Stock|N|HMN|N|100|N|HMN
@@ -3826,7 +3825,6 @@ PRTY|Party City Holdco Inc. Common Stock|N|PRTY|N|100|N|PRTY
 PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
 PSA$A|Public Storage Depositary Shares each representing 1/1,000 of a 5.875% Cumulative Preferred SBI, Series A|N|PSApA|N|100|N|PSA-A
-PSA$P|Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)|N|PSApP/CL|N|100|N|PSA-P*
 PSA$Q|Public Storage DEPOSITARY SHS REPSTG 1/1000TH PFD SHS BEN INT SER Q|N|PSApQ|N|100|N|PSA-Q
 PSA$R|Public Storage Depository Sh Repstg 1/1000th Pfd Ser R|N|PSApR|N|100|N|PSA-R
 PSA$S|Public Storage DEP SH REPSTG PFD SH BEN INT SER S|N|PSApS|N|100|N|PSA-S
@@ -5197,10 +5195,12 @@ XL|XL Group plc|N|XL|N|100|N|XL
 XLB|Materials Select Sector SPDR|P|XLB|Y|100|N|XLB
 XLE|SPDR Select Sector Fund - Energy Select Sector|P|XLE|Y|100|N|XLE
 XLF|SPDR Select Sector Fund - Financial|P|XLF|Y|100|N|XLF
+XLFS|Financial Services Select Sector SPDR Fund (The)|P|XLFS|Y|100|N|XLFS
 XLG|Guggenheim Russell Top 50 Mega Cap ETF|P|XLG|Y|100|N|XLG
 XLI|SPDR Select Sector Fund - Industrial|P|XLI|Y|100|N|XLI
 XLK|SPDR Select Sector Fund - Technology|P|XLK|Y|100|N|XLK
 XLP|SPDR Select Sector Fund - Consumer Staples|P|XLP|Y|100|N|XLP
+XLRE|Real Estate Select Sector SPDR Fund (The)|P|XLRE|Y|100|N|XLRE
 XLU|SPDR Select Sector Fund - Utilities|P|XLU|Y|100|N|XLU
 XLV|SPDR Select Sector Fund - Health Care|P|XLV|Y|100|N|XLV
 XLY|SPDR Select Sector Fund - Consumer Discretionary|P|XLY|Y|100|N|XLY
@@ -5282,4 +5282,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1007201521:32||||||
+File Creation Time: 1008201521:33||||||
