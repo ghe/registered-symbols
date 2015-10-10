@@ -210,6 +210,7 @@ AMTD|TD Ameritrade Holding Corporation Common Stock|N|AMTD|N|100|N|AMTD
 AMTG|Apollo Residential Mortgage, Inc. Common Stock|N|AMTG|N|100|N|AMTG
 AMTG$A|Apollo Residential Mortgage, Inc. Pfd Shs Series A  (US)|N|AMTGpA|N|100|N|AMTG-A
 AMU|ETRACS Alerian MLP Index ETN|P|AMU|N|100|N|AMU
+AMUB|ETRACS Alerian MLP Index ETN Series B due July 18, 2042|P|AMUB|N|100|N|AMUB
 AMX|America Movil, S.A.B. de C.V. American Depository Receipt Series L|N|AMX|N|100|N|AMX
 AMZA|InfraCap MLP ETF|P|AMZA|Y|100|N|AMZA
 AN|AutoNation, Inc. Common Stock|N|AN|N|100|N|AN
@@ -354,7 +355,6 @@ AXX|Alderon Iron Ore Corp. Ordinary Shares (Canada)|A|AXX|N|100|N|AXX
 AYI|Acuity Brands Inc (Holding Company)|N|AYI|N|100|N|AYI
 AYR|Aircastle Limited Common Stock|N|AYR|N|100|N|AYR
 AYT|iPath GEMS Asia 8 ETN|P|AYT|N|100|N|AYT
-AZIA|Global X Central Asia & Mongolia Index ETF|P|AZIA|Y|100|N|AZIA
 AZN|Astrazeneca PLC Common Stock|N|AZN|N|100|N|AZN
 AZO|AutoZone, Inc. Common Stock|N|AZO|N|100|N|AZO
 AZUR|Azure Midstream Partners, LP Common Units Limited Partnership|N|AZUR|N|100|N|AZUR
@@ -426,6 +426,7 @@ BDAT|PureFunds ISE Big Data ETF|P|BDAT|Y|100|N|BDAT
 BDC|Belden Inc Common Stock|N|BDC|N|100|N|BDC
 BDCL|2xLeveraged Long Exchange Traded Access Securities (E-TRACS) Linked to the Wells Fargo Business Development Company Index due May 24, 2041|P|BDCL|N|100|N|BDCL
 BDCS|UBS AG Exchange Traded Access Securities (E TRACS) Linked to the Wells Fargo Business Development Company Index due April 26, 2041|P|BDCS|N|100|N|BDCS
+BDCZ|ETRACS Wells Fargo Business Development Company Index ETN Series B due April 26, 2041|P|BDCZ|N|100|N|BDCZ
 BDD|DB Base Metals Double Long Exchange Traded Notes due June 1, 2038|P|BDD|N|100|N|BDD
 BDG|DB Base Metals Long Exchange Traded Notes due June 1, 2038|P|BDG|N|100|N|BDG
 BDJ|Blackrock Enhanced Equity Dividend Trust|N|BDJ|N|100|N|BDJ
@@ -559,7 +560,6 @@ BPT|BP Prudhoe Bay Royalty Trust Common Stock|N|BPT|N|100|N|BPT
 BPY|Brookfield Property Partners L.P. Limited Partnership Units|N|BPY|N|100|N|BPY
 BQH|Blackrock New York Municipal Bond Trust Common Shares of Beneficial Interest|N|BQH|N|100|N|BQH
 BR|Broadridge Financial Solutions, Inc.Common Stock|N|BR|N|100|N|BR
-BRAF|Global X Brazil Financials ETF|P|BRAF|Y|100|N|BRAF
 BRAQ|Global X Brazil Consumer ETF|P|BRAQ|Y|100|N|BRAQ
 BRAZ|Global X Brazil Mid Cap ETF|P|BRAZ|Y|100|N|BRAZ
 BRC|Brady Corporation Common Stock|N|BRC|N|100|N|BRC
@@ -1851,11 +1851,13 @@ FXCH|Guggenheim CurrencyShares Chinese Renminbi Trust|P|FXCH|Y|100|N|FXCH
 FXCM|FXCM Inc. Class A Common Stock|N|FXCM|N|100|N|FXCM
 FXD|First Trust Cons. Discret. AlphaDEX|P|FXD|Y|100|N|FXD
 FXE|Guggenheim CurrencyShares Euro Currency Trust|P|FXE|Y|100|N|FXE
+FXEP|PowerShares Developed EuroPacific Currency Hedged Low Volatility Portfolio|P|FXEP|Y|100|N|FXEP
 FXEU|PowerShares Europe Currency Hedged Low Volatility Portfolio|P|FXEU|Y|100|N|FXEU
 FXF|Guggenheim CurrencyShares Swiss Franc Trust|P|FXF|Y|100|N|FXF
 FXG|First Trust Cons. Staples AlphaDEX|P|FXG|Y|100|N|FXG
 FXH|First Trust Health Care AlphaDEX|P|FXH|Y|100|N|FXH
 FXI|iShares China Large-Cap ETF|P|FXI|Y|100|N|FXI
+FXJP|PowerShares Japan Currency Hedged Low Volatility Portfolio|P|FXJP|Y|100|N|FXJP
 FXL|First Trust Technology AlphaDEX|P|FXL|Y|100|N|FXL
 FXN|First Trust Energy AlphaDEX Fund|P|FXN|Y|100|N|FXN
 FXO|First Trust Financials AlphaDEX|P|FXO|Y|100|N|FXO
@@ -2098,7 +2100,6 @@ GUNR|FlexShares Global Upstream Natural Resources Index Fund ETF|P|GUNR|Y|100|N|
 GUR|SPDR S&P Emerging Europe ETF|P|GUR|Y|100|N|GUR
 GURI|Global X Guru International Index ETF|P|GURI|Y|100|N|GURI
 GURU|Global X Guru Index ETF|P|GURU|Y|100|N|GURU
-GURX|Global X Guru Small Cap Index ETF|P|GURX|Y|100|N|GURX
 GUSH|Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 3X Shares|P|GUSH|Y|100|N|GUSH
 GUT|Gabelli Utility Trust (The) Common Stock|N|GUT|N|100|N|GUT
 GUT$A|Gabelli Utility Trust (The) 5.625% Series A Cumulative Preferred Shares|N|GUTpA|N|100|N|GUT-A
@@ -2408,7 +2409,6 @@ IDXJ|Market Vectors Indonesia Small Cap ETF|P|IDXJ|Y|100|N|IDXJ
 IEC|IEC Electronics Corp. Common Stock|A|IEC|N|100|N|IEC
 IEF|iShares 7-10 Year Treasury Bond ETF|P|IEF|Y|100|N|IEF
 IEFA|iShares Core MSCI EAFE ETF|P|IEFA|Y|100|N|IEFA
-IEH|Integrys Energy Group 6.00% Junior Subordinated Notes Due 2073|N|IEH|N|100|N|IEH
 IEI|iShares 3-7 Year Treasury Bond ETF|P|IEI|Y|100|N|IEI
 IEIL|iShares Enhanced International Large-Cap ETF|P|IEIL|Y|100|N|IEIL
 IEIS|iShares Enhanced International Small-Cap ETF|P|IEIS|Y|100|N|IEIS
@@ -2748,7 +2748,6 @@ JSD|Nuveen Short Duration Credit Opportunities Fund Common Shares of Beneficial 
 JTA|Nuveen Tax-Advantaged Total Return Strategy Fund Common Share of Beneficial Interest|N|JTA|N|100|N|JTA
 JTD|Nuveen Tax-Advantaged Dividend Growth Fund Common Shares of Beneficial Interest|N|JTD|N|100|N|JTD
 JTP|Nuveen Quality Preferred Income Fund Shares of Beneficial Interest|N|JTP|N|100|N|JTP
-JUNR|Global X Junior Miners ETF|P|JUNR|Y|100|N|JUNR
 JW.A|John Wiley & Sons, Inc. Common Stock|N|JW/A|N|100|N|JW.A
 JW.B|John Wiley & Sons, Inc. Common Stock|N|JW/B|N|100|N|JW.B
 JWN|Nordstrom, Inc. Common Stock|N|JWN|N|100|N|JWN
@@ -2882,6 +2881,7 @@ LAG|SPDR Barclays Aggregate Bond ETF|P|LAG|Y|100|N|LAG
 LAQ|Aberdeen Latin America Equity Fund, Inc.|A|LAQ|N|100|N|LAQ
 LAZ|Lazard LTD. Lazard, LTD. Class A Common Stock|N|LAZ|N|100|N|LAZ
 LB|L Brands, Inc.|N|LB|N|100|N|LB
+LBDC|2xLeveraged Long ETRACS Wells Fargo Business Development Company Index Series B due May 24, 2041|P|LBDC|N|100|N|LBDC
 LBF|Deutsche Global High Income Fund, Inc. Common Stock|N|LBF|N|100|N|LBF
 LBJ|Direxion Daily Latin America 3x Bull Shares|P|LBJ|Y|100|N|LBJ
 LBMH|Liberator Medical Holdings, Inc. Common Stock|A|LBMH|N|100|N|LBMH
@@ -3118,6 +3118,7 @@ MLM|Martin Marietta Materials, Inc. Common Stock|N|MLM|N|100|N|MLM
 MLN|Market Vectors Long Municipal Index ETF|P|MLN|Y|100|N|MLN
 MLP|Maui Land & Pineapple Company, Inc. Common Stock|N|MLP|N|100|N|MLP
 MLPA|Global X MLP ETF|P|MLPA|Y|100|N|MLPA
+MLPB|ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040|P|MLPB|N|100|N|MLPB
 MLPC|C-Tracks ETNs based on Performance of the Miller/Howard MLP Fundamental Index|P|MLPC|N|100|N|MLPC
 MLPG|UBS AG Exchange Traded Access Securities (E-TRACS) Linked to the Alerian Natural Gas MLP Index due July 9, 2040|P|MLPG|N|100|N|MLPG
 MLPI|UBS AG ETN|P|MLPI|N|100|N|MLPI
@@ -3187,6 +3188,7 @@ MRGR|ProShares Merger ETF|Z|MRGR|Y|100|N|MRGR
 MRIN|Marin Software Incorporated Common Stock|N|MRIN|N|100|N|MRIN
 MRK|Merck & Company, Inc. Common Stock (new)|N|MRK|N|100|N|MRK
 MRO|Marathon Oil Corporation Common Stock|N|MRO|N|100|N|MRO
+MRRL|ETRACS Monthly Pay 2xLeveraged Mortgage REIT ETN Series B due October 16, 2042|P|MRRL|N|100|N|MRRL
 MS|Morgan Stanley Common Stock|N|MS|N|100|N|MS
 MS$A|Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A|N|MSpA|N|100|N|MS-A
 MS$E|Morgan Stanley DEPOSITARY SHARES REP 1/1000TH SHARES FIXED/FLTG PREFERRED STOCK SERIES E|N|MSpE|N|100|N|MS-E
@@ -4387,6 +4389,7 @@ SNX|Synnex Corporation Common Stock|N|SNX|N|100|N|SNX
 SNY|Sanofi American Depositary Shares (Each repstg one-half of one ordinary share)|N|SNY|N|100|N|SNY
 SO|Southern Company (The) Common Stock|N|SO|N|100|N|SO
 SOIL|Global X Fertilizers/Potash ETF|P|SOIL|Y|100|N|SOIL
+SOJA|Southern Company (The) Series 2015A 6.25% Junior Subordinated Notes due October 15, 2075|N|SOJA|N|100|N|SOJA
 SOL|Renesola Ltd. Common Shares of Beneficial Interest|N|SOL|N|100|N|SOL
 SON|Sonoco Products Company Common Stock|N|SON|N|100|N|SON
 SOP|ProShares UltraShort Oil & Gas Exploration & Production|P|SOP|Y|100|N|SOP
@@ -4409,12 +4412,14 @@ SPHQ|PowerShares S&P 500 High Quality Portfolio|P|SPHQ|Y|100|N|SPHQ
 SPLP|Steel Partners Holdings LP LTD PARTNERSHIP UNIT|N|SPLP|N|100|N|SPLP
 SPLV|PowerShares S&P 500 Low Volatility Portfolio ETF|P|SPLV|Y|100|N|SPLV
 SPLX|ETRACS Monthly Reset 2xLeveraged S&P 500 Total Return ETN|P|SPLX|N|100|N|SPLX
+SPMO|PowerShares S&P 500 Momentum Portfolio|P|SPMO|Y|100|N|SPMO
 SPN|Superior Energy Services, Inc. Common Stock|N|SPN|N|100|N|SPN
 SPP|Sanchez Production Partners LP Common Stock|A|SPP|N|100|N|SPP
 SPPP|Sprott Physical Platinum and Palladium Trust|P|SPPP|Y|100|N|SPPP
 SPR|Spirit Aerosystems Holdings, Inc. Common Stock|N|SPR|N|100|N|SPR
 SPUN|Market Vectors Global Spin-Off ETF|P|SPUN|Y|100|N|SPUN
 SPUU|Direxion Daily S&P 500 Bull 2X Shares|P|SPUU|Y|100|N|SPUU
+SPVU|PowerShares S&P 500 Value Portfolio|P|SPVU|Y|100|N|SPVU
 SPXC|SPX Corporation Common Stock|N|SPXC|N|100|N|SPXC
 SPXE|ProShares S&P 500 Ex-Energy ETF|P|SPXE|Y|100|N|SPXE
 SPXH|Janus Velocity Volatility Hedged Large Cap ETF|P|SPXH|Y|100|N|SPXH
@@ -4557,6 +4562,7 @@ TAL|TAL International Group, Inc. Common Stock|N|TAL|N|100|N|TAL
 TAN|Guggenheim Solar ETF|P|TAN|Y|100|N|TAN
 TANN|TravelCenters of America LLC 8.25% Senior Notes due 2028|N|TANN|N|100|N|TANN
 TANO|TravelCenters of America LLC 8.00% Senior Notes due 2029|N|TANO|N|100|N|TANO
+TANP|TravelCenters of America LLC 8.00% Senior Notes due 2030|N|TANP|N|100|N|TANP
 TAO|Guggenheim China Real Estate ETF|P|TAO|Y|100|N|TAO
 TAOM|Taomee Holdings Limited American Depositary Shares (each representing 20 ordinary shares)|N|TAOM|N|100|N|TAOM
 TAP|Molson Coors Brewing Company Class B Common Stock|N|TAP|N|100|N|TAP
@@ -4818,6 +4824,7 @@ UBT|ProShares Ultra 20+ Year Treasury|P|UBT|Y|100|N|UBT
 UCC|ProShares Ultra Consumer Services|P|UCC|Y|100|N|UCC
 UCD|ProShares Ultra Bloomberg Commodity|P|UCD|Y|100|N|UCD
 UCI|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI ETN|P|UCI|N|100|N|UCI
+UCIB|ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038|P|UCIB|N|100|N|UCIB
 UCO|ProShares Ultra Bloomberg Crude Oil|P|UCO|Y|100|N|UCO
 UCP|UCP, Inc. Class A Common Stock|N|UCP|N|100|N|UCP
 UDN|PowerShares DB USD Index Bearish|P|UDN|Y|100|N|UDN
@@ -5282,4 +5289,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1008201521:33||||||
+File Creation Time: 1009201521:32||||||
