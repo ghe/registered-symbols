@@ -852,6 +852,7 @@ DWA|Dreamworks Animation SKG, Inc. - Class A Common Stock|Q|N|N|100
 DWAT|Arrow DWA Tactical ETF|G|N|N|100
 DWCH|Datawatch Corporation - Common Stock|S|N|N|100
 DWSN|Dawson Geophysical Company - Common Stock|Q|N|N|100
+DWTR|PowerShares DWA Tactical Sector Rotation Portfolio|G|N|N|100
 DXCM|DexCom, Inc. - Common Stock|Q|N|N|100
 DXGE|WisdomTree Germany Hedged Equity Fund|G|N|N|100
 DXJS|WisdomTree Japan Hedged SmallCap Equity Fund|G|N|N|100
@@ -950,7 +951,6 @@ ERI|Eldorado Resorts, Inc. - Common Stock|Q|N|N|100
 ERIC|Ericsson - ADS each representing 1 underlying Class B share|Q|N|N|100
 ERIE|Erie Indemnity Company - Class A Common Stock|Q|N|N|100
 ERII|Energy Recovery, Inc. - Common Stock|Q|N|N|100
-EROC|Eagle Rock Energy Partners, L.P. - Common Units Representing Limited Partner Interests|Q|N|N|100
 ERS|Empire Resources, Inc. - Common Stock|S|N|N|100
 ERW|Janus Equal Risk Weighted Large Cap ETF|G|N|N|100
 ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
@@ -1460,7 +1460,7 @@ INNL|Innocoll AG - American Depositary Share|G|N|N|100
 INO|Inovio Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 INOD|Innodata Inc. - Common Stock|G|N|N|100
 INOV|Inovalon Holdings, Inc. - Class A Common Stock|Q|N|N|100
-INPH|Interphase Corporation - Common Stock|S|N|G|100
+INPH|Interphase Corporation - Common Stock|S|N|N|100
 INSM|Insmed, Inc. - Common Stock|Q|N|N|100
 INSY|Insys Therapeutics, Inc. - Common Stock|G|N|N|100
 INTC|Intel Corporation - Common Stock|Q|N|N|100
@@ -1638,7 +1638,7 @@ LION|Fidelity Southern Corporation - Common Stock|Q|N|N|100
 LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
 LIQD|Liquid Holdings Group, Inc. - Common Stock|S|N|H|100
 LITE|Lumentum Holdings Inc. - Common Stock|Q|N|N|100
-LIVE|LiveDeal, Inc. - Common Stock|S|N|N|100
+LIVE|Live Ventures Incorporated - Common Stock|S|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
 LKOR|FlexShares Credit-Scored US Long Corporate Bond Index Fund|G|N|N|100
@@ -2161,6 +2161,7 @@ PMBC|Pacific Mercantile Bancorp - Common Stock|Q|N|N|100
 PMCS|PMC - Sierra, Inc. - Common Stock|Q|N|N|100
 PMD|Psychemedics Corporation - Common Stock|S|N|N|100
 PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares|S|N|N|100
+PMTS|CPI Card Group Inc. - Common Stock|Q|N|N|100
 PNBK|Patriot National Bancorp Inc. - Common Stock|G|N|N|100
 PNFP|Pinnacle Financial Partners, Inc. - Common Stock|Q|N|N|100
 PNNT|PennantPark Investment Corporation - common stock|Q|N|N|100
@@ -2706,13 +2707,12 @@ TGLS|Tecnoglass Inc. - Ordinary Shares|S|N|N|100
 TGTX|TG Therapeutics, Inc. - Common Stock|S|N|N|100
 THFF|First Financial Corporation Indiana - Common Stock|Q|N|N|100
 THLD|Threshold Pharmaceuticals, Inc. - Common Stock|S|N|N|100
-THOR|Thoratec Corporation - Common Stock|Q|N|N|100
 THRM|Gentherm Inc - Common Stock|Q|N|N|100
 THRX|Theravance, Inc. - Common Stock|Q|N|N|100
 THST|Truett-Hurst, Inc. - Class A Common Stock|S|N|N|100
 THTI|THT Heat Transfer Technology, Inc. - Common Stock|S|N|D|100
 TICC|TICC Capital Corp. - Closed End Fund|Q|N|N|100
-TIGR|TigerLogic Corporation - Common Stock|S|N|D|100
+TIGR|TigerLogic Corporation - Common Stock|S|N|N|100
 TIL|Till Capital Ltd. - Restricted Voting Shares|S|N|N|100
 TILE|Interface, Inc. - Common Stock|Q|N|N|100
 TINY|Harris & Harris Group, Inc. - Common Stock|G|N|N|100
@@ -3078,4 +3078,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1008201521:33|||||
+File Creation Time: 1009201521:32|||||
