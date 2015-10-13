@@ -123,7 +123,6 @@ ALGN|Align Technology, Inc. - Common Stock|Q|N|N|100
 ALGT|Allegiant Travel Company - Common Stock|Q|N|N|100
 ALIM|Alimera Sciences, Inc. - Common Stock|G|N|N|100
 ALKS|Alkermes plc - Ordinary Shares|Q|N|N|100
-ALLB|Alliance Bancorp, Inc. of Pennsylvania - Common Stock|G|N|N|100
 ALLT|Allot Communications Ltd. - Ordinary Shares|Q|N|N|100
 ALNY|Alnylam Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 ALOG|Analogic Corporation - Common Stock|Q|N|N|100
@@ -542,7 +541,7 @@ CGIX|Cancer Genetics, Inc. - Common Stock|S|N|N|100
 CGNT|Cogentix Medical, Inc. - Common Stock|S|N|N|100
 CGNX|Cognex Corporation - Common Stock|Q|N|N|100
 CGO|Calamos Global Total Return Fund - Common Stock|Q|N|N|100
-CHCI|Comstock Holding Companies, Inc. - Class A Common Stock|S|N|D|100
+CHCI|Comstock Holding Companies, Inc. - Class A Common Stock|S|N|N|100
 CHCO|City Holding Company - Common Stock|Q|N|N|100
 CHDN|Churchill Downs, Incorporated - Common Stock|Q|N|N|100
 CHEF|The Chefs' Warehouse, Inc. - Common Stock|Q|N|N|100
@@ -773,7 +772,7 @@ CZFC|Citizens First Corporation - Common Stock|G|N|N|100
 CZNC|Citizens & Northern Corp - Common Stock|S|N|N|100
 CZR|Caesars Entertainment Corporation - Common Stock|Q|N|N|100
 CZWI|Citizens Community Bancorp, Inc. - Common Stock|G|N|N|100
-DAEG|Daegis Inc - Common Stock|S|N|D|100
+DAEG|Daegis Inc - Common Stock|S|N|N|100
 DAIO|Data I/O Corporation - Common Stock|S|N|N|100
 DAKT|Daktronics, Inc. - Common Stock|Q|N|N|100
 DARA|DARA Biosciences, Inc. - Common Stock|S|N|D|100
@@ -1460,7 +1459,6 @@ INNL|Innocoll AG - American Depositary Share|G|N|N|100
 INO|Inovio Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 INOD|Innodata Inc. - Common Stock|G|N|N|100
 INOV|Inovalon Holdings, Inc. - Class A Common Stock|Q|N|N|100
-INPH|Interphase Corporation - Common Stock|S|N|N|100
 INSM|Insmed, Inc. - Common Stock|Q|N|N|100
 INSY|Insys Therapeutics, Inc. - Common Stock|G|N|N|100
 INTC|Intel Corporation - Common Stock|Q|N|N|100
@@ -1816,7 +1814,7 @@ MOBL|MobileIron, Inc. - Common Stock|Q|N|N|100
 MOCO|MOCON, Inc. - Common Stock|G|N|N|100
 MOFG|MidWestOne Financial Group, Inc. - Common Stock|Q|N|N|100
 MOKO|MOKO Social Media Ltd. - American Depositary Shares|G|N|N|100
-MOLG|MOL Global, Inc. - American Depositary Shares|Q|N|N|100
+MOLG|MOL Global, Inc. - American Depositary Shares|Q|N|D|100
 MOMO|Momo Inc. - American Depositary Shares|Q|N|N|100
 MORN|Morningstar, Inc. - Common Stock|Q|N|N|100
 MOSY|MoSys, Inc. - Common Stock|Q|N|N|100
@@ -2027,7 +2025,7 @@ ONVI|Onvia, Inc. - Common Stock|S|N|N|100
 OPB|Opus Bank - Common Stock|Q|N|N|100
 OPGN|OpGen, Inc. - Common Stock|S|N|N|100
 OPGNW|OpGen, Inc. - Warrant|S|N|N|100
-OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|D|100
+OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|N|100
 OPHT|Ophthotech Corporation - Common Stock|Q|N|N|100
 OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100
 OPTT|Ocean Power Technologies, Inc. - Common Stock|S|N|D|100
@@ -2712,7 +2710,6 @@ THRX|Theravance, Inc. - Common Stock|Q|N|N|100
 THST|Truett-Hurst, Inc. - Class A Common Stock|S|N|N|100
 THTI|THT Heat Transfer Technology, Inc. - Common Stock|S|N|D|100
 TICC|TICC Capital Corp. - Closed End Fund|Q|N|N|100
-TIGR|TigerLogic Corporation - Common Stock|S|N|N|100
 TIL|Till Capital Ltd. - Restricted Voting Shares|S|N|N|100
 TILE|Interface, Inc. - Common Stock|Q|N|N|100
 TINY|Harris & Harris Group, Inc. - Common Stock|G|N|N|100
@@ -2770,6 +2767,7 @@ TTEK|Tetra Tech, Inc. - Common Stock|Q|N|N|100
 TTGT|TechTarget, Inc. - Common Stock|G|N|N|100
 TTHI|Transition Therapeutics, Inc. - Ordinary Shares (Canada)|G|N|N|100
 TTMI|TTM Technologies, Inc. - Common Stock|Q|N|N|100
+TTNP|Titan Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 TTOO|T2 Biosystems, Inc. - Common Stock|G|N|N|100
 TTPH|Tetraphase Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 TTS|Tile Shop Hldgs, Inc. - Common Stock|Q|N|N|100
@@ -3078,4 +3076,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1009201521:32|||||
+File Creation Time: 1012201521:32|||||
