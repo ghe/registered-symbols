@@ -174,7 +174,7 @@ ANDE|The Andersons, Inc. - Common Stock|Q|N|N|100
 ANGI|Angie's List, Inc. - Common Stock|Q|N|N|100
 ANGO|AngioDynamics, Inc. - Common Stock|Q|N|N|100
 ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100
-ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|D|100
+ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100
 ANTH|Anthera Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANY|Sphere 3D Corp. - Common Shares|G|N|N|100
@@ -772,7 +772,6 @@ CZFC|Citizens First Corporation - Common Stock|G|N|N|100
 CZNC|Citizens & Northern Corp - Common Stock|S|N|N|100
 CZR|Caesars Entertainment Corporation - Common Stock|Q|N|N|100
 CZWI|Citizens Community Bancorp, Inc. - Common Stock|G|N|N|100
-DAEG|Daegis Inc - Common Stock|S|N|N|100
 DAIO|Data I/O Corporation - Common Stock|S|N|N|100
 DAKT|Daktronics, Inc. - Common Stock|Q|N|N|100
 DARA|DARA Biosciences, Inc. - Common Stock|S|N|D|100
@@ -829,7 +828,7 @@ DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 DRRX|DURECT Corporation - Common Stock|G|N|N|100
 DRWI|DragonWave Inc - Common Shares|S|N|D|100
 DRWIW|DragonWave Inc - Warrants|S|N|N|100
-DRYS|DryShips Inc. - Common Stock|Q|N|D|100
+DRYS|DryShips Inc. - Common Stock|S|N|D|100
 DSCI|Derma Sciences, Inc. - Common Stock|S|N|N|100
 DSCO|Discovery Laboratories, Inc. - Common Stock|S|N|D|100
 DSGX|The Descartes Systems Group Inc. - Common Stock|Q|N|N|100
@@ -877,6 +876,8 @@ EBIX|Ebix, Inc. - Common Stock|Q|N|N|100
 EBMT|Eagle Bancorp Montana, Inc. - Common Stock|G|N|N|100
 EBSB|Meridian Bancorp, Inc. - Common Stock|Q|N|N|100
 EBTC|Enterprise Bancorp Inc - Common Stock|Q|N|N|100
+ECAC|E-compass Acquisition Corp. - Ordinary Shares|S|N|N|100
+ECACR|E-compass Acquisition Corp. - Rights|S|N|N|100
 ECACU|E-compass Acquisition Corp. - Units|S|N|N|100
 ECHO|Echo Global Logistics, Inc. - Common Stock|Q|N|N|100
 ECOL|US Ecology, Inc. - Common Stock|Q|N|N|100
@@ -1030,12 +1031,17 @@ FCVA|First Capital Bancorp, Inc. (VA) - Common Stock|S|N|N|100
 FDEF|First Defiance Financial Corp. - Common Stock|Q|N|N|100
 FDIV|First Trust Strategic Income ETF|G|N|N|100
 FDML|Federal-Mogul Holdings Corporation - Class A Common Stock|Q|N|N|100
+FDT|First Trust Developed Markets Ex-US AlphaDEX Fund |G|N|N|100
+FDTS|First Trust Developed Markets ex-US Small Cap AlphaDEX Fund|G|N|N|100
 FDUS|Fidus Investment Corporation - Common Stock|Q|N|N|100
 FEIC|FEI Company - Common Stock|Q|N|N|100
 FEIM|Frequency Electronics, Inc. - Common Stock|G|N|N|100
 FELE|Franklin Electric Co., Inc. - Common Stock|Q|N|N|100
+FEM|First Trust Emerging Markets AlphaDEX Fund|G|N|N|100
 FEMB|First Trust Emerging Markets Local Currency Bond ETF|G|N|N|100
+FEMS|First Trust Emerging Markets Small Cap AlphaDEX Fund|G|N|N|100
 FENX|Fenix Parts, Inc. - Common Stock|G|N|N|100
+FEP|First Trust Europe AlphaDEX Fund |G|N|N|100
 FES|Forbes Energy Services Ltd - Ordinary shares (Bermuda)|G|N|D|100
 FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100
 FEYE|FireEye, Inc. - Common Stock|Q|N|N|100
@@ -1074,6 +1080,7 @@ FLIR|FLIR Systems, Inc. - Common Stock|Q|N|N|100
 FLKS|Flex Pharma, Inc. - Common Stock|G|N|N|100
 FLL|Full House Resorts, Inc. - Common Stock|S|N|N|100
 FLML|Flamel Technologies S.A. - American Depositary Shares each representing one Ordinary Share|G|N|N|100
+FLN|First Trust Latin America AlphaDEX Fund |G|N|N|100
 FLWS|1-800 FLOWERS.COM, Inc. - Class A Common Stock|Q|N|N|100
 FLXN|Flexion Therapeutics, Inc. - Common Stock|G|N|N|100
 FLXS|Flexsteel Industries, Inc. - Common Stock|Q|N|N|100
@@ -1107,6 +1114,7 @@ FOSL|Fossil Group, Inc. - Common Stock|Q|N|N|100
 FOX|Twenty-First Century Fox, Inc. - Class B Common Stock|Q|N|N|100
 FOXA|Twenty-First Century Fox, Inc. - Class A Common Stock|Q|N|N|100
 FOXF|Fox Factory Holding Corp. - Common Stock|Q|N|N|100
+FPA|First Trust Asia Pacific Ex-Japan AlphaDEX Fund|G|N|N|100
 FPRX|Five Prime Therapeutics, Inc. - Common Stock|Q|N|N|100
 FPXI|First Trust International IPO ETF|G|N|N|100
 FRAN|Francesca's Holdings Corporation - Common Stock|Q|N|N|100
@@ -1651,7 +1659,6 @@ LMCB|Liberty Media Corporation - Series B Common Stock|Q|N|N|100
 LMCK|Liberty Media Corporation - Series C Common Stock|Q|N|N|100
 LMIA|LMI Aerospace, Inc. - Common Stock|Q|N|N|100
 LMNR|Limoneira Co - Common Stock|Q|N|N|100
-LMNS|Lumenis Ltd. - Class B Ordinary Shares|Q|N|N|100
 LMNX|Luminex Corporation - Common Stock|Q|N|N|100
 LMOS|Lumos Networks Corp. - Common Stock|Q|N|N|100
 LMRK|Landmark Infrastructure Partners LP - Common Units|G|N|N|100
@@ -1973,8 +1980,8 @@ NWS|News Corporation - Class B Common Stock|Q|N|N|100
 NWSA|News Corporation - Class A Common Stock|Q|N|N|100
 NXPI|NXP Semiconductors N.V. - Common Stock|Q|N|N|100
 NXST|Nexstar Broadcasting Group, Inc. - Class A Common Stock|Q|N|N|100
-NXTD|NXT-ID Inc. - Common Stock|S|N|N|100
-NXTDW|NXT-ID Inc. - Warrant|S|N|N|100
+NXTD|NXT-ID Inc. - Common Stock|S|N|D|100
+NXTDW|NXT-ID Inc. - Warrant|S|N|D|100
 NXTM|NxStage Medical, Inc. - Common Stock|Q|N|N|100
 NYMT|New York Mortgage Trust, Inc. - Common Stock|Q|N|N|100
 NYMTO|New York Mortgage Trust, Inc. - 7.875% Series C Cumulative Redeemable Preferred Stock|Q|N|N|100
@@ -2025,7 +2032,6 @@ ONVI|Onvia, Inc. - Common Stock|S|N|N|100
 OPB|Opus Bank - Common Stock|Q|N|N|100
 OPGN|OpGen, Inc. - Common Stock|S|N|N|100
 OPGNW|OpGen, Inc. - Warrant|S|N|N|100
-OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|N|100
 OPHT|Ophthotech Corporation - Common Stock|Q|N|N|100
 OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100
 OPTT|Ocean Power Technologies, Inc. - Common Stock|S|N|D|100
@@ -2579,7 +2585,7 @@ SPRO|SmartPros Ltd. - Common Stock|S|N|N|100
 SPRT|support.com, Inc. - Common Stock|Q|N|N|100
 SPSC|SPS Commerce, Inc. - Common Stock|Q|N|N|100
 SPTN|SpartanNash Company - Common Stock|Q|N|N|100
-SPU|SkyPeople Fruit Juice, Inc. - Common Stock|G|N|N|100
+SPU|SkyPeople Fruit Juice, Inc. - Common Stock|G|N|D|100
 SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock|Q|N|N|100
 SPWR|SunPower Corporation - Common Stock|Q|N|N|100
 SQBG|Sequential Brands Group, Inc. - Common Stock|S|N|N|100
@@ -3076,4 +3082,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1012201521:32|||||
+File Creation Time: 1013201521:32|||||
