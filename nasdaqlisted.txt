@@ -515,6 +515,7 @@ CEMP|Cempra, Inc. - Common Stock|Q|N|N|100
 CENT|Central Garden & Pet Company - Common Stock|Q|N|N|100
 CENTA|Central Garden & Pet Company - Class A Common Stock Nonvoting|Q|N|N|100
 CENX|Century Aluminum Company - Common Stock|Q|N|N|100
+CERCU|Cerecor Inc. - Unit|S|N|N|100
 CERE|Ceres, Inc. - Common Stock|S|N|N|100
 CERN|Cerner Corporation - Common Stock|Q|N|N|100
 CERS|Cerus Corporation - Common Stock|G|N|N|100
@@ -651,7 +652,7 @@ CORE|Core-Mark Holding Company, Inc. - Common Stock|Q|N|N|100
 CORI|Corium International, Inc. - Common Stock|G|N|N|100
 CORT|Corcept Therapeutics Incorporated - Common Stock|S|N|N|100
 COSI|Cosi, Inc. - Common Stock|S|N|N|100
-COST|Costco Wholesale Corporation - Common Stock|Q|N|D|100
+COST|Costco Wholesale Corporation - Common Stock|Q|N|N|100
 COVS|Covisint Corporation - Common Stock|Q|N|N|100
 COWN|Cowen Group, Inc. - Class A Common Stock|Q|N|N|100
 COWNL|Cowen Group, Inc. - 8.25% Senior Notes due 2021|Q|N|N|100
@@ -1287,7 +1288,7 @@ GTWN|Georgetown Bancorp, Inc. - Common Stock|S|N|N|100
 GTXI|GTx, Inc. - Common Stock|S|N|N|100
 GUID|Guidance Software, Inc. - Common Stock|G|N|N|100
 GULF|WisdomTree Middle East Dividend Fund|G|N|N|100
-GULTU|Gulf Coast Ultra Deep Royalty Trust - Royalty Trust Unit|S|N|D|100
+GULTU|Gulf Coast Ultra Deep Royalty Trust - Royalty Trust Unit|S|N|N|100
 GURE|Gulf Resources, Inc. - Common Stock|Q|N|N|100
 GWGH|GWG Holdings, Inc - Common Stock|S|N|N|100
 GWPH|GW Pharmaceuticals Plc - American Depositary Shares|G|N|N|100
@@ -2074,6 +2075,7 @@ OXLC|Oxford Lane Capital Corp. - Common Stock|Q|N|N|100
 OXLCN|Oxford Lane Capital Corp. - 8.125% Series 2024 Term Preferred Stock|Q|N|N|100
 OXLCO|Oxford Lane Capital Corp. - Term Preferred Shares, 7.50% Series 2023|Q|N|N|100
 OZRK|Bank of the Ozarks - Common Stock|Q|N|N|100
+PAACU|Pacific Special Acquisition Corp. - Units|S|N|N|100
 PAAS|Pan American Silver Corp. - Common Stock|Q|N|N|100
 PACB|Pacific Biosciences of California, Inc. - Common Stock|Q|N|N|100
 PACEU|Pace Holdings Corp. - Unit|S|N|N|100
@@ -3083,4 +3085,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1014201521:33|||||
+File Creation Time: 1015201521:32|||||
