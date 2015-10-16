@@ -24,6 +24,7 @@ ABR$A|Arbor Realty Trust Preferred Series A|N|ABRpA|N|100|N|ABR-A
 ABR$B|Arbor Realty Trust Cumulative Redeemable Preferred Series B|N|ABRpB|N|100|N|ABR-B
 ABR$C|Arbor Realty Trust Cumulative Redeemable Preferred Series C|N|ABRpC|N|100|N|ABR-C
 ABRN|Arbor Realty Trust 7.375% Senior Notes due 2021|N|ABRN|N|100|N|ABRN
+ABS|Albertsons Companies, Inc. Common Stock|N|ABS|N|100|N|ABS
 ABT|Abbott Laboratories Common Stock|N|ABT|N|100|N|ABT
 ABX|Barrick Gold Corporation Common Stock|N|ABX|N|100|N|ABX
 ACC|American Campus Communities Inc Common Stock|N|ACC|N|100|N|ACC
@@ -612,7 +613,6 @@ BTA|BlackRock Long-Term Municipal Advantage Trust BlackRock Long-Term Municipal 
 BTAL|QuantShares U.S. Market Neutral Anti Beta Fund ETF|P|BTAL|Y|100|N|BTAL
 BTE|Baytex Energy Corp|N|BTE|N|100|N|BTE
 BTG|B2Gold Corp Common shares (Canada)|A|BTG|N|100|N|BTG
-BTH|Blyth, Inc. New Common Stock|N|BTH|N|100|N|BTH
 BTI|British American Tobacco  Industries, p.l.c. Common Stock ADR|A|BTI|N|100|N|BTI
 BTN|Ballantyne Strong, Inc. Common Stock|A|BTN|N|100|N|BTN
 BTO|John Hancock Financial Opportunities Fund Common Stock|N|BTO|N|100|N|BTO
@@ -1666,6 +1666,7 @@ FCOM|Fidelity MSCI Telecommunication Services Index ETF|P|FCOM|Y|100|N|FCOM
 FCOR|Fidelity Corporate Bond ETF|P|FCOR|Y|100|N|FCOR
 FCT|First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest|N|FCT|N|100|N|FCT
 FCX|Freeport-McMoRan, Inc. Common Stock|N|FCX|N|100|N|FCX
+FDC|First Data Corporation Class A Common Stock|N|FDC|N|100|N|FDC
 FDD|First Trust Dow Jones STOXX Select Dividend 30 Index Fund|P|FDD|Y|100|N|FDD
 FDEU|First Trust Dynamic Europe Equity Income Fund Common Shares of Beneficial Interest|N|FDEU|N|100|N|FDEU
 FDI|Fort Dearborn Income Securities, Inc. Common Stock|N|FDI|N|100|N|FDI
@@ -3829,7 +3830,6 @@ PSA$X|Public Storage Depositary Shares Representing 1/1000th Cumulative Preferre
 PSA$Y|Public Storage Dep Shs Repstg 1/1000th Pfd Sh Ben Int Ser Y|N|PSApY|N|100|N|PSA-Y
 PSA$Z|Public Storage Dep Shs Representing 1/1000th Pfd Sh Ben Int Ser Z|N|PSApZ|N|100|N|PSA-Z
 PSB|PS Business Parks, Inc. Common Stock|N|PSB|N|100|N|PSB
-PSB$R|PS Business Parks, Inc. Depositary Shares, Each representing 1/1,000 of a share of 6.875% Cumulative Preferred stock, Series R, $0.01 par|N|PSBpR/CL|N|100|N|PSB-R*
 PSB$S|PS Business Parks, Inc. Depositary Shares, each representing 1/1,000 of a share of 6.45% Cumulative Preferred Stock|N|PSBpS|N|100|N|PSB-S
 PSB$T|PS Business Parks, Inc. Depositary Shares Representing 1/1000th Preferred Series T|N|PSBpT|N|100|N|PSB-T
 PSB$U|PS Business Parks, Inc. Dep Shs Repstg 1/1000 Pfd Ser U|N|PSBpU|N|100|N|PSB-U
@@ -5280,4 +5280,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1014201521:33||||||
+File Creation Time: 1015201521:32||||||
