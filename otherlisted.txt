@@ -24,7 +24,6 @@ ABR$A|Arbor Realty Trust Preferred Series A|N|ABRpA|N|100|N|ABR-A
 ABR$B|Arbor Realty Trust Cumulative Redeemable Preferred Series B|N|ABRpB|N|100|N|ABR-B
 ABR$C|Arbor Realty Trust Cumulative Redeemable Preferred Series C|N|ABRpC|N|100|N|ABR-C
 ABRN|Arbor Realty Trust 7.375% Senior Notes due 2021|N|ABRN|N|100|N|ABRN
-ABS|Albertsons Companies, Inc. Common Stock|N|ABS|N|100|N|ABS
 ABT|Abbott Laboratories Common Stock|N|ABT|N|100|N|ABT
 ABX|Barrick Gold Corporation Common Stock|N|ABX|N|100|N|ABX
 ACC|American Campus Communities Inc Common Stock|N|ACC|N|100|N|ACC
@@ -75,6 +74,7 @@ AF$C|Astoria Financial Corporation Depositary Shs Repstg 1/40th Int Perp Pfd Ser
 AFA|American Financial Group, Inc. 5.75% Senior Notes due 2042|N|AFA|N|100|N|AFA
 AFB|AllianceBernstein National Municipal Income Fund Inc|N|AFB|N|100|N|AFB
 AFC|Allied Capital Corporation Allied Capital Corporation 6.875% Notes due April 15, 2047|N|AFC|N|100|N|AFC
+AFCO|American Farmland Company Common Stock|N|AFCO|N|100|N|AFCO
 AFG|American Financial Group, Inc. Common Stock|N|AFG|N|100|N|AFG
 AFGE|American Financial Group, Inc. 6.25% Subordinated Debentures due 2054|N|AFGE|N|100|N|AFGE
 AFK|Market Vectors-Africa Index ETF|P|AFK|Y|100|N|AFK
@@ -5280,4 +5280,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1015201521:32||||||
+File Creation Time: 1016201521:32||||||
