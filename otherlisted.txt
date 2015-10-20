@@ -74,7 +74,6 @@ AF$C|Astoria Financial Corporation Depositary Shs Repstg 1/40th Int Perp Pfd Ser
 AFA|American Financial Group, Inc. 5.75% Senior Notes due 2042|N|AFA|N|100|N|AFA
 AFB|AllianceBernstein National Municipal Income Fund Inc|N|AFB|N|100|N|AFB
 AFC|Allied Capital Corporation Allied Capital Corporation 6.875% Notes due April 15, 2047|N|AFC|N|100|N|AFC
-AFCO|American Farmland Company Common Stock|N|AFCO|N|100|N|AFCO
 AFG|American Financial Group, Inc. Common Stock|N|AFG|N|100|N|AFG
 AFGE|American Financial Group, Inc. 6.25% Subordinated Debentures due 2054|N|AFGE|N|100|N|AFGE
 AFK|Market Vectors-Africa Index ETF|P|AFK|Y|100|N|AFK
@@ -2063,7 +2062,7 @@ GSAT|Globalstar, Inc. Common Stock|A|GSAT|N|100|N|GSAT
 GSB|GlobalSCAPE, Inc. Common Stock|A|GSB|N|100|N|GSB
 GSBD|Goldman Sachs BDC, Inc. Common Stock|N|GSBD|N|100|N|GSBD
 GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index|P|GSC|N|100|N|GSC
-GSF|Goldman Sachs Group, Inc. (The) 6.125% Notes due 2060|N|GSF|N|100|N|GSF
+GSF|Goldman Sachs Group, Inc. (The) 6.125% Notes due 2060|N|GSF/CL|N|100|N|GSF*
 GSG|iShares GSCI Commodity-Indexed Trust Fund|P|GSG|Y|100|N|GSG
 GSH|Guangshen Railway Company Limited Common Stock|N|GSH|N|100|N|GSH
 GSI|General Steel Holdings, Inc. Common Stock|N|GSI|N|100|N|GSI
@@ -2252,11 +2251,13 @@ HOS|Hornbeck Offshore Services Common Stock|N|HOS|N|100|N|HOS
 HOT|Starwood Hotels & Resorts Worldwide, Inc. Common Stock|N|HOT|N|100|N|HOT
 HOV|Hovnanian Enterprises, Inc. Class A Common Stock|N|HOV|N|100|N|HOV
 HP|Helmerich & Payne, Inc. Common Stock|N|HP|N|100|N|HP
+HPE.V|Hewlett Packard Enterprise Company Common Stock When Issued|N|HPEw|N|100|N|HPE#
 HPF|John Hancock Pfd Income Fund II Pfd Income Fund II|N|HPF|N|100|N|HPF
 HPI|John Hancock Preferred Income Fund Common Shares of Beneficial Interest|N|HPI|N|100|N|HPI
 HPP|Hudson Pacific Properties, Inc. Common Stock|N|HPP|N|100|N|HPP
 HPP$B|Hudson Pacific Properties, Inc. 8.375% Series B Cumulative Redeemable Preferred shares|N|HPPpB|N|100|N|HPP-B
 HPQ|Hewlett-Packard Company Common Stock|N|HPQ|N|100|N|HPQ
+HPQ.V|HP Inc. Common Stock Ex-Distribution When Issued|N|HPQw|N|100|N|HPQ#
 HPS|John Hancock Preferred Income Fund III Preferred Income Fund III|N|HPS|N|100|N|HPS
 HPT|Hospitality Properites Trust Common Stock|N|HPT|N|100|N|HPT
 HPT$D|Hospitality Properties Trust Preferred Stock|N|HPTpD|N|100|N|HPT-D
@@ -5228,6 +5229,7 @@ XT|iShares Exponential Technologies ETF|P|XT|Y|100|N|XT
 XTL|SPDR S&P Telecom ETF|P|XTL|Y|100|N|XTL
 XTLY|Xactly Corporation Common Stock|N|XTLY|N|100|N|XTLY
 XTN|SPDR S&P Transportation ETF|P|XTN|Y|100|N|XTN
+XTNT|Xtant Medical Holdings, Inc. Common Stock|A|XTNT|N|100|N|XTNT
 XUE|Xueda Education Group American Depositary Shares, each representing two Ordinary Shares, $0.0001 par value|N|XUE|N|100|N|XUE
 XVIX|UBS AG Exchange Traded Access Securities (E-TRACS) Daily Long Short VIX ETN due November 30, 2040|P|XVIX|N|100|N|XVIX
 XVZ|iPath S&P 500 Dynamic VIX ETN|P|XVZ|N|100|N|XVZ
@@ -5280,4 +5282,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1016201521:32||||||
+File Creation Time: 1019201521:32||||||
