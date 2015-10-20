@@ -758,7 +758,6 @@ CYAD|Celyad SA - American Depositary Shares|G|N|N|100
 CYAN|Cyanotech Corporation - Common Stock|S|N|N|100
 CYBE|CyberOptics Corporation - Common Stock|G|N|N|100
 CYBR|CyberArk Software Ltd. - Ordinary Shares|Q|N|N|100
-CYBX|Cyberonics, Inc. - Common Stock|Q|N|N|100
 CYCC|Cyclacel Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 CYCCP|Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock|S|N|N|100
 CYHHZ|Community Health Systems, Inc. - Series A Contingent Value Rights|G|N|N|100
@@ -842,6 +841,7 @@ DSPG|DSP Group, Inc. - Common Stock|Q|N|N|100
 DSWL|Deswell Industries, Inc. - Common Shares|G|N|N|100
 DTEA|DAVIDsTEA Inc. - Common Stock|G|N|N|100
 DTLK|Datalink Corporation - Common Stock|Q|N|N|100
+DTRM|Determine, Inc.  - Common Stock|S|N|N|100
 DTSI|DTS, Inc. - Common Stock|Q|N|N|100
 DTUL|Barclays PLC - iPath US Treasury 2 Yr Bull ETN|G|N|N|100
 DTUS|Barclays PLC - iPath US Treasury 2-year Bear ETN|G|N|N|100
@@ -1238,7 +1238,7 @@ GLUU|Glu Mobile Inc. - Common Stock|Q|N|N|100
 GLYC|GlycoMimetics, Inc. - Common Stock|G|N|N|100
 GMAN|Gordmans Stores, Inc. - Common Stock|Q|N|N|100
 GMCR|Keurig Green Mountain, Inc. - Common Stock|Q|N|N|100
-GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership|Q|N|N|100
+GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership|Q|N|D|100
 GNBC|Green Bancorp, Inc. - Common Stock|Q|N|N|100
 GNCA|Genocea Biosciences, Inc. - Common Stock|G|N|N|100
 GNCMA|General Communication, Inc. - Class A Common Stock|Q|N|N|100
@@ -1651,6 +1651,7 @@ LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
 LIQD|Liquid Holdings Group, Inc. - Common Stock|S|N|H|100
 LITE|Lumentum Holdings Inc. - Common Stock|Q|N|N|100
 LIVE|Live Ventures Incorporated - Common Stock|S|N|N|100
+LIVN|LivaNova PLC - Ordinary Shares|Q|N|N|100
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
 LKOR|FlexShares Credit-Scored US Long Corporate Bond Index Fund|G|N|N|100
@@ -2528,7 +2529,6 @@ SLMAP|SLM Corporation - 6.97% Cumulative Redeemable Preferred Stock, Series A|Q|
 SLMBP|SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B|Q|N|N|100
 SLP|Simulations Plus, Inc. - Common Stock|S|N|N|100
 SLRC|Solar Capital Ltd. - Common Stock|Q|N|N|100
-SLTC|Selectica, Inc. - Common Stock|S|N|N|100
 SLTD|Solar3D, Inc. - Common Stock|S|N|N|100
 SLVO|Credit Suisse AG - Credit Suisse Silver Shares Covered Call Exchange Traded Notes|G|N|N|100
 SMAC|Sino Mercury Acquisition Corp. - Common Stock|S|N|N|100
@@ -3088,4 +3088,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1016201521:32|||||
+File Creation Time: 1019201521:32|||||
