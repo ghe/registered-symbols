@@ -1549,7 +1549,7 @@ JIVE|Jive Software, Inc. - Common Stock|Q|N|N|100
 JJSF|J & J Snack Foods Corp. - Common Stock|Q|N|N|100
 JKHY|Jack Henry & Associates, Inc. - Common Stock|Q|N|N|100
 JMBA|Jamba, Inc. - Common Stock|G|N|N|100
-JNP|Juniper Pharmaceuticals, Inc. - Common Stock|S|N|N|100
+JNP|Juniper Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 JOBS|51job, Inc. - American Depositary Shares, each representing two common shares|Q|N|N|100
 JOEZ|Joe's Jeans Inc. - Common Stock|S|N|D|100
 JOUT|Johnson Outdoors Inc. - Class A Common Stock|Q|N|N|100
@@ -3088,4 +3088,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1019201521:32|||||
+File Creation Time: 1020201521:32|||||
