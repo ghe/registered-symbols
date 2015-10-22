@@ -1153,7 +1153,7 @@ FTEK|Fuel Tech, Inc. - Common Stock|Q|N|N|100
 FTGC|First Trust Global Tactical Commodity Strategy Fund|G|N|N|100
 FTHI|First Trust High Income ETF|G|N|N|100
 FTLB|First Trust Low Beta Income ETF|G|N|N|100
-FTNT|Fortinet, Inc. - Common Stock|Q|N|D|100
+FTNT|Fortinet, Inc. - Common Stock|Q|N|N|100
 FTR|Frontier Communications Corporation - Common Stock|Q|N|N|100
 FTRPR|Frontier Communications Corporation - 11.125% Series A Mandatory Convertible Preferred Stock|Q|N|N|100
 FTSL|First Trust Senior Loan Fund ETF|G|N|N|100
@@ -1192,7 +1192,7 @@ GBIM|GlobeImmune, Inc. - Common Stock|S|N|N|100
 GBLI|Global Indemnity plc - Class A Common Shares|Q|N|N|100
 GBLIZ|Global Indemnity plc - 7.75% Subordinated Note Due 2045|Q|N|N|100
 GBNK|Guaranty Bancorp - Common Stock|Q|N|N|100
-GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|N|100
+GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|D|100
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100
 GCVRZ|Sanofi - Contingent Value Right (Expiring 12/31/2020)|G|N|N|100
@@ -2038,6 +2038,7 @@ ONVI|Onvia, Inc. - Common Stock|S|N|N|100
 OPB|Opus Bank - Common Stock|Q|N|N|100
 OPGN|OpGen, Inc. - Common Stock|S|N|N|100
 OPGNW|OpGen, Inc. - Warrant|S|N|N|100
+OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|D|100
 OPHT|Ophthotech Corporation - Common Stock|Q|N|N|100
 OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100
 OPTT|Ocean Power Technologies, Inc. - Common Stock|S|N|D|100
@@ -2064,7 +2065,7 @@ OSUR|OraSure Technologies, Inc. - Common Stock|Q|N|N|100
 OTEL|Otelco Inc. - Common Stock|S|N|N|100
 OTEX|Open Text Corporation - Common Shares|Q|N|N|100
 OTIC|Otonomy, Inc. - Common Stock|Q|N|N|100
-OTIV|On Track Innovations Ltd - Ordinary Shares|G|N|N|100
+OTIV|On Track Innovations Ltd - Ordinary Shares|G|N|D|100
 OTTR|Otter Tail Corporation - Common Stock|Q|N|N|100
 OUTR|Outerwall Inc. - Common Stock|Q|N|N|100
 OVAS|OvaScience Inc. - Common Stock|G|N|N|100
@@ -2738,7 +2739,7 @@ TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100
 TNGO|Tangoe, Inc. - Common Stock|Q|N|N|100
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|N|100
 TOPS|TOP Ships Inc. - Common Stock|Q|N|N|100
-TOR|Sutor Technology Group Limited - Common Stock|S|N|N|100
+TOR|Sutor Technology Group Limited - Common Stock|S|N|E|100
 TORM|TOR Minerals International Inc - Common Stock|S|N|N|100
 TOUR|Tuniu Corporation - American Depositary Shares|G|N|N|100
 TOWN|Towne Bank - Common Stock|Q|N|N|100
@@ -2822,7 +2823,7 @@ UEPS|Net 1 UEPS Technologies, Inc. - Common Stock|Q|N|N|100
 UFCS|United Fire Group, Inc - Common Stock|Q|N|N|100
 UFPI|Universal Forest Products, Inc. - Common Stock|Q|N|N|100
 UFPT|UFP Technologies, Inc. - Common Stock|S|N|N|100
-UG|United-Guardian, Inc. - Common Stock|G|N|N|100
+UG|United-Guardian, Inc. - Common Stock|G|N|D|100
 UGLD|Credit Suisse AG - VelocityShares 3x Long Gold ETN|G|N|N|100
 UHAL|Amerco - Common Stock|Q|N|N|100
 UIHC|United Insurance Holdings Corp. - Common Stock|S|N|N|100
@@ -3088,4 +3089,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1020201521:32|||||
+File Creation Time: 1021201521:32|||||
