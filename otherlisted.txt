@@ -908,7 +908,6 @@ CORR|CorEnergy Infrastructure Trust, Inc. Common Stock|N|CORR|N|100|N|CORR
 CORR$A|CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing a 1/100th fractional interest of a share of 7.375% Series A Cumulative Redeemable Preferred Stock|N|CORRpA|N|100|N|CORR-A
 COT|Cott Corporation Common Stock|N|COT|N|100|N|COT
 COTY|Coty Inc. Class A Common Stock|N|COTY|N|100|N|COTY
-COUP|Coupons.com Incorporated Common Stock|N|COUP|N|100|N|COUP
 COW|iPath Bloomberg Livestock Total Return Sub-Index ETN|P|COW|N|100|N|COW
 CP|Canadian Pacific Railway Limited Common Stock|N|CP|N|100|N|CP
 CPA|Copa Holdings, S.A. Copa Holdings, S.A. Class A Common Stock|N|CPA|N|100|N|CPA
@@ -2994,7 +2993,6 @@ MAN|ManpowerGroup Common Stock|N|MAN|N|100|N|MAN
 MANU|Manchester United Ltd. Class A Ordinary Shares|N|MANU|N|100|N|MANU
 MAS|Masco Corporation Common Stock|N|MAS|N|100|N|MAS
 MATH|Meidell Tactical Advantage ETF|P|MATH|Y|100|N|MATH
-MATL|Direxion Daily Basic Materials Bull 3X Shares|P|MATL|Y|100|N|MATL
 MATX|Matson, Inc. Common Stock|N|MATX|N|100|N|MATX
 MAV|Pioneer Municipal High Income Advantage Trust Common Shares of Beneficial Interest|N|MAV|N|100|N|MAV
 MBB|iShares MBS ETF|P|MBB|Y|100|N|MBB
@@ -3025,7 +3023,6 @@ MDC|M.D.C. Holdings, Inc. Common Stock|N|MDC|N|100|N|MDC
 MDD|SPDR S&P International Mid Cap ETF|P|MDD|Y|100|N|MDD
 MDGN|Medgenics, Inc. Common Stock|A|MDGN|N|100|N|MDGN
 MDGN.W|Medgenics, Inc. Warrant|A|MDGN/WS|N|100|N|MDGN+
-MDLL|Direxion Daily Mid Cap Bull 2X Shares|P|MDLL|Y|100|N|MDLL
 MDLY|Medley Management Inc. Class A Common Stock|N|MDLY|N|100|N|MDLY
 MDP|Meredith Corporation Common Stock|N|MDP|N|100|N|MDP
 MDR|McDermott International, Inc. Common Stock|N|MDR|N|100|N|MDR
@@ -3949,11 +3946,13 @@ QTWN|SPDR MSCI Taiwan Quality Mix ETF|P|QTWN|Y|100|N|QTWN
 QTWO|Q2 Holdings, Inc. Common Stock|N|QTWO|N|100|N|QTWO
 QUAD|Quad Graphics, Inc Class A Common Stock|N|QUAD|N|100|N|QUAD
 QUAL|iShares MSCI USA Quality Factor ETF|P|QUAL|Y|100|N|QUAL
+QUOT|Quotient Technology Inc. Common Stock|N|QUOT|N|100|N|QUOT
 QUS|SPDR MSCI USA Quality Mix ETF|P|QUS|Y|100|N|QUS
 QVAL|ValueShares U.S. Quantitative Value ETF ETF|Z|QVAL|Y|100|N|QVAL
 QVM|Arrow QVM Equity Factor ETF|P|QVM|Y|100|N|QVM
 QWLD|SPDR MSCI World Quality Mix ETF|P|QWLD|Y|100|N|QWLD
 R|Ryder System, Inc. Common Stock|N|R|N|100|N|R
+RACE|Ferrari N.V. Common Shares|N|RACE|N|100|N|RACE
 RAD|Rite Aid Corporation Common Stock|N|RAD|N|100|N|RAD
 RAI|Reynolds American Inc Common Stock|N|RAI|N|100|N|RAI
 RALS|ProShares RAFI Long Short ETF|P|RALS|Y|100|N|RALS
@@ -4544,7 +4543,6 @@ SYLD|Cambria Shareholder Yield ETF|P|SYLD|Y|100|N|SYLD
 SYN|Synthetic Biologics, Inc. Common Stock|A|SYN|N|100|N|SYN
 SYRG|Synergy Resources Corporation Common Stock|A|SYRG|N|100|N|SYRG
 SYT|Syngenta AG Common Stock|N|SYT|N|100|N|SYT
-SYTL|Direxion Daily 7-10 Year Treasury Bull 2X Shares|P|SYTL|Y|100|N|SYTL
 SYV|SPDR MFS Systematic Value Equity ETF|P|SYV|Y|100|N|SYV
 SYX|Systemax Inc. Common Stock|N|SYX|N|100|N|SYX
 SYY|Sysco Corporation Common Stock|N|SYY|N|100|N|SYY
@@ -5289,4 +5287,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1020201521:32||||||
+File Creation Time: 1021201521:32||||||
