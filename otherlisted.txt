@@ -79,7 +79,6 @@ AFG|American Financial Group, Inc. Common Stock|N|AFG|N|100|N|AFG
 AFGE|American Financial Group, Inc. 6.25% Subordinated Debentures due 2054|N|AFGE|N|100|N|AFGE
 AFK|Market Vectors-Africa Index ETF|P|AFK|Y|100|N|AFK
 AFL|AFLAC Incorporated Common Stock|N|AFL|N|100|N|AFL
-AFM|Affiliated Managers Group, Inc. 5.250% Senior Notes due 2022|N|AFM/CL|N|100|N|AFM*
 AFSD|Aflac Incorporated 5.50% Subordinated Debentures due September 15, 2052|N|AFSD|N|100|N|AFSD
 AFSI$A|AmTrust Financial Services, Inc. Preferred Series A|N|AFSIpA|N|100|N|AFSI-A
 AFSI$B|AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series B|N|AFSIpB|N|100|N|AFSI-B
@@ -1822,7 +1821,6 @@ FTI|FMC Technologies, Inc. Common Stock|N|FTI|N|100|N|FTI
 FTK|Flotek Industries, Inc. Common Stock|N|FTK|N|100|N|FTK
 FTLS|First Trust Long/Short Equity|P|FTLS|Y|100|N|FTLS
 FTSD|Franklin Short Duration U.S. Government ETF|P|FTSD|Y|100|N|FTSD
-FTT|Federated Enhanced Treasury Income Fund Common Shares of Beneficial Interest|N|FTT|N|100|N|FTT
 FTY|iShares Real Estate 50 ETF|P|FTY|Y|100|N|FTY
 FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Food ETN|P|FUD|N|100|N|FUD
 FUE|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the MLCX Biofuels Index - Total Return Structured Product|P|FUE|N|100|N|FUE
@@ -3172,6 +3170,7 @@ MPC|Marathon Petroleum Corporation Common Stock|N|MPC|N|100|N|MPC
 MPG|Metaldyne Performance Group Inc. Common Stock|N|MPG|N|100|N|MPG
 MPLX|MPLX LP Common Units Representing Limited Partner Interests|N|MPLX|N|100|N|MPLX
 MPO|Midstates Petroleum Company, Inc. Common Stock|N|MPO|N|100|N|MPO
+MPSX|Multi Packaging Solutions International Limited Common Shares|N|MPSX|N|100|N|MPSX
 MPV|Babson Capital Participation Investors Common Stock|N|MPV|N|100|N|MPV
 MPW|Medical Properties Trust, Inc. common stock|N|MPW|N|100|N|MPW
 MPX|Marine Products Corporation Common Stock|N|MPX|N|100|N|MPX
@@ -4430,6 +4429,7 @@ SPXV|ProShares S&P 500 Ex-Health Care ETF|P|SPXV|Y|100|N|SPXV
 SPXX|Nuveen S&P 500 Dynamic Overwrite Fund|N|SPXX|N|100|N|SPXX
 SPY|SPDR S&P 500|P|SPY|Y|100|N|SPY
 SPYB|SPDR S&P 500 Buyback ETF|P|SPYB|Y|100|N|SPYB
+SPYD|SPDR S&P 500 High Dividend ETF|P|SPYD|Y|100|N|SPYD
 SPYG|SPDR S&P 500 Growth ETF (based on S&P 500 Growth Index symbol--SGX)|P|SPYG|Y|100|N|SPYG
 SPYV|SPDR S&P 500 Value ETF (based on S&P 500 Value Index--symbol: SVX)|P|SPYV|Y|100|N|SPYV
 SQM|Sociedad Quimica y Minera S.A. Common Stock|N|SQM|N|100|N|SQM
@@ -5287,4 +5287,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1021201521:32||||||
+File Creation Time: 1022201521:32||||||
