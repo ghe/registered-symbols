@@ -818,6 +818,7 @@ DLTR|Dollar Tree, Inc. - Common Stock|Q|N|N|100
 DMLP|Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests|Q|N|N|100
 DMND|Diamond Foods, Inc. - Common Stock|Q|N|N|100
 DMRC|Digimarc Corporation - Common Stock|Q|N|N|100
+DMTX|Dimension Therapeutics, Inc. - Common Stock|Q|N|N|100
 DNAI|ProNAi Therapeutics, Inc. - Common Stock|G|N|N|100
 DNBF|DNB Financial Corp - Common Stock|S|N|N|100
 DNKN|Dunkin' Brands Group, Inc. - Common Stock|Q|N|N|100
@@ -2468,7 +2469,7 @@ SFLY|Shutterfly, Inc. - Common Stock|Q|N|N|100
 SFM|Sprouts Farmers Market, Inc. - Common Stock|Q|N|N|100
 SFNC|Simmons First National Corporation - Common Stock|Q|N|N|100
 SFST|Southern First Bancshares, Inc. - Common Stock|G|N|N|100
-SFXE|SFX Entertainment, Inc. - Common Stock|Q|N|N|100
+SFXE|SFX Entertainment, Inc. - Common Stock|Q|N|D|100
 SGBK|Stonegate Bank - Common Stock|Q|N|N|100
 SGC|Superior Uniform Group, Inc. - Common Stock|G|N|N|100
 SGEN|Seattle Genetics, Inc. - Common Stock|Q|N|N|100
@@ -3089,4 +3090,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1021201521:32|||||
+File Creation Time: 1022201521:32|||||
