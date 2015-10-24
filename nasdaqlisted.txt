@@ -945,7 +945,6 @@ ENTL|Entellus Medical, Inc. - Common Stock|G|N|N|100
 ENVI|Envivio, Inc. - Common Stock|Q|N|N|100
 ENZN|Enzon Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 ENZY|Enzymotec Ltd. - Ordinary Shares|Q|N|N|100
-EPAX|Ambassadors Group, Inc. - Common Stock|Q|N|N|100
 EPAY|Bottomline Technologies, Inc. - Common Stock|Q|N|N|100
 EPIQ|EPIQ Systems, Inc. - Common Stock|Q|N|N|100
 EPIX|ESSA Pharma Inc. - Common Stock|S|N|N|100
@@ -1491,7 +1490,7 @@ IPAS|iPass Inc. - Common Stock|Q|N|N|100
 IPCC|Infinity Property and Casualty Corporation - Common Stock|Q|N|N|100
 IPCI|Intellipharmaceutics International Inc. - Common Stock|S|N|N|100
 IPCM|IPC Healthcare, Inc. - Common Stock|Q|N|N|100
-IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|N|100
+IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|D|100
 IPGP|IPG Photonics Corporation - Common Stock|Q|N|N|100
 IPHS|Innophos Holdings, Inc. - Common Stock|Q|N|N|100
 IPKW|PowerShares International BuyBack Achievers Portfolio|G|N|N|100
@@ -1665,6 +1664,7 @@ LMBS|First Trust Low Duration Mortgage Opportunities ETF|G|N|N|100
 LMCA|Liberty Media Corporation - Series A Common Stock|Q|N|N|100
 LMCB|Liberty Media Corporation - Series B Common Stock|Q|N|N|100
 LMCK|Liberty Media Corporation - Series C Common Stock|Q|N|N|100
+LMFAU|LM Funding America, Inc. - Units|S|N|N|100
 LMIA|LMI Aerospace, Inc. - Common Stock|Q|N|N|100
 LMNR|Limoneira Co - Common Stock|Q|N|N|100
 LMNX|Luminex Corporation - Common Stock|Q|N|N|100
@@ -1995,6 +1995,7 @@ NYMTO|New York Mortgage Trust, Inc. - 7.875% Series C Cumulative Redeemable Pref
 NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock|Q|N|N|100
 NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|N|100
 NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
+OASM|Oasmia Pharmaceutical AB - American Depositary Shares|S|N|N|100
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100
 OCAT|Ocata Therapeutics, Inc. - Common Stock|G|N|N|100
@@ -3090,4 +3091,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1022201521:32|||||
+File Creation Time: 1023201521:33|||||
