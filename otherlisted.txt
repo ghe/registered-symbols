@@ -268,6 +268,7 @@ ARKW|ARK Web x.0 ETF|P|ARKW|Y|100|N|ARKW
 ARL|American Realty Investors, Inc. Common Stock|N|ARL|N|100|N|ARL
 ARMK|Aramark Common Stock|N|ARMK|N|100|N|ARMK
 ARO|Aeropostale Inc Common Stock|N|ARO|N|100|N|ARO
+AROC.V|Archrock, Inc. Common Stock Ex-Distribution When Issued|N|AROCw|N|100|N|AROC#
 ARP|Atlas Resource Partners, L.P. Common Units representing Limited Partner Interests|N|ARP|N|100|N|ARP
 ARP$D|Atlas Resource Partners, L.P. CUM RED PERP PDF UNIT CL D %|N|ARPpD|N|100|N|ARP-D
 ARP$E|Atlas Resource Partners, L.P. 10.75% Class E Cumulative Redeemable Perpetual Preferred Units|N|ARPpE|N|100|N|ARP-E
@@ -1622,6 +1623,7 @@ EXP|Eagle Materials Inc Common Stock|N|EXP|N|100|N|EXP
 EXPR|Express, Inc. Common Stock|N|EXPR|N|100|N|EXPR
 EXR|Extra Space Storage Inc Common Stock|N|EXR|N|100|N|EXR
 EXT|WisdomTree Total Earnings Fund|P|EXT|Y|100|N|EXT
+EXTN.V|Exterran Corporation Common Stock When Issued|N|EXTNw|N|100|N|EXTN#
 EZA|iShares MSCI South Africa Index Fund|P|EZA|Y|100|N|EZA
 EZJ|ProShares Ultra MSCI Japan|P|EZJ|Y|100|N|EZJ
 EZM|WisdomTree MidCap Earnings Fund|P|EZM|Y|100|N|EZM
@@ -3616,7 +3618,7 @@ PBF|PBF Energy Inc. Class A Common Stock|N|PBF|N|100|N|PBF
 PBFX|PBF Logistics LP Common Units representing limited partner interests|N|PBFX|N|100|N|PBFX
 PBH|Prestige Brand Holdings, Inc. Common Stock|N|PBH|N|100|N|PBH
 PBI|Pitney Bowes Inc. Common Stock|N|PBI|N|100|N|PBI
-PBI$A|Pitney Bowes Inc 5.25% Notes due 2022|N|PBIpA|N|100|N|PBI-A
+PBI$A|Pitney Bowes Inc 5.25% Notes due 2022|N|PBIpA/CL|N|100|N|PBI-A*
 PBI$B|Pitney Bowes Inc 6.70% Notes Due 2043|N|PBIpB|N|100|N|PBI-B
 PBJ|PowerShares Dynamic Food & Beverage|P|PBJ|Y|100|N|PBJ
 PBM|Pacific Booker Minerals Inc Ordinary Shares|A|PBM|N|100|N|PBM
@@ -5287,4 +5289,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1022201521:32||||||
+File Creation Time: 1023201521:33||||||
