@@ -52,7 +52,6 @@ ACXM|Acxiom Corporation - Common Stock|Q|N|N|100
 ADAP|Adaptimmune Therapeutics plc - American Depositary Shares|Q|N|N|100
 ADAT|Authentidate Holding Corp. - Common Stock|S|N|D|100
 ADBE|Adobe Systems Incorporated - Common Stock|Q|N|N|100
-ADEP|Adept Technology, Inc. - Common Stock|S|N|N|100
 ADHD|Alcobra Ltd. - Ordinary Shares|G|N|N|100
 ADI|Analog Devices, Inc. - Common Stock|Q|N|N|100
 ADMA|ADMA Biologics Inc - Common Stock|S|N|N|100
@@ -526,6 +525,7 @@ CETX|Cemtrex Inc. - Common Stock|S|N|N|100
 CEVA|CEVA, Inc. - Common Stock|Q|N|N|100
 CFA|Compass EMP US 500 Volatility Weighted Index ETF|G|N|N|100
 CFBK|Central Federal Corporation - Common Stock|S|N|N|100
+CFCB|Centrue Financial Corporation - Common Stock|S|N|N|100
 CFFI|C&F Financial Corporation - Common Stock|Q|N|N|100
 CFFN|Capitol Federal Financial, Inc. - Common Stock|Q|N|N|100
 CFGE|Calamos Focus Growth ETF|G|N|N|100
@@ -2581,7 +2581,7 @@ SPAR|Spartan Motors, Inc. - Common Stock|Q|N|N|100
 SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|N|100
 SPDC|Speed Commerce, Inc. - Common Stock|S|N|D|100
 SPEX|Spherix Incorporated - Common Stock|S|N|D|100
-SPHS|Sophiris Bio, Inc. - Common Shares|G|N|D|100
+SPHS|Sophiris Bio, Inc. - Common Shares|S|N|D|100
 SPIL|Siliconware Precision Industries Company, Ltd. - ADS represents common shares|Q|N|N|100
 SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100
 SPLK|Splunk Inc. - Common Stock|Q|N|N|100
@@ -2734,6 +2734,7 @@ TITN|Titan Machinery Inc. - Common Stock|Q|N|N|100
 TIVO|TiVo Inc. - Common Stock|Q|N|N|100
 TKAI|Tokai Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 TLF|Tandy Leather Factory, Inc. - Common Stock|G|N|N|100
+TLGT|Teligent, Inc. - Common Stock|Q|N|N|100
 TLMR|Talmer Bancorp, Inc. - Class A Common Stock|S|N|N|100
 TLOG|TetraLogic Pharmaceuticals Corporation - Common Stock|G|N|N|100
 TNAV|Telenav, Inc. - Common Stock|Q|N|N|100
@@ -3091,4 +3092,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1023201521:33|||||
+File Creation Time: 1026201521:32|||||
