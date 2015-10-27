@@ -353,7 +353,6 @@ AXS$C|Axis Capital Holdings Limited Preferred Series C (Bermuda)|N|AXSpC|N|100|N
 AXS$D|Axis Capital Holdings Limited Preferred Series D (Bermuda)|N|AXSpD|N|100|N|AXS-D
 AXTA|Axalta Coating Systems Ltd. Common Shares|N|AXTA|N|100|N|AXTA
 AXU|Alexco Resource Corp Common Shares (Canada)|A|AXU|N|100|N|AXU
-AXX|Alderon Iron Ore Corp. Ordinary Shares (Canada)|A|AXX|N|100|N|AXX
 AYI|Acuity Brands Inc (Holding Company)|N|AYI|N|100|N|AYI
 AYR|Aircastle Limited Common Stock|N|AYR|N|100|N|AYR
 AYT|iPath GEMS Asia 8 ETN|P|AYT|N|100|N|AYT
@@ -568,6 +567,7 @@ BRC|Brady Corporation Common Stock|N|BRC|N|100|N|BRC
 BRF|Market Vectors Brazil Small-Cap ETF|P|BRF|Y|100|N|BRF
 BRFS|BRF S.A.|N|BRFS|N|100|N|BRFS
 BRG|Bluerock Residential Growth REIT, Inc. Class A Common Stock|A|BRG|N|100|N|BRG
+BRG$A|Bluerock Residential Growth REIT, Inc. 8.250% Series A Cumulative Redeemable Preferred Stock ($0.01 par value per share)|A|BRGpA|N|100|N|BRG-A
 BRK.A|Berkshire Hathaway Inc. Common Stock|N|BRK/A|N|1|N|BRK.A
 BRK.B|Berkshire Hathaway Inc. New Common Stock|N|BRK/B|N|100|N|BRK.B
 BRN|Barnwell Industries, Inc. Common Stock|A|BRN|N|100|N|BRN
@@ -2421,7 +2421,6 @@ IF|Aberdeen Indonesia Fund, Inc. (Common Stock|A|IF|N|100|N|IF
 IFF|Internationa Flavors & Fragrances, Inc. Common Stock|N|IFF|N|100|N|IFF
 IFMI|Institutional Financial Markets, Inc.|A|IFMI|N|100|N|IFMI
 IFN|India Fund, Inc. (The) Common Stock|N|IFN|N|100|N|IFN
-IG|IGI, Laboratories Inc. Common Stock|A|IG|N|100|N|IG
 IGA|Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest|N|IGA|N|100|N|IGA
 IGC|India Globalization Capital Inc. Common Stock|A|IGC|N|100|N|IGC
 IGC.W|India Globalization Capital Inc. Warrants|A|IGC/WS|N|100|N|IGC+
@@ -3129,7 +3128,6 @@ MLPY|Morgan Stanley Cushing MLP High Income Index ETN|P|MLPY|N|100|N|MLPY
 MLR|Miller Industries, Inc. Common Stock|N|MLR|N|100|N|MLR
 MLSS|Milestone Scientific, Inc. Common Stock|A|MLSS|N|100|N|MLSS
 MLTI|Credit Suisse X-Links Multi-Asset High Income Exchange Traded Notes (ETNs) due September 28, 2035|P|MLTI|Y|100|N|MLTI
-MM|Millennial Media, Inc. Common Stock|N|MM|N|100|N|MM
 MMC|Marsh & McLennan Companies, Inc. Common Stock|N|MMC|N|100|N|MMC
 MMD|MainStay DefinedTerm Municipal Opportunities Fund Common Shares of Beneficial Interest|N|MMD|N|100|N|MMD
 MMI|Marcus & Millichap, Inc. Common Stock|N|MMI|N|100|N|MMI
@@ -3587,7 +3585,7 @@ ORN|Orion Marine Group Inc Common|N|ORN|N|100|N|ORN
 OSGB|Overseas Shipholding Group, Inc. COM CL B|A|OSGB|N|100|N|OSGB
 OSK|Oshkosh Corporation (Holding Company)Common Stock|N|OSK|N|100|N|OSK
 OSMS|Barclays OFI SteelPath MLP ETN|P|OSMS|N|100|N|OSMS
-OUNZ|Merk Gold Trust ETV|P|OUNZ|Y|100|N|OUNZ
+OUNZ|Van Eck Merk Gold Shares ETV|P|OUNZ|Y|100|N|OUNZ
 OUSA|O'Shares FTSE U.S. Quality Dividend ETF|P|OUSA|Y|100|N|OUSA
 OUT|OUTFRONT Media Inc. Common Stock|N|OUT|N|100|N|OUT
 OXM|Oxford Industries, Inc. Common Stock|N|OXM|N|100|N|OXM
@@ -4853,6 +4851,7 @@ UMC|United Microelectronics Corporation (NEW) Common Stock|N|UMC|N|100|N|UMC
 UMDD|UltraPro MidCap400|P|UMDD|Y|100|N|UMDD
 UMH|UMH Properties, Inc. Common Stock|N|UMH|N|100|N|UMH
 UMH$A|UMH Properties, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock, Liquidation Preference $25 per share|N|UMHpA|N|100|N|UMH-A
+UMH$B|UMH Properties, Inc. 8.0% Series B Cumulative Redeemable Preferred Stock|N|UMHpB|N|100|N|UMH-B
 UMX|ProShares Ultra MSCI Mexico Capped IMI|P|UMX|Y|100|N|UMX
 UN|Unilever NV Common Stock|N|UN|N|100|N|UN
 UNF|Unifirst Corporation Common Stock|N|UNF|N|100|N|UNF
@@ -5289,4 +5288,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1023201521:33||||||
+File Creation Time: 1026201521:32||||||
