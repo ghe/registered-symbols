@@ -1485,6 +1485,7 @@ INVE|Identiv, Inc. - Common Stock|S|N|E|100
 INVT|Inventergy Global, Inc. - Common Stock|S|N|D|100
 INWK|InnerWorkings, Inc. - Common Stock|Q|N|N|100
 IOSP|Innospec Inc. - Common Stock|Q|N|N|100
+IOTS|Adesto Technologies Corporation - Common Stock|S|N|N|100
 IPAR|Inter Parfums, Inc. - Common Stock|Q|N|N|100
 IPAS|iPass Inc. - Common Stock|Q|N|N|100
 IPCC|Infinity Property and Casualty Corporation - Common Stock|Q|N|N|100
@@ -1648,7 +1649,7 @@ LINDW|Lindblad Expeditions Holdings Inc.  - Warrant|S|N|N|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
 LION|Fidelity Southern Corporation - Common Stock|Q|N|N|100
 LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
-LIQD|Liquid Holdings Group, Inc. - Common Stock|S|N|H|100
+LIQD|Liquid Holdings Group, Inc. - Common Stock|S|N|N|100
 LITE|Lumentum Holdings Inc. - Common Stock|Q|N|N|100
 LIVE|Live Ventures Incorporated - Common Stock|S|N|N|100
 LIVN|LivaNova PLC - Ordinary Shares|Q|N|N|100
@@ -2294,7 +2295,6 @@ QRVO|Qorvo, Inc. - Common Stock|Q|N|N|100
 QSII|Quality Systems, Inc. - Common Stock|Q|N|N|100
 QTEC|First Trust NASDAQ-100- Technology Index Fund|G|N|N|100
 QTNT|Quotient Limited - Ordinary Shares|G|N|N|100
-QTNTW|Quotient Limited - Warrant|G|N|N|100
 QTWW|Quantum Fuel Systems Technologies Worldwide, Inc. - Common Stock|S|N|N|100
 QUIK|QuickLogic Corporation - Common Stock|G|N|N|100
 QUMU|Qumu Corporation - Common Stock|Q|N|N|100
@@ -2515,7 +2515,7 @@ SITO|SITO Mobile, Ltd. - Common Stock|S|N|N|100
 SIVB|SVB Financial Group - Common Stock|Q|N|N|100
 SIVBO|SVB Financial Group - 7% Cumulative Trust Preferred Securities - SVB Capital II|Q|N|N|100
 SIXD|6D Global Technologies, Inc. - Common Stock|S|N|N|100
-SKBI|Skystar Bio-Pharmaceutical Company - Common Stock|S|N|E|100
+SKBI|Skystar Bio-Pharmaceutical Company - Common Stock|S|N|H|100
 SKIS|Peak Resorts, Inc. - Common Stock|G|N|N|100
 SKLN|Skyline Medical Inc. - Common Stock|S|N|N|100
 SKLNU|Skyline Medical Inc. - Unit|S|N|N|100
@@ -2737,6 +2737,8 @@ TLF|Tandy Leather Factory, Inc. - Common Stock|G|N|N|100
 TLGT|Teligent, Inc. - Common Stock|Q|N|N|100
 TLMR|Talmer Bancorp, Inc. - Class A Common Stock|S|N|N|100
 TLOG|TetraLogic Pharmaceuticals Corporation - Common Stock|G|N|N|100
+TMUS|T-Mobile US, Inc. - Common Stock|Q|N|N|100
+TMUSP|T-Mobile US, Inc. - 5.50% Mandatory Convertible Preferred Stock, Series A|Q|N|N|100
 TNAV|Telenav, Inc. - Common Stock|Q|N|N|100
 TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100
 TNGO|Tangoe, Inc. - Common Stock|Q|N|N|100
@@ -3092,4 +3094,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1026201521:32|||||
+File Creation Time: 1027201521:32|||||
