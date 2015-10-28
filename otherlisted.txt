@@ -11,7 +11,7 @@ AAP|Advance Auto Parts Inc Advance Auto Parts Inc W/I|N|AAP|N|100|N|AAP
 AAT|American Assets Trust, Inc. Common Stock|N|AAT|N|100|N|AAT
 AAU|Almaden Minerals, Ltd. Common Shares|A|AAU|N|100|N|AAU
 AAV|Advantage Oil & Gas Ltd  Ordinary Shares|N|AAV|N|100|N|AAV
-AB|Allianceberstein Holding L.P.  Units|N|AB|N|100|N|AB
+AB|AllianceBernstein Holding L.P.  Units|N|AB|N|100|N|AB
 ABB|ABB Ltd Common Stock|N|ABB|N|100|N|ABB
 ABBV|AbbVie Inc. Common Stock|N|ABBV|N|100|N|ABBV
 ABC|AmerisourceBergen Corporation Common Stock|N|ABC|N|100|N|ABC
@@ -4682,8 +4682,6 @@ TMK$B|Torchmark Corporation 5.875% Junior Subordinated Debenture due 2052|N|TMKp
 TMO|Thermo Fisher Scientific Inc Common Stock|N|TMO|N|100|N|TMO
 TMP|Tompkins Financial Corporation Common Stock|A|TMP|N|100|N|TMP
 TMST|Timken Steel Corporation Common Shares|N|TMST|N|100|N|TMST
-TMUS|T-Mobile US, Inc. Common Stock|N|TMUS|N|100|N|TMUS
-TMUS$A|T-Mobile US, Inc. 5.50% Mandatory Convertible Preferred Stock, Series A|N|TMUSpA|N|100|N|TMUS-A
 TMV|Direxion Daily 20-Year Treasury Bear 3X|P|TMV|Y|100|N|TMV
 TNA|Direxion Small Cap Bull 3X Shares|P|TNA|Y|100|N|TNA
 TNC|Tennant Company Common Stock|N|TNC|N|100|N|TNC
@@ -5288,4 +5286,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1026201521:32||||||
+File Creation Time: 1027201521:32||||||
