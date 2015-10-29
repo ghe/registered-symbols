@@ -251,7 +251,7 @@ ATOS|Atossa Genetics Inc. - Common Stock|S|N|D|100
 ATRA|Atara Biotherapeutics, Inc. - Common Stock|Q|N|N|100
 ATRC|AtriCure, Inc. - Common Stock|G|N|N|100
 ATRI|ATRION Corporation - Common Stock|Q|N|N|100
-ATRM|ATRM Holdings, Inc. - Common Stock|S|N|D|100
+ATRM|ATRM Holdings, Inc. - Common Stock|S|N|N|100
 ATRO|Astronics Corporation - Common Stock|Q|N|N|100
 ATRS|Antares Pharma, Inc. - Common Stock|S|N|N|100
 ATSG|Air Transport Services Group, Inc - Common Stock|Q|N|N|100
@@ -271,6 +271,7 @@ AVHI|A V Homes, Inc. - Common Stock|Q|N|N|100
 AVID|Avid Technology, Inc. - Common Stock|Q|N|N|100
 AVNU|Avenue Financial Holdings, Inc. - Common Stock|Q|N|N|100
 AVNW|Aviat Networks, Inc. - Common Stock|Q|N|N|100
+AVXL|Anavex Life Sciences Corp. - Common Stock|S|N|N|100
 AWAY|HomeAway, Inc. - Common Stock|Q|N|N|100
 AWRE|Aware, Inc. - Common Stock|G|N|N|100
 AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
@@ -338,6 +339,7 @@ BIOD|Biodel Inc. - Common Stock|S|N|D|100
 BIOL|Biolase, Inc. - Common Stock|S|N|N|100
 BIOS|BioScrip, Inc. - Common Stock|Q|N|N|100
 BIS|ProShares UltraShort Nasdaq Biotechnology|G|N|N|100
+BITE|The Restaurant ETF|G|N|N|100
 BITI|Biotie Therapies Corp. - American Depositary Shares|Q|N|N|100
 BJRI|BJ's Restaurants, Inc. - Common Stock|Q|N|N|100
 BKCC|BlackRock Capital Investment Corporation - Common Stock|Q|N|N|100
@@ -491,9 +493,9 @@ CCOI|Cogent Communications Holdings, Inc. - Common Stock|Q|N|N|100
 CCRN|Cross Country Healthcare, Inc. - Common Stock|Q|N|N|100
 CCUR|Concurrent Computer Corporation - Common Stock|G|N|N|100
 CCXI|ChemoCentryx, Inc. - Common Stock|Q|N|N|100
-CDC|Compass EMP U S EQ Income 100 Enhanced Volatility Weighted Fund|G|N|N|100
+CDC|Victory CEMP US EQ Income Enhanced Volatility Wtd Index ETF|G|N|N|100
 CDK|CDK Global, Inc. - Common Stock|Q|N|N|100
-CDL|Compass EMP US Large Cap High Dividend 100 Volatility Weighted Index ETF|G|N|N|100
+CDL|Victory CEMP US Large Cap High Div Volatility Wtd Index ETF|G|N|N|100
 CDNA|CareDx, Inc. - Common Stock|G|N|N|100
 CDNS|Cadence Design Systems, Inc. - Common Stock|Q|N|N|100
 CDOR|Condor Hospitality Trust, Inc. - Common Stock|G|N|N|100
@@ -523,7 +525,7 @@ CETC|Hongli Clean Energy Technologies Corp. - Common Stock|S|N|D|100
 CETV|Central European Media Enterprises Ltd. - Class A Common Stock|Q|N|N|100
 CETX|Cemtrex Inc. - Common Stock|S|N|N|100
 CEVA|CEVA, Inc. - Common Stock|Q|N|N|100
-CFA|Compass EMP US 500 Volatility Weighted Index ETF|G|N|N|100
+CFA|Victory CEMP US 500 Volatility Wtd Index ETF|G|N|N|100
 CFBK|Central Federal Corporation - Common Stock|S|N|N|100
 CFCB|Centrue Financial Corporation - Common Stock|S|N|N|100
 CFFI|C&F Financial Corporation - Common Stock|Q|N|N|100
@@ -532,7 +534,7 @@ CFGE|Calamos Focus Growth ETF|G|N|N|100
 CFMS|ConforMIS, Inc. - Common Stock|Q|N|N|100
 CFNB|California First National Bancorp - Common Stock|G|N|N|100
 CFNL|Cardinal Financial Corporation - Common Stock|Q|N|N|100
-CFO|Compass EMP US 500 Enhanced Volatility Weighted Index ETF|G|N|N|100
+CFO|Victory CEMP US 500 Enhanced Volatility Wtd Index ETF|G|N|N|100
 CFRX|ContraFect Corporation - Common Stock|S|N|N|100
 CFRXW|ContraFect Corporation - Warrant|S|N|N|100
 CFRXZ|ContraFect Corporation - Warrant|S|N|N|100
@@ -571,16 +573,16 @@ CHUY|Chuy's Holdings, Inc. - Common Stock|Q|N|N|100
 CHW|Calamos Global Dynamic Income Fund - Common Stock|Q|N|N|100
 CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
 CIBR|First Trust NASDAQ CEA Cybersecurity ETF|G|N|N|100
-CID|Compass EMP International High Dividend 100 Volatility Weighted Index ETF|G|N|N|100
+CID|Victory CEMP International High Div Volatility Wtd Index ETF|G|N|N|100
 CIDM|Cinedigm Corp - Class A Common Stock|G|N|D|100
 CIFC|CIFC Corp. - Common Stock|S|N|N|100
 CIGI|Colliers International Group Inc.  - Subordinate Voting Shares|Q|N|N|100
-CIL|Compass EMP International 500 Volatility Weighted Index ETF|G|N|N|100
+CIL|Victory CEMP International Volatility Wtd Index ETF|G|N|N|100
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100
 CISG|CNinsure Inc. - American depositary shares, each representing 20 ordinary shares|Q|N|N|100
 CIVB|Civista Bancshares, Inc.  - Common Stock|S|N|N|100
 CIVBP|Civista Bancshares, Inc.  - Depositary Shares Each Representing a 1/40th Interest in a 6.50% Noncumulative Redeemable Convertible Perpetual Preferred Share, Series B|S|N|N|100
-CIZ|Compass EMP Developed 500 Enhanced Volatility Weighted Index ETF|G|N|N|100
+CIZ|Victory CEMP Developed Enhanced Volatility Wtd Index ETF|G|N|N|100
 CIZN|Citizens Holding Company - Common Stock|G|N|N|100
 CJJD|China Jo-Jo Drugstores, Inc. - Common Stock|S|N|N|100
 CKEC|Carmike Cinemas, Inc. - Common Stock|Q|N|N|100
@@ -692,14 +694,14 @@ CRVL|CorVel Corp. - Common Stock|Q|N|N|100
 CRWN|Crown Media Holdings, Inc. - Class A Common Stock|Q|N|N|100
 CRWS|Crown Crafts, Inc. - Common Stock|S|N|N|100
 CRZO|Carrizo Oil & Gas, Inc. - Common Stock|Q|N|N|100
-CSA|Compass EMP Small Cap 500 Volatility Weighted Index ETF|G|N|N|100
+CSA|Victory CEMP US Small Cap Volatility Wtd Index ETF|G|N|N|100
 CSAL|Communications Sales & Leasing,Inc. - Common Stock|Q|N|N|100
-CSB|Compass EMP US Small Cap High Dividend 100 Volatility Weighted Index ETF|G|N|N|100
+CSB|Victory CEMP US Small Cap High Div Volatility Wtd Index ETF|G|N|N|100
 CSBK|Clifton Bancorp Inc. - Common Stock|Q|N|N|100
 CSBR|Champions Oncology, Inc. - Common Stock|S|N|N|100
 CSCD|Cascade Microtech, Inc. - Common Stock|G|N|N|100
 CSCO|Cisco Systems, Inc. - Common Stock|Q|N|N|100
-CSF|Compass EMP U.S. Discovery 500 Enhanced Volatility Weighted Fund|G|N|N|100
+CSF|Victory CEMP US Discovery Enhanced Volatility Wtd Index ETF|G|N|N|100
 CSFL|CenterState Banks, Inc. - Common Stock|Q|N|N|100
 CSGP|CoStar Group, Inc. - Common Stock|Q|N|N|100
 CSGS|CSG Systems International, Inc. - Common Stock|Q|N|N|100
@@ -942,7 +944,6 @@ ENT|Global Eagle Entertainment Inc. - Common Stock|S|N|N|100
 ENTA|Enanta Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 ENTG|Entegris, Inc. - Common Stock|Q|N|N|100
 ENTL|Entellus Medical, Inc. - Common Stock|G|N|N|100
-ENVI|Envivio, Inc. - Common Stock|Q|N|N|100
 ENZN|Enzon Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 ENZY|Enzymotec Ltd. - Ordinary Shares|Q|N|N|100
 EPAY|Bottomline Technologies, Inc. - Common Stock|Q|N|N|100
@@ -960,7 +961,7 @@ ERS|Empire Resources, Inc. - Common Stock|S|N|N|100
 ERW|Janus Equal Risk Weighted Large Cap ETF|G|N|N|100
 ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
-ESCR|Escalera Resources Co. - Common Stock|S|N|D|100
+ESCR|Escalera Resources Co. - Common Stock|S|N|N|100
 ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|S|N|D|100
 ESEA|Euroseas Ltd. - Common Stock|S|N|N|100
 ESES|Eco-Stim Energy Solutions, Inc. - Common Stock|S|N|N|100
@@ -1567,7 +1568,7 @@ KALU|Kaiser Aluminum Corporation - Common Stock|Q|N|N|100
 KANG|iKang Healthcare Group, Inc. - American Depositary Shares|Q|N|N|100
 KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100
 KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-KBSF|KBS Fashion Group Limited - Common Stock|S|N|E|100
+KBSF|KBS Fashion Group Limited - Common Stock|S|N|N|100
 KCAP|KCAP Financial, Inc. - common stock|Q|N|N|100
 KCLI|Kansas City Life Insurance Company - Common Stock|S|N|N|100
 KE|Kimball Electronics, Inc. - Common Stock|Q|N|N|100
@@ -1649,7 +1650,6 @@ LINDW|Lindblad Expeditions Holdings Inc.  - Warrant|S|N|N|100
 LINE|Linn Energy, LLC - Common Units representing limited liability company interests|Q|N|N|100
 LION|Fidelity Southern Corporation - Common Stock|Q|N|N|100
 LIOX|Lionbridge Technologies, Inc. - Common Stock|Q|N|N|100
-LIQD|Liquid Holdings Group, Inc. - Common Stock|S|N|N|100
 LITE|Lumentum Holdings Inc. - Common Stock|Q|N|N|100
 LIVE|Live Ventures Incorporated - Common Stock|S|N|N|100
 LIVN|LivaNova PLC - Ordinary Shares|Q|N|N|100
@@ -1682,7 +1682,7 @@ LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100
 LOGM|LogMein, Inc. - Common Stock|Q|N|N|100
 LOJN|LoJack Corporation - Common Stock|Q|N|N|100
 LONG|eLong, Inc. - American Depositary Shares representing 2 Ordinary Shares|Q|N|N|100
-LOOK|LookSmart, Ltd. - Common Stock|S|N|D|100
+LOOK|LookSmart, Ltd. - Common Stock|S|N|N|100
 LOPE|Grand Canyon Education, Inc. - Common Stock|Q|N|N|100
 LORL|Loral Space and Communications, Inc. - Common Stock|Q|N|N|100
 LOXO|Loxo Oncology, Inc. - Common Stock|G|N|N|100
@@ -2259,6 +2259,7 @@ PVTBP|PrivateBancorp, Inc. - PrivateBancorp Capital Trust IV - 10% Trust Preferr
 PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100
 PWX|Providence and Worcester Railroad Company - Common Stock|G|N|N|100
 PXLW|Pixelworks, Inc. - Common Stock|G|N|N|100
+PXSSV|Pyxis Tankers Inc. - Common Stock When Issued|S|N|N|100
 PYDS|Payment Data Systems, Inc. - Common Stock|S|N|N|100
 PYPL|PayPal Holdings, Inc. - Common Stock|Q|N|N|100
 PZZA|Papa John's International, Inc. - Common Stock|Q|N|N|100
@@ -2534,9 +2535,6 @@ SLP|Simulations Plus, Inc. - Common Stock|S|N|N|100
 SLRC|Solar Capital Ltd. - Common Stock|Q|N|N|100
 SLTD|Solar3D, Inc. - Common Stock|S|N|N|100
 SLVO|Credit Suisse AG - Credit Suisse Silver Shares Covered Call Exchange Traded Notes|G|N|N|100
-SMAC|Sino Mercury Acquisition Corp. - Common Stock|S|N|N|100
-SMACR|Sino Mercury Acquisition Corp. - Right|S|N|N|100
-SMACU|Sino Mercury Acquisition Corp. - Unit|S|N|N|100
 SMBC|Southern Missouri Bancorp, Inc. - Common Stock|G|N|N|100
 SMCI|Super Micro Computer, Inc. - Common Stock|Q|N|N|100
 SMCP|AlphaMark Actively Managed Small Cap ETF|G|N|N|100
@@ -2991,6 +2989,7 @@ WILN|Wi-LAN Inc - Common Shares|Q|N|N|100
 WIN|Windstream Holdings, Inc. - Common Stock|Q|N|N|100
 WINA|Winmark Corporation - Common Stock|G|N|N|100
 WING|Wingstop Inc. - Common Stock|Q|N|N|100
+WINS|Wins Finance Holdings Inc. - Ordinary Shares (Cayman Islands)|S|N|N|100
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100
 WLB|Westmoreland Coal Company - Common Stock|G|N|N|100
@@ -3094,4 +3093,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1027201521:32|||||
+File Creation Time: 1028201521:32|||||
