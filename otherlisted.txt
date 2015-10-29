@@ -278,7 +278,6 @@ ARR$A|Armour Residential REIT INC Preferred Series A|N|ARRpA|N|100|N|ARR-A
 ARR$B|ARMOUR Residential REIT, Inc. Preferred Series B|N|ARRpB|N|100|N|ARR-B
 ARU|Ares Capital Corporation 5.875% Senior Notes due 2022|N|ARU|N|100|N|ARU
 ARW|Arrow Electronics, Inc. Common Stock|N|ARW|N|100|N|ARW
-ARY|Ares Capital Corporation 7.75% Senior Notes due 2040|N|ARY/CL|N|100|N|ARY*
 ASA|ASA  Gold and Precious Metals Limited|N|ASA|N|100|N|ASA
 ASB|Associated Banc-Corp Common Stock|N|ASB|N|100|N|ASB
 ASB$B|Associated Banc-Corp Depositary Sh Repstg 1/40th Int Sh Perpetual Pfd Stk Ser B|N|ASBpB|N|100|N|ASB-B
@@ -488,7 +487,6 @@ BIO.B|Bio-Rad Laboratories, Inc. Class B  Common Stock|N|BIO/B|N|100|N|BIO.B
 BIOA|BioAmber Inc. Common Stock|N|BIOA|N|100|N|BIOA
 BIOA.W|BioAmber Inc. Warrant, expiring May 9, 2017|N|BIOA/WS|N|100|N|BIOA+
 BIP|Brookfield Infrastructure Partners LP Limited Partnership Units|N|BIP|N|100|N|BIP
-BIR$A|Berkshire Income Realty, Inc. 9% Series A Preferred Stock|A|BIRpA/CL|N|100|N|BIR-A*
 BIT|BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest|N|BIT|N|100|N|BIT
 BITA|Bitauto Holdings Limited American Depositary Shares (each representing one ordinary share)|N|BITA|N|100|N|BITA
 BIV|Vanguard Intermediate-Term Bond ETF|P|BIV|Y|100|N|BIV
@@ -2141,7 +2139,6 @@ HBM.W|HudBay Minerals Inc Warrants Expiring 07/20/2018 (Canada)|N|HBM/WS|N|100|N
 HBU|ProShares Ultra Homebuilders & Supplies|P|HBU|Y|100|N|HBU
 HBZ|ProShare UltraShort Homebuilders & Supplies|P|HBZ|Y|100|N|HBZ
 HCA|HCA Holdings, Inc. Common Stock|N|HCA|N|100|N|HCA
-HCC|HCC Insurance Holdings, Inc. Common Stock|N|HCC|N|100|N|HCC
 HCHC|HC2 Holdings, Inc. Common Stock|A|HCHC|N|100|N|HCHC
 HCI|HCI Group, Inc. Common Stock|N|HCI|N|100|N|HCI
 HCJ|HCI Group, Inc. 8% Senior Notes due 2020|N|HCJ|N|100|N|HCJ
@@ -2793,7 +2790,7 @@ KGC|Kinross Gold Corporation Common Stock|N|KGC|N|100|N|KGC
 KHI|Deutsche High Income Trust Shares of Beneficial Interest|N|KHI|N|100|N|KHI
 KIE|SPDR S&P Insurance ETF|P|KIE|Y|100|N|KIE
 KIM|Kimco Realty Corporation Common Stock|N|KIM|N|100|N|KIM
-KIM$H|Kimco Realty Corporation Depositary Shares Representing 1/100 Shares of Redeemable Preferred Class H|N|KIMpH|N|100|N|KIM-H
+KIM$H|Kimco Realty Corporation Depositary Shares Representing 1/100 Shares of Redeemable Preferred Class H|N|KIMpH/CL|N|100|N|KIM-H*
 KIM$I|Kimco Realty Corporation DEPOSITARY SH REPSTG 1/1000TH PFD SER I|N|KIMpI|N|100|N|KIM-I
 KIM$J|Kimco Realty Corporation Depositary Sh Repstg 1/1000th Pfd CL J %|N|KIMpJ|N|100|N|KIM-J
 KIM$K|Kimco Realty Corporation Depositary Shares Representing 1/1000th Preferred Series K|N|KIMpK|N|100|N|KIM-K
@@ -3352,7 +3349,6 @@ NGLS$A|Targa Resources Partners LP 9.00% Series A Fixed-to-Floating Rate Cumulat
 NGS|Natural Gas Services Group, Inc. Common Stock|N|NGS|N|100|N|NGS
 NGVC|Natural Grocers by Vitamin Cottage, Inc. Common Stock|N|NGVC|N|100|N|NGVC
 NHC|National HealthCare Corporation Common Stock|A|NHC|N|100|N|NHC
-NHC$A|National HealthCare Corporation Series A Convertible Pfd Stk|A|NHCpA/CL|N|100|N|NHC-A*
 NHF|NexPoint Credit Strategies Fund|N|NHF|N|100|N|NHF
 NHI|National Health Investors, Inc. Common Stock|N|NHI|N|100|N|NHI
 NHS|Neuberger Berman High Yield Strategies Fund|A|NHS|N|100|N|NHS
@@ -3562,7 +3558,6 @@ OLP|One Liberty Properties, Inc. Common Stock|N|OLP|N|100|N|OLP
 OMAM|OM Asset Management plc Ordinary Shares|N|OMAM|N|100|N|OMAM
 OMC|Omnicom Group Inc. Common Stock|N|OMC|N|100|N|OMC
 OME|Omega Protein Corporation Common Stock|N|OME|N|100|N|OME
-OMG|OM Group, Inc. Common Stock|N|OMG|N|100|N|OMG
 OMI|Owens & Minor, Inc. Common Stock|N|OMI|N|100|N|OMI
 OMN|OMNOVA Solutions Inc. Common Stock|N|OMN|N|100|N|OMN
 ONDK|On Deck Capital, Inc. Common Stock|N|ONDK|N|100|N|ONDK
@@ -5286,4 +5281,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1027201521:32||||||
+File Creation Time: 1028201521:32||||||
