@@ -730,7 +730,6 @@ CCX|WisdomTree Commodity Currency Strategy Fund|P|CCX|Y|100|N|CCX
 CCXE|WisdomTree Commodity Country Equity Index|P|CCXE|Y|100|N|CCXE
 CCZ|Comcast Holdings ZONES|N|CCZ|N|100|N|CCZ
 CDE|Coeur Mining, Inc. Common Stock|N|CDE|N|100|N|CDE
-CDE.W|Coeur Mining, Inc. Warrant expiring April 16, 2017|N|CDE/WS|N|100|N|CDE+
 CDI|CDI Corporation Common Stock|N|CDI|N|100|N|CDI
 CDR|Cedar Realty Trust, Inc. Common Stock|N|CDR|N|100|N|CDR
 CDR$B|Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock|N|CDRpB|N|100|N|CDR-B
@@ -1226,6 +1225,7 @@ DRD|DRDGOLD Limited American Depositary Shares|N|DRD|N|100|N|DRD
 DRE|Duke Realty Corporation Common Stock|N|DRE|N|100|N|DRE
 DRH|Diamondrock Hospitality Company Common Stock|N|DRH|N|100|N|DRH
 DRI|Darden Restaurants, Inc. Common Stock|N|DRI|N|100|N|DRI
+DRI.V|Darden Restaurants, Inc. Common Stock Ex-Distribution When Issued|N|DRIw|N|100|N|DRI#
 DRII|Diamond Resorts International, Inc. Common Stock|N|DRII|N|100|N|DRII
 DRIP|Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 3X Shares|P|DRIP|Y|100|N|DRIP
 DRN|Dexion Daily Real Estate Bull 3x Shares|P|DRN|Y|100|N|DRN
@@ -1434,6 +1434,7 @@ EMQQ|Emerging Markets Internet and Ecommerce ETF (The)|P|EMQQ|Y|100|N|EMQQ
 EMR|Emerson Electric Company Common Stock|N|EMR|N|100|N|EMR
 EMRE|Guggenhein Emerging Market Real Estate ETF|P|EMRE|Y|100|N|EMRE
 EMSA|iPath Short Enhanced MSCI Emerging Markets Index ETN|P|EMSA|N|100|N|EMSA
+EMSD|WisdomTree Strong Dollar Emerging Markets Equity Fund|Z|EMSD|Y|100|N|EMSD
 EMSH|ProShares Short Term USD Emerging Markets Bond ETF|Z|EMSH|Y|100|N|EMSH
 EMXX|Eurasian Minerals Inc Common Shares (Canada)|A|EMXX|N|100|N|EMXX
 EMZ|Entergy Mississippi, Inc. First Mortgage Bonds, 6.0% Series due May 1, 2051|N|EMZ|N|100|N|EMZ
@@ -1625,6 +1626,7 @@ EXTN.V|Exterran Corporation Common Stock When Issued|N|EXTNw|N|100|N|EXTN#
 EZA|iShares MSCI South Africa Index Fund|P|EZA|Y|100|N|EZA
 EZJ|ProShares Ultra MSCI Japan|P|EZJ|Y|100|N|EZJ
 EZM|WisdomTree MidCap Earnings Fund|P|EZM|Y|100|N|EZM
+EZR|WisdomTree Europe Local Recovery Fund|Z|EZR|Y|100|N|EZR
 EZT|Entergy Texas Inc First Mortgage Bonds 5.625% Series due June 1, 2064|N|EZT|N|100|N|EZT
 EZU|iShares MSCI Eurozone ETF|P|EZU|Y|100|N|EZU
 EZY|WisdomTree Low P/E Fund|P|EZY|Y|100|N|EZY
@@ -1664,6 +1666,7 @@ FCN|FTI Consulting, Inc. Common Stock|N|FCN|N|100|N|FCN
 FCO|Aberdeen Global Income Fund, Inc. Common Stock|A|FCO|N|100|N|FCO
 FCOM|Fidelity MSCI Telecommunication Services Index ETF|P|FCOM|Y|100|N|FCOM
 FCOR|Fidelity Corporate Bond ETF|P|FCOR|Y|100|N|FCOR
+FCPT.V|Four Corners Property Trust, Inc. Common Stock When Issued|N|FCPTw|N|100|N|FCPT#
 FCT|First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest|N|FCT|N|100|N|FCT
 FCX|Freeport-McMoRan, Inc. Common Stock|N|FCX|N|100|N|FCX
 FDC|First Data Corporation Class A Common Stock|N|FDC|N|100|N|FDC
@@ -2157,6 +2160,7 @@ HDG|ProShares Hedge Replication ETF|P|HDG|Y|100|N|HDG
 HDGE|Ranger Equity Bear Bear ETF|P|HDGE|Y|100|N|HDGE
 HDLS|WisdomTree International Hedged SmallCap Dividend Fund|P|HDLS|Y|100|N|HDLS
 HDLV|ETRACS Montly Pay 2xLeveraged US High Dividend Low Volatility ETN due September 30, 2044|P|HDLV|N|100|N|HDLV
+HDRW|WisdomTree Global ex-U.S. Hedged Real Estate Fund|Z|HDRW|Y|100|N|HDRW
 HDV|iShares Core High Dividend ETF|P|HDV|Y|100|N|HDV
 HDWM|WisdomTree Trust WisdomTree International Hedged Equity Fund|P|HDWM|Y|100|N|HDWM
 HDWX|SPDR S&P International Dividend Currency Hedged ETF|P|HDWX|Y|100|N|HDWX
@@ -5188,6 +5192,7 @@ XHE|SPDR S&P Health Care Equipment|P|XHE|Y|100|N|XHE
 XHR|Xenia Hotels & Resorts, Inc. Common Stock|N|XHR|N|100|N|XHR
 XHS|SPDR S&P Health Care Services ETF|P|XHS|Y|100|N|XHS
 XIN|Xinyuan Real Estate Co Ltd American Depositary Shares|N|XIN|N|100|N|XIN
+XINA|SPDR MSCI China A Shares IMI ETF|P|XINA|Y|100|N|XINA
 XKE|Lehman ABS Corporation Corporate-Backed Trust Certificates: 7.75% Toys-R-Us Debenture Backed Series 2001-31|N|XKE|N|100|N|XKE
 XL|XL Group plc|N|XL|N|100|N|XL
 XLB|Materials Select Sector SPDR|P|XLB|Y|100|N|XLB
@@ -5281,4 +5286,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1028201521:32||||||
+File Creation Time: 1029201521:32||||||
