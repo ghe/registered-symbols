@@ -1115,7 +1115,6 @@ DEE|DB Commodity Double Short ETN due April 1, 2038|P|DEE|N|100|N|DEE
 DEF|Guggenheim Defensive Equity ETF|P|DEF|Y|100|N|DEF
 DEG|Etablissements Delhaize Freres et Cie "Le Lion" S.A. Common Stock|N|DEG|N|100|N|DEG
 DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
-DEJ|Dejour Energy Inc. Ltd Ordinary Shares (Canada) New|A|DEJ|N|100|N|DEJ
 DEL|Deltic Timber Corporation Common Stock|N|DEL|N|100|N|DEL
 DEM|WisdomTree Emerging Markets High Dividend Fund|P|DEM|Y|100|N|DEM
 DEO|Diageo plc Common Stock|N|DEO|N|100|N|DEO
@@ -1284,6 +1283,7 @@ DX$A|Dynex Capital, Inc. Preferred Stock Series A|N|DXpA|N|100|N|DX-A
 DX$B|Dynex Capital, Inc. Preferred Series B|N|DXpB|N|100|N|DX-B
 DXB|Deutsche Bk Contingent Cap TR II Tr Pfd Sec|N|DXB|N|100|N|DXB
 DXD|ProShares UltraShort Dow30|P|DXD|Y|100|N|DXD
+DXI|DXI Energy Inc. Ordinary Shares (Canada) New|A|DXI|N|100|N|DXI
 DXJ|WisdomTree Japan Hedged Equity Fund|P|DXJ|Y|100|N|DXJ
 DXJC|WisdomTree Japan Hedged Capital Goods Fund|P|DXJC|Y|100|N|DXJC
 DXJF|WisdomTree Japan Hedged Financials Fund|P|DXJF|Y|100|N|DXJF
@@ -2209,7 +2209,7 @@ HHDG|Highland Funds I Highland HFR Equity Hedge ETF|P|HHDG|Y|100|N|HHDG
 HHFR|Highland Funds I Highland HFR Global ETF|P|HHFR|Y|100|N|HHFR
 HHS|Harte-Hanks, Inc. Common Stock|N|HHS|N|100|N|HHS
 HHY|Brookfield High Income Fund Inc.|N|HHY|N|100|N|HHY
-HHYX|iShares Currency Hedged Global ex USD High Yield Bond ETF|P|HHYX|Y|100|N|HHYX
+HHYX|iShares Currency Hedged International High Yield Bond ETF|P|HHYX|Y|100|N|HHYX
 HI|Hillenbrand Inc Common Stock|N|HI|N|100|N|HI
 HIE|Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest|N|HIE|N|100|N|HIE
 HIFR|InfraREIT, Inc. Common Stock|N|HIFR|N|100|N|HIFR
@@ -2335,7 +2335,7 @@ HYLD|Peritus High Yield ETF|P|HYLD|Y|100|N|HYLD
 HYMB|SPDR Nuveen S&P High Yield Municipal Bond ETF|P|HYMB|Y|100|N|HYMB
 HYS|PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund|P|HYS|Y|100|N|HYS
 HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock|N|HYT|N|100|N|HYT
-HYXU|iShares Global ex USD High Yield Corporate Bond ETF|Z|HYXU|Y|100|N|HYXU
+HYXU|iShares International High Yield Bond ETF|Z|HYXU|Y|100|N|HYXU
 HZN|Horizon Global Corporation Common Shares|N|HZN|N|100|N|HZN
 HZO|MarineMax, Inc.  (FL) Common Stock|N|HZO|N|100|N|HZO
 I|Intelsat S.A. Common Shares|N|I|N|100|N|I
@@ -4146,6 +4146,7 @@ RXI|iShares Global Consumer Discretionary ETF|P|RXI|Y|100|N|RXI
 RXL|ProShares Ultra Health Care|P|RXL|Y|100|N|RXL
 RXN|Rexnord Corporation Common Stock|N|RXN|N|100|N|RXN
 RY|Royal Bank Of Canada Common Stock|N|RY|N|100|N|RY
+RY.V|Royal Bank Of Canada Common Shares Additional Shares When Issued|N|RYw|N|100|N|RY#
 RYAM|Rayonier Advanced Materials Inc. Common Stock|N|RYAM|N|100|N|RYAM
 RYE|Guggenheim S&P 500 Equal Weight Energy ETF|P|RYE|Y|100|N|RYE
 RYF|Guggenheim S&P 500 Equal Weight Financials ETF|P|RYF|Y|100|N|RYF
@@ -5286,4 +5287,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1029201521:32||||||
+File Creation Time: 1030201521:32||||||
