@@ -1231,7 +1231,7 @@ GLNG|Golar LNG Limited - Common Shares|Q|N|N|100
 GLPG|Galapagos NV - American Depositary Shares|Q|N|N|100
 GLPI|Gaming and Leisure Properties, Inc. - Common Stock|Q|N|N|100
 GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares|Q|N|N|100
-GLRI|Glori Energy Inc - Common Stock|S|N|N|100
+GLRI|Glori Energy Inc - Common Stock|S|N|D|100
 GLUU|Glu Mobile Inc. - Common Stock|Q|N|N|100
 GLYC|GlycoMimetics, Inc. - Common Stock|G|N|N|100
 GMAN|Gordmans Stores, Inc. - Common Stock|Q|N|N|100
@@ -2376,9 +2376,9 @@ ROCK|Gibraltar Industries, Inc. - Common Stock|Q|N|N|100
 ROIA|Radio One, Inc. - Class A Common Stock|S|N|N|100
 ROIAK|Radio One, Inc. - Class D Common Stock|S|N|N|100
 ROIC|Retail Opportunity Investments Corp. - Common Stock|Q|N|N|100
-ROIQ|ROI Acquisition Corp. II - Common Stock|S|N|D|100
-ROIQU|ROI Acquisition Corp. II - Units|S|N|D|100
-ROIQW|ROI Acquisition Corp. II - Warrants|S|N|D|100
+ROIQ|ROI Acquisition Corp. II - Common Stock|S|N|N|100
+ROIQU|ROI Acquisition Corp. II - Units|S|N|N|100
+ROIQW|ROI Acquisition Corp. II - Warrants|S|N|N|100
 ROKA|Roka Bioscience, Inc. - Common Stock|G|N|N|100
 ROLL|RBC Bearings Incorporated - Common Stock|Q|N|N|100
 ROSG|Rosetta Genomics Ltd. - ordinary shares|S|N|N|100
@@ -3094,4 +3094,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1029201521:32|||||
+File Creation Time: 1030201521:32|||||
