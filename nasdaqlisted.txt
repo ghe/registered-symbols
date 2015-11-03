@@ -27,6 +27,7 @@ ABY|Abengoa Yield plc - Ordinary Shares|Q|N|N|100
 ACAD|ACADIA Pharmaceuticals Inc. - Common Stock|Q|N|N|100
 ACAS|American Capital, Ltd. - Common Stock|Q|N|N|100
 ACAT|Arctic Cat Inc. - Common Stock|Q|N|N|100
+ACBI|Atlantic Capital Bancshares, Inc. - Common Stock|Q|N|N|100
 ACET|Aceto Corporation - Common Stock|Q|N|N|100
 ACFC|Atlantic Coast Financial Corporation - Common Stock|G|N|N|100
 ACGL|Arch Capital Group Ltd. - Common Stock|Q|N|N|100
@@ -1138,7 +1139,6 @@ FSC|Fifth Street Finance Corp. - Common Stock|Q|N|N|100
 FSCFL|Fifth Street Finance Corp. - 6.125% senior notes due 2028|Q|N|N|100
 FSFG|First Savings Financial Group, Inc. - Common Stock|S|N|N|100
 FSFR|Fifth Street Senior Floating Rate Corp. - Common Stock|Q|N|N|100
-FSGI|First Security Group, Inc. - Common Stock|S|N|N|100
 FSLR|First Solar, Inc. - Common Stock|Q|N|N|100
 FSNN|Fusion Telecommunications International, Inc. - Common Stock|S|N|N|100
 FSTR|L.B. Foster Company - Common Stock|Q|N|N|100
@@ -1319,7 +1319,6 @@ HCACU|Hennessy Capital Acquisition Corp. II - Unit|S|N|N|100
 HCACW|Hennessy Capital Acquisition Corp. II - Warrant|S|N|N|100
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100
 HCAPL|Harvest Capital Credit Corporation - 7.00% Notes due 2020|G|N|N|100
-HCBK|Hudson City Bancorp, Inc. - Common Stock|Q|N|N|100
 HCCI|Heritage-Crystal Clean, Inc. - Common Stock|Q|N|N|100
 HCKT|The Hackett Group, Inc. - Common Stock|Q|N|N|100
 HCOM|Hawaiian Telcom Holdco, Inc. - Common Stock|Q|N|N|100
@@ -1721,6 +1720,7 @@ MASI|Masimo Corporation - Common Stock|Q|N|N|100
 MAT|Mattel, Inc. - Common Stock|Q|N|N|100
 MATR|Mattersight Corporation - Common Stock|G|N|N|100
 MATW|Matthews International Corporation - Class A Common Stock|Q|N|N|100
+MAUI|AdvisorShares Market Adaptive Unconstrained Income ETF|G|N|N|100
 MAYS|J. W. Mays, Inc. - Common Stock|S|N|N|100
 MB|MINDBODY, Inc. - Class A Common Stock|G|N|N|100
 MBCN|Middlefield Banc Corp. - Common Stock|S|N|N|100
@@ -1863,7 +1863,6 @@ MTSI|M/A-COM Technology Solutions Holdings, Inc. - Common Stock|Q|N|N|100
 MTSL|MER Telemanagement Solutions Ltd. - Ordinary Shares|S|N|N|100
 MTSN|Mattson Technology, Inc. - Common Stock|Q|N|N|100
 MU|Micron Technology, Inc. - Common Stock|Q|N|N|100
-MULT|AdvisorShares Sunrise Global Multi-Strategy ETF|G|N|N|100
 MVIS|Microvision, Inc. - Common Stock|G|N|N|100
 MXIM|Maxim Integrated Products, Inc. - Common Stock|Q|N|N|100
 MXWL|Maxwell Technologies, Inc. - Common Stock|Q|N|N|100
@@ -2376,9 +2375,6 @@ ROCK|Gibraltar Industries, Inc. - Common Stock|Q|N|N|100
 ROIA|Radio One, Inc. - Class A Common Stock|S|N|N|100
 ROIAK|Radio One, Inc. - Class D Common Stock|S|N|N|100
 ROIC|Retail Opportunity Investments Corp. - Common Stock|Q|N|N|100
-ROIQ|ROI Acquisition Corp. II - Common Stock|S|N|N|100
-ROIQU|ROI Acquisition Corp. II - Units|S|N|N|100
-ROIQW|ROI Acquisition Corp. II - Warrants|S|N|N|100
 ROKA|Roka Bioscience, Inc. - Common Stock|G|N|N|100
 ROLL|RBC Bearings Incorporated - Common Stock|Q|N|N|100
 ROSG|Rosetta Genomics Ltd. - ordinary shares|S|N|N|100
@@ -3025,6 +3021,7 @@ WTFCM|Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Per
 WTFCW|Wintrust Financial Corporation - Warrants|Q|N|N|100
 WVFC|WVS Financial Corp. - Common Stock|G|N|N|100
 WVVI|Willamette Valley Vineyards, Inc. - Common Stock|S|N|N|100
+WVVIP|Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock|S|N|N|100
 WWD|Woodward, Inc. - Common Stock|Q|N|N|100
 WWWW|Web.com Group, Inc. - Common Stock|Q|N|N|100
 WYIG|JM Global Holding Company - Common Stock|S|N|N|100
@@ -3045,7 +3042,7 @@ XLRN|Acceleron Pharma Inc. - Common Stock|G|N|N|100
 XNCR|Xencor, Inc. - Common Stock|G|N|N|100
 XNET|Xunlei Limited - American Depositary Receipts|Q|N|N|100
 XNPT|XenoPort, Inc. - Common Stock|Q|N|N|100
-XOMA|XOMA Corporation - Common Stock|G|N|D|100
+XOMA|XOMA Corporation - Common Stock|G|N|N|100
 XONE|The ExOne Company - Common Stock|Q|N|N|100
 XOOM|Xoom Corporation - Common Stock|Q|N|N|100
 XPLR|Xplore Technologies Corp - Common Stock|S|N|N|100
@@ -3094,4 +3091,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1030201521:32|||||
+File Creation Time: 1102201521:33|||||
