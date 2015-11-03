@@ -410,7 +410,6 @@ BCC|Boise Cascade, L.L.C. Common Stock|N|BCC|N|100|N|BCC
 BCE|BCE, Inc. Common Stock|N|BCE|N|100|N|BCE
 BCEI|Bonanza Creek Energy, Inc. Common Stock|N|BCEI|N|100|N|BCEI
 BCH|Banco De Chile Banco De Chile ADS|N|BCH|N|100|N|BCH
-BCHP|EGShares Blue Chip ETF|P|BCHP|Y|100|N|BCHP
 BCM|iPath Pure Beta Broad Commodity ETN|P|BCM|N|100|N|BCM
 BCO|Brinks Company (The) Common Stock|N|BCO|N|100|N|BCO
 BCR|C.R. Bard, Inc. Common Stock|N|BCR|N|100|N|BCR
@@ -574,7 +573,6 @@ BRS|Bristow Group Inc. Common Stock|N|BRS|N|100|N|BRS
 BRSS|Global Brass and Copper Holdings, Inc. Common Stock|N|BRSS|N|100|N|BRSS
 BRT|BRT Realty Trust Common Stock|N|BRT|N|100|N|BRT
 BRX|Brixmor Property Group Inc. Common Stock|N|BRX|N|100|N|BRX
-BRXX|EGShares Brazil Infrastructure ETF|P|BRXX|Y|100|N|BRXX
 BRZU|Direxion Daily Brazil Bull 3X Shares|P|BRZU|Y|100|N|BRZU
 BSAC|Banco Santander - Chile ADS|N|BSAC|N|100|N|BSAC
 BSBR|Banco Santander Brasil SA American Depositary Shares, each representing one unit|N|BSBR|N|100|N|BSBR
@@ -877,7 +875,6 @@ CNQ|Canadian Natural Resources Limited Common Stock|N|CNQ|N|100|N|CNQ
 CNR|China Metro-Rural Holdings Limited|A|CNR|N|100|N|CNR
 CNS|Cohn & Steers Inc Common Stock|N|CNS|N|100|N|CNS
 CNTR|PowerShares Contrarian Opportunities Portfolio|P|CNTR|Y|100|N|CNTR
-CNW|Con-Way, Inc. Common Stock|N|CNW|N|100|N|CNW
 CNX|CONSOL Energy Inc. Common Stock|N|CNX|N|100|N|CNX
 CNXC|CNX Coal Resources LP Common Units representing limited partner interests|N|CNXC|N|100|N|CNXC
 CNXT|Market Vectors ChinaAMC SME-ChNext ETF|P|CNXT|Y|100|N|CNXT
@@ -1035,9 +1032,6 @@ CXW|Corrections Corporation of America Common Stock|N|CXW|N|100|N|CXW
 CYB|WisdomTree Chinese Yuan Strategy Fund|P|CYB|Y|100|N|CYB
 CYD|China Yuchai International Limited Common Stock|N|CYD|N|100|N|CYD
 CYH|Community Health Systems, Inc. Common Stock|N|CYH|N|100|N|CYH
-CYN|City National Corporation Common Stock|N|CYN|N|100|N|CYN
-CYN$C|City National Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series Series C|N|CYNpC|N|100|N|CYN-C
-CYN$D|City National Corporation Depositary Shares Representing 1/40th Preferred Series D Fixed/Floating|N|CYNpD|N|100|N|CYN-D
 CYS|CYS Investments, Inc. Common Stock|N|CYS|N|100|N|CYS
 CYS$A|CYS Investments Inc Cumulative Redeemable Preferred Series A|N|CYSpA|N|100|N|CYS-A
 CYS$B|CYS Investments, Inc. Preferred Series B|N|CYSpB|N|100|N|CYS-B
@@ -2065,7 +2059,6 @@ GSAT|Globalstar, Inc. Common Stock|A|GSAT|N|100|N|GSAT
 GSB|GlobalSCAPE, Inc. Common Stock|A|GSB|N|100|N|GSB
 GSBD|Goldman Sachs BDC, Inc. Common Stock|N|GSBD|N|100|N|GSBD
 GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index|P|GSC|N|100|N|GSC
-GSF|Goldman Sachs Group, Inc. (The) 6.125% Notes due 2060|N|GSF/CL|N|100|N|GSF*
 GSG|iShares GSCI Commodity-Indexed Trust Fund|P|GSG|Y|100|N|GSG
 GSH|Guangshen Railway Company Limited Common Stock|N|GSH|N|100|N|GSH
 GSI|General Steel Holdings, Inc. Common Stock|N|GSI|N|100|N|GSI
@@ -2124,6 +2117,7 @@ GYLD|Arrow Dow Jones Global Yield ETF ETF|P|GYLD|Y|100|N|GYLD
 GZT|Gazit-Globe Ltd. Ordinary Shares|N|GZT|N|100|N|GZT
 H|Hyatt Hotels Corporation Class A Common Stock|N|H|N|100|N|H
 HACK|PureFunds ISE Cyber Security ETF|P|HACK|Y|100|N|HACK
+HACV|iShares Currency Hedged MSCI ACWI Minimum Volatility ETF|Z|HACV|Y|100|N|HACV
 HACW|iShares Currency Hedged MSCI ACWI ETF|P|HACW|Y|100|N|HACW
 HAE|Haemonetics Corporation Common Stock|N|HAE|N|100|N|HAE
 HAHA|CSOP China CSI 300 A-H Dynamic ETF|P|HAHA|Y|100|N|HAHA
@@ -2171,14 +2165,18 @@ HECO|Huntington EcoLogical Strategy ETF|P|HECO|Y|100|N|HECO
 HEDJ|WisdomTree Europe Hedged Equity Fund|P|HEDJ|Y|100|N|HEDJ
 HEEM|iShares Currency Hedged MSCI Emerging Markets ETF|P|HEEM|Y|100|N|HEEM
 HEFA|iShares Currency Hedged MSCI EAFE ETF|P|HEFA|Y|100|N|HEFA
+HEFV|iShares Currency Hedged MSCI EAFE Minimum Volatility ETF|Z|HEFV|Y|100|N|HEFV
 HEGE|Direxion Daily MSCI Europe Currency Hedged Bull 2X Shares|P|HEGE|Y|100|N|HEGE
 HEGJ|Direxion Daily MSCI Japan Currency Hedged Bull 2X Shares|P|HEGJ|Y|100|N|HEGJ
 HEI|Heico Corporation Common Stock|N|HEI|N|100|N|HEI
 HEI.A|Heico Corporation Common Stock|N|HEI/A|N|100|N|HEI.A
 HELI|CHC Group Ltd. Ordinary Shares|N|HELI|N|100|N|HELI
+HEMV|iShares Currency Hedged MSCI EM Minimum Volatility ETF|Z|HEMV|Y|100|N|HEMV
 HEP|Holly Energy Partners, L.P. Common Stock|N|HEP|N|100|N|HEP
 HEQ|John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest|N|HEQ|N|100|N|HEQ
 HES|Hess Corporation Common Stock|N|HES|N|100|N|HES
+HEUS|iShares Currency Hedged MSCI Europe Small-Cap ETF|Z|HEUS|Y|100|N|HEUS
+HEUV|iShares Currency Hedged MSCI Europe Minimum Volatility ETF|Z|HEUV|Y|100|N|HEUV
 HEVY|iPath Pure Beta Industrial Metals ETN|P|HEVY|N|100|N|HEVY
 HEWC|iShares Currency Hedged MSCI Canada ETF|P|HEWC|Y|100|N|HEWC
 HEWG|iShares Currency Hedged MSCI Germany ETF|P|HEWG|Y|100|N|HEWG
@@ -2255,13 +2253,12 @@ HOS|Hornbeck Offshore Services Common Stock|N|HOS|N|100|N|HOS
 HOT|Starwood Hotels & Resorts Worldwide, Inc. Common Stock|N|HOT|N|100|N|HOT
 HOV|Hovnanian Enterprises, Inc. Class A Common Stock|N|HOV|N|100|N|HOV
 HP|Helmerich & Payne, Inc. Common Stock|N|HP|N|100|N|HP
-HPE.V|Hewlett Packard Enterprise Company Common Stock When Issued|N|HPEw|N|100|N|HPE#
+HPE|Hewlett Packard Enterprise Company Common Stock|N|HPE|N|100|N|HPE
 HPF|John Hancock Pfd Income Fund II Pfd Income Fund II|N|HPF|N|100|N|HPF
 HPI|John Hancock Preferred Income Fund Common Shares of Beneficial Interest|N|HPI|N|100|N|HPI
 HPP|Hudson Pacific Properties, Inc. Common Stock|N|HPP|N|100|N|HPP
 HPP$B|Hudson Pacific Properties, Inc. 8.375% Series B Cumulative Redeemable Preferred shares|N|HPPpB|N|100|N|HPP-B
-HPQ|Hewlett-Packard Company Common Stock|N|HPQ|N|100|N|HPQ
-HPQ.V|HP Inc. Common Stock Ex-Distribution When Issued|N|HPQw|N|100|N|HPQ#
+HPQ|HP Inc. Common Stock|N|HPQ|N|100|N|HPQ
 HPS|John Hancock Preferred Income Fund III Preferred Income Fund III|N|HPS|N|100|N|HPS
 HPT|Hospitality Properites Trust Common Stock|N|HPT|N|100|N|HPT
 HPT$D|Hospitality Properties Trust Preferred Stock|N|HPTpD|N|100|N|HPT-D
@@ -2841,7 +2838,7 @@ KRC$G|Kilroy Realty Corporation Preferred Stock Series G|N|KRCpG|N|100|N|KRC-G
 KRC$H|Kilroy Realty Corporation Pfd Ser H|N|KRCpH|N|100|N|KRC-H
 KRE|SPDR S&P Regional Banking ETF|P|KRE|Y|100|N|KRE
 KRG|Kite Realty Group Trust Common Stock|N|KRG|N|100|N|KRG
-KRG$A|Kite Realty Group Trust PERP PFD SER A|N|KRGpA|N|100|N|KRG-A
+KRG$A|Kite Realty Group Trust PERP PFD SER A|N|KRGpA/CL|N|100|N|KRG-A*
 KRO|Kronos Worldwide Inc Common Stock|N|KRO|N|100|N|KRO
 KROO|IQ Australia Small Cap ETF|P|KROO|Y|100|N|KROO
 KRS|ProShares Short S&P Regional Banking|P|KRS|Y|100|N|KRS
@@ -3436,14 +3433,13 @@ NQP|Nuveen Pennsylvania Investment Quality Municipal Fund, Inc. Common Stock|N|N
 NQS|Nuveen Select Quality Municipal Fund, Inc. Common Stock|N|NQS|N|100|N|NQS
 NQU|Nuveen Quality Income Municipal Fund, Inc. Common Stock|N|NQU|N|100|N|NQU
 NR|Newpark Resources, Inc. Common Stock|N|NR|N|100|N|NR
-NRE.V|NorthStar Realty Europe Corp. Common Stock When Issued|N|NREw|N|100|N|NRE#
+NRE|NorthStar Realty Europe Corp. Common Stock|N|NRE|N|100|N|NRE
 NRF|NorthStar Realty Finance Corp. Common Stock (New)|N|NRF|N|100|N|NRF
 NRF$A|Northstar Realty Finance Corp. 8.75% Series A Cumulative Redeemable Preferred Stock|N|NRFpA|N|100|N|NRF-A
 NRF$B|Northstar Realty Finance Corp. Preferred Series B|N|NRFpB|N|100|N|NRF-B
 NRF$C|Northstar Realty Finance Corp. Preferred Series C|N|NRFpC|N|100|N|NRF-C
 NRF$D|Northstar Realty Finance Corp. 8.50% Series D Cumulative Redeemable Preferred Stock|N|NRFpD|N|100|N|NRF-D
 NRF$E|Northstar Realty Finance Corp. Preferred Stock Series E|N|NRFpE|N|100|N|NRF-E
-NRF.V|Northstar Realty Finance Corp. Common Stock Ex-Distribution When Issued|N|NRFw|N|100|N|NRF#
 NRG|NRG Energy, Inc. Common Stock|N|NRG|N|100|N|NRG
 NRK|Nuveen New York AMT-Free Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01|N|NRK|N|100|N|NRK
 NRO|Neuberger Berman Real Estate Securities Income Fund, Inc. Neuberger Berman Real Estate Securities Income Fund, Inc.|A|NRO|N|100|N|NRO
@@ -4146,6 +4142,8 @@ RXI|iShares Global Consumer Discretionary ETF|P|RXI|Y|100|N|RXI
 RXL|ProShares Ultra Health Care|P|RXL|Y|100|N|RXL
 RXN|Rexnord Corporation Common Stock|N|RXN|N|100|N|RXN
 RY|Royal Bank Of Canada Common Stock|N|RY|N|100|N|RY
+RY$S|Royal Bank Of Canada 5.50% Non-Cumulative Perpetual First Preferred Shares, Series C-1|N|RYpS|N|100|N|RY-S
+RY$T|Royal Bank Of Canada 6.750% Fixed Rate/Floating Rate Noncumulative First Preferred Shares, Series C-2|N|RYpT|N|100|N|RY-T
 RY.V|Royal Bank Of Canada Common Shares Additional Shares When Issued|N|RYw|N|100|N|RY#
 RYAM|Rayonier Advanced Materials Inc. Common Stock|N|RYAM|N|100|N|RYAM
 RYE|Guggenheim S&P 500 Equal Weight Energy ETF|P|RYE|Y|100|N|RYE
@@ -4537,6 +4535,7 @@ SXT|Sensient Technologies Corporation Common Stock|N|SXT|N|100|N|SXT
 SYA|Symetra Financial Corporation Common Stock $0.01 par value|N|SYA|N|100|N|SYA
 SYE|SPDR MFS Systematic Core Equity ETF|P|SYE|Y|100|N|SYE
 SYF|Synchrony Financial Common Stock|N|SYF|N|100|N|SYF
+SYF.V|Synchrony Financial Common Stock Additional Shares When Issued|N|SYFw|N|100|N|SYF#
 SYG|SPDR MFS Systematic Growth Equity ETF|P|SYG|Y|100|N|SYG
 SYK|Stryker Corporation Common Stock|N|SYK|N|100|N|SYK
 SYLD|Cambria Shareholder Yield ETF|P|SYLD|Y|100|N|SYLD
@@ -5062,16 +5061,16 @@ WAL|Western Alliance Bancorporation Common Stock (DE)|N|WAL|N|100|N|WAL
 WAT|Waters Corporation Common Stock|N|WAT|N|100|N|WAT
 WBAI|500.com Limited American Depositary Shares, each representing 10 Class A shares|N|WBAI|N|100|N|WBAI
 WBC|Wabco Holdings Inc. Common Stock|N|WBC|N|100|N|WBC
-WBIA|WBI SMID Tactical Growth Shares|P|WBIA|Y|100|N|WBIA
-WBIB|WBI SMID Tactical Value Shares|P|WBIB|Y|100|N|WBIB
-WBIC|WBI SMID Tactical Yield Shares|P|WBIC|Y|100|N|WBIC
-WBID|WBI SMID Tactical Select Shares|P|WBID|Y|100|N|WBID
-WBIE|WBI Large Cap Tactical Growth Shares|P|WBIE|Y|100|N|WBIE
-WBIF|WBI Large Cap Tactical Value Shares|P|WBIF|Y|100|N|WBIF
-WBIG|WBI Large Cap Tactical Yield Shares|P|WBIG|Y|100|N|WBIG
+WBIA|WBI Tactical SMG Shares|P|WBIA|Y|100|N|WBIA
+WBIB|WBI Tactical SMV Shares|P|WBIB|Y|100|N|WBIB
+WBIC|WBI Tactical SMY Shares|P|WBIC|Y|100|N|WBIC
+WBID|WBI Tactical SMS Shares|P|WBID|Y|100|N|WBID
+WBIE|WBI Tactical LCG Shares|P|WBIE|Y|100|N|WBIE
+WBIF|WBI Tactical LCV Shares|P|WBIF|Y|100|N|WBIF
+WBIG|WBI Tactical LCY Shares|P|WBIG|Y|100|N|WBIG
 WBIH|WBI Tactical High Income Shares|P|WBIH|Y|100|N|WBIH
 WBII|WBI Tactical Income Shares|P|WBII|Y|100|N|WBII
-WBIL|WBI Large Cap Tactical Select Shares|P|WBIL|Y|100|N|WBIL
+WBIL|WBI Tactical LCS Shares|P|WBIL|Y|100|N|WBIL
 WBK|Westpac Banking Corporation Common Stock|N|WBK|N|100|N|WBK
 WBS|Webster Financial Corporation Common Stock|N|WBS|N|100|N|WBS
 WBS$E|Webster Financial Corporation Dep Shs Repstg 1/1000th Perp Pfd Ser E|N|WBSpE|N|100|N|WBS-E
@@ -5287,4 +5286,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1030201521:32||||||
+File Creation Time: 1102201521:33||||||
