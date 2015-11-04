@@ -4473,7 +4473,7 @@ STAR$G|iStar Inc. Series G Cumulative Redeemable Preferred Stock|N|STARpG|N|100|
 STAR$I|iStar Inc. Series I Cumulative Redeemable Preferred Stock|N|STARpI|N|100|N|STAR-I
 STAY|Extended Stay America, Inc. Common Stock|N|STAY|N|100|N|STAY
 STC|Stewart Information Services Corporation Common Stock|N|STC|N|100|N|STC
-STE|STERIS Corporation Common Stock|N|STE|N|100|N|STE
+STE|STERIS plc Ordinary Shares|N|STE|N|100|N|STE
 STI|SunTrust Banks, Inc. Common Stock|N|STI|N|100|N|STI
 STI$A|SunTrust Banks, Inc. Dep Shs repstg 1/4000 Perpetual Pfd Stk Ser A|N|STIpA|N|100|N|STI-A
 STI$E|SunTrust Banks, Inc. Depositary Shares Representing Perpetual Preferred Series E|N|STIpE|N|100|N|STI-E
@@ -5286,4 +5286,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1102201521:33||||||
+File Creation Time: 1103201521:32||||||
