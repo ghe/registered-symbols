@@ -602,7 +602,6 @@ CLNT|Cleantech Solutions International, Inc. - Common Stock|S|N|N|100
 CLRB|Cellectar Biosciences, Inc. - Common Stock|S|N|D|100
 CLRBW|Cellectar Biosciences, Inc. - Warrants|S|N|D|100
 CLRO|ClearOne, Inc. - Common Stock|S|N|N|100
-CLRX|CollabRx, Inc. - Common Stock|S|N|D|100
 CLSN|Celsion Corporation - Common Stock|S|N|N|100
 CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|N|100
 CLVS|Clovis Oncology, Inc. - Common Stock|Q|N|N|100
@@ -1520,6 +1519,7 @@ ISSI|Integrated Silicon Solution, Inc. - Common Stock|Q|N|N|100
 ISTR|Investar Holding Corporation - Common Stock|G|N|N|100
 ITCI|Intra-Cellular Therapies Inc. - Common Stock|Q|N|N|100
 ITEK|Inotek Pharmaceuticals Corporation - Common Stock|G|N|N|100
+ITEQ|BlueStar TA-BIGITech Israel Technology ETF|G|N|N|100
 ITIC|Investors Title Company - Common Stock|Q|N|N|100
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
@@ -2369,6 +2369,7 @@ RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
+RNVA|Rennova Health, Inc. - Common Stock|S|N|D|100
 RNWK|RealNetworks, Inc. - Common Stock|Q|N|N|100
 ROBO|Robo-Stox Global Robotics and Automation Index ETF|G|N|N|100
 ROCK|Gibraltar Industries, Inc. - Common Stock|Q|N|N|100
@@ -3091,4 +3092,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1102201521:33|||||
+File Creation Time: 1103201521:32|||||
