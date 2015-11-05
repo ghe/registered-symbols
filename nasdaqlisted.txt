@@ -183,6 +183,7 @@ APDN|Applied DNA Sciences Inc - Common Stock|S|N|N|100
 APDNW|Applied DNA Sciences Inc - Warrant|S|N|N|100
 APEI|American Public Education, Inc. - Common Stock|Q|N|N|100
 APIC|Apigee Corporation - Common Stock|Q|N|N|100
+APLP|Archrock Partners, L.P. - Common Units representing Limited Partner Interests|Q|N|N|100
 APOG|Apogee Enterprises, Inc. - Common Stock|Q|N|N|100
 APOL|Apollo Education Group, Inc. - Class A Common Stock|Q|N|N|100
 APPF|AppFolio, Inc. - Class A Common Stock|G|N|N|100
@@ -696,7 +697,7 @@ CSA|Victory CEMP US Small Cap Volatility Wtd Index ETF|G|N|N|100
 CSAL|Communications Sales & Leasing,Inc. - Common Stock|Q|N|N|100
 CSB|Victory CEMP US Small Cap High Div Volatility Wtd Index ETF|G|N|N|100
 CSBK|Clifton Bancorp Inc. - Common Stock|Q|N|N|100
-CSBR|Champions Oncology, Inc. - Common Stock|S|N|N|100
+CSBR|Champions Oncology, Inc. - Common Stock|S|N|D|100
 CSCD|Cascade Microtech, Inc. - Common Stock|G|N|N|100
 CSCO|Cisco Systems, Inc. - Common Stock|Q|N|N|100
 CSF|Victory CEMP US Discovery Enhanced Volatility Wtd Index ETF|G|N|N|100
@@ -989,7 +990,6 @@ EXAC|Exactech, Inc. - Common Stock|Q|N|N|100
 EXAS|Exact Sciences Corporation - Common Stock|S|N|N|100
 EXEL|Exelixis, Inc. - Common Stock|Q|N|N|100
 EXFO|EXFO Inc - Subordinate Voting Shares|Q|N|N|100
-EXLP|Exterran Partners, L.P. - Common Units representing Limited Partner Interests|Q|N|N|100
 EXLS|ExlService Holdings, Inc. - Common Stock|Q|N|N|100
 EXPD|Expeditors International of Washington, Inc. - Common Stock|Q|N|N|100
 EXPE|Expedia, Inc. - Common Stock|Q|N|N|100
@@ -1031,6 +1031,7 @@ FCS|Fairchild Semiconductor International, Inc. - Common Stock|Q|N|N|100
 FCSC|Fibrocell Science Inc - Common Stock|S|N|N|100
 FCTY|1st Century Bancshares, Inc - Common Stock|S|N|N|100
 FCVA|First Capital Bancorp, Inc. (VA) - Common Stock|S|N|N|100
+FCVT|First Trust SSI Strategic Convertible Securities ETF|G|N|N|100
 FDEF|First Defiance Financial Corp. - Common Stock|Q|N|N|100
 FDIV|First Trust Strategic Income ETF|G|N|N|100
 FDML|Federal-Mogul Holdings Corporation - Class A Common Stock|Q|N|N|100
@@ -1110,6 +1111,7 @@ FOMX|Foamix Pharmaceuticals Ltd. - Ordinary Shares|G|N|N|100
 FONE|First Trust NASDAQ CEA Smartphone Index Fund|G|N|N|100
 FONR|Fonar Corporation - Common Stock|S|N|N|100
 FORD|Forward Industries, Inc. - Common Stock|S|N|N|100
+FORK|Fuling Global Inc. - Ordinary Shares|S|N|N|100
 FORM|FormFactor, Inc. - Common Stock|Q|N|N|100
 FORR|Forrester Research, Inc. - Common Stock|Q|N|N|100
 FORTY|Formula Systems (1985) Ltd. - ADS represents 1 ordinary shares|Q|N|N|100
@@ -1626,7 +1628,7 @@ LDRH|LDR Holding Corporation - Common Stock|Q|N|N|100
 LDRI|PowerShares LadderRite 0-5 Year Corporate Bond Portfolio|G|N|N|100
 LE|Lands' End, Inc. - Common Stock|S|N|N|100
 LECO|Lincoln Electric Holdings, Inc. - Common Shares|Q|N|N|100
-LEDS|SemiLEDS Corporation - Common Stock|Q|N|D|100
+LEDS|SemiLEDS Corporation - Common Stock|S|N|D|100
 LENS|Presbia PLC - Ordinary Shares|G|N|N|100
 LFUS|Littelfuse, Inc. - Common Stock|Q|N|N|100
 LFVN|Lifevantage Corporation - Common Stock|S|N|D|100
@@ -1853,6 +1855,7 @@ MSLI|Merus Labs International Inc. - Common Stock|S|N|N|100
 MSON|MISONIX, Inc. - Common Stock|G|N|N|100
 MSTR|MicroStrategy Incorporated - Class A Common Stock|Q|N|N|100
 MTBC|Medical Transcription Billing, Corp. - Common Stock|S|N|N|100
+MTBCP|Medical Transcription Billing, Corp. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock|S|N|N|100
 MTEX|Mannatech, Incorporated - Common Stock|Q|N|N|100
 MTGE|American Capital Mortgage Investment Corp. - Common Stock|Q|N|N|100
 MTGEP|American Capital Mortgage Investment Corp. - 8.125% Series A Cumulative Redeemable Preferred Stock|Q|N|N|100
@@ -2027,7 +2030,6 @@ ON|ON Semiconductor Corporation - Common Stock|Q|N|N|100
 ONB|Old National Bancorp - Common Stock|Q|N|N|100
 ONCE|Spark Therapeutics, Inc. - Common Stock|Q|N|N|100
 ONCS|OncoSec Medical Incorporated - Common Stock|S|N|N|100
-ONCY|Oncolytics Biotech, Inc. - Common Shares|S|N|D|100
 ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100
 ONFC|Oneida Financial Corp. - Common Stock|G|N|N|100
 ONTX|Onconova Therapeutics, Inc. - Common Stock|Q|N|D|100
@@ -2317,7 +2319,6 @@ RCII|Rent-A-Center Inc. - Common Stock|Q|N|N|100
 RCKY|Rocky Brands, Inc. - Common Stock|Q|N|N|100
 RCMT|RCM Technologies, Inc. - Common Stock|G|N|N|100
 RCON|Recon Technology, Ltd. - Ordinary Shares|S|N|N|100
-RCPI|Rock Creek Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 RDCM|Radcom Ltd. - Ordinary Shares|S|N|N|100
 RDEN|Elizabeth Arden, Inc. - Common Stock|Q|N|N|100
 RDHL|Redhill Biopharma Ltd. - American Depositary Shares|S|N|N|100
@@ -3092,4 +3093,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1103201521:32|||||
+File Creation Time: 1105201503:03|||||
