@@ -268,7 +268,7 @@ ARKW|ARK Web x.0 ETF|P|ARKW|Y|100|N|ARKW
 ARL|American Realty Investors, Inc. Common Stock|N|ARL|N|100|N|ARL
 ARMK|Aramark Common Stock|N|ARMK|N|100|N|ARMK
 ARO|Aeropostale Inc Common Stock|N|ARO|N|100|N|ARO
-AROC.V|Archrock, Inc. Common Stock Ex-Distribution When Issued|N|AROCw|N|100|N|AROC#
+AROC|Archrock, Inc. Common Stock|N|AROC|N|100|N|AROC
 ARP|Atlas Resource Partners, L.P. Common Units representing Limited Partner Interests|N|ARP|N|100|N|ARP
 ARP$D|Atlas Resource Partners, L.P. CUM RED PERP PDF UNIT CL D %|N|ARPpD|N|100|N|ARP-D
 ARP$E|Atlas Resource Partners, L.P. 10.75% Class E Cumulative Redeemable Perpetual Preferred Units|N|ARPpE|N|100|N|ARP-E
@@ -1609,14 +1609,13 @@ EXC|Exelon Corporation Common Stock|N|EXC|N|100|N|EXC
 EXCU|Exelon Corp. Conv Unit|N|EXCU|N|100|N|EXCU
 EXD|Eaton Vance Tax-Advantaged Bond Common Shares of Beneficial Interest|N|EXD|N|100|N|EXD
 EXG|Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest|N|EXG|N|100|N|EXG
-EXH|Exterran Holdings, Inc. Common Stock|N|EXH|N|100|N|EXH
 EXI|iShares Global Industrials ETF|P|EXI|Y|100|N|EXI
 EXK|Endeavour Silver Corporation Ordinary Shares (Canada)|N|EXK|N|100|N|EXK
 EXP|Eagle Materials Inc Common Stock|N|EXP|N|100|N|EXP
 EXPR|Express, Inc. Common Stock|N|EXPR|N|100|N|EXPR
 EXR|Extra Space Storage Inc Common Stock|N|EXR|N|100|N|EXR
 EXT|WisdomTree Total Earnings Fund|P|EXT|Y|100|N|EXT
-EXTN.V|Exterran Corporation Common Stock When Issued|N|EXTNw|N|100|N|EXTN#
+EXTN|Exterran Corporation Common Stock|N|EXTN|N|100|N|EXTN
 EZA|iShares MSCI South Africa Index Fund|P|EZA|Y|100|N|EZA
 EZJ|ProShares Ultra MSCI Japan|P|EZJ|Y|100|N|EZJ
 EZM|WisdomTree MidCap Earnings Fund|P|EZM|Y|100|N|EZM
@@ -1712,8 +1711,8 @@ FIG|Fortress Investment Group LLC Class A Common Stock|N|FIG|N|100|N|FIG
 FIGY|Barclays ETN FI Enhanced Global High Yield ETN|P|FIGY|N|100|N|FIGY
 FII|Federated Investors, Inc. Common Stock|N|FII|N|100|N|FII
 FILL|iShares MSCI Global Energy Producers Fund|P|FILL|Y|100|N|FILL
-FINU|ProShares UltraPro Financials|P|FINU|Y|100|N|FINU
-FINZ|ProShares UltraPro Short Financials|P|FINZ|Y|100|N|FINZ
+FINU|ProShares UltraPro Financial Select Sector|P|FINU|Y|100|N|FINU
+FINZ|ProShares UltraPro Short Financial Select Sector|P|FINZ|Y|100|N|FINZ
 FIS|Fidelity National Information Services, Inc. Common Stock|N|FIS|N|100|N|FIS
 FISK|Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests|P|FISK|N|100|N|FISK
 FIT|Fitbit, Inc. Class A Common Stock|N|FIT|N|100|N|FIT
@@ -2808,6 +2807,7 @@ KMB|Kimberly-Clark Corporation Common Stock|N|KMB|N|100|N|KMB
 KMF|Kayne Anderson Midstream Energy Fund, Inc Common Stock|N|KMF|N|100|N|KMF
 KMG|KMG Chemicals, Inc. Common Stock|N|KMG|N|100|N|KMG
 KMI|Kinder Morgan, Inc. Common Stock|N|KMI|N|100|N|KMI
+KMI$A|Kinder Morgan, Inc. Depositary Shares, each representing a 1/20th interest in a share of 9.75% Series A Mandatory Convertible Preferred Stock|N|KMIpA|N|100|N|KMI-A
 KMI.W|Kinder Morgan, Inc. Warrants Expiring 2017|N|KMI/WS|N|100|N|KMI+
 KMM|Deutsche  Multi-Market Income Trust Common Sshares of Beneficial Interest|N|KMM|N|100|N|KMM
 KMPA|Kemper Corporation 7.375% Subordinated Debentures due 2054|N|KMPA|N|100|N|KMPA
@@ -5286,4 +5286,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1103201521:32||||||
+File Creation Time: 1105201503:03||||||
