@@ -1059,6 +1059,7 @@ FFKT|Farmers Capital Bank Corporation - Common Stock|Q|N|N|100
 FFNM|First Federal of Northern Michigan Bancorp, Inc. - Common Stock|S|N|N|100
 FFNW|First Financial Northwest, Inc. - Common Stock|Q|N|N|100
 FFWM|First Foundation Inc. - Common Stock|G|N|N|100
+FGBI|First Guaranty Bancshares, Inc. - Common Stock|G|N|N|100
 FGEN|FibroGen, Inc - Common Stock|Q|N|N|100
 FGM|First Trust Germany AlphaDEX Fund|G|N|N|100
 FHCO|Female Health Company (The) - Common Stock|S|N|N|100
@@ -1425,6 +1426,7 @@ ICON|Iconix Brand Group, Inc. - Common Stock|Q|N|N|100
 ICPT|Intercept Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 ICUI|ICU Medical, Inc. - Common Stock|Q|N|N|100
 IDCC|InterDigital, Inc. - Common Stock|Q|N|N|100
+IDLB|PowerShares FTSE International Low Beta Equal Weight Portfolio|G|N|N|100
 IDRA|Idera Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 IDSA|Industrial Services of America, Inc. - Common Stock|S|N|N|100
 IDSY|I.D. Systems, Inc. - Common Stock|G|N|N|100
@@ -1601,6 +1603,7 @@ KTCC|Key Tronic Corporation - Common Stock|G|N|N|100
 KTEC|Key Technology, Inc. - Common Stock|G|N|N|100
 KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock|Q|N|N|100
 KTWO|K2M Group Holdings, Inc. - Common Stock|Q|N|N|100
+KURA|Kura Oncology, Inc. - Common Stock|Q|N|N|100
 KUTV|Ku6 Media Co., Ltd. - American Depositary Shares, each representing 100 ordinary shares|G|N|D|100
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100
 KWEB|KraneShares CSI China Internet ETF|G|N|N|100
@@ -2439,6 +2442,7 @@ SBLK|Star Bulk Carriers Corp. - Common Stock|Q|N|N|100
 SBLKL|Star Bulk Carriers Corp. - 8.00% Senior Notes Due 2019|Q|N|N|100
 SBNY|Signature Bank - Common Stock|Q|N|N|100
 SBNYW|Signature Bank - Warrants 12/12/2018|Q|N|N|100
+SBOT|Stellar Biotechnologies, Inc. - Common Stock|S|N|N|100
 SBRA|Sabra Healthcare REIT, Inc. - Common Stock|Q|N|N|100
 SBRAP|Sabra Healthcare REIT, Inc. - 7.125% Preferred Series A (United States)|Q|N|N|100
 SBSA|Spanish Broadcasting System, Inc. - Class A Common Stock|G|N|N|100
@@ -2854,6 +2858,7 @@ USATP|USA Technologies, Inc. - Preferred Stock|G|N|N|100
 USBI|United Security Bancshares, Inc. - Common Stock|S|N|N|100
 USCR|U S Concrete, Inc. - Common Stock|S|N|N|100
 USEG|U.S. Energy Corp. - Common Stock|S|N|D|100
+USLB|PowerShares Russell 1000 Low Beta Equal Weight Portfolio|G|N|N|100
 USLM|United States Lime & Minerals, Inc. - Common Stock|Q|N|N|100
 USLV|Credit Suisse AG - VelocityShares 3x Long Silver ETN|G|N|N|100
 USMD|USMD Holdings, Inc. - Common Stock|S|N|N|100
@@ -3093,4 +3098,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1105201503:03|||||
+File Creation Time: 1105201521:32|||||
