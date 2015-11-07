@@ -2338,7 +2338,7 @@ REGI|Renewable Energy Group, Inc. - Common Stock|Q|N|N|100
 REGN|Regeneron Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 REIS|Reis, Inc - Common Stock|Q|N|N|100
 RELL|Richardson Electronics, Ltd. - Common Stock|Q|N|N|100
-RELV|Reliv' International, Inc. - Common Stock|Q|N|N|100
+RELV|Reliv' International, Inc. - Common Stock|Q|N|D|100
 RELY|Real Industry, Inc.  - Common Stock|Q|N|N|100
 REMY|Remy International, Inc. - Common Stock|Q|N|N|100
 RENT|Rentrak Corporation - Common Stock|Q|N|N|100
@@ -2453,7 +2453,7 @@ SCHL|Scholastic Corporation - Common Stock|Q|N|N|100
 SCHN|Schnitzer Steel Industries, Inc. - Class A Common Stock|Q|N|N|100
 SCLN|SciClone Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 SCMP|Sucampo Pharmaceuticals, Inc. - Class A Common Stock|G|N|N|100
-SCON|Superconductor Technologies Inc. - Common Stock|S|N|N|100
+SCON|Superconductor Technologies Inc. - Common Stock|S|N|D|100
 SCOR|comScore, Inc. - Common Stock|Q|N|N|100
 SCSC|ScanSource, Inc. - Common Stock|Q|N|N|100
 SCSS|Select Comfort Corporation - Common Stock|Q|N|N|100
@@ -3098,4 +3098,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1105201521:32|||||
+File Creation Time: 1106201521:32|||||
