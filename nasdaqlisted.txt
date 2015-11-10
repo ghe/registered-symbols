@@ -284,7 +284,6 @@ AXTI|AXT Inc - Common Stock|Q|N|N|100
 AYA|Amaya Inc. - Common Stock|Q|N|N|100
 AZPN|Aspen Technology, Inc. - Common Stock|Q|N|N|100
 BABY|Natus Medical Incorporated - Common Stock|Q|N|N|100
-BAGR|Diversified Restaurant Holdings, Inc. - Common Stock|S|N|N|100
 BAMM|Books-A-Million, Inc. - Common Stock|Q|N|N|100
 BANF|BancFirst Corporation - Common Stock|Q|N|N|100
 BANFP|BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities|Q|N|N|100
@@ -1337,6 +1336,7 @@ HEAR|Turtle Beach Corporation - Common Stock|G|N|N|100
 HEES|H&E Equipment Services, Inc. - Common Stock|Q|N|N|100
 HELE|Helen of Troy Limited - Common Stock|Q|N|N|100
 HEOP|Heritage Oaks Bancorp - Common Stock|S|N|N|100
+HERO|Hercules Offshore, Inc. - Common Stock|G|N|N|100
 HFBC|HopFed Bancorp, Inc. - Common Stock|G|N|N|100
 HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock|S|N|N|100
 HFFC|HF Financial Corp. - Common Stock|G|N|N|100
@@ -1634,7 +1634,7 @@ LECO|Lincoln Electric Holdings, Inc. - Common Shares|Q|N|N|100
 LEDS|SemiLEDS Corporation - Common Stock|S|N|D|100
 LENS|Presbia PLC - Ordinary Shares|G|N|N|100
 LFUS|Littelfuse, Inc. - Common Stock|Q|N|N|100
-LFVN|Lifevantage Corporation - Common Stock|S|N|D|100
+LFVN|Lifevantage Corporation - Common Stock|S|N|N|100
 LGCY|Legacy Reserves LP - Units Representing Limited Partner Interests|Q|N|N|100
 LGCYO|Legacy Reserves LP - 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units|Q|N|N|100
 LGCYP|Legacy Reserves LP - 8% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units|Q|N|N|100
@@ -2128,7 +2128,7 @@ PDEX|Pro-Dex, Inc. - Common Stock|S|N|N|100
 PDFS|PDF Solutions, Inc. - Common Stock|Q|N|N|100
 PDII|PDI, Inc. - Common Stock|G|N|N|100
 PDLI|PDL BioPharma, Inc. - Common Stock|Q|N|N|100
-PDVW|Pacific DataVision, Inc. - Common Stock|S|N|N|100
+PDVW|pdvWireless, Inc. - Common Stock|S|N|N|100
 PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock|G|N|N|100
 PEBO|Peoples Bancorp Inc. - Common Stock|Q|N|N|100
 PEGA|Pegasystems Inc. - Common Stock|Q|N|N|100
@@ -2202,7 +2202,7 @@ PPHMP|Peregrine Pharmaceuticals Inc. - 10.50% Series E Convertible Preferred Sto
 PPSI|Pioneer Power Solutions, Inc. - Common Stock|S|N|N|100
 PRAA|PRA Group, Inc. - Common Stock|Q|N|N|100
 PRAH|PRA Health Sciences, Inc. - Common Stock|Q|N|N|100
-PRAN|Prana Biotechnology Ltd - American Depositary Shares each representing ten Ordinary Shares|S|N|N|100
+PRAN|Prana Biotechnology Ltd - American Depositary Shares each representing ten Ordinary Shares|S|N|D|100
 PRCP|Perceptron, Inc. - Common Stock|G|N|N|100
 PRFT|Perficient, Inc. - Common Stock|Q|N|N|100
 PRFZ|PowerShares FTSE RAFI US 1500 Small-Mid Portfolio|G|N|N|100
@@ -2429,6 +2429,7 @@ SANM|Sanmina Corporation - Common Stock|Q|N|N|100
 SANW|S&W Seed Company - Common Stock|S|N|N|100
 SASR|Sandy Spring Bancorp, Inc. - Common Stock|Q|N|N|100
 SATS|EchoStar Corporation - common stock|Q|N|N|100
+SAUC|Diversified Restaurant Holdings, Inc. - Common Stock|S|N|N|100
 SAVE|Spirit Airlines, Inc. - Common Stock|Q|N|N|100
 SBAC|SBA Communications Corporation - Common Stock|Q|N|N|100
 SBBP|Strongbridge Biopharma plc - Ordinary Shares|Q|N|N|100
@@ -3098,4 +3099,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1106201521:32|||||
+File Creation Time: 1109201521:32|||||
