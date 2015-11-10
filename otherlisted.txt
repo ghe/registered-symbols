@@ -26,6 +26,7 @@ ABR$C|Arbor Realty Trust Cumulative Redeemable Preferred Series C|N|ABRpC|N|100|
 ABRN|Arbor Realty Trust 7.375% Senior Notes due 2021|N|ABRN|N|100|N|ABRN
 ABT|Abbott Laboratories Common Stock|N|ABT|N|100|N|ABT
 ABX|Barrick Gold Corporation Common Stock|N|ABX|N|100|N|ABX
+AC.Z|Associated Capital Group, Inc. Common Stock When Issued|N|AC/WD|N|100|N|AC$
 ACC|American Campus Communities Inc Common Stock|N|ACC|N|100|N|ACC
 ACCO|Acco Brands Corporation Common Stock|N|ACCO|N|100|N|ACCO
 ACE|Ace Limited Common Stock|N|ACE|N|100|N|ACE
@@ -1879,6 +1880,7 @@ GBAB|Guggenheim Build America Bonds Managed Duration Trust Common Shares of Bene
 GBB|iPath Goldman Sachs iPath GBP/USD Exchange Rate ETN|P|GBB|N|100|N|GBB
 GBF|iShares Government/Credit Bond ETF|P|GBF|Y|100|N|GBF
 GBL|Gamco Investors, Inc. Common Stock|N|GBL|N|100|N|GBL
+GBL.V|Gamco Investors, Inc. Class A Common Stock Ex-Distribution When Issued|N|GBLw|N|100|N|GBL#
 GBR|New Concept Energy, Inc Common Stock|A|GBR|N|100|N|GBR
 GBX|Greenbrier Companies, Inc. (The) Common Stock|N|GBX|N|100|N|GBX
 GCAP|GAIN Capital Holdings, Inc. Common Stock|N|GCAP|N|100|N|GCAP
@@ -5285,4 +5287,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1106201521:32||||||
+File Creation Time: 1109201521:32||||||
