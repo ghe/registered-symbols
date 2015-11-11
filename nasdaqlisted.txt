@@ -435,7 +435,7 @@ CAFD|8point3 Energy Partners LP - Class A Shares|Q|N|N|100
 CAKE|The Cheesecake Factory Incorporated - Common Stock|Q|N|N|100
 CALA|Calithera Biosciences, Inc. - Common Stock|Q|N|N|100
 CALD|Callidus Software, Inc. - Common Stock|G|N|N|100
-CALI|China Auto Logistics Inc. - Common Stock|S|N|N|100
+CALI|China Auto Logistics Inc. - Common Stock|S|N|D|100
 CALL|magicJack VocalTec Ltd - Ordinary Shares|G|N|N|100
 CALM|Cal-Maine Foods, Inc. - Common Stock|Q|N|N|100
 CAMB|Cambridge Capital Acquisition Corporation - Common Stock|S|N|N|100
@@ -612,7 +612,7 @@ CMCSK|Comcast Corporation - Class A Special Common Stock|Q|N|N|100
 CMCT|CIM Commercial Trust Corporation - Common Stock|G|N|N|100
 CME|CME Group Inc. - Class A Common Stock|Q|N|N|100
 CMFN|CM Finance Inc - Common Stock|Q|N|N|100
-CMLS|Cumulus Media Inc. - Common Stock|Q|N|N|100
+CMLS|Cumulus Media Inc. - Common Stock|Q|N|D|100
 CMPR|Cimpress N.V - Ordinary Shares (The Netherlands)|Q|N|N|100
 CMRX|Chimerix, Inc. - Common Stock|G|N|N|100
 CMTL|Comtech Telecommunications Corp. - Common Stock|Q|N|N|100
@@ -959,7 +959,7 @@ ERS|Empire Resources, Inc. - Common Stock|S|N|N|100
 ERW|Janus Equal Risk Weighted Large Cap ETF|G|N|N|100
 ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
-ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|S|N|D|100
+ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|S|N|N|100
 ESEA|Euroseas Ltd. - Common Stock|S|N|N|100
 ESES|Eco-Stim Energy Solutions, Inc. - Common Stock|S|N|N|100
 ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100
@@ -999,7 +999,7 @@ EYEG|Eyegate Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 EYEGW|Eyegate Pharmaceuticals, Inc. - Warrants|S|N|N|100
 EYES|Second Sight Medical Products, Inc. - Common Stock|S|N|N|100
 EZCH|EZchip Semiconductor Limited - Ordinary Shares|Q|N|N|100
-EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|E|100
+EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|N|100
 FALC|FalconStor Software, Inc. - Common Stock|G|N|N|100
 FANG|Diamondback Energy, Inc. - Commmon Stock|Q|N|N|100
 FARM|Farmer Brothers Company - Common Stock|Q|N|N|100
@@ -2281,7 +2281,7 @@ QDEL|Quidel Corporation - Common Stock|Q|N|N|100
 QGEN|Qiagen N.V. - Common Shares|Q|N|N|100
 QINC|First Trust RBA Quality Income ETF|G|N|N|100
 QIWI|QIWI plc - American Depositary Shares|Q|N|N|100
-QKLS|QKL Stores, Inc. - Common Stock|S|N|N|100
+QKLS|QKL Stores, Inc. - Common Stock|S|N|D|100
 QLC|FlexShares US Quality Large Cap Index Fund|G|N|N|100
 QLGC|QLogic Corporation - Common Stock|Q|N|N|100
 QLIK|Qlik Technologies Inc. - Common Stock|Q|N|N|100
@@ -2972,6 +2972,7 @@ WBKC|Wolverine Bancorp, Inc. - Common Stock|S|N|N|100
 WBMD|WebMD Health Corp - Common Stock|Q|N|N|100
 WDC|Western Digital Corporation - Common Stock|Q|N|N|100
 WDFC|WD-40 Company - Common Stock|Q|N|N|100
+WEB|Web.com Group, Inc. - Common Stock|Q|N|N|100
 WEBK|Wellesley Bancorp, Inc. - Common Stock|S|N|N|100
 WEN|Wendy's Company (The) - Common Stock|Q|N|N|100
 WERN|Werner Enterprises, Inc. - Common Stock|Q|N|N|100
@@ -3031,7 +3032,6 @@ WVFC|WVS Financial Corp. - Common Stock|G|N|N|100
 WVVI|Willamette Valley Vineyards, Inc. - Common Stock|S|N|N|100
 WVVIP|Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock|S|N|N|100
 WWD|Woodward, Inc. - Common Stock|Q|N|N|100
-WWWW|Web.com Group, Inc. - Common Stock|Q|N|N|100
 WYIG|JM Global Holding Company - Common Stock|S|N|N|100
 WYIGU|JM Global Holding Company - Units|S|N|N|100
 WYIGW|JM Global Holding Company - Warrants|S|N|N|100
@@ -3099,4 +3099,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1109201521:32|||||
+File Creation Time: 1110201521:32|||||
