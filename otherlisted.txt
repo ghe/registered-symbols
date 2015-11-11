@@ -162,6 +162,7 @@ ALDW|Alon USA Partners, LP Common Units representing Limited Partner Interests|N
 ALE|Allete, Inc.|N|ALE|N|100|N|ALE
 ALEX|Alexander & Baldwin, Inc. Common Stock|N|ALEX|N|100|N|ALEX
 ALFA|AlphaClone Alternative Alpha ETF|P|ALFA|Y|100|N|ALFA
+ALFI|ETF Series Solutions Trust ETF|P|ALFI|Y|100|N|ALFI
 ALG|Alamo Group, Inc. Common Stock|N|ALG|N|100|N|ALG
 ALJ|Alon USA Energy, Inc. common stick|N|ALJ|N|100|N|ALJ
 ALK|Alaska Air Group, Inc. Common Stock|N|ALK|N|100|N|ALK
@@ -1220,7 +1221,6 @@ DRD|DRDGOLD Limited American Depositary Shares|N|DRD|N|100|N|DRD
 DRE|Duke Realty Corporation Common Stock|N|DRE|N|100|N|DRE
 DRH|Diamondrock Hospitality Company Common Stock|N|DRH|N|100|N|DRH
 DRI|Darden Restaurants, Inc. Common Stock|N|DRI|N|100|N|DRI
-DRI.V|Darden Restaurants, Inc. Common Stock Ex-Distribution When Issued|N|DRIw|N|100|N|DRI#
 DRII|Diamond Resorts International, Inc. Common Stock|N|DRII|N|100|N|DRII
 DRIP|Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 3X Shares|P|DRIP|Y|100|N|DRIP
 DRN|Dexion Daily Real Estate Bull 3x Shares|P|DRN|Y|100|N|DRN
@@ -1661,7 +1661,7 @@ FCN|FTI Consulting, Inc. Common Stock|N|FCN|N|100|N|FCN
 FCO|Aberdeen Global Income Fund, Inc. Common Stock|A|FCO|N|100|N|FCO
 FCOM|Fidelity MSCI Telecommunication Services Index ETF|P|FCOM|Y|100|N|FCOM
 FCOR|Fidelity Corporate Bond ETF|P|FCOR|Y|100|N|FCOR
-FCPT.V|Four Corners Property Trust, Inc. Common Stock When Issued|N|FCPTw|N|100|N|FCPT#
+FCPT|Four Corners Property Trust, Inc. Common Stock|N|FCPT|N|100|N|FCPT
 FCT|First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest|N|FCT|N|100|N|FCT
 FCX|Freeport-McMoRan, Inc. Common Stock|N|FCX|N|100|N|FCX
 FDC|First Data Corporation Class A Common Stock|N|FDC|N|100|N|FDC
@@ -2064,6 +2064,7 @@ GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index|P|G
 GSG|iShares GSCI Commodity-Indexed Trust Fund|P|GSG|Y|100|N|GSG
 GSH|Guangshen Railway Company Limited Common Stock|N|GSH|N|100|N|GSH
 GSI|General Steel Holdings, Inc. Common Stock|N|GSI|N|100|N|GSI
+GSIE|Goldman Sachs ActiveBeta International Equity ETF|P|GSIE|Y|100|N|GSIE
 GSJ|Goldman Sachs Group, Inc. (The) 6.50% Notes due 2061|N|GSJ|N|100|N|GSJ
 GSK|GlaxoSmithKline PLC Common Stock|N|GSK|N|100|N|GSK
 GSL|Global Ship Lease Inc New Class A Common Shares|N|GSL|N|100|N|GSL
@@ -2259,7 +2260,7 @@ HPE|Hewlett Packard Enterprise Company Common Stock|N|HPE|N|100|N|HPE
 HPF|John Hancock Pfd Income Fund II Pfd Income Fund II|N|HPF|N|100|N|HPF
 HPI|John Hancock Preferred Income Fund Common Shares of Beneficial Interest|N|HPI|N|100|N|HPI
 HPP|Hudson Pacific Properties, Inc. Common Stock|N|HPP|N|100|N|HPP
-HPP$B|Hudson Pacific Properties, Inc. 8.375% Series B Cumulative Redeemable Preferred shares|N|HPPpB|N|100|N|HPP-B
+HPP$B|Hudson Pacific Properties, Inc. 8.375% Series B Cumulative Redeemable Preferred shares|N|HPPpB/CL|N|100|N|HPP-B*
 HPQ|HP Inc. Common Stock|N|HPQ|N|100|N|HPQ
 HPS|John Hancock Preferred Income Fund III Preferred Income Fund III|N|HPS|N|100|N|HPS
 HPT|Hospitality Properites Trust Common Stock|N|HPT|N|100|N|HPT
@@ -4661,6 +4662,8 @@ TK|Teekay Corporation Common Stock|N|TK|N|100|N|TK
 TKC|Turkcell Iletisim Hizmetleri AS Common Stock|N|TKC|N|100|N|TKC
 TKF|Turkish Investment Fund, Inc. (The) Common Stock|N|TKF|N|100|N|TKF
 TKR|Timken Company (The) Common Stock|N|TKR|N|100|N|TKR
+TLDH|FlexShares Currency Hedged Morningstar DM ex-US Factor Tilt Index Fund|P|TLDH|Y|100|N|TLDH
+TLEH|FlexShares Currency Hedged Morningstar EM Factor Tilt Index Fund|P|TLEH|Y|100|N|TLEH
 TLH|iShares 10-20 Year Treasury Bond ETF|P|TLH|Y|100|N|TLH
 TLI|LMP Corporate Loan Fund Inc Common Stock|N|TLI|N|100|N|TLI
 TLK|PT Telekomunikasi Indonesia, Tbk|N|TLK|N|100|N|TLK
@@ -5287,4 +5290,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1109201521:32||||||
+File Creation Time: 1110201521:32||||||
