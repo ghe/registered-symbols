@@ -3085,10 +3085,6 @@ MHNB|Maiden Holdings North America, Ltd. 8.00% Notes due 2042|N|MHNB|N|100|N|MHN
 MHNC|Maiden Holdings North America, Ltd. 7.75% Notes due 2043|N|MHNC|N|100|N|MHNC
 MHO|M/I Homes, Inc. Common Stock|N|MHO|N|100|N|MHO
 MHO$A|M/I Homes, Inc. M/I Homes, Inc. Depositary Shares (Each representing 1/1000 of a Share of 9.75% Series A Preferred Share)|N|MHOpA|N|100|N|MHO-A
-MHR|Magnum Hunter Resources Corporation|N|MHR|N|100|N|MHR
-MHR$C|Magnum Hunter Resources Corporation 10.25% Series C Cumulative Perpetual Preferred Stock|A|MHRpC|N|100|N|MHR-C
-MHR$D|Magnum Hunter Resources Corporation 8.0% Series D Cumulative Preferred Stock|A|MHRpD|N|100|N|MHR-D
-MHR$E|Magnum Hunter Resources Corporation Depositary Shares, each representing a 1/1000th interest in a share of 8.0% Series E Cumulative Convertible Preferred Stock|A|MHRpE|N|100|N|MHR-E
 MHY|Western Asset Managed High Income Fund, Inc. Common Stock|N|MHY|N|100|N|MHY
 MIC|Macquarie Infrastructure Company Common Stock|N|MIC|N|100|N|MIC
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
@@ -5290,4 +5286,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1110201521:32||||||
+File Creation Time: 1111201521:31||||||
