@@ -1,4 +1,5 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size
+AAAP|Advanced Accelerator Applications S.A. - American Depositary Shares|Q|N|N|100
 AAL|American Airlines Group, Inc. - Common Stock|Q|N|N|100
 AAME|Atlantic American Corporation - Common Stock|G|N|N|100
 AAOI|Applied Optoelectronics, Inc. - Common Stock|G|N|N|100
@@ -949,6 +950,7 @@ EPIQ|EPIQ Systems, Inc. - Common Stock|Q|N|N|100
 EPIX|ESSA Pharma Inc. - Common Stock|S|N|N|100
 EPRS|EPIRUS Biopharmaceuticals, Inc. - Common Stock|S|N|N|100
 EPZM|Epizyme, Inc. - Common Stock|Q|N|N|100
+EQBK|Equity Bancshares, Inc. - Class A Common Stock|Q|N|N|100
 EQFN|Equitable Financial Corp. - Common Stock|S|N|N|100
 EQIX|Equinix, Inc. - Common Stock|Q|N|N|100
 ERI|Eldorado Resorts, Inc. - Common Stock|Q|N|N|100
@@ -959,7 +961,6 @@ ERS|Empire Resources, Inc. - Common Stock|S|N|N|100
 ERW|Janus Equal Risk Weighted Large Cap ETF|G|N|N|100
 ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100
-ESCRP|Escalera Resources Co. - Series A Cumulative Preferred Stock|S|N|N|100
 ESEA|Euroseas Ltd. - Common Stock|S|N|N|100
 ESES|Eco-Stim Energy Solutions, Inc. - Common Stock|S|N|N|100
 ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100
@@ -2206,8 +2207,8 @@ PRAN|Prana Biotechnology Ltd - American Depositary Shares each representing ten 
 PRCP|Perceptron, Inc. - Common Stock|G|N|N|100
 PRFT|Perficient, Inc. - Common Stock|Q|N|N|100
 PRFZ|PowerShares FTSE RAFI US 1500 Small-Mid Portfolio|G|N|N|100
-PRGN|Paragon Shipping Inc. - Common Stock|G|N|D|100
-PRGNL|Paragon Shipping Inc. - 8.375% Senior Notes due 2021|G|N|N|100
+PRGN|Paragon Shipping Inc. - Common Stock|S|N|D|100
+PRGNL|Paragon Shipping Inc. - 8.375% Senior Notes due 2021|S|N|N|100
 PRGS|Progress Software Corporation - Common Stock|Q|N|N|100
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100
 PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100
@@ -2340,7 +2341,6 @@ REIS|Reis, Inc - Common Stock|Q|N|N|100
 RELL|Richardson Electronics, Ltd. - Common Stock|Q|N|N|100
 RELV|Reliv' International, Inc. - Common Stock|Q|N|D|100
 RELY|Real Industry, Inc.  - Common Stock|Q|N|N|100
-REMY|Remy International, Inc. - Common Stock|Q|N|N|100
 RENT|Rentrak Corporation - Common Stock|Q|N|N|100
 REPH|Recro Pharma, Inc. - Common Stock|S|N|N|100
 RESN|Resonant Inc. - Common Stock|S|N|N|100
@@ -2745,7 +2745,7 @@ TNAV|Telenav, Inc. - Common Stock|Q|N|N|100
 TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100
 TNGO|Tangoe, Inc. - Common Stock|Q|N|N|100
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|N|100
-TOPS|TOP Ships Inc. - Common Stock|Q|N|N|100
+TOPS|TOP Ships Inc. - Common Stock|Q|N|D|100
 TOR|Sutor Technology Group Limited - Common Stock|S|N|E|100
 TORM|TOR Minerals International Inc - Common Stock|S|N|N|100
 TOUR|Tuniu Corporation - American Depositary Shares|G|N|N|100
@@ -2958,6 +2958,7 @@ VWR|VWR Corporation - Common Stock|Q|N|N|100
 VXDN|AccuShares Spot CBOE VIX Down Shares|G|N|N|100
 VXUP|AccuShares Spot CBOE VIX Up Shares|G|N|N|100
 VXUS|Vanguard Total International Stock ETF|G|N|N|100
+VYGR|Voyager Therapeutics, Inc. - Common Stock|Q|N|N|100
 WABC|Westamerica Bancorporation - Common Stock|Q|N|N|100
 WAFD|Washington Federal, Inc. - Common Stock|Q|N|N|100
 WAFDW|Washington Federal, Inc. - Warrants 11/14/2018|Q|N|N|100
@@ -3028,6 +3029,7 @@ WTBA|West Bancorporation - Common Stock|Q|N|N|100
 WTFC|Wintrust Financial Corporation - Common Stock|Q|N|N|100
 WTFCM|Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D|Q|N|N|100
 WTFCW|Wintrust Financial Corporation - Warrants|Q|N|N|100
+WVE|WAVE Life Sciences Ltd. - Ordinary Shares|G|N|N|100
 WVFC|WVS Financial Corp. - Common Stock|G|N|N|100
 WVVI|Willamette Valley Vineyards, Inc. - Common Stock|S|N|N|100
 WVVIP|Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock|S|N|N|100
@@ -3099,4 +3101,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1110201521:32|||||
+File Creation Time: 1111201521:31|||||
