@@ -360,7 +360,9 @@ BLMT|BSB Bancorp, Inc. - Common Stock|S|N|N|100
 BLPH|Bellerophon Therapeutics, Inc. - Common Stock|G|N|N|100
 BLRX|BioLineRx Ltd. - American Depositary Shares|S|N|N|100
 BLUE|bluebird bio, Inc. - Common Stock|Q|N|N|100
+BLVD|Boulevard Acquisition Corp. II - Class A Common Stock|S|N|N|100
 BLVDU|Boulevard Acquisition Corp. II - Units|S|N|N|100
+BLVDW|Boulevard Acquisition Corp. II - Warrant|S|N|N|100
 BMRC|Bank of Marin Bancorp - Common Stock|S|N|N|100
 BMRN|BioMarin Pharmaceutical Inc. - Common Stock|Q|N|N|100
 BMTC|Bryn Mawr Bank Corporation - Common Stock|Q|N|N|100
@@ -1242,7 +1244,7 @@ GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership|Q|N|D
 GNBC|Green Bancorp, Inc. - Common Stock|Q|N|N|100
 GNCA|Genocea Biosciences, Inc. - Common Stock|G|N|N|100
 GNCMA|General Communication, Inc. - Class A Common Stock|Q|N|N|100
-GNMA|iShares Core GNMA Bond ETF|G|N|N|100
+GNMA|iShares GNMA Bond ETF|G|N|N|100
 GNMK|GenMark Diagnostics, Inc. - Common Stock|G|N|N|100
 GNOW|American Caresource Holdings Inc - Common Stock|S|N|D|100
 GNTX|Gentex Corporation - Common Stock|Q|N|N|100
@@ -1488,7 +1490,7 @@ INWK|InnerWorkings, Inc. - Common Stock|Q|N|N|100
 IOSP|Innospec Inc. - Common Stock|Q|N|N|100
 IOTS|Adesto Technologies Corporation - Common Stock|S|N|N|100
 IPAR|Inter Parfums, Inc. - Common Stock|Q|N|N|100
-IPAS|iPass Inc. - Common Stock|Q|N|N|100
+IPAS|iPass Inc. - Common Stock|Q|N|D|100
 IPCC|Infinity Property and Casualty Corporation - Common Stock|Q|N|N|100
 IPCI|Intellipharmaceutics International Inc. - Common Stock|S|N|N|100
 IPCM|IPC Healthcare, Inc. - Common Stock|Q|N|N|100
@@ -1838,7 +1840,7 @@ MOSY|MoSys, Inc. - Common Stock|Q|N|N|100
 MPAA|Motorcar Parts of America, Inc. - Common Stock|Q|N|N|100
 MPB|Mid Penn Bancorp - Common Stock|G|N|N|100
 MPEL|Melco Crown Entertainment Limited - American depositary shares each representing three ordinary shares|Q|N|N|100
-MPET|Magellan Petroleum Corporation - Common Stock|S|N|N|100
+MPET|Magellan Petroleum Corporation - Common Stock|S|N|D|100
 MPWR|Monolithic Power Systems, Inc. - Common Stock|Q|N|N|100
 MRCC|Monroe Capital Corporation - Common Stock|Q|N|N|100
 MRCY|Mercury Systems Inc - Common Stock|Q|N|N|100
@@ -2045,7 +2047,7 @@ OPGNW|OpGen, Inc. - Warrant|S|N|N|100
 OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|D|100
 OPHT|Ophthotech Corporation - Common Stock|Q|N|N|100
 OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100
-OPTT|Ocean Power Technologies, Inc. - Common Stock|S|N|D|100
+OPTT|Ocean Power Technologies, Inc. - Common Stock|S|N|N|100
 OPXA|Opexa Therapeutics, Inc. - Common Stock|S|N|N|100
 OPXAW|Opexa Therapeutics, Inc. - Warrant|S|N|N|100
 ORBC|ORBCOMM Inc. - Common Stock|Q|N|N|100
@@ -2115,7 +2117,7 @@ PCCC|PC Connection, Inc. - Common Stock|Q|N|N|100
 PCH|Potlatch Corporation - Common Stock|Q|N|N|100
 PCLN|The Priceline Group Inc.  - Common Stock|Q|N|N|100
 PCMI|PCM, Inc. - Common Stock|G|N|N|100
-PCO|Pendrell Corporation - Class A Common Stock|Q|N|N|100
+PCO|Pendrell Corporation - Class A Common Stock|Q|N|D|100
 PCOM|Points International, Ltd. - Common Shares|S|N|N|100
 PCRX|Pacira Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 PCTI|PC-Tel, Inc. - Common Stock|Q|N|N|100
@@ -3040,6 +3042,7 @@ WYIGW|JM Global Holding Company - Warrants|S|N|N|100
 WYNN|Wynn Resorts, Limited - Common Stock|Q|N|N|100
 XBIT|XBiotech Inc. - Common Stock|Q|N|N|100
 XBKS|Xenith Bankshares, Inc. - Common Stock|S|N|N|100
+XCOM|Xtera Communications, Inc. - Common Stock|G|N|N|100
 XCRA|Xcerra Corporation - Common Stock|Q|N|N|100
 XELB|Xcel Brands, Inc - Common Stock|G|N|N|100
 XENE|Xenon Pharmaceuticals Inc. - Common Shares|G|N|N|100
@@ -3101,4 +3104,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1111201521:31|||||
+File Creation Time: 1112201521:32|||||
