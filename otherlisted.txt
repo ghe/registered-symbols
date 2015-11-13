@@ -2061,6 +2061,7 @@ GSAT|Globalstar, Inc. Common Stock|A|GSAT|N|100|N|GSAT
 GSB|GlobalSCAPE, Inc. Common Stock|A|GSB|N|100|N|GSB
 GSBD|Goldman Sachs BDC, Inc. Common Stock|N|GSBD|N|100|N|GSBD
 GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index|P|GSC|N|100|N|GSC
+GSD|WisdomTree Global SmallCap Dividend Fund|Z|GSD|Y|100|N|GSD
 GSG|iShares GSCI Commodity-Indexed Trust Fund|P|GSG|Y|100|N|GSG
 GSH|Guangshen Railway Company Limited Common Stock|N|GSH|N|100|N|GSH
 GSI|General Steel Holdings, Inc. Common Stock|N|GSI|N|100|N|GSI
@@ -2343,6 +2344,7 @@ I$A|Intelsat S.A. Series A mandatory convefrtible junior non-voting preferred sh
 IAE|Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest|N|IAE|N|100|N|IAE
 IAF|Aberdeen Australia Equity Fund Inc Common Stock|A|IAF|N|100|N|IAF
 IAG|Iamgold Corporation Ordinary Shares|N|IAG|N|100|N|IAG
+IAGG|iShares International Aggregate Bond Fund|Z|IAGG|Y|100|N|IAGG
 IAI|iShares U.S. Broker-Dealers ETF|P|IAI|Y|100|N|IAI
 IAK|iShares U.S. Insurance ETF|P|IAK|Y|100|N|IAK
 IAT|iShares U.S. Regional Banks ETF|P|IAT|Y|100|N|IAT
@@ -3811,6 +3813,7 @@ PRH|Prudential Financial, Inc. 5.70% Junior Subordinated Notes due 2053|N|PRH|N|
 PRI|Primerica, Inc. Common Stock|N|PRI|N|100|N|PRI
 PRK|Park National Corporation Common Stock|A|PRK|N|100|N|PRK
 PRLB|Proto Labs, Inc. Common stock|N|PRLB|N|100|N|PRLB
+PRME|First Trust Heitman Global Prime Real Estate ETF|P|PRME|Y|100|N|PRME
 PRN|PowerShares DWA Industrials Momentum Portfolio|P|PRN|Y|100|N|PRN
 PRO|PROS Holdings, Inc. Common Stock|N|PRO|N|100|N|PRO
 PRTY|Party City Holdco Inc. Common Stock|N|PRTY|N|100|N|PRTY
@@ -4051,7 +4054,7 @@ RLGT|Radiant Logistics, Inc. Common Stock|A|RLGT|N|100|N|RLGT
 RLGT$A|Radiant Logistics, Inc. 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock|A|RLGTpA|N|100|N|RLGT-A
 RLGY|Realogy Holdings Corp. Common Stock|N|RLGY|N|100|N|RLGY
 RLH|Red Lions Hotels Corporation Common Stock|N|RLH|N|100|N|RLH
-RLH$A|Red Lion Hotels Capital Trust Red Lion Hotels Capital Trust - Trust Preferred Securities|N|RLHpA|N|100|N|RLH-A
+RLH$A|Red Lion Hotels Capital Trust Red Lion Hotels Capital Trust - Trust Preferred Securities|N|RLHpA/CL|N|100|N|RLH-A*
 RLI|RLI Corp. Common Stock|N|RLI|N|100|N|RLI
 RLJ|RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value|N|RLJ|N|100|N|RLJ
 RLY|SPDR SSgA Multi Asset Real Return ETF|P|RLY|Y|100|N|RLY
@@ -5286,4 +5289,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1111201521:31||||||
+File Creation Time: 1112201521:32||||||
