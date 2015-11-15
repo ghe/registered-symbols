@@ -519,7 +519,9 @@ CEMP|Cempra, Inc. - Common Stock|Q|N|N|100
 CENT|Central Garden & Pet Company - Common Stock|Q|N|N|100
 CENTA|Central Garden & Pet Company - Class A Common Stock Nonvoting|Q|N|N|100
 CENX|Century Aluminum Company - Common Stock|Q|N|N|100
-CERCU|Cerecor Inc. - Unit|S|N|N|100
+CERC|Cerecor Inc. - Common Stock|S|N|N|100
+CERCW|Cerecor Inc. - Class A Warrants|S|N|N|100
+CERCZ|Cerecor Inc. - Class B Warrants|S|N|N|100
 CERE|Ceres, Inc. - Common Stock|S|N|N|100
 CERN|Cerner Corporation - Common Stock|Q|N|N|100
 CERS|Cerus Corporation - Common Stock|G|N|N|100
@@ -659,6 +661,8 @@ COST|Costco Wholesale Corporation - Common Stock|Q|N|N|100
 COVS|Covisint Corporation - Common Stock|Q|N|N|100
 COWN|Cowen Group, Inc. - Class A Common Stock|Q|N|N|100
 COWNL|Cowen Group, Inc. - 8.25% Senior Notes due 2021|Q|N|N|100
+COYN|COPsync, Inc. - Common Stock|S|N|N|100
+COYNW|COPsync, Inc. - Warrant|S|N|N|100
 CPAH|CounterPath Corporation - Common Stock|S|N|D|100
 CPHC|Canterbury Park Holding Corporation - Common Stock|G|N|N|100
 CPHD|CEPHEID - Common Stock|Q|N|N|100
@@ -1755,7 +1759,7 @@ MDAS|MedAssets, Inc. - Common Stock|Q|N|N|100
 MDCA|MDC Partners Inc. - Class A Subordinate Voting Shares|Q|N|N|100
 MDCO|The Medicines Company - Common Stock|Q|N|N|100
 MDGS|Medigus Ltd. - American Depositary Share|S|N|N|100
-MDIV|First Trust Exchange-Traded Fund VI Multi-Asset Diversified Income Index Fund|G|N|N|100
+MDIV|Multi-Asset Diversified Income Index Fund|G|N|N|100
 MDLZ|Mondelez International, Inc. - Class A Common Stock|Q|N|N|100
 MDM|Mountain Province Diamonds Inc. - Common Stock|Q|N|N|100
 MDRX|Allscripts Healthcare Solutions, Inc. - common stock|Q|N|N|100
@@ -1779,6 +1783,7 @@ MENT|Mentor Graphics Corporation - Common Stock|Q|N|N|100
 MEOH|Methanex Corporation - Common Stock|Q|N|N|100
 MERC|Mercer International Inc. - Common Stock|Q|N|N|100
 MESG|Xura, Inc. - Common Stock|G|N|N|100
+MESO|Mesoblast Limited - American Depositary Shares|Q|N|N|100
 METR|Metro Bancorp, Inc - Common Stock|Q|N|N|100
 MFLX|Multi-Fineline Electronix, Inc. - Common Stock|Q|N|N|100
 MFNC|Mackinac Financial Corporation - Common Stock|S|N|N|100
@@ -2515,7 +2520,7 @@ SIGM|Sigma Designs, Inc. - Common Stock|Q|N|N|100
 SILC|Silicom Ltd - Ordinary Shares|Q|N|N|100
 SIMO|Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares|Q|N|N|100
 SINA|Sina Corporation - Ordinary Shares|Q|N|N|100
-SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|N|100
+SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|D|100
 SIRI|Sirius XM Holdings Inc. - Common Stock|Q|N|N|100
 SIRO|Sirona Dental Systems, Inc. - Common Stock|Q|N|N|100
 SITO|SITO Mobile, Ltd. - Common Stock|S|N|N|100
@@ -2703,7 +2708,7 @@ TCON|TRACON Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 TCPC|TCP Capital Corp. - Common Stock|Q|N|N|100
 TCRD|THL Credit, Inc. - Common Stock|Q|N|N|100
 TCX|Tucows Inc. - Common Stock|S|N|N|100
-TDIV|First Trust Exchange-Traded Fund VI First Trust NASDAQ Technology Dividend Index Fund|G|N|N|100
+TDIV|First Trust NASDAQ Technology Dividend Index Fund|G|N|N|100
 TEAR|TearLab Corporation - Common Stock|S|N|N|100
 TECD|Tech Data Corporation - Common Stock|Q|N|N|100
 TECH|Bio-Techne Corp - Common Stock|Q|N|N|100
@@ -2815,7 +2820,7 @@ UAE|iShares MSCI UAE Capped ETF|G|N|N|100
 UBCP|United Bancorp, Inc. - Common Stock|S|N|N|100
 UBFO|United Security Bancshares - Common Stock|Q|N|N|100
 UBIC|UBIC, Inc. - American Depositary Shares|Q|N|N|100
-UBIO|Proshares UltraPro NASDAQ Biotechnology|G|N|N|100
+UBIO|Proshares UltraPro Nasdaq Biotechnology|G|N|N|100
 UBND|WisdomTree Western Asset Unconstrained Bond Fund|G|N|N|100
 UBNK|United Financial Bancorp, Inc.  - Common Stock|Q|N|N|100
 UBNT|Ubiquiti Networks, Inc. - Common Stock|Q|N|N|100
@@ -3057,7 +3062,6 @@ XNET|Xunlei Limited - American Depositary Receipts|Q|N|N|100
 XNPT|XenoPort, Inc. - Common Stock|Q|N|N|100
 XOMA|XOMA Corporation - Common Stock|G|N|N|100
 XONE|The ExOne Company - Common Stock|Q|N|N|100
-XOOM|Xoom Corporation - Common Stock|Q|N|N|100
 XPLR|Xplore Technologies Corp - Common Stock|S|N|N|100
 XRAY|DENTSPLY International Inc. - Common Stock|Q|N|N|100
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100
@@ -3104,4 +3108,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1112201521:32|||||
+File Creation Time: 1113201521:32|||||
