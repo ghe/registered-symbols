@@ -2495,6 +2495,7 @@ INN$C|Summit Hotel Properties, Inc. 7.125% Series C Cumulative Redeemable Prefer
 INP|Barclays Bank Plc iPath ETNs linked to the MSCI India Total Return Index|P|INP|N|100|N|INP
 INR|Market Vectors Indian Rupee/USD  ETN|P|INR|N|100|N|INR
 INS|Intelligent Systems Corporation Common Stock|A|INS|N|100|N|INS
+INST|Instructure, Inc. Common Stock|N|INST|N|100|N|INST
 INT|World Fuel Services Corporation Common Stock|N|INT|N|100|N|INT
 INTF|iShares FactorSelect MSCI International ETF|P|INTF|Y|100|N|INTF
 INTT|inTest Corporation Common Stock|A|INTT|N|100|N|INTT
@@ -2657,6 +2658,7 @@ JGBT|DB 3X Japanese Govt Bond Futures ETN|P|JGBT|N|100|N|JGBT
 JGH|Nuveen Global High Income Fund Common Shares of Beneficial Interest|N|JGH|N|100|N|JGH
 JGV|Nuveen Global Equity Income Fund|N|JGV|N|100|N|JGV
 JGW|J.G. Wentworth Company (The) Class A Common Stock|N|JGW|N|100|N|JGW
+JHA|Nuveen High Income December 2018 Target Term Fund|N|JHA|N|100|N|JHA
 JHDG|WisdomTree Japan Hedged Quality Dividend Growth Fund|P|JHDG|Y|100|N|JHDG
 JHI|John Hancock Investors Trust Common Stock|N|JHI|N|100|N|JHI
 JHMC|John Hancock Multifactor Consumer Discretionary ETF|P|JHMC|Y|100|N|JHMC
@@ -2892,6 +2894,7 @@ LCI|Lannett Co Inc Common Stock|N|LCI|N|100|N|LCI
 LCM|Advent/Claymore Enhanced Growth & Income Fund Advent/Claymore Enhanced Growth & Income Fund Common Shares of Beneficial Interest|N|LCM|N|100|N|LCM
 LD|iPath Bloomberg Lead Subindex Total Return SM Index ETN|P|LD|N|100|N|LD
 LDF|Latin American Discovery Fund, Inc. (The) Common Stock|N|LDF|N|100|N|LDF
+LDI|loanDepot, Inc. Class A Common Stock|N|LDI|N|100|N|LDI
 LDL|Lydall, Inc. Common Stock|N|LDL|N|100|N|LDL
 LDOS|Leidos Holdings, Inc. Common Stock|N|LDOS|N|100|N|LDOS
 LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.|N|LDP|N|100|N|LDP
@@ -5289,4 +5292,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1112201521:32||||||
+File Creation Time: 1113201521:32||||||
