@@ -501,7 +501,7 @@ CDK|CDK Global, Inc. - Common Stock|Q|N|N|100
 CDL|Victory CEMP US Large Cap High Div Volatility Wtd Index ETF|G|N|N|100
 CDNA|CareDx, Inc. - Common Stock|G|N|N|100
 CDNS|Cadence Design Systems, Inc. - Common Stock|Q|N|N|100
-CDOR|Condor Hospitality Trust, Inc. - Common Stock|G|N|N|100
+CDOR|Condor Hospitality Trust, Inc. - Common Stock|G|N|D|100
 CDORO|Condor Hospitality Trust, Inc. - Series B Cumulative Preferred Stock|G|N|N|100
 CDORP|Condor Hospitality Trust, Inc. - Series A Convertible Preferred Stock|G|N|N|100
 CDRB|Code Rebel Corporation - Common Stock|S|N|N|100
@@ -663,7 +663,7 @@ COWN|Cowen Group, Inc. - Class A Common Stock|Q|N|N|100
 COWNL|Cowen Group, Inc. - 8.25% Senior Notes due 2021|Q|N|N|100
 COYN|COPsync, Inc. - Common Stock|S|N|N|100
 COYNW|COPsync, Inc. - Warrant|S|N|N|100
-CPAH|CounterPath Corporation - Common Stock|S|N|D|100
+CPAH|CounterPath Corporation - Common Stock|S|N|N|100
 CPHC|Canterbury Park Holding Corporation - Common Stock|G|N|N|100
 CPHD|CEPHEID - Common Stock|Q|N|N|100
 CPHR|Cipher Pharmaceuticals Inc. - Common Shares|G|N|N|100
@@ -3108,4 +3108,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1113201521:32|||||
+File Creation Time: 1116201521:32|||||
