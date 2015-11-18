@@ -1912,6 +1912,7 @@ GDXJ|Market Vectors Junior Gold Miners ETF|P|GDXJ|Y|100|N|GDXJ
 GDXS|ProShares UltraShort Gold Miners ETF|P|GDXS|Y|100|N|GDXS
 GDXX|ProShares Ultra Gold Miners ETF|P|GDXX|Y|100|N|GDXX
 GE|General Electric Company Common Stock|N|GE|N|100|N|GE
+GE.Z|General Electric Company Common Stock When Distributed|N|GE/WD|N|100|N|GE$
 GEB|General Electric Company 4.875% Notes due October 15, 2052|N|GEB|N|100|N|GEB
 GEF|Greif Inc. Class A Common Stock|N|GEF|N|100|N|GEF
 GEF.B|Greif, Inc. Corporation Class B Common Stock|N|GEF/B|N|100|N|GEF.B
@@ -3779,7 +3780,6 @@ PNC$Q|PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/
 PNC.W|PNC Financial Services Group, Inc. Warrant expiring December 31, 2018|N|PNC/WS|N|100|N|PNC+
 PNF|PIMCO New York Municipal Income Fund Common Stock|N|PNF|N|100|N|PNF
 PNI|Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest|N|PNI|N|100|N|PNI
-PNK|Pinnacle Entertainment, Inc. Common Stock|N|PNK|N|100|N|PNK
 PNM|PNM Resources, Inc. (Holding Co.) Common Stock|N|PNM|N|100|N|PNM
 PNR|Pentair plc. Ordinary Share|N|PNR|N|100|N|PNR
 PNTA|PennantPark Investment Corporation 6.25% Senior Notes due 2025|N|PNTA|N|100|N|PNTA
@@ -4527,7 +4527,6 @@ SWK|Stanley Black & Decker, Inc. Common Stock|N|SWK|N|100|N|SWK
 SWM|Schweitzer-Mauduit International, Inc. Common Stock|N|SWM|N|100|N|SWM
 SWN|Southwestern Energy Company Common Stock|N|SWN|N|100|N|SWN
 SWNC|Southwestern Energy Company Depositary Shares, each representing a 1/20th ownership interest in a share of 6.25% Series B Mandatory Convertible Preferred Stock|N|SWNC|N|100|N|SWNC
-SWU|Stanley Black & Decker, Inc Corporate Units|N|SWU|N|100|N|SWU
 SWX|Southwest Gas Corporation Common Stock|N|SWX|N|100|N|SWX
 SWZ|Swiss Helvetia Fund, Inc. (The) Common Stock|N|SWZ|N|100|N|SWZ
 SXC|SunCoke Energy, Inc. Common Stock|N|SXC|N|100|N|SXC
@@ -5293,4 +5292,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1116201521:32||||||
+File Creation Time: 1117201518:03||||||
