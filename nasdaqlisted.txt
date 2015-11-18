@@ -2192,6 +2192,7 @@ PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares|S|N|N|100
 PMTS|CPI Card Group Inc. - Common Stock|Q|N|N|100
 PNBK|Patriot National Bancorp Inc. - Common Stock|G|N|N|100
 PNFP|Pinnacle Financial Partners, Inc. - Common Stock|Q|N|N|100
+PNK|Pinnacle Entertainment, Inc. - Common Stock|Q|N|N|100
 PNNT|PennantPark Investment Corporation - common stock|Q|N|N|100
 PNQI|PowerShares Nasdaq Internet Portfolio|G|N|N|100
 PNRA|Panera Bread Company - Class A Common Stock|Q|N|N|100
@@ -3108,4 +3109,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1116201521:32|||||
+File Creation Time: 1117201518:03|||||
