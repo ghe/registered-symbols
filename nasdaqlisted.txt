@@ -337,7 +337,7 @@ BIIB|Biogen Inc. - Common Stock|Q|N|N|100
 BIND|BIND Therapeutics, Inc. - Common Stock|Q|N|N|100
 BIOC|Biocept, Inc. - Common Stock|S|N|N|100
 BIOD|Biodel Inc. - Common Stock|S|N|D|100
-BIOL|Biolase, Inc. - Common Stock|S|N|N|100
+BIOL|Biolase, Inc. - Common Stock|S|N|D|100
 BIOS|BioScrip, Inc. - Common Stock|Q|N|N|100
 BIS|ProShares UltraShort Nasdaq Biotechnology|G|N|N|100
 BITE|The Restaurant ETF|G|N|N|100
@@ -949,7 +949,7 @@ ENT|Global Eagle Entertainment Inc. - Common Stock|S|N|N|100
 ENTA|Enanta Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 ENTG|Entegris, Inc. - Common Stock|Q|N|N|100
 ENTL|Entellus Medical, Inc. - Common Stock|G|N|N|100
-ENZN|Enzon Pharmaceuticals, Inc. - Common Stock|S|N|N|100
+ENZN|Enzon Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 ENZY|Enzymotec Ltd. - Ordinary Shares|Q|N|N|100
 EPAY|Bottomline Technologies, Inc. - Common Stock|Q|N|N|100
 EPIQ|EPIQ Systems, Inc. - Common Stock|Q|N|N|100
@@ -1189,7 +1189,6 @@ GALE|Galena Biopharma, Inc. - Common Stock|S|N|N|100
 GALT|Galectin Therapeutics Inc. - Common Stock|S|N|N|100
 GALTU|Galectin Therapeutics Inc. - Units|S|N|N|100
 GALTW|Galectin Therapeutics Inc. - Warrants|S|N|N|100
-GAME|Shanda Games Limited - American Depositary Shares representing 2 Class A Ordinary Shares|Q|N|N|100
 GARS|Garrison Capital Inc. - Common Stock|Q|N|N|100
 GASS|StealthGas, Inc. - common stock|Q|N|N|100
 GBCI|Glacier Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -1256,7 +1255,6 @@ GNVC|GenVec, Inc. - Common Stock|S|N|N|100
 GOGL|Golden Ocean Group Limited - Common Stock|Q|N|N|100
 GOGO|Gogo Inc. - Common Stock|Q|N|N|100
 GOLD|Randgold Resources Limited - American Depositary Shares each represented by one Ordinary Share|Q|N|N|100
-GOMO|Sungy Mobile Limited - American Depositary Shares|G|N|N|100
 GOOD|Gladstone Commercial Corporation - Real Estate Investment Trust|Q|N|N|100
 GOODN|Gladstone Commercial Corporation - 7.125% Series C Cumulative Term Preferred Stock|Q|N|N|100
 GOODO|Gladstone Commercial Corporation - 7.50% Series B Cumulative Redeemable Preferred Stock|Q|N|N|100
@@ -1738,7 +1736,7 @@ MB|MINDBODY, Inc. - Class A Common Stock|G|N|N|100
 MBCN|Middlefield Banc Corp. - Common Stock|S|N|N|100
 MBFI|MB Financial Inc. - Common Stock|Q|N|N|100
 MBFIP|MB Financial Inc. - Perpetual Non-Cumulative Preferred Stock, Series A|Q|N|N|100
-MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|E|100
+MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|N|100
 MBLX|Metabolix, Inc. - Common Stock|S|N|N|100
 MBRG|Middleburg Financial Corporation - Common Stock|S|N|N|100
 MBSD|FlexShares Disciplined Duration MBS Index Fund|G|N|N|100
@@ -2142,7 +2140,7 @@ PEBO|Peoples Bancorp Inc. - Common Stock|Q|N|N|100
 PEGA|Pegasystems Inc. - Common Stock|Q|N|N|100
 PEGI|Pattern Energy Group Inc. - Class A Common Stock|Q|N|N|100
 PEIX|Pacific Ethanol, Inc. - Common Stock|S|N|N|100
-PENN|Penn National Gaming, Inc. - Common Stock|Q|N|N|100
+PENN|Penn National Gaming, Inc. - Common Stock|Q|N|E|100
 PERF|Perfumania Holdings, Inc - Common Stock|S|N|N|100
 PERI|Perion Network Ltd - ordinary shares|Q|N|N|100
 PERY|Perry Ellis International Inc. - Common Stock|Q|N|N|100
@@ -2223,9 +2221,9 @@ PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100
 PRKR|ParkerVision, Inc. - Common Stock|S|N|D|100
 PRMW|Primo Water Corporation - Common Stock|G|N|N|100
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
-PRPH|ProPhase Labs, Inc. - Common Stock|G|N|D|100
+PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
-PRSC|The Providence Service Corporation - Common Stock|Q|N|D|100
+PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100
 PRSN|Perseon Corporation - Common Stock|S|N|D|100
 PRSNW|Perseon Corporation - Warrants|S|N|N|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
@@ -2381,7 +2379,7 @@ RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
-RNVA|Rennova Health, Inc. - Common Stock|S|N|D|100
+RNVA|Rennova Health, Inc. - Common Stock|S|N|N|100
 RNWK|RealNetworks, Inc. - Common Stock|Q|N|N|100
 ROBO|Robo-Stox Global Robotics and Automation Index ETF|G|N|N|100
 ROCK|Gibraltar Industries, Inc. - Common Stock|Q|N|N|100
@@ -2510,7 +2508,6 @@ SHOO|Steven Madden, Ltd. - Common Stock|Q|N|N|100
 SHOR|ShoreTel, Inc. - Common Stock|Q|N|N|100
 SHOS|Sears Hometown and Outlet Stores, Inc. - Common Stock|S|N|N|100
 SHPG|Shire plc - American Depositary Shares, each representing three Ordinary Shares|Q|N|N|100
-SIAL|Sigma-Aldrich Corporation - Common Stock|Q|N|N|100
 SIBC|State Investors Bancorp, Inc. - Common Stock|S|N|N|100
 SIEB|Siebert Financial Corp. - Common Stock|S|N|N|100
 SIEN|Sientra, Inc. - Common Stock|Q|N|N|100
@@ -3109,4 +3106,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1117201518:03|||||
+File Creation Time: 1119201503:02|||||
