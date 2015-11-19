@@ -78,6 +78,7 @@ AFC|Allied Capital Corporation Allied Capital Corporation 6.875% Notes due April
 AFCO|American Farmland Company Common Stock|A|AFCO|N|100|N|AFCO
 AFG|American Financial Group, Inc. Common Stock|N|AFG|N|100|N|AFG
 AFGE|American Financial Group, Inc. 6.25% Subordinated Debentures due 2054|N|AFGE|N|100|N|AFGE
+AFGH|American Financial Group, Inc. 6% Subordinated Debentures due 2055|N|AFGH|N|100|N|AFGH
 AFK|Market Vectors-Africa Index ETF|P|AFK|Y|100|N|AFK
 AFL|AFLAC Incorporated Common Stock|N|AFL|N|100|N|AFL
 AFSD|Aflac Incorporated 5.50% Subordinated Debentures due September 15, 2052|N|AFSD|N|100|N|AFSD
@@ -1531,6 +1532,7 @@ ETB|Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Wr
 ETE|Energy Transfer Equity, L.P. Energy Transfer Equity, L.P. Common Units representing Limited Partnership interests|N|ETE|N|100|N|ETE
 ETG|Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest|N|ETG|N|100|N|ETG
 ETH|Ethan Allen Interiors Inc. Common Stock|N|ETH|N|100|N|ETH
+ETHO|Etho Climate Leadership U.S. ETF|P|ETHO|Y|100|N|ETHO
 ETJ|Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest|N|ETJ|N|100|N|ETJ
 ETM|Entercom Communications Corporation Common Stock|N|ETM|N|100|N|ETM
 ETN|Eaton Corporation, PLC Ordinary Shares|N|ETN|N|100|N|ETN
@@ -2206,6 +2208,7 @@ HGH|Hartford Financial Services Group, Inc. (The) 7.875% Fixed to Floating Rate 
 HGI|Guggenheim International Multi-Asset Income Index ETF|P|HGI|Y|100|N|HGI
 HGJP|ProShares Hedged FTSE Japan ETF|P|HGJP|Y|100|N|HGJP
 HGR|Hanger, Inc. Common Stock ($0.01 Par Value)|N|HGR|N|100|N|HGR
+HGSD|WisdomTree Global Hedged SmallCap Dividend Fund|Z|HGSD|Y|100|N|HGSD
 HGT|Hugoton Royalty Trust Common Stock|N|HGT|N|100|N|HGT
 HH|Hooper Holmes, Inc. Common Stock|A|HH|N|100|N|HH
 HHC|Howard Hughes Corporation (The) Common Stock|N|HHC|N|100|N|HHC
@@ -4434,6 +4437,7 @@ SPYB|SPDR S&P 500 Buyback ETF|P|SPYB|Y|100|N|SPYB
 SPYD|SPDR S&P 500 High Dividend ETF|P|SPYD|Y|100|N|SPYD
 SPYG|SPDR S&P 500 Growth ETF (based on S&P 500 Growth Index symbol--SGX)|P|SPYG|Y|100|N|SPYG
 SPYV|SPDR S&P 500 Value ETF (based on S&P 500 Value Index--symbol: SVX)|P|SPYV|Y|100|N|SPYV
+SQ|Square, Inc. Class A Common Stock|N|SQ|N|100|N|SQ
 SQM|Sociedad Quimica y Minera S.A. Common Stock|N|SQM|N|100|N|SQM
 SQNS|Sequans Communications S.A. American Depositary Shares, each representing one Ordinary Share|N|SQNS|N|100|N|SQNS
 SRC|Spirit Realty Capital, Inc. Common Stock|N|SRC|N|100|N|SRC
@@ -4616,8 +4620,6 @@ TEN|Tenneco Inc. Common Stock|N|TEN|N|100|N|TEN
 TEO|Telecom Argentina SA|N|TEO|N|100|N|TEO
 TEP|Tallgrass Energy Partners, LP Common Units representing limited partner interests|N|TEP|N|100|N|TEP
 TER|Teradyne, Inc. Common Stock|N|TER|N|100|N|TER
-TEU|Box Ships Inc. Common Shares|N|TEU|N|100|N|TEU
-TEU$C|Box Ships Inc. 9.00% Series C Cumulative Perpetual Preferred Stock|N|TEUpC|N|100|N|TEU-C
 TEVA|Teva Pharmaceutical Industries Limited American Depositary Shares|N|TEVA|N|100|N|TEVA
 TEX|Terex Corporation Common Stock|N|TEX|N|100|N|TEX
 TFG|Fixed Income Trust for Goldman Sachs Subordinated Notes, Series 2011-1|N|TFG|N|100|N|TFG
@@ -5292,4 +5294,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1117201518:03||||||
+File Creation Time: 1119201503:02||||||
