@@ -281,6 +281,7 @@ AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100
 AXGN|AxoGen, Inc. - Common Stock|S|N|N|100
 AXPW|Axion Power International, Inc. - Common Stock|S|N|D|100
 AXPWW|Axion Power International, Inc. - Series A Warrants|S|N|D|100
+AXSM|Axsome Therapeutics, Inc. - Common Stock|S|N|N|100
 AXTI|AXT Inc - Common Stock|Q|N|N|100
 AYA|Amaya Inc. - Common Stock|Q|N|N|100
 AZPN|Aspen Technology, Inc. - Common Stock|Q|N|N|100
@@ -302,7 +303,7 @@ BBOX|Black Box Corporation - Common Stock|Q|N|N|100
 BBP|BioShares Biotechnology Products Fund|G|N|N|100
 BBRG|Bravo Brio Restaurant Group, Inc. - Common Stock|Q|N|N|100
 BBRY|BlackBerry Limited - Common Stock|Q|N|N|100
-BBSI|Barrett Business Services, Inc. - Common Stock|Q|N|N|100
+BBSI|Barrett Business Services, Inc. - Common Stock|Q|N|E|100
 BCBP|BCB Bancorp, Inc. (NJ) - Common Stock|G|N|N|100
 BCLI|Brainstorm Cell Therapeutics Inc. - Common Stock|S|N|N|100
 BCOM|B Communications Ltd. - Ordinary Shares|Q|N|N|100
@@ -1805,6 +1806,7 @@ MICTW|Micronet Enertec Technologies, Inc. - Warrant|S|N|N|100
 MIDD|The Middleby Corporation - Common Stock|Q|N|D|100
 MIFI|Novatel Wireless, Inc. - Common Stock|Q|N|N|100
 MIK|The Michaels Companies, Inc. - Common Stock|Q|N|N|100
+MIME|Mimecast Limited - Ordinary Shares|Q|N|N|100
 MIND|Mitcham Industries, Inc. - Common Stock|Q|N|N|100
 MINI|Mobile Mini, Inc. - Common Stock|Q|N|N|100
 MIRN|Mirna Therapeutics, Inc. - Common Stock|G|N|N|100
@@ -1865,6 +1867,7 @@ MSON|MISONIX, Inc. - Common Stock|G|N|N|100
 MSTR|MicroStrategy Incorporated - Class A Common Stock|Q|N|N|100
 MTBC|Medical Transcription Billing, Corp. - Common Stock|S|N|N|100
 MTBCP|Medical Transcription Billing, Corp. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock|S|N|N|100
+MTCH|Match Group, Inc. - Common Stock|Q|N|N|100
 MTEX|Mannatech, Incorporated - Common Stock|Q|N|N|100
 MTGE|American Capital Mortgage Investment Corp. - Common Stock|Q|N|N|100
 MTGEP|American Capital Mortgage Investment Corp. - 8.125% Series A Cumulative Redeemable Preferred Stock|Q|N|N|100
@@ -2662,7 +2665,7 @@ SVVC|Firsthand Technology Value Fund, Inc. - Common Stock|Q|N|N|100
 SWHC|Smith & Wesson Holding Corporation - Common Stock|Q|N|N|100
 SWIR|Sierra Wireless, Inc. - Common Stock|Q|N|N|100
 SWKS|Skyworks Solutions, Inc. - Common Stock|Q|N|N|100
-SWSH|Swisher Hygiene, Inc. - Common Stock|S|N|N|100
+SWSH|Swisher Hygiene, Inc. - Common Stock|S|N|D|100
 SXCL|Steel Excel Inc. - Common Stock|S|N|N|100
 SYBT|Stock Yards Bancorp, Inc. - Common Stock|Q|N|N|100
 SYKE|Sykes Enterprises, Incorporated - Common Stock|Q|N|N|100
@@ -3106,4 +3109,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1119201503:02|||||
+File Creation Time: 1119201521:32|||||
