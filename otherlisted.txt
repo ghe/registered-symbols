@@ -534,6 +534,7 @@ BMR|Biomed Realty Trust Common Stock|N|BMR|N|100|N|BMR
 BMS|Bemis Company, Inc. Common Stock|N|BMS|N|100|N|BMS
 BMY|Bristol-Myers Squibb Company Common Stock|N|BMY|N|100|N|BMY
 BND|Vanguard Total Bond Market ETF|P|BND|Y|100|N|BND
+BNDS|SPDR Barclays Aggregate Bond ETF|P|BNDS|Y|100|N|BNDS
 BNED|Barnes & Noble Education, Inc Common Stock|N|BNED|N|100|N|BNED
 BNJ|BlackRock New Jersey Municipal Income Trust|N|BNJ|N|100|N|BNJ
 BNK|C1 Financial, Inc. Common Stock|N|BNK|N|100|N|BNK
@@ -1439,6 +1440,8 @@ EMXX|Eurasian Minerals Inc Common Shares (Canada)|A|EMXX|N|100|N|EMXX
 EMZ|Entergy Mississippi, Inc. First Mortgage Bonds, 6.0% Series due May 1, 2051|N|EMZ|N|100|N|EMZ
 ENB|Enbridge Inc Common Stock|N|ENB|N|100|N|ENB
 ENBL|Enable Midstream Partners, LP Common Units representing limited partner interests|N|ENBL|N|100|N|ENBL
+ENCR|Ener-Core, Inc. Common Stock|A|ENCR|N|100|N|ENCR
+ENCR.W|Ener-Core, Inc. Warrants|A|ENCR/WS|N|100|N|ENCR+
 ENFR|Alerian Energy Infrastructure ETF|P|ENFR|Y|100|N|ENFR
 ENH|Endurance Specialty Holdings Ltd Common Stock|N|ENH|N|100|N|ENH
 ENH$A|Endurance Specialty Holdings Ltd Preferred Series A|N|ENHpA|N|100|N|ENH-A
@@ -2884,7 +2887,6 @@ LABD|Direxion Daily S&P Biotech Bear 3X Shares|P|LABD|Y|100|N|LABD
 LABU|Direxion Daily S&P Biotech Bull 3X Shares|P|LABU|Y|100|N|LABU
 LAD|Lithia Motors, Inc. Common Stock|N|LAD|N|100|N|LAD
 LADR|Ladder Capital Corp Class A Common Stock|N|LADR|N|100|N|LADR
-LAG|SPDR Barclays Aggregate Bond ETF|P|LAG|Y|100|N|LAG
 LAQ|Aberdeen Latin America Equity Fund, Inc.|A|LAQ|N|100|N|LAQ
 LAZ|Lazard LTD. Lazard, LTD. Class A Common Stock|N|LAZ|N|100|N|LAZ
 LB|L Brands, Inc.|N|LB|N|100|N|LB
@@ -4745,6 +4747,7 @@ TRR|TRC Companies, Inc. Common Stock|N|TRR|N|100|N|TRR
 TRSK|Janus Velocity Tail Risk Hedged Large Cap ETF|P|TRSK|Y|100|N|TRSK
 TRT|Trio-Tech International Common Stock|A|TRT|N|100|N|TRT
 TRU|TransUnion Common Stock|N|TRU|N|100|N|TRU
+TRUK|Truck Hero, Inc. Common Stock|N|TRUK|N|100|N|TRUK
 TRUP|Trupanion, Inc. Common Stock|N|TRUP|N|100|N|TRUP
 TRV|The Travelers Companies, Inc. Common Stock|N|TRV|N|100|N|TRV
 TRX|Tanzanian Royalty Exploration Corporation Common Stock|A|TRX|N|100|N|TRX
@@ -5294,4 +5297,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1119201521:32||||||
+File Creation Time: 1120201521:32||||||
