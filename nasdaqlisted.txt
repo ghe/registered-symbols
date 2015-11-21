@@ -822,6 +822,7 @@ DJCO|Daily Journal Corp. (S.C.) - Common Stock|S|N|N|100
 DLBL|Barclays PLC - iPath US Treasury Long Bond Bull ETN|G|N|N|100
 DLBS|Barclays PLC - iPath US Treasury Long Bond Bear ETN|G|N|N|100
 DLHC|DLH Holdings Corp. - Common Stock|S|N|N|100
+DLTH|Duluth Holdings Inc. - Class B Common Stock|Q|N|N|100
 DLTR|Dollar Tree, Inc. - Common Stock|Q|N|N|100
 DMLP|Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests|Q|N|N|100
 DMND|Diamond Foods, Inc. - Common Stock|Q|N|N|100
@@ -1608,6 +1609,8 @@ KRNY|Kearny Financial - Common Stock|Q|N|N|100
 KTCC|Key Tronic Corporation - Common Stock|G|N|N|100
 KTEC|Key Technology, Inc. - Common Stock|G|N|N|100
 KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock|Q|N|N|100
+KTOV|Kitov Pharamceuticals Holdings Ltd. - American Depositary Shares|S|N|N|100
+KTOVW|Kitov Pharamceuticals Holdings Ltd. - Warrants|S|N|N|100
 KTWO|K2M Group Holdings, Inc. - Common Stock|Q|N|N|100
 KURA|Kura Oncology, Inc. - Common Stock|Q|N|N|100
 KUTV|Ku6 Media Co., Ltd. - American Depositary Shares, each representing 100 ordinary shares|G|N|D|100
@@ -2372,7 +2375,7 @@ RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
 RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
-RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|D|100
+RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|N|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
@@ -3069,7 +3072,6 @@ XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100
 XXIA|Ixia - Common Stock|Q|N|N|100
 YCB|Your Community Bankshares, Inc. - Common Stock|S|N|N|100
 YDIV|First Trust International Multi-Asset Diversified Income Index Fund|G|N|N|100
-YDLE|Yodlee, Inc. - Common Stock|Q|N|N|100
 YECO|Yulong Eco-Materials Limited - Ordinary Shares|S|N|N|100
 YHOO|Yahoo! Inc. - Common Stock|Q|N|N|100
 YLCO|Global X Yieldco Index ETF|G|N|N|100
@@ -3109,4 +3111,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1119201521:32|||||
+File Creation Time: 1120201521:32|||||
