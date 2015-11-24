@@ -315,7 +315,7 @@ BDBD|Boulder Brands, Inc. - Common Stock|Q|N|N|100
 BDCV|BDCA Venture, Inc. - Common Stock|S|N|N|100
 BDE|Black Diamond, Inc. - Common Stock|Q|N|N|100
 BDGE|Bridge Bancorp, Inc. - Common Stock|Q|N|N|100
-BDMS|Birner Dental Management Services, Inc. - Common Stock|S|N|N|100
+BDMS|Birner Dental Management Services, Inc. - Common Stock|S|N|D|100
 BDSI|BioDelivery Sciences International, Inc. - Common Stock|S|N|N|100
 BEAT|BioTelemetry, Inc. - Common Stock|Q|N|N|100
 BEAV|B/E Aerospace, Inc. - Common Stock|Q|N|N|100
@@ -676,7 +676,7 @@ CPRX|Catalyst Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 CPSH|CPS Technologies Corp. - Common Stock|S|N|N|100
 CPSI|Computer Programs and Systems, Inc. - Common Stock|Q|N|N|100
 CPSS|Consumer Portfolio Services, Inc. - Common Stock|G|N|N|100
-CPST|Capstone Turbine Corporation - Common Stock|S|N|D|100
+CPST|Capstone Turbine Corporation - Common Stock|S|N|N|100
 CPTA|Capitala Finance Corp. - Common Stock|Q|N|N|100
 CPXX|Celator Pharmaceuticals Inc. - Common Stock|S|N|N|100
 CRAI|CRA International,Inc. - Common Stock|Q|N|N|100
@@ -2673,7 +2673,7 @@ SXCL|Steel Excel Inc. - Common Stock|S|N|N|100
 SYBT|Stock Yards Bancorp, Inc. - Common Stock|Q|N|N|100
 SYKE|Sykes Enterprises, Incorporated - Common Stock|Q|N|N|100
 SYMC|Symantec Corporation - Common Stock|Q|N|N|100
-SYMX|Synthesis Energy Systems, Inc. - Common Stock|G|N|N|100
+SYMX|Synthesis Energy Systems, Inc. - Common Stock|G|N|D|100
 SYNA|Synaptics Incorporated - Common Stock|Q|N|N|100
 SYNC|Synacor, Inc. - Common Stock|G|N|N|100
 SYNL|Synalloy Corporation - Common Stock|G|N|N|100
@@ -3111,4 +3111,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1120201521:32|||||
+File Creation Time: 1123201521:31|||||
