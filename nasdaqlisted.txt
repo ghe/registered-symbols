@@ -227,6 +227,7 @@ ASBB|ASB Bancorp, Inc. - Common Stock|G|N|N|100
 ASBI|Ameriana Bancorp - Common Stock|S|N|N|100
 ASCMA|Ascent Capital Group, Inc. - Series A Common Stock|Q|N|N|100
 ASEI|American Science and Engineering, Inc. - Common Stock|Q|N|N|100
+ASET|FlexShares Real Assets Allocation Index Fund|G|N|N|100
 ASFI|Asta Funding, Inc. - Common Stock|Q|N|N|100
 ASMB|Assembly Biosciences, Inc. - Common Stock|S|N|N|100
 ASML|ASML Holding N.V. - ADS represents 1 ordinary share|Q|N|N|100
@@ -565,7 +566,7 @@ CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|N|100
 CHMA|Chiasma, Inc. - Common Stock|Q|N|N|100
 CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100
 CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100
-CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|H|100
+CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|N|100
 CHRS|Coherus BioSciences, Inc. - Common Stock|G|N|N|100
 CHRW|C.H. Robinson Worldwide, Inc. - Common Stock|Q|N|N|100
 CHSCL|CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4|Q|N|N|100
@@ -1153,7 +1154,7 @@ FSLR|First Solar, Inc. - Common Stock|Q|N|N|100
 FSNN|Fusion Telecommunications International, Inc. - Common Stock|S|N|N|100
 FSTR|L.B. Foster Company - Common Stock|Q|N|N|100
 FSV|FirstService Corporation - Subordinate Voting Shares|Q|N|N|100
-FSYS|Fuel Systems Solutions, Inc. - Common Stock|Q|N|N|100
+FSYS|Fuel Systems Solutions, Inc. - Common Stock|Q|N|E|100
 FSZ|First Trust Switzerland AlphaDEX Fund|G|N|N|100
 FTCS|First Trust Capital Strength ETF|G|N|N|100
 FTD|FTD Companies, Inc. - Common Stock|Q|N|N|100
@@ -1203,7 +1204,7 @@ GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|D|100
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100
 GCVRZ|Sanofi - Contingent Value Right (Expiring 12/31/2020)|G|N|N|100
-GDEF|Global Defense & National Security Systems, Inc. - Common Stock|S|N|D|100
+GDEF|Global Defense & National Security Systems, Inc. - Common Stock|S|N|N|100
 GDEN|Golden Entertainment, Inc. - Common Stock|G|N|N|100
 GENC|Gencor Industries Inc. - Common Stock|G|N|N|100
 GENE|Genetic Technologies Ltd - American Depositary Shares representing 30 ordinary shares|S|N|N|100
@@ -1497,7 +1498,6 @@ IPAR|Inter Parfums, Inc. - Common Stock|Q|N|N|100
 IPAS|iPass Inc. - Common Stock|Q|N|D|100
 IPCC|Infinity Property and Casualty Corporation - Common Stock|Q|N|N|100
 IPCI|Intellipharmaceutics International Inc. - Common Stock|S|N|N|100
-IPCM|IPC Healthcare, Inc. - Common Stock|Q|N|N|100
 IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|D|100
 IPGP|IPG Photonics Corporation - Common Stock|Q|N|N|100
 IPHS|Innophos Holdings, Inc. - Common Stock|Q|N|N|100
@@ -1574,7 +1574,7 @@ JYNT|The Joint Corp. - Common Stock|S|N|N|100
 KALU|Kaiser Aluminum Corporation - Common Stock|Q|N|N|100
 KANG|iKang Healthcare Group, Inc. - American Depositary Shares|Q|N|N|100
 KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100
-KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|N|100
+KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|E|100
 KBSF|KBS Fashion Group Limited - Common Stock|S|N|N|100
 KCAP|KCAP Financial, Inc. - common stock|Q|N|N|100
 KCLI|Kansas City Life Insurance Company - Common Stock|S|N|N|100
@@ -2382,6 +2382,7 @@ RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100
 RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
+RMRAV|The RMR Group Inc. - Class A Common Stock When Issued|S|N|N|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
@@ -2594,7 +2595,7 @@ SPAR|Spartan Motors, Inc. - Common Stock|Q|N|N|100
 SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|N|100
 SPDC|Speed Commerce, Inc. - Common Stock|S|N|D|100
 SPEX|Spherix Incorporated - Common Stock|S|N|D|100
-SPHS|Sophiris Bio, Inc. - Common Shares|S|N|D|100
+SPHS|Sophiris Bio, Inc. - Common Shares|S|N|N|100
 SPIL|Siliconware Precision Industries Company, Ltd. - ADS represents common shares|Q|N|N|100
 SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100
 SPLK|Splunk Inc. - Common Stock|Q|N|N|100
@@ -3111,4 +3112,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1123201521:31|||||
+File Creation Time: 1124201521:31|||||
