@@ -1113,6 +1113,7 @@ DE|Deere & Company Common Stock|N|DE|N|100|N|DE
 DEA|Easterly Government Properties, Inc. Common Stock|N|DEA|N|100|N|DEA
 DECK|Deckers Outdoor Corporation Common Stock|N|DECK|N|100|N|DECK
 DEE|DB Commodity Double Short ETN due April 1, 2038|P|DEE|N|100|N|DEE
+DEEF|Deutsche X-trackers FTSE Developed ex US Enhanced Beta ETF|P|DEEF|Y|100|N|DEEF
 DEF|Guggenheim Defensive Equity ETF|P|DEF|Y|100|N|DEF
 DEG|Etablissements Delhaize Freres et Cie "Le Lion" S.A. Common Stock|N|DEG|N|100|N|DEG
 DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
@@ -1120,6 +1121,7 @@ DEL|Deltic Timber Corporation Common Stock|N|DEL|N|100|N|DEL
 DEM|WisdomTree Emerging Markets High Dividend Fund|P|DEM|Y|100|N|DEM
 DEO|Diageo plc Common Stock|N|DEO|N|100|N|DEO
 DES|WisdomTree Trust SmallCap Dividend Fund|P|DES|Y|100|N|DES
+DEUS|Deutsche X-trackers Russell 1000 Enhanced Beta ETF|P|DEUS|Y|100|N|DEUS
 DEW|WisdomTree Global High Dividend Fund|P|DEW|Y|100|N|DEW
 DEX|Delaware Enhanced Global Dividend Common Shares of Beneficial Interest|N|DEX|N|100|N|DEX
 DF|Dean Foods Company Common Stock|N|DF|N|100|N|DF
@@ -4904,7 +4906,7 @@ USV|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloo
 USWD|WisdomTree Weak Dollar U.S. Equity Fund|P|USWD|Y|100|N|USWD
 UTF|Cohen & Steers Infrastructure Fund, Inc Common Stock|N|UTF|N|100|N|UTF
 UTG|Reaves Utility Income Fund Common Shares of Beneficial Interest|A|UTG|N|100|N|UTG
-UTG.V|Reaves Utility Income Fund Rights When Issued|A|UTGrw|N|100|N|UTG^#
+UTG.R|Reaves Utility Income Fund Rights|A|UTGr|N|100|N|UTG^
 UTI|Universal Technical Institute Inc Common Stock|N|UTI|N|100|N|UTI
 UTL|UNITIL Corporation Common Stock|N|UTL|N|100|N|UTL
 UTX|United Technologies Corporation Common Stock|N|UTX|N|100|N|UTX
@@ -4923,6 +4925,7 @@ UYG|ProShares Ultra Financials|P|UYG|Y|100|N|UYG
 UYM|ProShares Ultra Basic Materials|P|UYM|Y|100|N|UYM
 UZA|United States Cellular Corporation 6.95% Senior Notes due 2060|N|UZA|N|100|N|UZA
 UZB|United States Cellular Corporation 7.25% Senior Notes due 2063|N|UZB|N|100|N|UZB
+UZC|United States Cellular Corporation 7.25% Senior Notes due 2064|N|UZC|N|100|N|UZC
 V|Visa Inc.|N|V|N|100|N|V
 VAC|Marriot Vacations Worldwide Corporation Common Stock|N|VAC|N|100|N|VAC
 VAL|Valspar Corporation (The) Common Stock|N|VAL|N|100|N|VAL
@@ -5291,4 +5294,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1123201521:31||||||
+File Creation Time: 1124201521:31||||||
