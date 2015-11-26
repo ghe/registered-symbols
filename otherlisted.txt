@@ -1446,6 +1446,7 @@ ENFR|Alerian Energy Infrastructure ETF|P|ENFR|Y|100|N|ENFR
 ENH|Endurance Specialty Holdings Ltd Common Stock|N|ENH|N|100|N|ENH
 ENH$A|Endurance Specialty Holdings Ltd Preferred Series A|N|ENHpA|N|100|N|ENH-A
 ENH$B|Endurance Specialty Holdings Ltd PFD SER B (Bermuda)|N|ENHpB|N|100|N|ENH-B
+ENH$C|Endurance Specialty Holdings Ltd Depositary Shares, each Representing a 1/1000th Interest in a Share of 6.350% Non-Cumulative Preferred Shares, Series C, $1.00 par value|N|ENHpC|N|100|N|ENH-C
 ENI|Enersis S A Common Stock|N|ENI|N|100|N|ENI
 ENJ|Entergy New Orleans, Inc. First Mortgage Bonds, 5.0% Series due December 1, 2052|N|ENJ|N|100|N|ENJ
 ENLC|EnLink Midstream, LLC Common Units representing Limited Partner Interests|N|ENLC|N|100|N|ENLC
@@ -2805,7 +2806,6 @@ KGC|Kinross Gold Corporation Common Stock|N|KGC|N|100|N|KGC
 KHI|Deutsche High Income Trust Shares of Beneficial Interest|N|KHI|N|100|N|KHI
 KIE|SPDR S&P Insurance ETF|P|KIE|Y|100|N|KIE
 KIM|Kimco Realty Corporation Common Stock|N|KIM|N|100|N|KIM
-KIM$H|Kimco Realty Corporation Depositary Shares Representing 1/100 Shares of Redeemable Preferred Class H|N|KIMpH/CL|N|100|N|KIM-H*
 KIM$I|Kimco Realty Corporation DEPOSITARY SH REPSTG 1/1000TH PFD SER I|N|KIMpI|N|100|N|KIM-I
 KIM$J|Kimco Realty Corporation Depositary Sh Repstg 1/1000th Pfd CL J %|N|KIMpJ|N|100|N|KIM-J
 KIM$K|Kimco Realty Corporation Depositary Shares Representing 1/1000th Preferred Series K|N|KIMpK|N|100|N|KIM-K
@@ -5294,4 +5294,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1124201521:31||||||
+File Creation Time: 1125201521:31||||||
