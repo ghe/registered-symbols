@@ -171,6 +171,7 @@ ANAD|ANADIGICS, Inc. - Common Stock|Q|N|D|100
 ANAT|American National Insurance Company - Common Stock|Q|N|N|100
 ANCB|Anchor Bancorp - Common Stock|G|N|N|100
 ANCX|Access National Corporation - Common Stock|G|N|N|100
+ANDAU|Andina Acquisition Corp. II - Units|S|N|N|100
 ANDE|The Andersons, Inc. - Common Stock|Q|N|N|100
 ANGI|Angie's List, Inc. - Common Stock|Q|N|N|100
 ANGO|AngioDynamics, Inc. - Common Stock|Q|N|N|100
@@ -566,7 +567,6 @@ CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|N|100
 CHMA|Chiasma, Inc. - Common Stock|Q|N|N|100
 CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100
 CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100
-CHOP|China Gerui Advanced Materials Group Limited - Ordinary Shares|Q|N|N|100
 CHRS|Coherus BioSciences, Inc. - Common Stock|G|N|N|100
 CHRW|C.H. Robinson Worldwide, Inc. - Common Stock|Q|N|N|100
 CHSCL|CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4|Q|N|N|100
@@ -658,7 +658,7 @@ COOL|Majesco Entertainment Company - Common Stock|S|N|D|100
 CORE|Core-Mark Holding Company, Inc. - Common Stock|Q|N|N|100
 CORI|Corium International, Inc. - Common Stock|G|N|N|100
 CORT|Corcept Therapeutics Incorporated - Common Stock|S|N|N|100
-COSI|Cosi, Inc. - Common Stock|S|N|N|100
+COSI|Cosi, Inc. - Common Stock|S|N|D|100
 COST|Costco Wholesale Corporation - Common Stock|Q|N|N|100
 COVS|Covisint Corporation - Common Stock|Q|N|N|100
 COWN|Cowen Group, Inc. - Class A Common Stock|Q|N|N|100
@@ -1204,7 +1204,6 @@ GBSN|Great Basin Scientific, Inc. - Common Stock|S|N|D|100
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100
 GCVRZ|Sanofi - Contingent Value Right (Expiring 12/31/2020)|G|N|N|100
-GDEF|Global Defense & National Security Systems, Inc. - Common Stock|S|N|N|100
 GDEN|Golden Entertainment, Inc. - Common Stock|G|N|N|100
 GENC|Gencor Industries Inc. - Common Stock|G|N|N|100
 GENE|Genetic Technologies Ltd - American Depositary Shares representing 30 ordinary shares|S|N|N|100
@@ -2253,7 +2252,6 @@ PSCT|PowerShares S&P SmallCap Information Technology Portfolio|G|N|N|100
 PSCU|PowerShares S&P SmallCap Utilities Portfolio|G|N|N|100
 PSDV|pSivida Corp. - Common Stock|G|N|N|100
 PSEC|Prospect Capital Corporation - Common Stock|Q|N|N|100
-PSEM|Pericom Semiconductor Corporation - Common Stock|Q|N|N|100
 PSIX|Power Solutions International, Inc. - Common Stock|S|N|N|100
 PSMT|PriceSmart, Inc. - Common Stock|Q|N|N|100
 PSTB|Park Sterling Corporation - Common Stock|Q|N|N|100
@@ -2899,7 +2897,7 @@ VCYT|Veracyte, Inc. - Common Stock|G|N|N|100
 VDSI|VASCO Data Security International, Inc. - Common Stock|S|N|N|100
 VDTH|Videocon d2h Limited - American Depositary Shares|Q|N|N|100
 VECO|Veeco Instruments Inc. - Common Stock|Q|N|N|100
-VGGL|Viggle Inc. - Common Stock|S|N|N|100
+VGGL|Viggle Inc. - Common Stock|S|N|D|100
 VGIT|Vanguard Intermediate -Term Government Bond ETF|G|N|N|100
 VGLT|Vanguard Long-Term Government Bond ETF|G|N|N|100
 VGSH|Vanguard Short-Term Government ETF|G|N|N|100
@@ -3112,4 +3110,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1124201521:31|||||
+File Creation Time: 1125201521:31|||||
