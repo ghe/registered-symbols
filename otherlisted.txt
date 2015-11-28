@@ -1444,7 +1444,7 @@ ENB|Enbridge Inc Common Stock|N|ENB|N|100|N|ENB
 ENBL|Enable Midstream Partners, LP Common Units representing limited partner interests|N|ENBL|N|100|N|ENBL
 ENFR|Alerian Energy Infrastructure ETF|P|ENFR|Y|100|N|ENFR
 ENH|Endurance Specialty Holdings Ltd Common Stock|N|ENH|N|100|N|ENH
-ENH$A|Endurance Specialty Holdings Ltd Preferred Series A|N|ENHpA|N|100|N|ENH-A
+ENH$A|Endurance Specialty Holdings Ltd Preferred Series A|N|ENHpA/CL|N|100|N|ENH-A*
 ENH$B|Endurance Specialty Holdings Ltd PFD SER B (Bermuda)|N|ENHpB|N|100|N|ENH-B
 ENH$C|Endurance Specialty Holdings Ltd Depositary Shares, each Representing a 1/1000th Interest in a Share of 6.350% Non-Cumulative Preferred Shares, Series C, $1.00 par value|N|ENHpC|N|100|N|ENH-C
 ENI|Enersis S A Common Stock|N|ENI|N|100|N|ENI
@@ -2906,7 +2906,6 @@ LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.|N|LDP|N|100|
 LDR|Landauer, Inc. Common Stock|N|LDR|N|100|N|LDR
 LDUR|PIMCO Low Duration Active Exchange-Traded Fund|P|LDUR|Y|100|N|LDUR
 LEA|Lear Corporation Common Stock|N|LEA|N|100|N|LEA
-LEAF|Springleaf Holdings, Inc. Common Stock|N|LEAF|N|100|N|LEAF
 LEDD|iPath Pure Beta Lead ETN|P|LEDD|N|100|N|LEDD
 LEE|Lee Enterprises, Incorporated Common Stock|N|LEE|N|100|N|LEE
 LEG|Leggett & Platt, Incorporated Common Stock|N|LEG|N|100|N|LEG
@@ -3081,6 +3080,7 @@ MGT|MGT Capital Investments Inc Common Stock|A|MGT|N|100|N|MGT
 MGU|Macquarie Global Infrastructure Total Return Fund Inc. Common Stock|N|MGU|N|100|N|MGU
 MGV|Vanguard Mega Cap Value ETF|P|MGV|Y|100|N|MGV
 MH$A|Maiden Holdings, Ltd. Pref Shs Ser A (Bermuda)|N|MHpA|N|100|N|MH-A
+MH$C|Maiden Holdings North America, Ltd. 7.125% Non-Cumulative Preference Shares, Series C|N|MHpC|N|100|N|MH-C
 MHD|Blackrock MuniHoldings Fund, Inc. Common Stock|N|MHD|N|100|N|MHD
 MHE|BlackRock Massachusetts Tax-Exempt Trust|A|MHE|N|100|N|MHE
 MHF|Western Asset Municipal High Income Fund, Inc. Common Stock|N|MHF|N|100|N|MHF
@@ -3567,6 +3567,7 @@ OLP|One Liberty Properties, Inc. Common Stock|N|OLP|N|100|N|OLP
 OMAM|OM Asset Management plc Ordinary Shares|N|OMAM|N|100|N|OMAM
 OMC|Omnicom Group Inc. Common Stock|N|OMC|N|100|N|OMC
 OME|Omega Protein Corporation Common Stock|N|OME|N|100|N|OME
+OMF|OneMain Holdings, Inc. Common Stock|N|OMF|N|100|N|OMF
 OMI|Owens & Minor, Inc. Common Stock|N|OMI|N|100|N|OMI
 OMN|OMNOVA Solutions Inc. Common Stock|N|OMN|N|100|N|OMN
 ONDK|On Deck Capital, Inc. Common Stock|N|ONDK|N|100|N|ONDK
@@ -3620,7 +3621,6 @@ PBF|PBF Energy Inc. Class A Common Stock|N|PBF|N|100|N|PBF
 PBFX|PBF Logistics LP Common Units representing limited partner interests|N|PBFX|N|100|N|PBFX
 PBH|Prestige Brand Holdings, Inc. Common Stock|N|PBH|N|100|N|PBH
 PBI|Pitney Bowes Inc. Common Stock|N|PBI|N|100|N|PBI
-PBI$A|Pitney Bowes Inc 5.25% Notes due 2022|N|PBIpA/CL|N|100|N|PBI-A*
 PBI$B|Pitney Bowes Inc 6.70% Notes Due 2043|N|PBIpB|N|100|N|PBI-B
 PBJ|PowerShares Dynamic Food & Beverage|P|PBJ|Y|100|N|PBJ
 PBM|Pacific Booker Minerals Inc Ordinary Shares|A|PBM|N|100|N|PBM
@@ -5294,4 +5294,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1125201521:31||||||
+File Creation Time: 1127201518:02||||||
