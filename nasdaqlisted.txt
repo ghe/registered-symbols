@@ -1360,7 +1360,7 @@ HLIT|Harmonic Inc. - Common Stock|Q|N|N|100
 HMHC|Houghton Mifflin Harcourt Company - Common Stock|Q|N|N|100
 HMIN|Homeinns Hotel Group - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 HMNF|HMN Financial, Inc. - Common Stock|G|N|N|100
-HMNY|Helios and Matheson Analytics Inc - Common Stock|S|N|N|100
+HMNY|Helios and Matheson Analytics Inc - Common Stock|S|N|D|100
 HMPR|Hampton Roads Bankshares Inc - Common Stock|Q|N|N|100
 HMST|HomeStreet, Inc. - Common Stock|Q|N|N|100
 HMSY|HMS Holdings Corp - Common Stock|Q|N|N|100
@@ -2137,7 +2137,7 @@ PDCE|PDC Energy, Inc. - Common Stock|Q|N|N|100
 PDCO|Patterson Companies, Inc. - Common Stock|Q|N|N|100
 PDEX|Pro-Dex, Inc. - Common Stock|S|N|N|100
 PDFS|PDF Solutions, Inc. - Common Stock|Q|N|N|100
-PDII|PDI, Inc. - Common Stock|G|N|N|100
+PDII|PDI, Inc. - Common Stock|S|N|N|100
 PDLI|PDL BioPharma, Inc. - Common Stock|Q|N|N|100
 PDVW|pdvWireless, Inc. - Common Stock|S|N|N|100
 PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock|G|N|N|100
@@ -2181,7 +2181,6 @@ PLBC|Plumas Bancorp - Common Stock|S|N|N|100
 PLCE|Children's Place, Inc. (The) - Common Stock|Q|N|N|100
 PLCM|Polycom, Inc. - Common Stock|Q|N|N|100
 PLKI|Popeyes Louisiana Kitchen, Inc. - Common Stock|Q|N|N|100
-PLNR|Planar Systems, Inc. - Common Stock|G|N|N|100
 PLPC|Preformed Line Products Company - Common Stock|Q|N|N|100
 PLPM|Planet Payment, Inc. - Common Stock|S|N|N|100
 PLTM|First Trust ISE Global Platinum Index Fund|G|N|N|100
@@ -2228,7 +2227,7 @@ PRMW|Primo Water Corporation - Common Stock|G|N|N|100
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
-PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100
+PRSC|The Providence Service Corporation - Common Stock|Q|N|D|100
 PRSN|Perseon Corporation - Common Stock|S|N|D|100
 PRSNW|Perseon Corporation - Warrants|S|N|N|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
@@ -2529,7 +2528,7 @@ SIRO|Sirona Dental Systems, Inc. - Common Stock|Q|N|N|100
 SITO|SITO Mobile, Ltd. - Common Stock|S|N|N|100
 SIVB|SVB Financial Group - Common Stock|Q|N|N|100
 SIVBO|SVB Financial Group - 7% Cumulative Trust Preferred Securities - SVB Capital II|Q|N|N|100
-SIXD|6D Global Technologies, Inc. - Common Stock|S|N|N|100
+SIXD|6D Global Technologies, Inc. - Common Stock|S|N|D|100
 SKBI|Skystar Bio-Pharmaceutical Company - Common Stock|S|N|H|100
 SKIS|Peak Resorts, Inc. - Common Stock|G|N|N|100
 SKLN|Skyline Medical Inc. - Common Stock|S|N|N|100
@@ -3110,4 +3109,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1127201521:31|||||
+File Creation Time: 1130201521:32|||||
