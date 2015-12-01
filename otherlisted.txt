@@ -502,6 +502,7 @@ BKE|Buckle, Inc. (The) Common Stock|N|BKE|N|100|N|BKE
 BKF|iShares MSCI BRIC Index Fund|P|BKF|Y|100|N|BKF
 BKFS|Black Knight Financial Services, Inc. Class A Common Stock|N|BKFS|N|100|N|BKFS
 BKH|Black Hills Corporation Common Stock|N|BKH|N|100|N|BKH
+BKHU|Black Hills Corporation Corporate Units|N|BKHU|N|100|N|BKHU
 BKJ|Bancorp of New Jersey, Inc Common Stock|A|BKJ|N|100|N|BKJ
 BKK|Blackrock Municipal 2020 Term Trust|N|BKK|N|100|N|BKK
 BKLN|PowerShares Exchange-Traded Fund Trust ETF|P|BKLN|Y|100|N|BKLN
@@ -955,7 +956,6 @@ CRVP|Crystal Rock Holdings, Inc. Class A Common Stock|A|CRVP|N|100|N|CRVP
 CRY|CryoLife, Inc. Common Stock|N|CRY|N|100|N|CRY
 CS|Credit Suisse Group American Depositary Shares|N|CS|N|100|N|CS
 CSC|Computer Sciences Corporation Common Stock|N|CSC|N|100|N|CSC
-CSC.V|Computer Sciences Corporation Common Stock Ex-Distribution When Issued|N|CSCw|N|100|N|CSC#
 CSCB|Credit Suisse X-Links Commodity Benchmark ETNs due June 15, 2033|P|CSCB|N|100|N|CSCB
 CSCR|Credit Suisse X-Links Commodity Rotation ETNs due June 15, 2033|P|CSCR|N|100|N|CSCR
 CSD|Guggenheim Spin-Off ETF|P|CSD|Y|100|N|CSD
@@ -968,7 +968,7 @@ CSLS|Credit Suisse X-Links Long/Short Equity ETN|P|CSLS|N|100|N|CSLS
 CSLT|Castlight Health, Inc. Class B Common Stock|N|CSLT|N|100|N|CSLT
 CSM|ProShares Large Cap Core Plus|P|CSM|Y|100|N|CSM
 CSMA|Credit Suisse X-Links Merger Arbitrage ETN due October 6, 2020|P|CSMA|N|100|N|CSMA
-CSRA.V|CSRA Inc. Common Stock When Issued|N|CSRAw|N|100|N|CSRA#
+CSRA|CSRA Inc. Common Stock|N|CSRA|N|100|N|CSRA
 CSS|CSS Industries, Inc. Common Stock|N|CSS|N|100|N|CSS
 CST|CST Brands, Inc. Common Stock|N|CST|N|100|N|CST
 CSTM|Constellium N.V. Ordinary Shares|N|CSTM|N|100|N|CSTM
@@ -3300,8 +3300,6 @@ NAVB|Navidea Biopharmaceuticals, Inc. Common Stock|A|NAVB|N|100|N|NAVB
 NAZ|Nuveen Arizona Premium Income Municipal Fund Common Stock|N|NAZ|N|100|N|NAZ
 NBB|Nuveen Build America Bond Fund Common Shares of Beneficial Interest|N|NBB|N|100|N|NBB
 NBD|Nuveen Build America Bond Opportunity Fund Common Shares of Beneficial Interest|N|NBD|N|100|N|NBD
-NBG|Natl Bk Greece American Depositary Shares|N|NBG|N|100|N|NBG
-NBG$A|National Bank of Greece SA Sponsored ADR representing Series A Preferred Shares (Greece)|N|NBGpA|N|100|N|NBG-A
 NBH|Neuberger Berman Intermediate Municipal Fund Inc. Common Stock|A|NBH|N|100|N|NBH
 NBHC|National Bank Holdings Corporation Common Stock|N|NBHC|N|100|N|NBHC
 NBL|Noble Energy Inc. Common Stock|N|NBL|N|100|N|NBL
@@ -3419,7 +3417,6 @@ NOC|Northrop Grumman Corporation Common Stock|N|NOC|N|100|N|NOC
 NOG|Northern Oil and Gas, Inc. Common Stock|A|NOG|N|100|N|NOG
 NOK|Nokia Corporation Sponsored American Depositary Shares|N|NOK|N|100|N|NOK
 NOM|Nuveen Missouri Premium Income Municipal Fund Common Shares of Beneficial Interest|A|NOM|N|100|N|NOM
-NOR|Noranda Aluminum Holding Corporation Common Stock|N|NOR|N|100|N|NOR
 NORD|Nord Anglia Education, Inc. Ordinary Shares|N|NORD|N|100|N|NORD
 NORW|Global X MSCI Norway ETF|P|NORW|Y|100|N|NORW
 NOV|National Oilwell Varco, Inc. Common Stock|N|NOV|N|100|N|NOV
@@ -4560,7 +4557,6 @@ TA|TravelCenters of America LLC Common Stock|N|TA|N|100|N|TA
 TAC|TransAlta Corporation Ordinary Shares|N|TAC|N|100|N|TAC
 TAGS|Teucrium Agricultural Fund ETV|P|TAGS|Y|100|N|TAGS
 TAHO|Tahoe Resources, Inc. Ordinary Shares (Canada)|N|TAHO|N|100|N|TAHO
-TAI|Transamerica Income Shares, Inc. Common Stock|N|TAI|N|100|N|TAI
 TAL|TAL International Group, Inc. Common Stock|N|TAL|N|100|N|TAL
 TAN|Guggenheim Solar ETF|P|TAN|Y|100|N|TAN
 TANN|TravelCenters of America LLC 8.25% Senior Notes due 2028|N|TANN|N|100|N|TANN
@@ -5294,4 +5290,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1127201521:31||||||
+File Creation Time: 1130201521:32||||||
