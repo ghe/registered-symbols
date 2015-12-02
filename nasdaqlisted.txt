@@ -629,7 +629,7 @@ CNCE|Concert Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 CNCR|Loncar Cancer Immunotherapy ETF|G|N|N|100
 CNET|ChinaNet Online Holdings, Inc. - Common Stock|S|N|D|100
 CNFR|Conifer Holdings, Inc. - Common Stock|G|N|N|100
-CNIT|China Information Technology, Inc. - Ordinary Shares|Q|N|N|100
+CNIT|China Information Technology, Inc. - Ordinary Shares|Q|N|D|100
 CNLM|CB Pharma Acquisition Corp. - Ordinary Shares|S|N|N|100
 CNLMR|CB Pharma Acquisition Corp. - Rights|S|N|N|100
 CNLMU|CB Pharma Acquisition Corp. - Units|S|N|N|100
@@ -2227,7 +2227,7 @@ PRMW|Primo Water Corporation - Common Stock|G|N|N|100
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
-PRSC|The Providence Service Corporation - Common Stock|Q|N|D|100
+PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100
 PRSN|Perseon Corporation - Common Stock|S|N|D|100
 PRSNW|Perseon Corporation - Warrants|S|N|N|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
@@ -2512,7 +2512,7 @@ SHOO|Steven Madden, Ltd. - Common Stock|Q|N|N|100
 SHOR|ShoreTel, Inc. - Common Stock|Q|N|N|100
 SHOS|Sears Hometown and Outlet Stores, Inc. - Common Stock|S|N|N|100
 SHPG|Shire plc - American Depositary Shares, each representing three Ordinary Shares|Q|N|N|100
-SIBC|State Investors Bancorp, Inc. - Common Stock|S|N|N|100
+SHSP|SharpSpring, Inc. - Common Stock|S|N|N|100
 SIEB|Siebert Financial Corp. - Common Stock|S|N|N|100
 SIEN|Sientra, Inc. - Common Stock|Q|N|N|100
 SIFI|SI Financial Group, Inc. - Common Stock|G|N|N|100
@@ -2560,7 +2560,6 @@ SMRT|Stein Mart, Inc. - Common Stock|Q|N|N|100
 SMSI|Smith Micro Software, Inc. - Common Stock|Q|N|D|100
 SMT|SMART Technologies Inc. - Common Shares|Q|N|D|100
 SMTC|Semtech Corporation - Common Stock|Q|N|N|100
-SMTP|SMTP, Inc. - Common Stock|S|N|N|100
 SMTX|SMTC Corporation - Common Stock|G|N|N|100
 SNAK|Inventure Foods, Inc. - Common Stock|Q|N|N|100
 SNBC|Sun Bancorp, Inc. - Common Stock|Q|N|N|100
@@ -3109,4 +3108,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1130201521:32|||||
+File Creation Time: 1201201521:32|||||
