@@ -608,7 +608,7 @@ CLNE|Clean Energy Fuels Corp. - Common Stock|Q|N|N|100
 CLNT|Cleantech Solutions International, Inc. - Common Stock|S|N|N|100
 CLRB|Cellectar Biosciences, Inc. - Common Stock|S|N|D|100
 CLRBW|Cellectar Biosciences, Inc. - Warrants|S|N|D|100
-CLRO|ClearOne, Inc. - Common Stock|S|N|N|100
+CLRO|ClearOne, Inc. - Common Stock|S|N|E|100
 CLSN|Celsion Corporation - Common Stock|S|N|N|100
 CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|N|100
 CLVS|Clovis Oncology, Inc. - Common Stock|Q|N|N|100
@@ -2493,7 +2493,7 @@ SGI|Silicon Graphics International Corp - Common Stock|Q|N|N|100
 SGMA|SigmaTron International, Inc. - Common Stock|S|N|N|100
 SGMO|Sangamo BioSciences, Inc. - Common Stock|Q|N|N|100
 SGMS|Scientific Games Corp - Class A Common Stock|Q|N|N|100
-SGNL|Signal Genetics, Inc. - Common Stock|S|N|N|100
+SGNL|Signal Genetics, Inc. - Common Stock|S|N|D|100
 SGNT|Sagent Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 SGOC|SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)|S|N|D|100
 SGRP|SPAR Group, Inc. - Common Stock|S|N|N|100
@@ -2570,7 +2570,7 @@ SNFCA|Security National Financial Corporation - Class A Common Stock|G|N|N|100
 SNHY|Sun Hydraulics Corporation - Common Stock|Q|N|N|100
 SNMX|Senomyx, Inc. - Common Stock|G|N|N|100
 SNPS|Synopsys, Inc. - Common Stock|Q|N|N|100
-SNSS|Sunesis Pharmaceuticals, Inc. - Common Stock|S|N|N|100
+SNSS|Sunesis Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 SNTA|Synta Pharmaceuticals Corp. - Common Stock|G|N|N|100
 SOCB|Southcoast Financial Corporation - Common Stock|G|N|N|100
 SOCL|Global X Social Media Index ETF|G|N|N|100
@@ -2634,7 +2634,7 @@ STAF|Staffing 360 Solutions, Inc. - Common Stock|S|N|N|100
 STB|Student Transportation Inc - Common shares|Q|N|N|100
 STBA|S&T Bancorp, Inc. - Common Stock|Q|N|N|100
 STBZ|State Bank Financial Corporation. - Common Stock|S|N|N|100
-STCK|Stock Building Supply Holdings, Inc. - Common Stock|Q|N|N|100
+STCK|BMC Stock Holdings, Inc. - Common Stock|Q|N|N|100
 STDY|SteadyMed Ltd. - Ordinary Shares|G|N|N|100
 STEM|StemCells, Inc. - Common Stock|S|N|D|100
 STFC|State Auto Financial Corporation - Common Stock|Q|N|N|100
@@ -2808,7 +2808,7 @@ TUTT|Tuttle Tactical Management U.S. Core ETF|G|N|N|100
 TVIX|Credit Suisse AG - VelocityShares Daily 2x VIX Short Term ETN|G|N|N|100
 TVIZ|Credit Suisse AG - VelocityShares Daily 2x VIX Medium Term ETN|G|N|N|100
 TW|Towers Watson & Co. - Common Stock Class A|Q|N|N|100
-TWER|Towerstream Corporation - Common Stock|S|N|N|100
+TWER|Towerstream Corporation - Common Stock|S|N|D|100
 TWIN|Twin Disc, Incorporated - Common Stock|Q|N|N|100
 TWMC|Trans World Entertainment Corp. - Common Stock|G|N|N|100
 TWOU|2U, Inc. - Common Stock|Q|N|N|100
@@ -3108,4 +3108,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1201201521:32|||||
+File Creation Time: 1202201521:33|||||
