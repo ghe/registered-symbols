@@ -1881,6 +1881,7 @@ GAM|General American Investors, Inc. Common Stock|N|GAM|N|100|N|GAM
 GAM$B|General American Investors Company, Inc. Cumulative Preferred Stock|N|GAMpB|N|100|N|GAM-B
 GAS|AGL Resources, Inc. Common Stock|N|GAS|N|100|N|GAS
 GASL|Direxion Daily Natural Gas Related Bull 3X Shares|P|GASL|Y|100|N|GASL
+GASX|Direxion Daily Natural Gas Related Bear 3X Shares|P|GASX|Y|100|N|GASX
 GAZ|iPath Bloomberg Natural Gas Subindeex Total Return ETN|P|GAZ|N|100|N|GAZ
 GB|Greatbatch, Inc. Common Stock|N|GB|N|100|N|GB
 GBAB|Guggenheim Build America Bonds Managed Duration Trust Common Shares of Beneficial Interest|N|GBAB|N|100|N|GBAB
@@ -2882,10 +2883,12 @@ KYN$G|Kayne Anderson MLP Investment Company Series G Mandatory Redeemable Prefer
 KYO|Kyocera Corporation Common Stock|N|KYO|N|100|N|KYO
 L|Loews Corporation Common Stock|N|L|N|100|N|L
 LABD|Direxion Daily S&P Biotech Bear 3X Shares|P|LABD|Y|100|N|LABD
+LABS|Direxion Daily S&P Biotech Bear 1X Shares|P|LABS|Y|100|N|LABS
 LABU|Direxion Daily S&P Biotech Bull 3X Shares|P|LABU|Y|100|N|LABU
 LAD|Lithia Motors, Inc. Common Stock|N|LAD|N|100|N|LAD
 LADR|Ladder Capital Corp Class A Common Stock|N|LADR|N|100|N|LADR
 LAQ|Aberdeen Latin America Equity Fund, Inc.|A|LAQ|N|100|N|LAQ
+LARE|Tierra XP Latin America Real Estate ETF|P|LARE|Y|100|N|LARE
 LAZ|Lazard LTD. Lazard, LTD. Class A Common Stock|N|LAZ|N|100|N|LAZ
 LB|L Brands, Inc.|N|LB|N|100|N|LB
 LBDC|2xLeveraged Long ETRACS Wells Fargo Business Development Company Index Series B due May 24, 2041|P|LBDC|N|100|N|LBDC
@@ -3569,6 +3572,9 @@ OMN|OMNOVA Solutions Inc. Common Stock|N|OMN|N|100|N|OMN
 ONDK|On Deck Capital, Inc. Common Stock|N|ONDK|N|100|N|ONDK
 ONE|Higher One Holdings, Inc. Common Stock|N|ONE|N|100|N|ONE
 ONEK|SPDR Russell 1000 ETF|P|ONEK|Y|100|N|ONEK
+ONEO|SPDR Russell 1000 Momentum Focus ETF|P|ONEO|Y|100|N|ONEO
+ONEV|SPDR Russell 1000 Low Volatility Focus ETF|P|ONEV|Y|100|N|ONEV
+ONEY|SPDR Russell 1000 Yield Focus ETF|P|ONEY|Y|100|N|ONEY
 ONG|iPath Pure Beta Energy ETN|P|ONG|N|100|N|ONG
 ONP|Orient Paper, Inc. NEW Common Stock|A|ONP|N|100|N|ONP
 ONVO|Organovo Holdings, Inc. Common Stock|A|ONVO|N|100|N|ONVO
@@ -4309,6 +4315,7 @@ SHW|Sherwin-Williams Company (The) Common Stock|N|SHW|N|100|N|SHW
 SHY|iShares 1-3 Year Treasury Bond ETF|P|SHY|Y|100|N|SHY
 SHYD|Market Vectors Short High-Yield Municipal Index ETF|P|SHYD|Y|100|N|SHYD
 SHYG|iShares 0-5 Year High Yield Corporate Bond ETF|P|SHYG|Y|100|N|SHYG
+SICK|Direxion Daily Healthcare Bear 3X Shares|P|SICK|Y|100|N|SICK
 SID|Companhia Siderurgica Nacional S.A. Common Stock|N|SID|N|100|N|SID
 SIF|SIFCO Industries, Inc. Common Stock|A|SIF|N|100|N|SIF
 SIG|Signet Jewelers Limited Common Shares|N|SIG|N|100|N|SIG
@@ -5292,4 +5299,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1202201521:33||||||
+File Creation Time: 1203201521:32||||||
