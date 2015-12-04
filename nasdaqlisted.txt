@@ -314,7 +314,6 @@ BCOV|Brightcove Inc. - Common Stock|Q|N|N|100
 BCPC|Balchem Corporation - Common Stock|Q|N|N|100
 BCRX|BioCryst Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 BDBD|Boulder Brands, Inc. - Common Stock|Q|N|N|100
-BDCV|BDCA Venture, Inc. - Common Stock|S|N|N|100
 BDE|Black Diamond, Inc. - Common Stock|Q|N|N|100
 BDGE|Bridge Bancorp, Inc. - Common Stock|Q|N|N|100
 BDMS|Birner Dental Management Services, Inc. - Common Stock|S|N|D|100
@@ -1060,7 +1059,7 @@ FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100
 FEYE|FireEye, Inc. - Common Stock|Q|N|N|100
 FFBC|First Financial Bancorp. - Common Stock|Q|N|N|100
 FFBCW|First Financial Bancorp. - Warrant 12/23/2018|Q|N|N|100
-FFHL|Fuwei Films (Holdings) Co., Ltd. - ORDINARY SHARES|S|N|N|100
+FFHL|Fuwei Films (Holdings) Co., Ltd. - ORDINARY SHARES|S|N|D|100
 FFIC|Flushing Financial Corporation - Common Stock|Q|N|N|100
 FFIN|First Financial Bankshares, Inc. - Common Stock|Q|N|N|100
 FFIV|F5 Networks, Inc. - Common Stock|Q|N|N|100
@@ -3065,6 +3064,7 @@ XOMA|XOMA Corporation - Common Stock|G|N|N|100
 XONE|The ExOne Company - Common Stock|Q|N|N|100
 XPLR|Xplore Technologies Corp - Common Stock|S|N|N|100
 XRAY|DENTSPLY International Inc. - Common Stock|Q|N|N|100
+XRDC|Crossroads Capital, Inc. - Common Stock|S|N|N|100
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100
 XXIA|Ixia - Common Stock|Q|N|N|100
 YCB|Your Community Bankshares, Inc. - Common Stock|S|N|N|100
@@ -3108,4 +3108,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1202201521:33|||||
+File Creation Time: 1203201521:32|||||
