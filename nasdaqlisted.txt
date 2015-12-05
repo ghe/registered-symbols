@@ -784,7 +784,7 @@ CZR|Caesars Entertainment Corporation - Common Stock|Q|N|N|100
 CZWI|Citizens Community Bancorp, Inc. - Common Stock|G|N|N|100
 DAIO|Data I/O Corporation - Common Stock|S|N|N|100
 DAKT|Daktronics, Inc. - Common Stock|Q|N|N|100
-DARA|DARA Biosciences, Inc. - Common Stock|S|N|D|100
+DARA|DARA Biosciences, Inc. - Common Stock|S|N|N|100
 DATE|Jiayuan.com International Ltd. - American Depositary Shares|Q|N|N|100
 DAVE|Famous Dave's of America, Inc. - Common Stock|Q|N|N|100
 DAX|Recon Capital DAX Germany ETF|G|N|N|100
@@ -1707,7 +1707,7 @@ LSBG|Lake Sunapee Bank Group - Common Stock|G|N|N|100
 LSBK|Lake Shore Bancorp, Inc. - Common Stock|G|N|N|100
 LSCC|Lattice Semiconductor Corporation - Common Stock|Q|N|N|100
 LSTR|Landstar System, Inc. - Common Stock|Q|N|N|100
-LTBR|Lightbridge Corporation - Common Stock|S|N|N|100
+LTBR|Lightbridge Corporation - Common Stock|S|N|D|100
 LTRPA|Liberty TripAdvisor Holdings, Inc. - Series A Common Stock|Q|N|N|100
 LTRPB|Liberty TripAdvisor Holdings, Inc. - Series B Common Stock|Q|N|N|100
 LTRX|Lantronix, Inc. - Common Stock|S|N|N|100
@@ -3108,4 +3108,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1203201521:32|||||
+File Creation Time: 1204201521:33|||||
