@@ -3212,7 +3212,6 @@ MSK|Morgan Stanley Cap TR VIII GDT Cap Securities|N|MSK|N|100|N|MSK
 MSL|MidSouth Bancorp Common Stock|N|MSL|N|100|N|MSL
 MSM|MSC Industrial Direct Company, Inc. Common Stock|N|MSM|N|100|N|MSM
 MSN|Emerson Radio Corporation Common Stock|A|MSN|N|100|N|MSN
-MSO|Martha Stewart Living Omnimedia, Inc. Common Stock|N|MSO|N|100|N|MSO
 MSP|Madison Strategic Sector Premium Fund Madison Strategic Sector Premium Fund Common Shares of Beneficial Interest|N|MSP|N|100|N|MSP
 MSTX|Mast Therapeutics, Inc. Common Stock|A|MSTX|N|100|N|MSTX
 MT|Arcelor Mittal NY Registry Shares NEW|N|MT|N|100|N|MT
@@ -3260,7 +3259,6 @@ MVT|Blackrock MuniVest Fund II, Inc.  Common Stock|N|MVT|N|100|N|MVT
 MVV|ProShares Ultra MidCap400|P|MVV|Y|100|N|MVV
 MW|Men's Wearhouse, Inc. (The) Common Stock|N|MW|N|100|N|MW
 MWA|MUELLER WATER PRODUCTS Common Stock|N|MWA|N|100|N|MWA
-MWE|MarkWest Energy Partners, LP Common units representing limited partnership units|N|MWE|N|100|N|MWE
 MWG|Morgan Stanley Cap Tr IV Gtd Cap Secs|N|MWG|N|100|N|MWG
 MWO|Morgan Stanley Cap Tr V Gtd Cap Secs|N|MWO|N|100|N|MWO
 MWR|Morgan Stanley Cap Tr III Capital Trust Securities|N|MWR|N|100|N|MWR
@@ -5299,4 +5297,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1203201521:32||||||
+File Creation Time: 1204201521:33||||||
