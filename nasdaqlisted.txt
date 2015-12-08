@@ -79,7 +79,7 @@ AEPI|AEP Industries Inc. - Common Stock|Q|N|N|100
 AERI|Aerie Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 AETI|American Electric Technologies, Inc. - Common Stock|S|N|N|100
 AEY|ADDvantage Technologies Group, Inc. - Common Stock|G|N|N|100
-AEZS|AEterna Zentaris Inc. - Common Stock|S|N|D|100
+AEZS|AEterna Zentaris Inc. - Common Stock|S|N|N|100
 AFAM|Almost Family Inc - Common Stock|Q|N|N|100
 AFCB|Athens Bancshares Corporation - Common Stock|S|N|N|100
 AFFX|Affymetrix, Inc. - Common Stock|Q|N|N|100
@@ -171,7 +171,10 @@ ANAD|ANADIGICS, Inc. - Common Stock|Q|N|D|100
 ANAT|American National Insurance Company - Common Stock|Q|N|N|100
 ANCB|Anchor Bancorp - Common Stock|G|N|N|100
 ANCX|Access National Corporation - Common Stock|G|N|N|100
+ANDA|Andina Acquisition Corp. II - Ordinary Shares|S|N|N|100
+ANDAR|Andina Acquisition Corp. II - Right|S|N|N|100
 ANDAU|Andina Acquisition Corp. II - Units|S|N|N|100
+ANDAW|Andina Acquisition Corp. II - Warrant|S|N|N|100
 ANDE|The Andersons, Inc. - Common Stock|Q|N|N|100
 ANGI|Angie's List, Inc. - Common Stock|Q|N|N|100
 ANGO|AngioDynamics, Inc. - Common Stock|Q|N|N|100
@@ -199,7 +202,7 @@ AQXP|Aquinox Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ARAY|Accuray Incorporated - Common Stock|Q|N|N|100
 ARCB|ArcBest Corporation - Common Stock|Q|N|N|100
 ARCC|Ares Capital Corporation - Closed End Fund|Q|N|N|100
-ARCI|Appliance Recycling Centers of America, Inc. - Common Stock|S|N|N|100
+ARCI|Appliance Recycling Centers of America, Inc. - Common Stock|S|N|D|100
 ARCW|ARC Group Worldwide, Inc. - Common Stock|S|N|N|100
 ARDM|Aradigm Corporation - Common Stock|S|N|N|100
 ARDX|Ardelyx, Inc. - Common Stock|G|N|N|100
@@ -591,7 +594,9 @@ CIZ|Victory CEMP Developed Enhanced Volatility Wtd Index ETF|G|N|N|100
 CIZN|Citizens Holding Company - Common Stock|G|N|N|100
 CJJD|China Jo-Jo Drugstores, Inc. - Common Stock|S|N|N|100
 CKEC|Carmike Cinemas, Inc. - Common Stock|Q|N|N|100
+CLAC|Capitol Acquisition Corp. III - Common Stock|S|N|N|100
 CLACU|Capitol Acquisition Corp. III - Unit|S|N|N|100
+CLACW|Capitol Acquisition Corp. III - Warrants|S|N|N|100
 CLBH|Carolina Bank Holdings Inc. - Common Stock|G|N|N|100
 CLBS|Caladrius Biosciences, Inc. - Common Stock|S|N|N|100
 CLCD|CoLucid Pharmaceuticals, Inc. - Common Stock|G|N|N|100
@@ -686,7 +691,7 @@ CRDC|Cardica, Inc. - Common Stock|S|N|D|100
 CRDS|Crossroads Systems, Inc. - Common Stock|S|N|D|100
 CRDT|WisdomTree Strategic Corporate Bond Fund|G|N|N|100
 CREE|Cree, Inc. - Common Stock|Q|N|N|100
-CREG|China Recycling Energy Corporation - Common Stock|G|N|D|100
+CREG|China Recycling Energy Corporation - Common Stock|S|N|D|100
 CRESY|Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock|Q|N|N|100
 CRIS|Curis, Inc. - Common Stock|G|N|N|100
 CRME|Cardiome Pharma Corporation - Ordinary Shares (Canada)|S|N|N|100
@@ -784,7 +789,6 @@ CZR|Caesars Entertainment Corporation - Common Stock|Q|N|N|100
 CZWI|Citizens Community Bancorp, Inc. - Common Stock|G|N|N|100
 DAIO|Data I/O Corporation - Common Stock|S|N|N|100
 DAKT|Daktronics, Inc. - Common Stock|Q|N|N|100
-DARA|DARA Biosciences, Inc. - Common Stock|S|N|N|100
 DATE|Jiayuan.com International Ltd. - American Depositary Shares|Q|N|N|100
 DAVE|Famous Dave's of America, Inc. - Common Stock|Q|N|N|100
 DAX|Recon Capital DAX Germany ETF|G|N|N|100
@@ -1524,7 +1528,6 @@ ISNS|Image Sensing Systems, Inc. - Common Stock|S|N|N|100
 ISRG|Intuitive Surgical, Inc. - Common Stock|Q|N|N|100
 ISRL|Isramco, Inc. - Common Stock|S|N|N|100
 ISSC|Innovative Solutions and Support, Inc. - Common Stock|Q|N|D|100
-ISSI|Integrated Silicon Solution, Inc. - Common Stock|Q|N|N|100
 ISTR|Investar Holding Corporation - Common Stock|G|N|N|100
 ITCI|Intra-Cellular Therapies Inc. - Common Stock|Q|N|N|100
 ITEK|Inotek Pharmaceuticals Corporation - Common Stock|G|N|N|100
@@ -1673,7 +1676,8 @@ LMBS|First Trust Low Duration Mortgage Opportunities ETF|G|N|N|100
 LMCA|Liberty Media Corporation - Series A Common Stock|Q|N|N|100
 LMCB|Liberty Media Corporation - Series B Common Stock|Q|N|N|100
 LMCK|Liberty Media Corporation - Series C Common Stock|Q|N|N|100
-LMFAU|LM Funding America, Inc. - Units|S|N|N|100
+LMFA|LM Funding America, Inc. - Common Stock|S|N|N|100
+LMFAW|LM Funding America, Inc. - Warrant|S|N|N|100
 LMIA|LMI Aerospace, Inc. - Common Stock|Q|N|N|100
 LMNR|Limoneira Co - Common Stock|Q|N|N|100
 LMNX|Luminex Corporation - Common Stock|Q|N|N|100
@@ -1873,6 +1877,7 @@ MTEX|Mannatech, Incorporated - Common Stock|Q|N|N|100
 MTGE|American Capital Mortgage Investment Corp. - Common Stock|Q|N|N|100
 MTGEP|American Capital Mortgage Investment Corp. - 8.125% Series A Cumulative Redeemable Preferred Stock|Q|N|N|100
 MTLS|Materialise NV - American Depositary Shares|Q|N|N|100
+MTP|Midatech Pharma PLC - American Depositary Shares|S|N|N|100
 MTRX|Matrix Service Company - Common Stock|Q|N|N|100
 MTSC|MTS Systems Corporation - Common Stock|Q|N|N|100
 MTSI|M/A-COM Technology Solutions Holdings, Inc. - Common Stock|Q|N|N|100
@@ -2044,7 +2049,6 @@ ONB|Old National Bancorp - Common Stock|Q|N|N|100
 ONCE|Spark Therapeutics, Inc. - Common Stock|Q|N|N|100
 ONCS|OncoSec Medical Incorporated - Common Stock|S|N|N|100
 ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100
-ONFC|Oneida Financial Corp. - Common Stock|G|N|N|100
 ONTX|Onconova Therapeutics, Inc. - Common Stock|Q|N|D|100
 ONTY|Oncothyreon Inc. - Common Shares|Q|N|N|100
 ONVI|Onvia, Inc. - Common Stock|S|N|N|100
@@ -2675,7 +2679,7 @@ SYNC|Synacor, Inc. - Common Stock|G|N|N|100
 SYNL|Synalloy Corporation - Common Stock|G|N|N|100
 SYNT|Syntel, Inc. - Common Stock|Q|N|N|100
 SYPR|Sypris Solutions, Inc. - Common Stock|G|N|N|100
-SYRX|Sysorex Global Holding Corp. - Common Stock|S|N|N|100
+SYRX|Sysorex Global Holding Corp. - Common Stock|S|N|D|100
 SYUT|Synutra International, Inc. - Common Stock|Q|N|N|100
 SZMK|Sizmek Inc. - Common Stock|Q|N|N|100
 SZYM|Solazyme, Inc. - Common Stock|Q|N|N|100
@@ -3108,4 +3112,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1204201521:33|||||
+File Creation Time: 1208201510:02|||||
