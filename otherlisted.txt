@@ -1041,7 +1041,6 @@ CYH|Community Health Systems, Inc. Common Stock|N|CYH|N|100|N|CYH
 CYS|CYS Investments, Inc. Common Stock|N|CYS|N|100|N|CYS
 CYS$A|CYS Investments Inc Cumulative Redeemable Preferred Series A|N|CYSpA|N|100|N|CYS-A
 CYS$B|CYS Investments, Inc. Preferred Series B|N|CYSpB|N|100|N|CYS-B
-CYT|Cytec Industries Inc. Common Stock|N|CYT|N|100|N|CYT
 CZA|Guggenheim Mid-Cap Core ETF|P|CZA|Y|100|N|CZA
 CZZ|Cosan Limited Class A Common Stock|N|CZZ|N|100|N|CZZ
 D|Dominion Resources, Inc. Common Stock|N|D|N|100|N|D
@@ -1316,6 +1315,7 @@ EC|Ecopetrol S.A. American Depositary Shares|N|EC|N|100|N|EC
 ECA|Encana Corporation|N|ECA|N|100|N|ECA
 ECC|Eagle Point Credit Company Inc. Common Stock|N|ECC|N|100|N|ECC
 ECCA|Eagle Point Credit Company Inc. Series A Term Preferred Stock due 2022|N|ECCA|N|100|N|ECCA
+ECCZ|Eagle Point Credit Company Inc. 7.00% Notes due 2020|N|ECCZ|N|100|N|ECCZ
 ECF|Ellsworth Growth and Income Fund Ltd.|A|ECF|N|100|N|ECF
 ECH|iShares MSCI Chile Capped Investable Market Index Fund|P|ECH|Y|100|N|ECH
 ECL|Ecolab Inc. Common Stock|N|ECL|N|100|N|ECL
@@ -2270,7 +2270,7 @@ HPP|Hudson Pacific Properties, Inc. Common Stock|N|HPP|N|100|N|HPP
 HPP$B|Hudson Pacific Properties, Inc. 8.375% Series B Cumulative Redeemable Preferred shares|N|HPPpB/CL|N|100|N|HPP-B*
 HPQ|HP Inc. Common Stock|N|HPQ|N|100|N|HPQ
 HPS|John Hancock Preferred Income Fund III Preferred Income Fund III|N|HPS|N|100|N|HPS
-HPT|Hospitality Properites Trust Common Stock|N|HPT|N|100|N|HPT
+HPT|Hospitality Properties Trust Common Stock|N|HPT|N|100|N|HPT
 HPT$D|Hospitality Properties Trust Preferred Stock|N|HPTpD|N|100|N|HPT-D
 HPY|Heartland Payment Systems, Inc. Common Stock|N|HPY|N|100|N|HPY
 HQH|Tekla Healthcare Investors Common Stock|N|HQH|N|100|N|HQH
@@ -5292,4 +5292,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1208201510:02||||||
+File Creation Time: 1209201509:30||||||
