@@ -1986,7 +1986,7 @@ NVCR|NovoCure Limited - Ordinary Shares|Q|N|N|100
 NVDA|NVIDIA Corporation - Common Stock|Q|N|N|100
 NVDQ|Novadaq Technologies Inc - Common Shares|G|N|N|100
 NVEC|NVE Corporation - Common Stock|S|N|N|100
-NVEE|NV5 Holdings, Inc. - Common Stock|S|N|N|100
+NVEE|NV5 Global, Inc. - Common Stock|S|N|N|100
 NVET|Nexvet Biopharma plc - Ordinary Shares|G|N|N|100
 NVFY|Nova Lifestyle, Inc - Common Stock|G|N|N|100
 NVGN|Novogen Limited - American Depositary Shares each representing twenty five Ordinary Shares|S|N|N|100
@@ -2092,7 +2092,7 @@ OVTI|OmniVision Technologies, Inc. - Common Stock|Q|N|N|100
 OXBR|Oxbridge Re Holdings Limited - Ordinary Shares|S|N|N|100
 OXBRW|Oxbridge Re Holdings Limited - Warrant|S|N|N|100
 OXFD|Oxford Immunotec Global PLC - Ordinary Shares|G|N|N|100
-OXGN|OXiGENE, Inc. - Common Stock|S|N|N|100
+OXGN|OXiGENE, Inc. - Common Stock|S|N|D|100
 OXLC|Oxford Lane Capital Corp. - Common Stock|Q|N|N|100
 OXLCN|Oxford Lane Capital Corp. - 8.125% Series 2024 Term Preferred Stock|Q|N|N|100
 OXLCO|Oxford Lane Capital Corp. - Term Preferred Shares, 7.50% Series 2023|Q|N|N|100
@@ -3112,4 +3112,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1208201510:02|||||
+File Creation Time: 1209201509:30|||||
