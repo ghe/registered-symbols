@@ -2647,7 +2647,6 @@ STLD|Steel Dynamics, Inc. - Common Stock|Q|N|N|100
 STLY|Stanley Furniture Company, Inc. - Common Stock|Q|N|N|100
 STML|Stemline Therapeutics, Inc. - Common Stock|S|N|N|100
 STMP|Stamps.com Inc. - Common Stock|Q|N|N|100
-STNR|Steiner Leisure Limited - Common Shares|Q|N|N|100
 STPP|Barclays PLC - iPath US Treasury Steepener ETN|G|N|N|100
 STRA|Strayer Education, Inc. - Common Stock|Q|N|N|100
 STRL|Sterling Construction Company Inc - Common Stock|Q|N|N|100
@@ -2713,6 +2712,7 @@ TCPC|TCP Capital Corp. - Common Stock|Q|N|N|100
 TCRD|THL Credit, Inc. - Common Stock|Q|N|N|100
 TCX|Tucows Inc. - Common Stock|S|N|N|100
 TDIV|First Trust NASDAQ Technology Dividend Index Fund|G|N|N|100
+TEAM|Atlassian Corporation Plc - Class A Ordinary Shares|Q|N|N|100
 TEAR|TearLab Corporation - Common Stock|S|N|N|100
 TECD|Tech Data Corporation - Common Stock|Q|N|N|100
 TECH|Bio-Techne Corp - Common Stock|Q|N|N|100
@@ -2855,7 +2855,7 @@ UMPQ|Umpqua Holdings Corporation - Common Stock|Q|N|N|100
 UNAM|Unico American Corporation - Common Stock|G|N|N|100
 UNB|Union Bankshares, Inc. - Common Stock|G|N|N|100
 UNFI|United Natural Foods, Inc. - Common Stock|Q|N|N|100
-UNIS|Unilife Corporation - Common Stock|G|N|N|100
+UNIS|Unilife Corporation - Common Stock|G|N|D|100
 UNTD|United Online, Inc. - Common Stock|Q|N|N|100
 UNTY|Unity Bancorp, Inc. - Common Stock|G|N|N|100
 UNXL|Uni-Pixel, Inc. - Common Stock|S|N|N|100
@@ -3112,4 +3112,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1209201509:30|||||
+File Creation Time: 1210201510:01|||||
