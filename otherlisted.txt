@@ -4905,7 +4905,6 @@ USV|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloo
 USWD|WisdomTree Weak Dollar U.S. Equity Fund|P|USWD|Y|100|N|USWD
 UTF|Cohen & Steers Infrastructure Fund, Inc Common Stock|N|UTF|N|100|N|UTF
 UTG|Reaves Utility Income Fund Common Shares of Beneficial Interest|A|UTG|N|100|N|UTG
-UTG.R|Reaves Utility Income Fund Rights|A|UTGr|N|100|N|UTG^
 UTI|Universal Technical Institute Inc Common Stock|N|UTI|N|100|N|UTI
 UTL|UNITIL Corporation Common Stock|N|UTL|N|100|N|UTL
 UTX|United Technologies Corporation Common Stock|N|UTX|N|100|N|UTX
@@ -5180,7 +5179,6 @@ WUBA|58.com Inc. American Depositary Shares, each representing 2 Class A Ordinar
 WWAV|Whitewave Foods Company (The) Common Stock|N|WWAV|N|100|N|WWAV
 WWE|World Wrestling Entertainment, Inc. Class A Common Stock|N|WWE|N|100|N|WWE
 WWW|Wolverine World Wide, Inc. Common Stock|N|WWW|N|100|N|WWW
-WX|WuXi PharmaTech (Cayman) Inc. American Depositary Shares|N|WX|N|100|N|WX
 WY|Weyerhaeuser Company Common Stock|N|WY|N|100|N|WY
 WY$A|Weyerhaeuser Company Pref Conv Ser A|N|WYpA|N|100|N|WY-A
 WYDE|ProShares CDS Short North American HY Credit ETF|Z|WYDE|Y|100|N|WYDE
@@ -5293,4 +5291,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1210201510:01||||||
+File Creation Time: 1211201521:33||||||
