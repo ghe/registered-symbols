@@ -291,7 +291,6 @@ AXTI|AXT Inc - Common Stock|Q|N|N|100
 AYA|Amaya Inc. - Common Stock|Q|N|N|100
 AZPN|Aspen Technology, Inc. - Common Stock|Q|N|N|100
 BABY|Natus Medical Incorporated - Common Stock|Q|N|N|100
-BAMM|Books-A-Million, Inc. - Common Stock|Q|N|N|100
 BANF|BancFirst Corporation - Common Stock|Q|N|N|100
 BANFP|BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities|Q|N|N|100
 BANR|Banner Corporation - Common Stock|Q|N|N|100
@@ -2574,7 +2573,7 @@ SNHY|Sun Hydraulics Corporation - Common Stock|Q|N|N|100
 SNMX|Senomyx, Inc. - Common Stock|G|N|N|100
 SNPS|Synopsys, Inc. - Common Stock|Q|N|N|100
 SNSS|Sunesis Pharmaceuticals, Inc. - Common Stock|S|N|D|100
-SNTA|Synta Pharmaceuticals Corp. - Common Stock|G|N|N|100
+SNTA|Synta Pharmaceuticals Corp. - Common Stock|G|N|D|100
 SOCB|Southcoast Financial Corporation - Common Stock|G|N|N|100
 SOCL|Global X Social Media Index ETF|G|N|N|100
 SODA|SodaStream International Ltd. - Ordinary Shares|Q|N|N|100
@@ -3112,4 +3111,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1210201510:01|||||
+File Creation Time: 1211201521:33|||||
