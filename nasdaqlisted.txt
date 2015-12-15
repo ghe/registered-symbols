@@ -163,6 +163,7 @@ AMSF|AMERISAFE, Inc. - Common Stock|Q|N|N|100
 AMSG|Amsurg Corp. - Common Stock|Q|N|N|100
 AMSGP|Amsurg Corp. - 5.250% Mandatory Convertible Preferred Stock, Series A-1|Q|N|N|100
 AMSWA|American Software, Inc. - Class A Common Stock|Q|N|N|100
+AMTD|TD Ameritrade Holding Corporation - Common Stock|Q|N|N|100
 AMTX|Aemetis, Inc - Common Stock|G|N|N|100
 AMWD|American Woodmark Corporation - Common Stock|Q|N|N|100
 AMZN|Amazon.com, Inc. - Common Stock|Q|N|N|100
@@ -618,7 +619,6 @@ CLVS|Clovis Oncology, Inc. - Common Stock|Q|N|N|100
 CLWT|Euro Tech Holdings Company Limited - Ordinary Shares|S|N|N|100
 CMCO|Columbus McKinnon Corporation - Common Stock|Q|N|N|100
 CMCSA|Comcast Corporation - Class A Common Stock|Q|N|N|100
-CMCSK|Comcast Corporation - Class A Special Common Stock|Q|N|N|100
 CMCT|CIM Commercial Trust Corporation - Common Stock|G|N|N|100
 CME|CME Group Inc. - Class A Common Stock|Q|N|N|100
 CMFN|CM Finance Inc - Common Stock|Q|N|N|100
@@ -779,7 +779,7 @@ CYOU|Changyou.com Limited - American Depositary Shares, each representing two Cl
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100
 CYRX|CryoPort, Inc. - Common Stock|S|N|N|100
 CYRXW|CryoPort, Inc. - Warrants|S|N|N|100
-CYTK|Cytokinetics, Incorporated - Common Stock|S|N|N|100
+CYTK|Cytokinetics, Incorporated - Common Stock|Q|N|N|100
 CYTR|CytRx Corporation - Common Stock|S|N|N|100
 CYTX|Cytori Therapeutics Inc - Common Stock|G|N|D|100
 CZFC|Citizens First Corporation - Common Stock|G|N|N|100
@@ -942,7 +942,7 @@ EMIF|iShares S&P Emerging Markets Infrastructure Index Fund|G|N|N|100
 EMITF|Elbit Imaging Ltd. - Ordinary Shares|Q|N|N|100
 EMKR|EMCORE Corporation - Common Stock|G|N|N|100
 EML|Eastern Company (The) - Common Stock|G|N|N|100
-EMMS|Emmis Communications Corporation - Class A Common Stock|Q|N|N|100
+EMMS|Emmis Communications Corporation - Class A Common Stock|Q|N|D|100
 EMMSP|Emmis Communications Corporation - 6.25% Series A Cumulative Convertible Preferred Stock|Q|N|D|100
 ENDP|Endo International plc - Ordinary Shares|Q|N|N|100
 ENFC|Entegra Financial Corp. - Common Stock|G|N|N|100
@@ -1156,7 +1156,7 @@ FSLR|First Solar, Inc. - Common Stock|Q|N|N|100
 FSNN|Fusion Telecommunications International, Inc. - Common Stock|S|N|N|100
 FSTR|L.B. Foster Company - Common Stock|Q|N|N|100
 FSV|FirstService Corporation - Subordinate Voting Shares|Q|N|N|100
-FSYS|Fuel Systems Solutions, Inc. - Common Stock|Q|N|E|100
+FSYS|Fuel Systems Solutions, Inc. - Common Stock|Q|N|N|100
 FSZ|First Trust Switzerland AlphaDEX Fund|G|N|N|100
 FTCS|First Trust Capital Strength ETF|G|N|N|100
 FTD|FTD Companies, Inc. - Common Stock|Q|N|N|100
@@ -1841,7 +1841,7 @@ MOBI|Sky-mobi Limited - American Depositary Shares|G|N|N|100
 MOBL|MobileIron, Inc. - Common Stock|Q|N|N|100
 MOCO|MOCON, Inc. - Common Stock|G|N|N|100
 MOFG|MidWestOne Financial Group, Inc. - Common Stock|Q|N|N|100
-MOKO|MOKO Social Media Ltd. - American Depositary Shares|G|N|N|100
+MOKO|MOKO Social Media Ltd. - American Depositary Shares|G|N|D|100
 MOLG|MOL Global, Inc. - American Depositary Shares|Q|N|D|100
 MOMO|Momo Inc. - American Depositary Shares|Q|N|N|100
 MORN|Morningstar, Inc. - Common Stock|Q|N|N|100
@@ -2381,7 +2381,7 @@ RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100
 RMGN|RMG Networks Holding Corporation - Common Stock|G|N|D|100
-RMRAV|The RMR Group Inc. - Class A Common Stock When Issued|S|N|N|100
+RMR|The RMR Group Inc. - Class A Common Stock|S|N|N|100
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
@@ -2936,7 +2936,7 @@ VPCO|Vapor Corp. - Common Stock|S|N|D|100
 VPCOU|Vapor Corp. - Unit|S|N|N|100
 VRA|Vera Bradley, Inc. - Common Stock|Q|N|D|100
 VRML|Vermillion, Inc. - Common Stock|S|N|N|100
-VRNG|Vringo, Inc. - Common Stock|S|N|D|100
+VRNG|Vringo, Inc. - Common Stock|S|N|N|100
 VRNS|Varonis Systems, Inc. - Common Stock|Q|N|N|100
 VRNT|Verint Systems Inc. - Common Stock|Q|N|N|100
 VRSK|Verisk Analytics, Inc. - Common Stock|Q|N|N|100
@@ -3111,4 +3111,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1211201521:33|||||
+File Creation Time: 1215201514:01|||||
