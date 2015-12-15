@@ -183,7 +183,7 @@ ALP$O|Alabama Power Company Preferred Stock|N|ALPpO|N|100|N|ALP-O
 ALR|Alere Inc. Common Stock|N|ALR|N|100|N|ALR
 ALR$B|Alere Inc. Inverness Medical Innovations, Inc. Series B Convertible Perpetual Preferred Stock|N|ALRpB|N|10|N|ALR-B
 ALSN|Allison Transmission Holdings, Inc. Common Stock|N|ALSN|N|100|N|ALSN
-ALTS|ProShares Morningstar Alternatives Solution ETF|P|ALTS|Y|100|N|ALTS
+ALTS|ProShares Morningstar Alternatives Solution ETF|Z|ALTS|Y|100|N|ALTS
 ALTV|Alteva|A|ALTV|N|100|N|ALTV
 ALU|Alcatel-Lucent Common Stock|N|ALU|N|100|N|ALU
 ALV|Autoliv, Inc. Common Stock|N|ALV|N|100|N|ALV
@@ -209,7 +209,6 @@ AMS|American Shared Hospital Services Common Stock|A|AMS|N|100|N|AMS
 AMT|American Tower Corporation (REIT) Common Stock|N|AMT|N|100|N|AMT
 AMT$A|American Tower Corporation (REIT) Pfd Conv Ser A|N|AMTpA|N|100|N|AMT-A
 AMT$B|American Tower Corporation (REIT) Depositary Shares, each representing a 1/10th ownership interest in a share of 5.50% Mandatory Convertible Preferred Stock, Series B|N|AMTpB|N|100|N|AMT-B
-AMTD|TD Ameritrade Holding Corporation Common Stock|N|AMTD|N|100|N|AMTD
 AMTG|Apollo Residential Mortgage, Inc. Common Stock|N|AMTG|N|100|N|AMTG
 AMTG$A|Apollo Residential Mortgage, Inc. Pfd Shs Series A  (US)|N|AMTGpA|N|100|N|AMTG-A
 AMU|ETRACS Alerian MLP Index ETN|P|AMU|N|100|N|AMU
@@ -437,7 +436,6 @@ BDN|Brandywine Realty Trust Common Stock|N|BDN|N|100|N|BDN
 BDN$E|Brandywine Realty Tr Pfd Shs Ben Int Ser E|N|BDNpE|N|100|N|BDN-E
 BDR|Blonder Tongue Laboratories, Inc. Common Stock|A|BDR|N|100|N|BDR
 BDX|Becton, Dickinson and Company Common Stock|N|BDX|N|100|N|BDX
-BEE|Strategic Hotels & Resorts  Inc Common Stock|N|BEE|N|100|N|BEE
 BEL|Belmond Ltd. Class A Common Stock|N|BEL|N|100|N|BEL
 BEN|Franklin Resources, Inc. Common Stock|N|BEN|N|100|N|BEN
 BEP|Brookfield Renewable Energy Partners LP Partnership Units (Bermuda)|N|BEP|N|100|N|BEP
@@ -965,7 +963,7 @@ CSJ|iShares 1-3 Year Credit Bond ETF|P|CSJ|Y|100|N|CSJ
 CSL|Carlisle Companies Incorporated Common Stock|N|CSL|N|100|N|CSL
 CSLS|Credit Suisse X-Links Long/Short Equity ETN|P|CSLS|N|100|N|CSLS
 CSLT|Castlight Health, Inc. Class B Common Stock|N|CSLT|N|100|N|CSLT
-CSM|ProShares Large Cap Core Plus|P|CSM|Y|100|N|CSM
+CSM|ProShares Large Cap Core Plus|Z|CSM|Y|100|N|CSM
 CSMA|Credit Suisse X-Links Merger Arbitrage ETN due October 6, 2020|P|CSMA|N|100|N|CSMA
 CSRA|CSRA Inc. Common Stock|N|CSRA|N|100|N|CSRA
 CSS|CSS Industries, Inc. Common Stock|N|CSS|N|100|N|CSS
@@ -1302,7 +1300,7 @@ DZZ|DB Gold Double Short ETN due February 15, 2038|P|DZZ|N|100|N|DZZ
 E|ENI S.p.A. Common Stock|N|E|N|100|N|E
 EAA|Entergy Arkansas, Inc. First Mortgage Bonds, 5.75% Series Due November 1, 2040|N|EAA|N|100|N|EAA
 EAB|Entergy Arkansas, Inc. First Mortgage Bonds, 4.90% Series Due December 1, 2052|N|EAB|N|100|N|EAB
-EAD|Wells Fargo Advantage Income Opportunities Fund Common Shares|A|EAD|N|100|N|EAD
+EAD|Wells Fargo Income Opportunities Fund Common Shares|A|EAD|N|100|N|EAD
 EAE|Entergy Arkansas, Inc. First Mortgage Bonds, 4.75% Series due June 1, 2063|N|EAE|N|100|N|EAE
 EARN|Ellington Residential Mortgage REIT Common Shares of Beneficial Interest|N|EARN|N|100|N|EARN
 EAT|Brinker International, Inc. Common Stock|N|EAT|N|100|N|EAT
@@ -1465,7 +1463,7 @@ ENY|Guggenheim Canadian Energy Income ETF|P|ENY|Y|100|N|ENY
 ENZ|Enzo Biochem, Inc. Common Stock ($0.01 Par Value)|N|ENZ|N|100|N|ENZ
 ENZL|iShares MSCI New Zealand Capped ETF|P|ENZL|Y|100|N|ENZL
 EOC|Empresa Nacional de Electricidad S.A. Common Stock|N|EOC|N|100|N|EOC
-EOD|Wells Fargo Advantage Global Dividend Opportunity Fund|N|EOD|N|100|N|EOD
+EOD|Wells Fargo Global Dividend Opportunity Fund|N|EOD|N|100|N|EOD
 EOG|EOG Resources, Inc. Common Stock|N|EOG|N|100|N|EOG
 EOI|Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest|N|EOI|N|100|N|EOI
 EOS|Eaton Vance Enhance Equity Income Fund II Common Stock|N|EOS|N|100|N|EOS
@@ -1508,9 +1506,9 @@ EQWS|PowerShares Russell 2000 Equal Weight Portfolio|P|EQWS|Y|100|N|EQWS
 EQY|Equity One, Inc. Common Stock|N|EQY|N|100|N|EQY
 ERA|Era Group, Inc. Common Stock|N|ERA|N|100|N|ERA
 ERB|ERBA Diagnostics, Inc. Common Stock|A|ERB|N|100|N|ERB
-ERC|Wells Fargo Advantage Multi-Sector Income Fund Common Stock, no par value|A|ERC|N|100|N|ERC
+ERC|Wells Fargo Multi-Sector Income Fund Common Stock, no par value|A|ERC|N|100|N|ERC
 ERF|Enerplus Corporation Common Stock|N|ERF|N|100|N|ERF
-ERH|Wells Fargo Advantage Utilities and High Income Fund|A|ERH|N|100|N|ERH
+ERH|Wells Fargo Utilities and High Income Fund|A|ERH|N|100|N|ERH
 ERJ|Embraer S.A. Common Stock|N|ERJ|N|100|N|ERJ
 ERN|Erin Energy Corp.|A|ERN|N|100|N|ERN
 ERO|Barclays PLC iPath EUR/USD Exchange Rate ETN|P|ERO|N|100|N|ERO
@@ -3598,6 +3596,7 @@ P|Pandora Media, Inc. Common Stock|N|P|N|100|N|P
 PAA|Plains All American Pipeline, L.P. Common Stock|N|PAA|N|100|N|PAA
 PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)|N|PAC|N|100|N|PAC
 PACD|Pacific Drilling S.A. Common Shares|N|PACD|N|100|N|PACD
+PAEU|Pacer Autopilot Hedged European Index ETF|Z|PAEU|Y|100|N|PAEU
 PAF|PowerShares FTSE RAFI Asia Pacific ex-Japan Portfolio|P|PAF|Y|100|N|PAF
 PAG|Penske Automotive Group, Inc. Common Stock|N|PAG|N|100|N|PAG
 PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests|N|PAGP|N|100|N|PAGP
@@ -3854,6 +3853,7 @@ PST|ProShares UltraShort Lehman 7-10 Year Treasury|P|PST|Y|100|N|PST
 PSTG|Pure Storage, Inc. Class A Common Stock|N|PSTG|N|100|N|PSTG
 PSX|Phillips 66 Common Stock|N|PSX|N|100|N|PSX
 PSXP|Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership|N|PSXP|N|100|N|PSXP
+PTEU|Pacer TrendpilotTM European Index ETF|Z|PTEU|Y|100|N|PTEU
 PTF|PowerShares DWA Technology Momentum Portfolio|P|PTF|Y|100|N|PTF
 PTH|PowerShares DWA Healthcare Momentum Portfolio|P|PTH|Y|100|N|PTH
 PTLC|Pacer Trendpilot 750 ETF|Z|PTLC|Y|100|N|PTLC
@@ -3997,7 +3997,7 @@ REET|iShares Trust iShares Global REIT ETF|P|REET|Y|100|N|REET
 REG|Regency Centers Corporation Common Stock|N|REG|N|100|N|REG
 REG$F|Regency Centers Corporation Cumulative Red Preferred Series 6%|N|REGpF|N|100|N|REG-F
 REG$G|Regency Centers Corporation Pfd Ser 7%|N|REGpG|N|100|N|REG-G
-REGL|ProShares S&P MidCap 400 Dividend Aristocrats ETF|P|REGL|Y|100|N|REGL
+REGL|ProShares S&P MidCap 400 Dividend Aristocrats ETF|Z|REGL|Y|100|N|REGL
 REI|Ring Energy, Inc. Common Stock|A|REI|N|100|N|REI
 REK|ProShares Short Real Estate|P|REK|Y|100|N|REK
 RELX|RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)|N|RELX|N|100|N|RELX
@@ -4059,7 +4059,6 @@ RLGT|Radiant Logistics, Inc. Common Stock|A|RLGT|N|100|N|RLGT
 RLGT$A|Radiant Logistics, Inc. 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock|A|RLGTpA|N|100|N|RLGT-A
 RLGY|Realogy Holdings Corp. Common Stock|N|RLGY|N|100|N|RLGY
 RLH|Red Lions Hotels Corporation Common Stock|N|RLH|N|100|N|RLH
-RLH$A|Red Lion Hotels Capital Trust Red Lion Hotels Capital Trust - Trust Preferred Securities|N|RLHpA/CL|N|100|N|RLH-A*
 RLI|RLI Corp. Common Stock|N|RLI|N|100|N|RLI
 RLJ|RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value|N|RLJ|N|100|N|RLJ
 RLY|SPDR SSgA Multi Asset Real Return ETF|P|RLY|Y|100|N|RLY
@@ -4357,7 +4356,7 @@ SLYV|SPDR S&P 600 Small Cap Value ETF (based on S&P SmallCap Value Index--symbol
 SM|SM Energy Company Common Stock|N|SM|N|100|N|SM
 SMB|Market Vectors Short Municipal Index ETF|P|SMB|Y|100|N|SMB
 SMDD|UltraPro Short MidCap400|P|SMDD|Y|100|N|SMDD
-SMDV|ProShares Russell 2000 Dividend Growers ETF|P|SMDV|Y|100|N|SMDV
+SMDV|ProShares Russell 2000 Dividend Growers ETF|Z|SMDV|Y|100|N|SMDV
 SMEZ|SPDR EURO STOXX Small Cap ETF|P|SMEZ|Y|100|N|SMEZ
 SMFG|Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)|N|SMFG|N|100|N|SMFG
 SMG|Scotts Miracle-Gro Company (The) Common Stock|N|SMG|N|100|N|SMG
@@ -5291,4 +5290,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1211201521:33||||||
+File Creation Time: 1215201514:01||||||
