@@ -168,7 +168,7 @@ AMTX|Aemetis, Inc - Common Stock|G|N|N|100
 AMWD|American Woodmark Corporation - Common Stock|Q|N|N|100
 AMZN|Amazon.com, Inc. - Common Stock|Q|N|N|100
 ANAC|Anacor Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-ANAD|ANADIGICS, Inc. - Common Stock|Q|N|D|100
+ANAD|ANADIGICS, Inc. - Common Stock|S|N|D|100
 ANAT|American National Insurance Company - Common Stock|Q|N|N|100
 ANCB|Anchor Bancorp - Common Stock|G|N|N|100
 ANCX|Access National Corporation - Common Stock|G|N|N|100
@@ -280,7 +280,6 @@ AVID|Avid Technology, Inc. - Common Stock|Q|N|N|100
 AVNU|Avenue Financial Holdings, Inc. - Common Stock|Q|N|N|100
 AVNW|Aviat Networks, Inc. - Common Stock|Q|N|N|100
 AVXL|Anavex Life Sciences Corp. - Common Stock|S|N|N|100
-AWAY|HomeAway, Inc. - Common Stock|Q|N|N|100
 AWRE|Aware, Inc. - Common Stock|G|N|N|100
 AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
 AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100
@@ -443,7 +442,7 @@ CAFD|8point3 Energy Partners LP - Class A Shares|Q|N|N|100
 CAKE|The Cheesecake Factory Incorporated - Common Stock|Q|N|N|100
 CALA|Calithera Biosciences, Inc. - Common Stock|Q|N|N|100
 CALD|Callidus Software, Inc. - Common Stock|G|N|N|100
-CALI|China Auto Logistics Inc. - Common Stock|S|N|D|100
+CALI|China Auto Logistics Inc. - Common Stock|S|N|N|100
 CALL|magicJack VocalTec Ltd - Ordinary Shares|G|N|N|100
 CALM|Cal-Maine Foods, Inc. - Common Stock|Q|N|N|100
 CAMB|Cambridge Capital Acquisition Corporation - Common Stock|S|N|N|100
@@ -2201,7 +2200,7 @@ PNNT|PennantPark Investment Corporation - common stock|Q|N|N|100
 PNQI|PowerShares Nasdaq Internet Portfolio|G|N|N|100
 PNRA|Panera Bread Company - Class A Common Stock|Q|N|N|100
 PNRG|PrimeEnergy Corporation - Common Stock|S|N|N|100
-PNTR|Pointer Telocation Ltd. - Ordinary Shares|S|N|N|100
+PNTR|Pointer Telocation Ltd. - Ordinary Shares|S|N|D|100
 PODD|Insulet Corporation - Common Stock|Q|N|N|100
 POOL|Pool Corporation - Common Stock|Q|N|N|100
 POPE|Pope Resources - Limited Partnership|S|N|N|100
@@ -2756,7 +2755,7 @@ TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100
 TNGO|Tangoe, Inc. - Common Stock|Q|N|N|100
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|N|100
 TOPS|TOP Ships Inc. - Common Stock|Q|N|D|100
-TOR|Sutor Technology Group Limited - Common Stock|S|N|E|100
+TOR|Sutor Technology Group Limited - Common Stock|S|N|H|100
 TORM|TOR Minerals International Inc - Common Stock|S|N|N|100
 TOUR|Tuniu Corporation - American Depositary Shares|G|N|N|100
 TOWN|Towne Bank - Common Stock|Q|N|N|100
@@ -3006,7 +3005,7 @@ WILN|Wi-LAN Inc - Common Shares|Q|N|N|100
 WIN|Windstream Holdings, Inc. - Common Stock|Q|N|N|100
 WINA|Winmark Corporation - Common Stock|G|N|N|100
 WING|Wingstop Inc. - Common Stock|Q|N|N|100
-WINS|Wins Finance Holdings Inc. - Ordinary Shares (Cayman Islands)|S|N|N|100
+WINS|Wins Finance Holdings Inc. - Ordinary Shares (Cayman Islands)|S|N|D|100
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100
 WLB|Westmoreland Coal Company - Common Stock|G|N|N|100
@@ -3111,4 +3110,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1215201514:01|||||
+File Creation Time: 1217201518:02|||||
