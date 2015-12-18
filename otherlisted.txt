@@ -112,6 +112,7 @@ AGO$B|Assured Guaranty Ltd.|N|AGOpB|N|100|N|AGO-B
 AGO$E|Assured Guaranty Ltd.|N|AGOpE|N|100|N|AGO-E
 AGO$F|Assured Guaranty Ltd.|N|AGOpF|N|100|N|AGO-F
 AGQ|ProShares Ultra Silver|P|AGQ|Y|100|N|AGQ
+AGR|Avangrid, Inc. Common Stock|N|AGR|N|100|N|AGR
 AGRO|Adecoagro S.A. Common Shares|N|AGRO|N|100|N|AGRO
 AGU|Agrium Inc. Common Stock|N|AGU|N|100|N|AGU
 AGX|Argan, Inc. Common Stock|N|AGX|N|100|N|AGX
@@ -1164,6 +1165,7 @@ DIVC|Citigroup Inc. C-Tracks ETN Miller/Howard Strategic Dividend Reinvestors Du
 DIVI|AdvisorShares Athena High Dividend ETF|P|DIVI|Y|100|N|DIVI
 DIVY|Realty Shares DIVS ETF|P|DIVY|Y|100|N|DIVY
 DJCI|E-TRACS Linked to the Bloomberg Commodity Index Total Return due October 31, 2039|P|DJCI|N|100|N|DJCI
+DJD|Guggenheim Dow Jones Industrial Average Dividend ETF|P|DJD|Y|100|N|DJD
 DJP|iPath Bloomberg Commodity Index Total Return ETN|P|DJP|N|100|N|DJP
 DK|Delek US Holdings, Inc. Common Stock|N|DK|N|100|N|DK
 DKL|Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests|N|DKL|N|100|N|DKL
@@ -3286,6 +3288,7 @@ NADL|North Atlantic Drilling Ltd. Common Shares|N|NADL|N|100|N|NADL
 NAIL|Direxion Daily Homebuilders & Supplies Bull 3X Shares|P|NAIL|Y|100|N|NAIL
 NAK|Northern Dynasty Minerals, Ltd. Common Stock|A|NAK|N|100|N|NAK
 NAN|Nuveen New York Dividend Advantage Municipal Fund Common Stock|N|NAN|N|100|N|NAN
+NANR|SPDR S&P North American Natural Resources ETF|P|NANR|Y|100|N|NANR
 NAO|Nordic Amern Offshore Ltd Ordinary Shares Reg S (Marshall Islands)|N|NAO|N|100|N|NAO
 NAP|Navios Maritime Midstream Partners LP Common Units representing limited partner interests|N|NAP|N|100|N|NAP
 NASH|Nashville Area ETF|P|NASH|Y|100|N|NASH
@@ -4592,6 +4595,7 @@ TCO$K|Taubman Centers, Inc. Preferred Series K|N|TCOpK|N|100|N|TCO-K
 TCP|TC PipeLines, LP Common Units representing Limited Partner Interests|N|TCP|N|100|N|TCP
 TCPI|TCP International Holdings Ltd. Common Shares|N|TCPI|N|100|N|TCPI
 TCRX|THL Credit, Inc. 6.75% Notes due 2021|N|TCRX|N|100|N|TCRX
+TCRZ|THL Credit, Inc. 6.75% Notes due 2022|N|TCRZ|N|100|N|TCRZ
 TCS|Container Store (The) Common Stock|N|TCS|N|100|N|TCS
 TD|Toronto Dominion Bank (The) Common Stock|N|TD|N|100|N|TD
 TDA|Telephone and Data Systems, Inc. 5.875% Senior Notes due 2061|N|TDA|N|100|N|TDA
@@ -4842,7 +4846,6 @@ UGP|Ultrapar Participacoes S.A. (New) American Depositary Shares (Each represent
 UHN|United States Diesel Heating Oil Fund LP|P|UHN|Y|100|N|UHN
 UHS|Universal Health Services, Inc. Common Stock|N|UHS|N|100|N|UHS
 UHT|Universal Health Realty Income Trust Common Stock|N|UHT|N|100|N|UHT
-UIL|UIL Holdings Corporation Common Stock|N|UIL|N|100|N|UIL
 UIS|Unisys Corporation New Common Stock|N|UIS|N|100|N|UIS
 UJB|ProShares Ultra High Yield ETF|P|UJB|Y|100|N|UJB
 UL|Unilever PLC Common Stock|N|UL|N|100|N|UL
@@ -5290,4 +5293,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1215201514:01||||||
+File Creation Time: 1217201518:02||||||
