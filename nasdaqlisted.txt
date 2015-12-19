@@ -2531,7 +2531,7 @@ SITO|SITO Mobile, Ltd. - Common Stock|S|N|N|100
 SIVB|SVB Financial Group - Common Stock|Q|N|N|100
 SIVBO|SVB Financial Group - 7% Cumulative Trust Preferred Securities - SVB Capital II|Q|N|N|100
 SIXD|6D Global Technologies, Inc. - Common Stock|S|N|D|100
-SKBI|Skystar Bio-Pharmaceutical Company - Common Stock|S|N|H|100
+SKBI|Skystar Bio-Pharmaceutical Company - Common Stock|S|N|N|100
 SKIS|Peak Resorts, Inc. - Common Stock|G|N|N|100
 SKLN|Skyline Medical Inc. - Common Stock|S|N|N|100
 SKLNU|Skyline Medical Inc. - Unit|S|N|N|100
@@ -3109,4 +3109,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1218201512:11|||||
+File Creation Time: 1218201521:33|||||
