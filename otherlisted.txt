@@ -185,7 +185,6 @@ ALR|Alere Inc. Common Stock|N|ALR|N|100|N|ALR
 ALR$B|Alere Inc. Inverness Medical Innovations, Inc. Series B Convertible Perpetual Preferred Stock|N|ALRpB|N|10|N|ALR-B
 ALSN|Allison Transmission Holdings, Inc. Common Stock|N|ALSN|N|100|N|ALSN
 ALTS|ProShares Morningstar Alternatives Solution ETF|Z|ALTS|Y|100|N|ALTS
-ALTV|Alteva|A|ALTV|N|100|N|ALTV
 ALU|Alcatel-Lucent Common Stock|N|ALU|N|100|N|ALU
 ALV|Autoliv, Inc. Common Stock|N|ALV|N|100|N|ALV
 ALX|Alexander's, Inc. Common Stock|N|ALX|N|100|N|ALX
@@ -971,7 +970,6 @@ CST|CST Brands, Inc. Common Stock|N|CST|N|100|N|CST
 CSTM|Constellium N.V. Ordinary Shares|N|CSTM|N|100|N|CSTM
 CSU|Capital Senior Living Corporation Common Stock|N|CSU|N|100|N|CSU
 CSV|Carriage Services, Inc. Common Stock|N|CSV|N|100|N|CSV
-CSX|CSX Corporation Common Stock|N|CSX|N|100|N|CSX
 CTB|Cooper Tire & Rubber Company Common Stock|N|CTB|N|100|N|CTB
 CTF|Nuveen Long/Short Commodity Total Return Fund Common Units of Beneficial Interest|A|CTF|N|100|N|CTF
 CTL|CenturyLink, Inc. Common Stock|N|CTL|N|100|N|CTL
@@ -1292,6 +1290,8 @@ DXJT|WisdomTree Japan Hedged Tech, Media & Telecom Fund|P|DXJT|Y|100|N|DXJT
 DXR|Daxor Corporation Common Stock|A|DXR|N|100|N|DXR
 DXUS|WisdomTree Global ex-U.S. Hedged Dividend Fund|P|DXUS|Y|100|N|DXUS
 DY|Dycom Industries, Inc. Common Stock|N|DY|N|100|N|DY
+DYB|WisdomTree Dynamic Bearish U.S. Equity Fund|Z|DYB|Y|100|N|DYB
+DYLS|WisdomTree Dynamic Long/Short U.S. Equity Fund|Z|DYLS|Y|100|N|DYLS
 DYN|Dynegy Inc. Common Stock|N|DYN|N|100|N|DYN
 DYN$A|Dynegy Inc. Mandatory Preferred Convertible Series A%|N|DYNpA|N|100|N|DYN-A
 DYN.W|Dynegy Inc. Warrant expiring October 2, 2017|N|DYN/WS|N|100|N|DYN+
@@ -1444,7 +1444,6 @@ ENB|Enbridge Inc Common Stock|N|ENB|N|100|N|ENB
 ENBL|Enable Midstream Partners, LP Common Units representing limited partner interests|N|ENBL|N|100|N|ENBL
 ENFR|Alerian Energy Infrastructure ETF|P|ENFR|Y|100|N|ENFR
 ENH|Endurance Specialty Holdings Ltd Common Stock|N|ENH|N|100|N|ENH
-ENH$A|Endurance Specialty Holdings Ltd Preferred Series A|N|ENHpA/CL|N|100|N|ENH-A*
 ENH$B|Endurance Specialty Holdings Ltd PFD SER B (Bermuda)|N|ENHpB|N|100|N|ENH-B
 ENH$C|Endurance Specialty Holdings Ltd Depositary Shares, each Representing a 1/1000th Interest in a Share of 6.350% Non-Cumulative Preferred Shares, Series C, $1.00 par value|N|ENHpC|N|100|N|ENH-C
 ENI|Enersis S A Common Stock|N|ENI|N|100|N|ENI
@@ -2312,8 +2311,7 @@ HTS$A|Hatteras Financial Corp Cum Redeemable Pfd Ser A|N|HTSpA|N|100|N|HTS-A
 HTUS|Hull Tactical US ETF|P|HTUS|Y|100|N|HTUS
 HTY|John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest|N|HTY|N|100|N|HTY
 HTZ|Hertz Global Holdings, Inc Common Stock|N|HTZ|N|100|N|HTZ
-HUB.A|Hubbell Inc A Common Stock|N|HUB/A|N|100|N|HUB.A
-HUB.B|Hubbell Inc Common Stock Class B|N|HUB/B|N|100|N|HUB.B
+HUBB|Hubbell Inc Common Stock|N|HUBB|N|100|N|HUBB
 HUBS|HubSpot, Inc. Common Stock|N|HUBS|N|100|N|HUBS
 HUM|Humana Inc. Common Stock|N|HUM|N|100|N|HUM
 HUN|Huntsman Corporation Common Stock|N|HUN|N|100|N|HUN
@@ -2477,6 +2475,7 @@ IMH|Impac Mortgage Holdings, Inc. Common Stock New|A|IMH|N|100|N|IMH
 IMLP|iPath S&P MLP ETN|P|IMLP|N|100|N|IMLP
 IMN|Imation Corporation Common Stock|N|IMN|N|100|N|IMN
 IMO|Imperial Oil Limited Common Stock|A|IMO|N|100|N|IMO
+IMOM|MomentumShares International Quantitative Momentum ETF|Z|IMOM|Y|100|N|IMOM
 IMPR|Imprivata, Inc. Common Stock|N|IMPR|N|100|N|IMPR
 IMPV|Imperva, Inc. Common Stock|N|IMPV|N|100|N|IMPV
 IMS|IMS Health Holdings, Inc. Common Stock|N|IMS|N|100|N|IMS
@@ -2559,9 +2558,6 @@ ISD|Prudential Short Duration High Yield Fund, Inc. Common Stock|N|ISD|N|100|N|I
 ISDR|Issuer Direct Corporation Common Stock|A|ISDR|N|100|N|ISDR
 ISF|ING Group, N.V. Perp Hybrid Cap Secs (Netherlands)|N|ISF|N|100|N|ISF
 ISG|ING Group, N.V. Perpetual Dent Secs 6.125%|N|ISG|N|100|N|ISG
-ISH|International Shipholding Corporation Common Stock|N|ISH|N|100|N|ISH
-ISH$A|International Shipholding Corporation Cumulative Redeemable Perpetual Preferred Series A|N|ISHpA|N|100|N|ISH-A
-ISH$B|International Shipholding Corporation PERP PFD SER B|N|ISHpB|N|100|N|ISH-B
 ISL|Aberdeen Israel Fund, Inc. (The) Common Stock|A|ISL|N|100|N|ISL
 ISP|ING Groep NV 6.20% Perpetual Debt Securities (Netherlands)|N|ISP|N|100|N|ISP
 ISR|IsoRay, Inc. Common Stock|A|ISR|N|100|N|ISR
@@ -2724,6 +2720,7 @@ JP|Jupai Holdings Limited American Depositary Shares, each representing six ordi
 JPC|Nuveen  Preferred Income Opportunities Fund|N|JPC|N|100|N|JPC
 JPEM|JPMorgan Diversified Return Emerging Markets Equity ETF|P|JPEM|Y|100|N|JPEM
 JPEP|JP Energy Partners LP Common units representing limited partner interests|N|JPEP|N|100|N|JPEP
+JPEU|JPMorgan Diversified Return Europe Equity ETF|P|JPEU|Y|100|N|JPEU
 JPGE|JPMorgan Diversified Return Global Equity ETF|P|JPGE|Y|100|N|JPGE
 JPI|Nuveen Preferred and Income Term Fund Common Shares of Beneficial Interest|N|JPI|N|100|N|JPI
 JPIN|JPMorgan Diversified Return International Equity ETF|P|JPIN|Y|100|N|JPIN
@@ -3025,6 +3022,7 @@ MCRN|Milacron Holdings Corp. Common Stock|N|MCRN|N|100|N|MCRN
 MCRO|IQ Hedge Macro Tracker ETF|P|MCRO|Y|100|N|MCRO
 MCS|Marcus Corporation (The) Common Stock|N|MCS|N|100|N|MCS
 MCV|Medley Capital Corporation 6.125% Senior Notes due 2023|N|MCV|N|100|N|MCV
+MCX|Medley Capital Corporation 6.50% Notes due 2021|N|MCX|N|100|N|MCX
 MCY|Mercury General Corporation Common Stock|N|MCY|N|100|N|MCY
 MCZ|Mad Catz Interactive Inc Common Stock|A|MCZ|N|100|N|MCZ
 MD|Mednax, Inc. Common Stock|N|MD|N|100|N|MD
@@ -3228,7 +3226,6 @@ MTN|Vail Resorts, Inc. Common Stock|N|MTN|N|100|N|MTN
 MTOR|Meritor, Inc. Common Stock|N|MTOR|N|100|N|MTOR
 MTR|Mesa Royalty Trust Common Stock|N|MTR|N|100|N|MTR
 MTRN|Materion Corporation|N|MTRN|N|100|N|MTRN
-MTS|Montgomery Street Income Securities, Inc. Common Stock|N|MTS|N|100|N|MTS
 MTT|Western Asset Municipal Defined Opportunity Trust Inc Common Stock|N|MTT|N|100|N|MTT
 MTU|Mitsubishi UFJ Financial Group, Inc. Common Stock|N|MTU|N|100|N|MTU
 MTUM|iShares MSCI USA Momentum Factor ETF|P|MTUM|Y|100|N|MTUM
@@ -3414,6 +3411,7 @@ NOBL|ProShares S&P 500 Dividend Aristocrats ETF|P|NOBL|Y|100|N|NOBL
 NOC|Northrop Grumman Corporation Common Stock|N|NOC|N|100|N|NOC
 NOG|Northern Oil and Gas, Inc. Common Stock|A|NOG|N|100|N|NOG
 NOK|Nokia Corporation Sponsored American Depositary Shares|N|NOK|N|100|N|NOK
+NOK.V|Nokia Corporation American Depositary Shares (Additional Shares) When Issued|N|NOKw|N|100|N|NOK#
 NOM|Nuveen Missouri Premium Income Municipal Fund Common Shares of Beneficial Interest|A|NOM|N|100|N|NOM
 NORD|Nord Anglia Education, Inc. Ordinary Shares|N|NORD|N|100|N|NORD
 NORW|Global X MSCI Norway ETF|P|NORW|Y|100|N|NORW
@@ -3614,6 +3612,7 @@ PAY|Verifone Systems, Inc. Common Stock|N|PAY|N|100|N|PAY
 PAYC|Paycom Software, Inc. Common Stock|N|PAYC|N|100|N|PAYC
 PB|Prosperity Bancshares, Inc. Common Stock|N|PB|N|100|N|PB
 PBA|Pembina Pipeline Corp. Ordinary Shares (Canada)|N|PBA|N|100|N|PBA
+PBB|Prospect Capital Corporation 6.25% Notes due 2024|N|PBB|N|100|N|PBB
 PBD|PowerShares Global Clean Energy Portfolio|P|PBD|Y|100|N|PBD
 PBE|PowerShares Dynamic Biotech &Genome|P|PBE|Y|100|N|PBE
 PBF|PBF Energy Inc. Class A Common Stock|N|PBF|N|100|N|PBF
@@ -4047,6 +4046,7 @@ RING|iShares MSCI Global Gold Miners Fund|P|RING|Y|100|N|RING
 RIO|Rio Tinto Plc Common Stock|N|RIO|N|100|N|RIO
 RISE|Sit Rising Rate ETF|P|RISE|Y|100|N|RISE
 RIT|LMP Real Estate Income Fund Inc Common Stock|N|RIT|N|100|N|RIT
+RIV|RiverNorth Opportunities Fund, Inc. Common Stock|N|RIV|N|100|N|RIV
 RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product|P|RJA|N|100|N|RJA
 RJD|Raymond James Financial, Inc. 6.90% Senior Notes Due 2042|N|RJD|N|100|N|RJD
 RJF|Raymond James Financial, Inc. Common Stock|N|RJF|N|100|N|RJF
@@ -4068,7 +4068,6 @@ RMAX|RE/MAX Holdings, Inc. Class A Common Stock|N|RMAX|N|100|N|RMAX
 RMD|ResMed Inc. Common Stock|N|RMD|N|100|N|RMD
 RMP|Rice Midstream Partners LP Common Units representing limited partner interests|N|RMP|N|100|N|RMP
 RMT|Royce Micro-Cap Trust, Inc. Common Stock|N|RMT|N|100|N|RMT
-RNDY|Roundy's, Inc. Common Stock|N|RNDY|N|100|N|RNDY
 RNF|Rentech Nitrogen Partners, L.P. Common Units representing limited partner interests|N|RNF|N|100|N|RNF
 RNG|Ringcentral, Inc. Class A Common Stock|N|RNG|N|100|N|RNG
 RNN|Rexahn Pharmaceuticals, Inc. Common Stock|A|RNN|N|100|N|RNN
@@ -4281,7 +4280,6 @@ SFLA|iPath Long Extended S&P 500 TR Index ETN|P|SFLA|N|100|N|SFLA
 SFN|Stifel Financial Corporation 5.375% Senior Notes due December 2022|N|SFN|N|100|N|SFN
 SFS|Smart & Final Stores, Inc. Common Stock|N|SFS|N|100|N|SFS
 SFUN|SouFun Holdings Limited American Depositary Shares (Each representing Four Class A Ordinary Shares, HK$1.00 par value)|N|SFUN|N|100|N|SFUN
-SFY|Swift Energy Company (Holding Company) Common Stock|N|SFY|N|100|N|SFY
 SGA|Saga Communications, Inc. New Class A Common Stock|A|SGA|N|100|N|SGA
 SGAR|iPath Pure Beta Sugar ETN|P|SGAR|N|100|N|SGAR
 SGB|Southwest Georgia Financial Corporation Common Stock|A|SGB|N|100|N|SGB
@@ -4713,6 +4711,7 @@ TOTS|Direxion Daily Total Market Bear 1X Shares|P|TOTS|Y|100|N|TOTS
 TOWR|Tower International, Inc. Common stock|N|TOWR|N|100|N|TOWR
 TPC|Tutor Perini Corporation Common Stock|N|TPC|N|100|N|TPC
 TPH|TRI Pointe Group, Inc. Common Stock|N|TPH|N|100|N|TPH
+TPHS|Trinity Place Holdings Inc. Common Stock|A|TPHS|N|100|N|TPHS
 TPI|Tianyin Pharmaceutical Co., Inc. Common Stock|A|TPI|N|100|N|TPI
 TPL|Texas Pacific Land Trust Common Stock|N|TPL|N|100|N|TPL
 TPLM|Triangle Petroleum Corporation Common Stock (DE)|A|TPLM|N|100|N|TPLM
@@ -4796,7 +4795,7 @@ TYC|Tyco International plc (Ireland) Ordinary Share|N|TYC|N|100|N|TYC
 TYD|Direxion Daily 10-Yr Treasury Bull 3x Shrs|P|TYD|Y|100|N|TYD
 TYG|Tortoise Energy Infrastructure Corporation Common Stock|N|TYG|N|100|N|TYG
 TYG$B|Tortoise Energy Infrastructure Corporation Mandatory Red Pfd Ser B|N|TYGpB|N|100|N|TYG-B
-TYG$C|Tortoise Energy Infrastructure Corporation Series C Mandatory Redeemable Preferred Shares|N|TYGpC|N|100|N|TYG-C
+TYG$C|Tortoise Energy Infrastructure Corporation Series C Mandatory Redeemable Preferred Shares|N|TYGpC/CL|N|100|N|TYG-C*
 TYL|Tyler Technologies, Inc. Common Stock|N|TYL|N|100|N|TYL
 TYNS|Direxion Daily 7 10 Year Treasury Bear 1X Shares|P|TYNS|Y|100|N|TYNS
 TYO|Direxion Daily 10-Yr Treasury Bear 3x Shrs|P|TYO|Y|100|N|TYO
@@ -5292,4 +5291,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1218201521:33||||||
+File Creation Time: 1224201503:03||||||
