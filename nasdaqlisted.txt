@@ -980,7 +980,7 @@ ESND|Essendant Inc. - Common Stock|Q|N|N|100
 ESPR|Esperion Therapeutics, Inc. - Common Stock|G|N|N|100
 ESRX|Express Scripts Holding Company - Common Stock|Q|N|N|100
 ESSA|ESSA Bancorp, Inc. - common stock|Q|N|N|100
-ESSX|Essex Rental Corporation - Common Stock|S|N|D|100
+ESSX|Essex Rental Corporation - Common Stock|S|N|N|100
 ESXB|Community Bankers Trust Corporation. - Common Stock|S|N|N|100
 ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100
 ETRM|EnteroMedics Inc. - Common Stock|S|N|D|100
@@ -1290,6 +1290,7 @@ GRVY|GRAVITY Co., Ltd. - American depositary shares, each representing one-fourt
 GSBC|Great Southern Bancorp, Inc. - Common Stock|Q|N|N|100
 GSIG|GSI Group, Inc. - Common Stock|Q|N|N|100
 GSIT|GSI Technology, Inc. - Common Stock|Q|N|N|100
+GSM|Ferroglobe PLC - Ordinary Shares|Q|N|N|100
 GSOL|Global Sources Ltd. - Common Stock|Q|N|N|100
 GSVC|GSV Capital Corp - Common Stock|S|N|N|100
 GT|The Goodyear Tire & Rubber Company - Common Stock|Q|N|N|100
@@ -1784,7 +1785,7 @@ MEMP|Memorial Production Partners LP - Common Units|Q|N|N|100
 MENT|Mentor Graphics Corporation - Common Stock|Q|N|N|100
 MEOH|Methanex Corporation - Common Stock|Q|N|N|100
 MERC|Mercer International Inc. - Common Stock|Q|N|N|100
-MESG|Xura, Inc. - Common Stock|G|N|N|100
+MESG|Xura, Inc. - Common Stock|G|N|E|100
 MESO|Mesoblast Limited - American Depositary Shares|Q|N|N|100
 METR|Metro Bancorp, Inc - Common Stock|Q|N|N|100
 MFLX|Multi-Fineline Electronix, Inc. - Common Stock|Q|N|N|100
@@ -2373,7 +2374,7 @@ RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
 RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
 RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|N|100
-RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
+RLOC|ReachLocal, Inc. - Common Stock|Q|N|D|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
@@ -2384,6 +2385,7 @@ RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100
 RNET|RigNet, Inc. - Common Stock|Q|N|N|100
 RNST|Renasant Corporation - Common Stock|Q|N|N|100
 RNVA|Rennova Health, Inc. - Common Stock|S|N|N|100
+RNVAW|Rennova Health, Inc. - Warrant|S|N|N|100
 RNWK|RealNetworks, Inc. - Common Stock|Q|N|N|100
 ROBO|Robo-Stox Global Robotics and Automation Index ETF|G|N|N|100
 ROCK|Gibraltar Industries, Inc. - Common Stock|Q|N|N|100
@@ -2822,7 +2824,7 @@ UBIC|UBIC, Inc. - American Depositary Shares|Q|N|N|100
 UBIO|Proshares UltraPro Nasdaq Biotechnology|G|N|N|100
 UBND|WisdomTree Western Asset Unconstrained Bond Fund|G|N|N|100
 UBNK|United Financial Bancorp, Inc.  - Common Stock|Q|N|N|100
-UBNT|Ubiquiti Networks, Inc. - Common Stock|Q|N|N|100
+UBNT|Ubiquiti Networks, Inc. - Common Stock|Q|N|D|100
 UBOH|United Bancshares, Inc. - Common Stock|G|N|N|100
 UBSH|Union Bankshares Corporation - Common Stock|Q|N|N|100
 UBSI|United Bankshares, Inc. - Common Stock|Q|N|N|100
@@ -3105,4 +3107,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1224201506:00|||||
+File Creation Time: 1224201521:32|||||
