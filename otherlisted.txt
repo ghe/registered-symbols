@@ -1231,7 +1231,7 @@ DRV|Drexion Daily Real Estate Bear 3x Shares|P|DRV|Y|100|N|DRV
 DRVN|Highland Funds I Highland HFR Event-Driven ETF|P|DRVN|Y|100|N|DRVN
 DRW|WisdomTree Global ex-US Real Estate Index|P|DRW|Y|100|N|DRW
 DSE|Duff & Phelps Select Energy MLP Fund Inc. Common Stock|N|DSE|N|100|N|DSE
-DSI|iShares KLD 400 Social Index Fund|P|DSI|Y|100|N|DSI
+DSI|iShares MSCI KLD 400 Social ETF|P|DSI|Y|100|N|DSI
 DSL|DoubleLine Income Solutions Fund Common Shares of Beneficial Interests|N|DSL|N|100|N|DSL
 DSM|Dreyfus Strategic Municipal Bond Fund, Inc. Common Stock|N|DSM|N|100|N|DSM
 DSS|Document Security Systems, Inc. Common Stock|A|DSS|N|100|N|DSS
@@ -1994,7 +1994,6 @@ GLW|Corning Incorporated Common Stock|N|GLW|N|100|N|GLW
 GM|General Motors Company Common Stock|N|GM|N|100|N|GM
 GM.A|General Motors Company Warrant (Expires 07/10/2016)|N|GM/WS/A|N|100|N|GM+A
 GM.B|General Motors Company Warrant (Expires 07/10/2019)|N|GM/WS/B|N|100|N|GM+B
-GM.C|General Motors Company Warrants (expiring December 31, 2015)|N|GM/WS/C|N|100|N|GM+C
 GME|Gamestop Corporation Common Stock|N|GME|N|100|N|GME
 GMED|Globus Medical, Inc. Class A Common Stock|N|GMED|N|100|N|GMED
 GMF|SPDR S&P Emerging Asia Pacific ETF|P|GMF|Y|100|N|GMF
@@ -4698,7 +4697,7 @@ TNP$C|Tsakos Energy Navigation Ltd 8.875% Series C Preferred Cumulative Redeemab
 TNP$D|Tsakos Energy Navigation Ltd 8.75% Series D Cumulative Redeemable Perpetual Preferred Shares|N|TNPpD|N|100|N|TNP-D
 TOF|Tofutti Brands Inc. Common Stock|A|TOF|N|100|N|TOF
 TOFR|Stock Split Index Fund ETF|P|TOFR|Y|100|N|TOFR
-TOK|iShares MSCI KLD 400 Social ETF|P|TOK|Y|100|N|TOK
+TOK|iShares MSCI Kokusai ETF|P|TOK|Y|100|N|TOK
 TOL|Toll Brothers Inc. Common Stock|N|TOL|N|100|N|TOL
 TOLZ|ProShares DJ Brookfield Global Infrastructure ETF|P|TOLZ|Y|100|N|TOLZ
 TONS|GreenHaven Coal Fund ETV|P|TONS|Y|100|N|TONS
@@ -5291,4 +5290,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1224201521:32||||||
+File Creation Time: 1229201509:45||||||
