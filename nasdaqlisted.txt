@@ -132,7 +132,6 @@ ALOT|Astro-Med, Inc. - Common Stock|G|N|N|100
 ALQA|Alliqua BioMedical, Inc. - Common Stock|S|N|N|100
 ALRM|Alarm.com Holdings, Inc. - Common Stock|Q|N|N|100
 ALSK|Alaska Communications Systems Group, Inc. - Common Stock|Q|N|N|100
-ALTR|Altera Corporation - Common Stock|Q|N|N|100
 ALTY|Global X SuperDividend Alternatives ETF|G|N|N|100
 ALXA|Alexza Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -980,7 +979,6 @@ ESND|Essendant Inc. - Common Stock|Q|N|N|100
 ESPR|Esperion Therapeutics, Inc. - Common Stock|G|N|N|100
 ESRX|Express Scripts Holding Company - Common Stock|Q|N|N|100
 ESSA|ESSA Bancorp, Inc. - common stock|Q|N|N|100
-ESSX|Essex Rental Corporation - Common Stock|S|N|N|100
 ESXB|Community Bankers Trust Corporation. - Common Stock|S|N|N|100
 ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100
 ETRM|EnteroMedics Inc. - Common Stock|S|N|D|100
@@ -1065,7 +1063,6 @@ FFIC|Flushing Financial Corporation - Common Stock|Q|N|N|100
 FFIN|First Financial Bankshares, Inc. - Common Stock|Q|N|N|100
 FFIV|F5 Networks, Inc. - Common Stock|Q|N|N|100
 FFKT|Farmers Capital Bank Corporation - Common Stock|Q|N|N|100
-FFNM|First Federal of Northern Michigan Bancorp, Inc. - Common Stock|S|N|N|100
 FFNW|First Financial Northwest, Inc. - Common Stock|Q|N|N|100
 FFWM|First Foundation Inc. - Common Stock|G|N|N|100
 FGBI|First Guaranty Bancshares, Inc. - Common Stock|G|N|N|100
@@ -1574,7 +1571,7 @@ JYNT|The Joint Corp. - Common Stock|S|N|N|100
 KALU|Kaiser Aluminum Corporation - Common Stock|Q|N|N|100
 KANG|iKang Healthcare Group, Inc. - American Depositary Shares|Q|N|N|100
 KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100
-KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|E|100
+KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|H|100
 KBSF|KBS Fashion Group Limited - Common Stock|S|N|N|100
 KCAP|KCAP Financial, Inc. - common stock|Q|N|N|100
 KCLI|Kansas City Life Insurance Company - Common Stock|S|N|N|100
@@ -1917,7 +1914,6 @@ NDAQ|Nasdaq, Inc. - Common Stock|Q|N|N|100
 NDLS|Noodles & Company - Common Stock|Q|N|N|100
 NDRM|NeuroDerm Ltd. - Ordinary Shares|G|N|N|100
 NDSN|Nordson Corporation - Common Stock|Q|N|N|100
-NECB|Northeast Community Bancorp, Inc. - Common Stock|G|N|N|100
 NEO|NeoGenomics, Inc. - Common Stock|S|N|N|100
 NEOG|Neogen Corporation - Common Stock|Q|N|N|100
 NEON|Neonode Inc. - Common Stock|S|N|N|100
@@ -2114,7 +2110,6 @@ PARN|Parnell Pharmaceuticals Holdings Ltd - Ordinary Shares|G|N|N|100
 PATI|Patriot Transportation Holding, Inc. - Common Stock|Q|N|N|100
 PATK|Patrick Industries, Inc. - Common Stock|Q|N|N|100
 PAYX|Paychex, Inc. - Common Stock|Q|N|N|100
-PBCP|Polonia Bancorp, Inc. - Common Stock|S|N|N|100
 PBCT|People's United Financial, Inc. - Common Stock|Q|N|N|100
 PBHC|Pathfinder Bancorp, Inc. - Common Stock|S|N|N|100
 PBIB|Porter Bancorp, Inc. - Common Stock|S|N|N|100
@@ -2682,7 +2677,7 @@ SZYM|Solazyme, Inc. - Common Stock|Q|N|N|100
 TACO|Del Taco Restaurants, Inc. - Common Stock|S|N|N|100
 TACOW|Del Taco Restaurants, Inc. - Warrants|S|N|N|100
 TACT|TransAct Technologies Incorporated - Common Stock|G|N|N|100
-TAIT|Taitron Components Incorporated - Class A Common Stock|S|N|N|100
+TAIT|Taitron Components Incorporated - Class A Common Stock|S|N|D|100
 TANH|Tantech Holdings Ltd. - Common Stock|S|N|N|100
 TAPR|Barclays PLC - Barclays Inverse US Treasury Composite ETN|G|N|N|100
 TASR|TASER International, Inc. - Common Stock|Q|N|N|100
@@ -3107,4 +3102,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1224201521:32|||||
+File Creation Time: 1229201509:45|||||
