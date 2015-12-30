@@ -792,6 +792,7 @@ DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100
 DCIX|Diana Containerships Inc. - Common Shares|Q|N|N|100
 DCOM|Dime Community Bancshares, Inc. - Common Stock|Q|N|N|100
 DCTH|Delcath Systems, Inc. - Common Stock|S|N|D|100
+DDBI|Legg Mason Developed EX-US Diversified Core ETF|G|N|N|100
 DELT|Delta Technology Holdings Limited - Ordinary Shares|S|N|N|100
 DELTW|Delta Technology Holdings Limited - Warrant|S|N|N|100
 DENN|Denny's Corporation - Common Stock|S|N|N|100
@@ -900,6 +901,7 @@ ECPG|Encore Capital Group Inc - Common Stock|Q|N|N|100
 ECTE|Echo Therapeutics, Inc. - Common Stock|S|N|D|100
 ECYT|Endocyte, Inc. - Common Stock|Q|N|N|100
 EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share|G|N|N|100
+EDBI|Legg Mason Emerging Markets Diversified Core ETF|G|N|N|100
 EDGE|Edge Therapeutics, Inc. - Common Stock|Q|N|N|100
 EDGW|Edgewater Technology, Inc. - Common Stock|G|N|N|100
 EDUC|Educational Development Corporation - Common Stock|G|N|N|100
@@ -1714,6 +1716,7 @@ LTRX|Lantronix, Inc. - Common Stock|S|N|N|100
 LTXB|LegacyTexas Financial Group, Inc. - Common Stock|Q|N|N|100
 LULU|lululemon athletica inc. - Common Stock|Q|N|N|100
 LUNA|Luna Innovations Incorporated - Common Stock|S|N|N|100
+LVHD|Legg Mason Low Volatility High Dividend ETF|G|N|N|100
 LVNTA|Liberty Interactive Corporation - Series A Liberty Ventures Common Stock|Q|N|N|100
 LVNTB|Liberty Interactive Corporation - Series B Liberty Ventures Common Stock|Q|N|N|100
 LWAY|Lifeway Foods, Inc. - Common Stock|G|N|N|100
@@ -1782,13 +1785,13 @@ MEMP|Memorial Production Partners LP - Common Units|Q|N|N|100
 MENT|Mentor Graphics Corporation - Common Stock|Q|N|N|100
 MEOH|Methanex Corporation - Common Stock|Q|N|N|100
 MERC|Mercer International Inc. - Common Stock|Q|N|N|100
-MESG|Xura, Inc. - Common Stock|G|N|E|100
+MESG|Xura, Inc. - Common Stock|G|N|N|100
 MESO|Mesoblast Limited - American Depositary Shares|Q|N|N|100
 METR|Metro Bancorp, Inc - Common Stock|Q|N|N|100
 MFLX|Multi-Fineline Electronix, Inc. - Common Stock|Q|N|N|100
 MFNC|Mackinac Financial Corporation - Common Stock|S|N|N|100
 MFRI|MFRI, Inc. - Common Stock|G|N|N|100
-MFRM|Mattress Firm Holding Corp. - Common Stock|Q|N|N|100
+MFRM|Mattress Firm Holding Corp. - Common Stock|Q|N|D|100
 MFSF|MutualFirst Financial Inc. - Common Stock|G|N|N|100
 MGCD|MGC Diagnostics Corporation - Common Stock|S|N|N|100
 MGEE|MGE Energy Inc. - Common Stock|Q|N|N|100
@@ -1877,7 +1880,7 @@ MTP|Midatech Pharma PLC - American Depositary Shares|S|N|N|100
 MTRX|Matrix Service Company - Common Stock|Q|N|N|100
 MTSC|MTS Systems Corporation - Common Stock|Q|N|N|100
 MTSI|M/A-COM Technology Solutions Holdings, Inc. - Common Stock|Q|N|N|100
-MTSL|MER Telemanagement Solutions Ltd. - Ordinary Shares|S|N|N|100
+MTSL|MER Telemanagement Solutions Ltd. - Ordinary Shares|S|N|D|100
 MTSN|Mattson Technology, Inc. - Common Stock|Q|N|N|100
 MU|Micron Technology, Inc. - Common Stock|Q|N|N|100
 MVIS|Microvision, Inc. - Common Stock|G|N|N|100
@@ -2827,6 +2830,7 @@ UCBA|United Community Bancorp - Common Stock|G|N|N|100
 UCBI|United Community Banks, Inc. - Common Stock|Q|N|N|100
 UCFC|United Community Financial Corp. - Common Stock|Q|N|N|100
 UCTT|Ultra Clean Holdings, Inc. - Common Stock|Q|N|N|100
+UDBI|Legg Mason US Diversified Core ETF|G|N|N|100
 UDF|United Development Funding IV - Common Shares of Beneficial Interest|Q|N|N|100
 UEIC|Universal Electronics Inc. - Common Stock|Q|N|N|100
 UEPS|Net 1 UEPS Technologies, Inc. - Common Stock|Q|N|N|100
@@ -2984,7 +2988,7 @@ WEYS|Weyco Group, Inc. - Common Stock|Q|N|N|100
 WFBI|WashingtonFirst Bankshares Inc - Common Stock|S|N|N|100
 WFD|Westfield Financial, Inc. - Common Stock|Q|N|N|100
 WFM|Whole Foods Market, Inc. - Common Stock|Q|N|N|100
-WGBS|WaferGen Bio-systems, Inc. - Common Stock|S|N|N|100
+WGBS|WaferGen Bio-systems, Inc. - Common Stock|S|N|D|100
 WHF|WhiteHorse Finance, Inc. - Common Stock|Q|N|N|100
 WHFBL|WhiteHorse Finance, Inc. - 6.50% Senior Notes due 2020|Q|N|N|100
 WHLM|Wilhelmina International, Inc. - Common Stock|S|N|N|100
@@ -3102,4 +3106,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1229201509:45|||||
+File Creation Time: 1230201509:30|||||
