@@ -1741,7 +1741,7 @@ MB|MINDBODY, Inc. - Class A Common Stock|G|N|N|100
 MBCN|Middlefield Banc Corp. - Common Stock|S|N|N|100
 MBFI|MB Financial Inc. - Common Stock|Q|N|N|100
 MBFIP|MB Financial Inc. - Perpetual Non-Cumulative Preferred Stock, Series A|Q|N|N|100
-MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|N|100
+MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|D|100
 MBLX|Metabolix, Inc. - Common Stock|S|N|N|100
 MBRG|Middleburg Financial Corporation - Common Stock|S|N|N|100
 MBSD|FlexShares Disciplined Duration MBS Index Fund|G|N|N|100
@@ -2416,7 +2416,7 @@ RUN|Sunrun Inc. - Common Stock|Q|N|N|100
 RUSHA|Rush Enterprises, Inc. - Class A Common Stock|Q|N|N|100
 RUSHB|Rush Enterprises, Inc. - Class B Common Stock|Q|N|N|100
 RUTH|Ruth's Hospitality Group, Inc. - Common Stock|Q|N|N|100
-RVLT|Revolution Lighting Technologies, Inc. - Class A Common Stock|S|N|N|100
+RVLT|Revolution Lighting Technologies, Inc. - Class A Common Stock|S|N|D|100
 RVNC|Revance Therapeutics, Inc. - Common Stock|G|N|N|100
 RVSB|Riverview Bancorp Inc - Common Stock|Q|N|N|100
 RWLK|ReWalk Robotics Ltd - Ordinary Shares|G|N|N|100
@@ -2558,7 +2558,7 @@ SMMF|Summit Financial Group, Inc. - Common Stock|S|N|N|100
 SMMT|Summit Therapeutics plc - American Depositary Shares|G|N|N|100
 SMRT|Stein Mart, Inc. - Common Stock|Q|N|N|100
 SMSI|Smith Micro Software, Inc. - Common Stock|Q|N|D|100
-SMT|SMART Technologies Inc. - Common Shares|Q|N|D|100
+SMT|SMART Technologies Inc. - Common Shares|S|N|D|100
 SMTC|Semtech Corporation - Common Stock|Q|N|N|100
 SMTX|SMTC Corporation - Common Stock|G|N|N|100
 SNAK|Inventure Foods, Inc. - Common Stock|Q|N|N|100
@@ -2651,7 +2651,7 @@ STRS|Stratus Properties, Inc. - Common Stock|Q|N|N|100
 STRT|Strattec Security Corporation - Common Stock|G|N|N|100
 STRZA|Starz - Series A Common Stock|Q|N|N|100
 STRZB|Starz - Series B Common Stock|Q|N|N|100
-STX|Seagate Technology. - Common Stock|Q|N|N|100
+STX|Seagate Technology PLC - Ordinary Shares (Ireland)|Q|N|N|100
 STXS|Stereotaxis, Inc. - Common Stock|S|N|D|100
 SUMR|Summer Infant, Inc. - Common Stock|S|N|N|100
 SUNS|Solar Senior Capital Ltd. - Common Stock|Q|N|N|100
@@ -2937,7 +2937,6 @@ VRNS|Varonis Systems, Inc. - Common Stock|Q|N|N|100
 VRNT|Verint Systems Inc. - Common Stock|Q|N|N|100
 VRSK|Verisk Analytics, Inc. - Common Stock|Q|N|N|100
 VRSN|VeriSign, Inc. - Common Stock|Q|N|N|100
-VRTA|Vestin Realty Mortgage I, Inc. - Common Stock|S|N|N|100
 VRTB|Vestin Realty Mortgage II, Inc. - Common Stock|Q|N|N|100
 VRTS|Virtus Investment Partners, Inc. - Common Stock|Q|N|N|100
 VRTU|Virtusa Corporation - common stock|Q|N|N|100
@@ -3106,4 +3105,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1230201509:30|||||
+File Creation Time: 1231201509:15|||||
