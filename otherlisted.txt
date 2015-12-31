@@ -579,7 +579,6 @@ BRX|Brixmor Property Group Inc. Common Stock|N|BRX|N|100|N|BRX
 BRZU|Direxion Daily Brazil Bull 3X Shares|P|BRZU|Y|100|N|BRZU
 BSAC|Banco Santander - Chile ADS|N|BSAC|N|100|N|BSAC
 BSBR|Banco Santander Brasil SA American Depositary Shares, each representing one unit|N|BSBR|N|100|N|BSBR
-BSCF|Guggenheim BulletShares 2015 Corporate Bond ETF|P|BSCF|Y|100|N|BSCF
 BSCG|Guggenheim BulletShares 2016 Corporate Bond ETF|P|BSCG|Y|100|N|BSCG
 BSCH|Guggenheim BulletShares 2017 Corporate Bond ETF|P|BSCH|Y|100|N|BSCH
 BSCI|Guggenheim BulletShares 2018 Corporate Bond ETF|P|BSCI|Y|100|N|BSCI
@@ -593,7 +592,6 @@ BSCP|Guggenheim BulletShares 2025 Corporate Bond ETF|P|BSCP|Y|100|N|BSCP
 BSD|BlackRock Strategic Municipal Trust Inc. (The) Common Stock|N|BSD|N|100|N|BSD
 BSE|Blackrock New York Municipal Income Quality Trust Common Shares of Beneficial Interest|N|BSE|N|100|N|BSE
 BSI|Alon Blue Square Israel Ltd.|N|BSI|N|100|N|BSI
-BSJF|Guggenheim BulletShares 2015 High Yield Corporate Bond|P|BSJF|Y|100|N|BSJF
 BSJG|Guggenheim BulletShares 2016 High Yield Corporate Bond ETF|P|BSJG|Y|100|N|BSJG
 BSJH|Guggenheim BulletShares 2017 High Yield Corporate Bond ETF|P|BSJH|Y|100|N|BSJH
 BSJI|Guggenheim BulletShares 2018 High Yield Corporate Bond ETF|P|BSJI|Y|100|N|BSJI
@@ -1652,7 +1650,6 @@ FBHS|Fortune Brands Home & Security, Inc. Common Stock|N|FBHS|N|100|N|FBHS
 FBND|Fidelity Total Bond ETF|P|FBND|Y|100|N|FBND
 FBP|First BanCorp. New Common Stock|N|FBP|N|100|N|FBP
 FBR|Fibria Celulose S.A.|N|FBR|N|100|N|FBR
-FBS$A|First Preferred Cap Tr Iv First Preferred Capital Trust IV 8.15% Cum Trust Pfd Sec|N|FBSpA/CL|N|100|N|FBS-A*
 FBT|First Trust Amex Biotech Index Fund|P|FBT|Y|100|N|FBT
 FC|Franklin Covey Company Common Stock|N|FC|N|100|N|FC
 FCAM|Fiat Chrysler Automobiles N.V. Mandatory Convertible Securities|N|FCAM|N|100|N|FCAM
@@ -5292,4 +5289,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1230201509:30||||||
+File Creation Time: 1231201509:15||||||
