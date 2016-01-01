@@ -476,7 +476,7 @@ CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100
 CBIO|Catalyst Biosciences, Inc.  - Common Stock|S|N|N|100
 CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|N|100
 CBMG|Cellular Biomedicine Group, Inc. - Common Stock|G|N|N|100
-CBMX|CombiMatrix Corporation - Common Stock|S|N|N|100
+CBMX|CombiMatrix Corporation - Common Stock|S|N|D|100
 CBNJ|Cape Bancorp, Inc. - Common Stock|Q|N|N|100
 CBNK|Chicopee Bancorp, Inc. - Common Stock|G|N|N|100
 CBOE|CBOE Holdings, Inc. - Common Stock|Q|N|N|100
@@ -1223,7 +1223,7 @@ GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares 
 GHDX|Genomic Health, Inc. - Common Stock|Q|N|N|100
 GIFI|Gulf Island Fabrication, Inc. - Common Stock|Q|N|N|100
 GIGA|Giga-tronics Incorporated - Common Stock|S|N|D|100
-GIGM|GigaMedia Limited - Ordinary Shares|S|N|D|100
+GIGM|GigaMedia Limited - Ordinary Shares|S|N|N|100
 GIII|G-III Apparel Group, LTD. - Common Stock|Q|N|N|100
 GILD|Gilead Sciences, Inc. - Common Stock|Q|N|N|100
 GILT|Gilat Satellite Networks Ltd. - Ordinary Shares|Q|N|N|100
@@ -1296,7 +1296,7 @@ GT|The Goodyear Tire & Rubber Company - Common Stock|Q|N|N|100
 GTIM|Good Times Restaurants Inc. - Common Stock|S|N|N|100
 GTLS|Chart Industries, Inc. - Common Stock|Q|N|N|100
 GTWN|Georgetown Bancorp, Inc. - Common Stock|S|N|N|100
-GTXI|GTx, Inc. - Common Stock|S|N|N|100
+GTXI|GTx, Inc. - Common Stock|S|N|D|100
 GUID|Guidance Software, Inc. - Common Stock|G|N|N|100
 GULF|WisdomTree Middle East Dividend Fund|G|N|N|100
 GURE|Gulf Resources, Inc. - Common Stock|Q|N|N|100
@@ -2360,7 +2360,7 @@ RGEN|Repligen Corporation - Common Stock|Q|N|N|100
 RGLD|Royal Gold, Inc. - Common Stock|Q|N|N|100
 RGLS|Regulus Therapeutics Inc. - Common Stock|G|N|N|100
 RGNX|REGENXBIO Inc. - Common Stock|Q|N|N|100
-RGSE|Real Goods Solar, Inc. - Class A Common Stock|S|N|N|100
+RGSE|Real Goods Solar, Inc. - Class A Common Stock|S|N|D|100
 RIBT|RiceBran Technologies - Common Stock|S|N|N|100
 RIBTW|RiceBran Technologies - Warrant|S|N|N|100
 RICK|RCI Hospitality Holdings, Inc. - Common Stock|G|N|N|100
@@ -3105,4 +3105,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1231201509:15|||||
+File Creation Time: 1231201521:32|||||
