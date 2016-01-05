@@ -218,7 +218,7 @@ ARMH|ARM Holdings plc - American Depositary Shares each representing 3 Ordinary 
 ARNA|Arena Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 AROW|Arrow Financial Corporation - Common Stock|Q|N|N|100
 ARQL|ArQule, Inc. - Common Stock|G|N|N|100
-ARRS|ARRIS Group, Inc. - Common Stock|Q|N|N|100
+ARRS|ARRIS International plc. - Ordinary Shares|Q|N|N|100
 ARRY|Array BioPharma Inc. - Common Stock|G|N|N|100
 ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock|Q|N|N|100
 ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock|S|N|N|100
@@ -229,7 +229,6 @@ ARWAU|Arowana Inc. - Units|S|N|N|100
 ARWAW|Arowana Inc. - warrant|S|N|N|100
 ARWR|Arrowhead Research Corporation - Common Stock|Q|N|N|100
 ASBB|ASB Bancorp, Inc. - Common Stock|G|N|N|100
-ASBI|Ameriana Bancorp - Common Stock|S|N|N|100
 ASCMA|Ascent Capital Group, Inc. - Series A Common Stock|Q|N|N|100
 ASEI|American Science and Engineering, Inc. - Common Stock|Q|N|N|100
 ASET|FlexShares Real Assets Allocation Index Fund|G|N|N|100
@@ -322,7 +321,7 @@ BDMS|Birner Dental Management Services, Inc. - Common Stock|S|N|D|100
 BDSI|BioDelivery Sciences International, Inc. - Common Stock|S|N|N|100
 BEAT|BioTelemetry, Inc. - Common Stock|Q|N|N|100
 BEAV|B/E Aerospace, Inc. - Common Stock|Q|N|N|100
-BEBE|bebe stores, inc. - Common Stock|Q|N|N|100
+BEBE|bebe stores, inc. - Common Stock|Q|N|D|100
 BECN|Beacon Roofing Supply, Inc. - Common Stock|Q|N|N|100
 BELFA|Bel Fuse Inc. - Class A Common Stock|Q|N|N|100
 BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100
@@ -580,7 +579,7 @@ CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100
 CIBR|First Trust NASDAQ Cybersecurity ETF|G|N|N|100
 CID|Victory CEMP International High Div Volatility Wtd Index ETF|G|N|N|100
 CIDM|Cinedigm Corp - Class A Common Stock|G|N|D|100
-CIFC|CIFC Corp. - Common Stock|S|N|N|100
+CIFC|CIFC LLC - Common Stock|S|N|N|100
 CIGI|Colliers International Group Inc.  - Subordinate Voting Shares|Q|N|N|100
 CIL|Victory CEMP International Volatility Wtd Index ETF|G|N|N|100
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100
@@ -1039,7 +1038,6 @@ FCNCA|First Citizens BancShares, Inc. - Class A Common Stock|Q|N|N|100
 FCS|Fairchild Semiconductor International, Inc. - Common Stock|Q|N|N|100
 FCSC|Fibrocell Science Inc - Common Stock|S|N|N|100
 FCTY|1st Century Bancshares, Inc - Common Stock|S|N|N|100
-FCVA|First Capital Bancorp, Inc. (VA) - Common Stock|S|N|N|100
 FCVT|First Trust SSI Strategic Convertible Securities ETF|G|N|N|100
 FDEF|First Defiance Financial Corp. - Common Stock|Q|N|N|100
 FDIV|First Trust Strategic Income ETF|G|N|N|100
@@ -1180,7 +1178,6 @@ FWM|Fairway Group Holdings Corp. - Class A Common Stock|G|N|N|100
 FWP|Forward Pharma A/S - American Depositary Shares|Q|N|N|100
 FWRD|Forward Air Corporation - Common Stock|Q|N|N|100
 FXCB|Fox Chase Bancorp, Inc. - Common Stock|Q|N|N|100
-FXEN|FX Energy, Inc. - Common Stock|Q|N|N|100
 FXENP|FX Energy, Inc. - Series B Cumulative Convertible Preferred Stock|Q|N|N|100
 GABC|German American Bancorp, Inc. - Common Stock|Q|N|N|100
 GAI|Global-Tech Advanced Innovations Inc. - Common Stock|G|N|N|100
@@ -1576,7 +1573,6 @@ KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100
 KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|H|100
 KBSF|KBS Fashion Group Limited - Common Stock|S|N|N|100
 KCAP|KCAP Financial, Inc. - common stock|Q|N|N|100
-KCLI|Kansas City Life Insurance Company - Common Stock|S|N|N|100
 KE|Kimball Electronics, Inc. - Common Stock|Q|N|N|100
 KELYA|Kelly Services, Inc. - Class A Common Stock|Q|N|N|100
 KELYB|Kelly Services, Inc. - Class B Common Stock|Q|N|N|100
@@ -1778,7 +1774,6 @@ MEIL|Methes Energies International Ltd - Common Stock|S|N|D|100
 MEILW|Methes Energies International Ltd - Class A Warrants|S|N|N|100
 MEILZ|Methes Energies International Ltd - Class B Warrants|S|N|N|100
 MEIP|MEI Pharma, Inc. - Common Stock|S|N|N|100
-MELA|MELA Sciences, Inc - Common Stock|S|N|N|100
 MELI|MercadoLibre, Inc. - Common Stock|Q|N|N|100
 MELR|Melrose Bancorp, Inc. - Common Stock|S|N|N|100
 MEMP|Memorial Production Partners LP - Common Units|Q|N|N|100
@@ -2011,6 +2006,7 @@ NYMTO|New York Mortgage Trust, Inc. - 7.875% Series C Cumulative Redeemable Pref
 NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock|Q|N|N|100
 NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|N|100
 NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
+NYNYR|Empire Resorts, Inc. - Subscription Rights|G|N|N|100
 OASM|Oasmia Pharmaceutical AB - American Depositary Shares|S|N|N|100
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100
@@ -2372,7 +2368,7 @@ RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
 RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
 RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|N|100
-RLOC|ReachLocal, Inc. - Common Stock|Q|N|D|100
+RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100
@@ -2624,6 +2620,7 @@ SSB|South State Corporation - Common Stock|Q|N|N|100
 SSBI|Summit State Bank - Common Stock|G|N|N|100
 SSFN|Stewardship Financial Corp - Common Stock|S|N|N|100
 SSH|Sunshine Heart Inc - Common Stock|S|N|N|100
+SSKN|Strata Skin Sciences, Inc. - Common Stock|S|N|N|100
 SSNC|SS&C Technologies Holdings, Inc. - Common Stock|Q|N|N|100
 SSRG|Symmetry Surgical Inc. - Common Stock|G|N|N|100
 SSRI|Silver Standard Resources Inc. - Common Stock|Q|N|N|100
@@ -2673,7 +2670,7 @@ SYNC|Synacor, Inc. - Common Stock|G|N|N|100
 SYNL|Synalloy Corporation - Common Stock|G|N|N|100
 SYNT|Syntel, Inc. - Common Stock|Q|N|N|100
 SYPR|Sypris Solutions, Inc. - Common Stock|G|N|N|100
-SYRX|Sysorex Global Holding Corp. - Common Stock|S|N|D|100
+SYRX|Sysorex Global - Common Stock|S|N|D|100
 SYUT|Synutra International, Inc. - Common Stock|Q|N|N|100
 SZMK|Sizmek Inc. - Common Stock|Q|N|N|100
 SZYM|Solazyme, Inc. - Common Stock|Q|N|N|100
@@ -2805,7 +2802,6 @@ TUTI|Tuttle Tactical Management Multi-Strategy Income ETF|G|N|N|100
 TUTT|Tuttle Tactical Management U.S. Core ETF|G|N|N|100
 TVIX|Credit Suisse AG - VelocityShares Daily 2x VIX Short Term ETN|G|N|N|100
 TVIZ|Credit Suisse AG - VelocityShares Daily 2x VIX Medium Term ETN|G|N|N|100
-TW|Towers Watson & Co. - Common Stock Class A|Q|N|N|100
 TWER|Towerstream Corporation - Common Stock|S|N|D|100
 TWIN|Twin Disc, Incorporated - Common Stock|Q|N|N|100
 TWMC|Trans World Entertainment Corp. - Common Stock|G|N|N|100
@@ -3010,6 +3006,7 @@ WLFC|Willis Lease Finance Corporation - Common Stock|G|N|N|100
 WLRH|WL Ross Holding Corp. - Common Stock|S|N|D|100
 WLRHU|WL Ross Holding Corp. - Unit|S|N|D|100
 WLRHW|WL Ross Holding Corp. - Warrant|S|N|D|100
+WLTW|Willis Towers Watson Public Limited Company - Ordinary Shares|Q|N|N|100
 WMAR|West Marine, Inc. - Common Stock|Q|N|N|100
 WMGI|Wright Medical Group N.V. - Ordinary Shares|Q|N|N|100
 WMGIZ|Wright Medical Group N.V. - Contingent Value Right|G|N|N|100
@@ -3105,4 +3102,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 1231201521:32|||||
+File Creation Time: 0105201612:12|||||
