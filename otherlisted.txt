@@ -617,7 +617,6 @@ BTO|John Hancock Financial Opportunities Fund Common Stock|N|BTO|N|100|N|BTO
 BTT|BlackRock Municipal Target Term Trust Inc. (The) Common Shares of Beneficial Interest|N|BTT|N|100|N|BTT
 BTU|Peabody Energy Corporation Common Stock|N|BTU|N|100|N|BTU
 BTX|BioTime, Inc. Common Stock|A|BTX|N|100|N|BTX
-BTX.V|BioTime, Inc. Common Stock Ex-Distribution When Issued|A|BTXw|N|100|N|BTX#
 BTX.W|BioTime, Inc. Warrant (Expiring 10/1/2018)|A|BTX/WS|N|100|N|BTX+
 BTZ|BlackRock Credit Allocation Income Trust|N|BTZ|N|100|N|BTZ
 BUD|Anheuser-Busch Inbev SA Sponsored ADR (Belgium)|N|BUD|N|100|N|BUD
@@ -648,7 +647,6 @@ BXS|BancorpSouth, Inc. Common Stock|N|BXS|N|100|N|BXS
 BYD|Boyd Gaming Corporation Common Stock|N|BYD|N|100|N|BYD
 BYLD|iShares Yield Optimized Bond ETF|P|BYLD|Y|100|N|BYLD
 BYM|Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest|N|BYM|N|100|N|BYM
-BZC|Breeze-Eastern Corporation Common Stock|A|BZC|N|100|N|BZC
 BZF|WisdomTree Brazilian Real Strategy Fund|P|BZF|Y|100|N|BZF
 BZH|Beazer Homes USA, Inc. Common Stock|N|BZH|N|100|N|BZH
 BZM|BlackRock Maryland Municipal Bond Trust Common shares of beneficial interest|A|BZM|N|100|N|BZM
@@ -1655,8 +1653,8 @@ FC|Franklin Covey Company Common Stock|N|FC|N|100|N|FC
 FCAM|Fiat Chrysler Automobiles N.V. Mandatory Convertible Securities|N|FCAM|N|100|N|FCAM
 FCAU|Fiat Chrysler Automobiles N.V. Common Shares|N|FCAU|N|100|N|FCAU
 FCB|FCB Financial Holdings, Inc. Class A Common Stock|N|FCB|N|100|N|FCB
-FCE.A|Forest City Enterprises, Inc. Common Stock|N|FCE/A|N|100|N|FCE.A
-FCE.B|Forest City Enterprises, Inc. Common Stock|N|FCE/B|N|100|N|FCE.B
+FCE.A|Forest City Realty Trust, Inc. Common Stock|N|FCE/A|N|100|N|FCE.A
+FCE.B|Forest City Realty Trust, Inc. Common Stock|N|FCE/B|N|100|N|FCE.B
 FCF|First Commonwealth Financial Corporation Common Stock|N|FCF|N|100|N|FCF
 FCFI|TrimTabs Intl Free-Cash Flow ETF|P|FCFI|Y|100|N|FCFI
 FCG|First Trust ISE-Revere Natural Gas|P|FCG|Y|100|N|FCG
@@ -1887,7 +1885,7 @@ GBL|Gamco Investors, Inc. Common Stock|N|GBL|N|100|N|GBL
 GBR|New Concept Energy, Inc Common Stock|A|GBR|N|100|N|GBR
 GBX|Greenbrier Companies, Inc. (The) Common Stock|N|GBX|N|100|N|GBX
 GCAP|GAIN Capital Holdings, Inc. Common Stock|N|GCAP|N|100|N|GCAP
-GCC|GreenHaven Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
+GCC|WisdomTree Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
 GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
 GCH|Aberdeen Greater China Fund, Inc. Common Stock|N|GCH|N|100|N|GCH
 GCI|Gannett Co., Inc. Common Stock|N|GCI|N|100|N|GCI
@@ -2238,6 +2236,7 @@ HLF|Herbalife Ltd. Common Stock|N|HLF|N|100|N|HLF
 HLI|Houlihan Lokey, Inc. Class A Common Stock|N|HLI|N|100|N|HLI
 HLM$|Hillman Group Capital Trust Preferred Stock|A|HLMp|N|100|N|HLM-
 HLS|HealthSouth Corporation Common Stock|N|HLS|N|100|N|HLS
+HLS.W|HealthSouth Corporation Warrant to purchase Common Stock  (Expiring January 17, 2017)|N|HLS/WS|N|100|N|HLS+
 HLT|Hilton Worldwide Holdings Inc. Common Stock|N|HLT|N|100|N|HLT
 HLTH|Nobilis Health Corp. Common Stock|A|HLTH|N|100|N|HLTH
 HLX|Helix Energy Solutions Group, Inc. Common Stock|N|HLX|N|100|N|HLX
@@ -3410,6 +3409,7 @@ NOG|Northern Oil and Gas, Inc. Common Stock|A|NOG|N|100|N|NOG
 NOK|Nokia Corporation Sponsored American Depositary Shares|N|NOK|N|100|N|NOK
 NOK.V|Nokia Corporation American Depositary Shares (Additional Shares) When Issued|N|NOKw|N|100|N|NOK#
 NOM|Nuveen Missouri Premium Income Municipal Fund Common Shares of Beneficial Interest|A|NOM|N|100|N|NOM
+NOMD.V|Nomad Foods Limited Ordinary Shares When Issued|N|NOMDw|N|100|N|NOMD#
 NORD|Nord Anglia Education, Inc. Ordinary Shares|N|NORD|N|100|N|NORD
 NORW|Global X MSCI Norway ETF|P|NORW|Y|100|N|NORW
 NOV|National Oilwell Varco, Inc. Common Stock|N|NOV|N|100|N|NOV
@@ -3523,7 +3523,7 @@ OB|OneBeacon Insurance Group, Ltd. Class A Common Stock|N|OB|N|100|N|OB
 OC|Owens Corning Inc Common Stock New|N|OC|N|100|N|OC
 OCIP|OCI Partners LP Common Units representing Limited Partner Interests|N|OCIP|N|100|N|OCIP
 OCN|Ocwen Financial Corporation NEW Common Stock|N|OCN|N|100|N|OCN
-OCX.V|OncoCyte Corporation Common Stock When Issued|A|OCXw|N|100|N|OCX#
+OCX|OncoCyte Corporation Common Stock|A|OCX|N|100|N|OCX
 ODC|Oil-Dri Corporation Of America Common Stock|N|ODC|N|100|N|ODC
 OEC|Orion Engineered Carbons S.A Common Shares|N|OEC|N|100|N|OEC
 OEF|iShares S&P 100 ETF|P|OEF|Y|100|N|OEF
@@ -3952,6 +3952,7 @@ QVM|Arrow QVM Equity Factor ETF|P|QVM|Y|100|N|QVM
 QWLD|SPDR MSCI World Quality Mix ETF|P|QWLD|Y|100|N|QWLD
 R|Ryder System, Inc. Common Stock|N|R|N|100|N|R
 RACE|Ferrari N.V. Common Shares|N|RACE|N|100|N|RACE
+RACE.V|Ferrari N.V. Common Shares When-Issued|N|RACEw|N|100|N|RACE#
 RAD|Rite Aid Corporation Common Stock|N|RAD|N|100|N|RAD
 RAI|Reynolds American Inc Common Stock|N|RAI|N|100|N|RAI
 RALS|ProShares RAFI Long Short ETF|P|RALS|Y|100|N|RALS
@@ -4699,7 +4700,7 @@ TOFR|Stock Split Index Fund ETF|P|TOFR|Y|100|N|TOFR
 TOK|iShares MSCI Kokusai ETF|P|TOK|Y|100|N|TOK
 TOL|Toll Brothers Inc. Common Stock|N|TOL|N|100|N|TOL
 TOLZ|ProShares DJ Brookfield Global Infrastructure ETF|P|TOLZ|Y|100|N|TOLZ
-TONS|GreenHaven Coal Fund ETV|P|TONS|Y|100|N|TONS
+TONS|WisdomTree Coal Fund|P|TONS|Y|100|N|TONS
 TOO|Teekay Offshore Partners L.P. Common Units representing Limited Partner Interests|N|TOO|N|100|N|TOO
 TOO$A|Teekay Offshore Partners L.P. 7.25% Series A Redeemable Preferred Units|N|TOOpA|N|100|N|TOO-A
 TOO$B|Teekay Offshore Partners L.P. 8.50% Series B Cumulative Redeemable Preferred Units, representing limited partner interests|N|TOOpB|N|100|N|TOO-B
@@ -5159,7 +5160,6 @@ WREI|Wilshire US REIT|P|WREI|Y|100|N|WREI
 WRI|Weingarten Realty Investors Common Stock|N|WRI|N|100|N|WRI
 WRK|Westrock Company Common Stock|N|WRK|N|100|N|WRK
 WRN|Western Copper and Gold Corporation Common Stock|A|WRN|N|100|N|WRN
-WSH|Willis Group Holdings Public Limited (Ireland) Common Stock|N|WSH|N|100|N|WSH
 WSM|Williams-Sonoma, Inc. Common Stock (DE)|N|WSM|N|100|N|WSM
 WSO|Watsco, Inc. Common Stock|N|WSO|N|100|N|WSO
 WSO.B|Watsco, Inc. Class B Common Stock|N|WSO/B|N|100|N|WSO.B
@@ -5289,4 +5289,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 1231201521:32||||||
+File Creation Time: 0105201612:12||||||
