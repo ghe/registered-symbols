@@ -1198,7 +1198,6 @@ DOC|Physicians Realty Trust Common Shares of Beneficial Interest|N|DOC|N|100|N|D
 DOD|Deutsche Bank AG ELEMENTS Dogs of the Dow Total Return Index Note ELEMENTS Dogs of the Dow Linked to the Dow Jones High Yield Select 10 Total Return Index due November 14, 2022|P|DOD|N|100|N|DOD
 DOG|ProShares Short Dow30|P|DOG|Y|100|N|DOG
 DOL|WisdomTree International LargeCap Dividend Fund|P|DOL|Y|100|N|DOL
-DOM|Dominion Resources Black Warrior Trust Common Stock|N|DOM|N|100|N|DOM
 DON|WisdomTree MidCap Dividend Fund|P|DON|Y|100|N|DON
 DOO|WisdomTree International Dividend Top 100 Fund|P|DOO|Y|100|N|DOO
 DOOR|Masonite International Corporation Ordinary Shares (Canada)|N|DOOR|N|100|N|DOOR
@@ -2898,6 +2897,7 @@ LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.|N|LDP|N|100|
 LDR|Landauer, Inc. Common Stock|N|LDR|N|100|N|LDR
 LDUR|PIMCO Low Duration Active Exchange-Traded Fund|P|LDUR|Y|100|N|LDUR
 LEA|Lear Corporation Common Stock|N|LEA|N|100|N|LEA
+LEAD|Realty Shares DIVCON Leaders Dividend ETF|Z|LEAD|Y|100|N|LEAD
 LEDD|iPath Pure Beta Lead ETN|P|LEDD|N|100|N|LEDD
 LEE|Lee Enterprises, Incorporated Common Stock|N|LEE|N|100|N|LEE
 LEG|Leggett & Platt, Incorporated Common Stock|N|LEG|N|100|N|LEG
@@ -3977,7 +3977,6 @@ RBS$R|Royal Bank of Scotland Group Plc (The) ADR repstg USD Pfd Shs Ser R (Unite
 RBS$S|Royal Bank of Scotland Group Plc (The) Sponsored ADR Repstg Pref Ser S (United Kingdom)|N|RBSpS|N|100|N|RBS-S
 RBS$T|Royal Bank of Scotland Group Plc (The) Sponsored ADR Representing Pfef shs ser T (United Kingdom)|N|RBSpT|N|100|N|RBS-T
 RBY|Rubicon Minerals Corporation Ordinary Shares (Canada)|A|RBY|N|100|N|RBY
-RCAP|RCS CAPITAL CORPORATION Common Stock|N|RCAP|N|100|N|RCAP
 RCD|Guggenheim S&P 500 Equal Weight Consumer Discretionary ETF|P|RCD|Y|100|N|RCD
 RCG|RENN Fund, Inc Common Stock|A|RCG|N|100|N|RCG
 RCI|Rogers Communication, Inc. Common Stock|N|RCI|N|100|N|RCI
@@ -4277,6 +4276,7 @@ SFG|StanCorp Financial Group, Inc. Common Stock|N|SFG|N|100|N|SFG
 SFL|Ship Finance International Limited|N|SFL|N|100|N|SFL
 SFLA|iPath Long Extended S&P 500 TR Index ETN|P|SFLA|N|100|N|SFLA
 SFN|Stifel Financial Corporation 5.375% Senior Notes due December 2022|N|SFN|N|100|N|SFN
+SFR|Colony Starwood Homes Common Shares of Beneficial Interes|N|SFR|N|100|N|SFR
 SFS|Smart & Final Stores, Inc. Common Stock|N|SFS|N|100|N|SFS
 SFUN|SouFun Holdings Limited American Depositary Shares (Each representing Four Class A Ordinary Shares, HK$1.00 par value)|N|SFUN|N|100|N|SFUN
 SGA|Saga Communications, Inc. New Class A Common Stock|A|SGA|N|100|N|SGA
@@ -4519,7 +4519,6 @@ SUP|Superior Industries International, Inc. Common Stock (DE)|N|SUP|N|100|N|SUP
 SVT|Servotronics, Inc. Common Stock|A|SVT|N|100|N|SVT
 SVU|SuperValu Inc. Common Stock|N|SVU|N|100|N|SVU
 SVXY|ProShares Short VIX Short Term Futures ETF|P|SVXY|Y|100|N|SVXY
-SWAY|Starwood Waypoint Residential Trust Common Stock|N|SWAY|N|100|N|SWAY
 SWC|Stillwater Mining Company Common Stock ($0.01 Par Value)|N|SWC|N|100|N|SWC
 SWFT|Swift Transportation Company Class A Common Stock|N|SWFT|N|100|N|SWFT
 SWH|Stanley Black & Decker, Inc. Corp Unit 2013|N|SWH|N|100|N|SWH
@@ -5289,4 +5288,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0105201612:12||||||
+File Creation Time: 0106201609:30||||||
