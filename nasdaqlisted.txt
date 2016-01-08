@@ -218,7 +218,7 @@ ARMH|ARM Holdings plc - American Depositary Shares each representing 3 Ordinary 
 ARNA|Arena Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 AROW|Arrow Financial Corporation - Common Stock|Q|N|N|100
 ARQL|ArQule, Inc. - Common Stock|G|N|N|100
-ARRS|ARRIS International plc. - Ordinary Shares|Q|N|N|100
+ARRS|ARRIS International plc - Ordinary Shares|Q|N|N|100
 ARRY|Array BioPharma Inc. - Common Stock|G|N|N|100
 ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock|Q|N|N|100
 ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock|S|N|N|100
@@ -869,7 +869,6 @@ DXGE|WisdomTree Germany Hedged Equity Fund|G|N|N|100
 DXJS|WisdomTree Japan Hedged SmallCap Equity Fund|G|N|N|100
 DXKW|WisdomTree Korea Hedged Equity Fund|G|N|N|100
 DXLG|Destination XL Group, Inc. - Common Stock|Q|N|N|100
-DXM|Dex Media, Inc. - Common Stock|Q|N|D|100
 DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|N|100
 DXPS|WisdomTree United Kingdom Hedged Equity Fund|G|N|N|100
 DXYN|The Dixie Group, Inc. - Common Stock|G|N|N|100
@@ -1178,7 +1177,6 @@ FWM|Fairway Group Holdings Corp. - Class A Common Stock|G|N|N|100
 FWP|Forward Pharma A/S - American Depositary Shares|Q|N|N|100
 FWRD|Forward Air Corporation - Common Stock|Q|N|N|100
 FXCB|Fox Chase Bancorp, Inc. - Common Stock|Q|N|N|100
-FXENP|FX Energy, Inc. - Series B Cumulative Convertible Preferred Stock|Q|N|N|100
 GABC|German American Bancorp, Inc. - Common Stock|Q|N|N|100
 GAI|Global-Tech Advanced Innovations Inc. - Common Stock|G|N|N|100
 GAIA|Gaiam, Inc. - Class A Common Stock|G|N|N|100
@@ -1570,7 +1568,7 @@ JYNT|The Joint Corp. - Common Stock|S|N|N|100
 KALU|Kaiser Aluminum Corporation - Common Stock|Q|N|N|100
 KANG|iKang Healthcare Group, Inc. - American Depositary Shares|Q|N|N|100
 KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100
-KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|H|100
+KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|K|100
 KBSF|KBS Fashion Group Limited - Common Stock|S|N|N|100
 KCAP|KCAP Financial, Inc. - common stock|Q|N|N|100
 KE|Kimball Electronics, Inc. - Common Stock|Q|N|N|100
@@ -1770,9 +1768,6 @@ MDVXW|Medovex Corp. - Class A Warrant|S|N|N|100
 MDWD|MediWound Ltd. - Ordinary Shares|G|N|N|100
 MDXG|MiMedx Group, Inc - Common Stock|S|N|N|100
 MEET|MeetMe, Inc. - Common Stock|S|N|N|100
-MEIL|Methes Energies International Ltd - Common Stock|S|N|D|100
-MEILW|Methes Energies International Ltd - Class A Warrants|S|N|N|100
-MEILZ|Methes Energies International Ltd - Class B Warrants|S|N|N|100
 MEIP|MEI Pharma, Inc. - Common Stock|S|N|N|100
 MELI|MercadoLibre, Inc. - Common Stock|Q|N|N|100
 MELR|Melrose Bancorp, Inc. - Common Stock|S|N|N|100
@@ -2109,6 +2104,7 @@ PARN|Parnell Pharmaceuticals Holdings Ltd - Ordinary Shares|G|N|N|100
 PATI|Patriot Transportation Holding, Inc. - Common Stock|Q|N|N|100
 PATK|Patrick Industries, Inc. - Common Stock|Q|N|N|100
 PAYX|Paychex, Inc. - Common Stock|Q|N|N|100
+PBBI|PB Bancorp, Inc. - Common Stock|S|N|N|100
 PBCT|People's United Financial, Inc. - Common Stock|Q|N|N|100
 PBHC|Pathfinder Bancorp, Inc. - Common Stock|S|N|N|100
 PBIB|Porter Bancorp, Inc. - Common Stock|S|N|N|100
@@ -2234,7 +2230,6 @@ PRXI|Premier Exhibitions, Inc. - Common Stock|S|N|D|100
 PRXL|PAREXEL International Corporation - Common Stock|Q|N|N|100
 PRZM|Prism Technologies Group, Inc. - Common Stock|S|N|N|100
 PSAU|PowerShares Global Gold & Precious Metals Portfolio|G|N|N|100
-PSBH|PSB Holdings, Inc. - Common Stock|S|N|N|100
 PSCC|PowerShares S&P SmallCap Consumer Staples Portfolio|G|N|N|100
 PSCD|PowerShares S&P SmallCap Consumer Discretionary Portfolio|G|N|N|100
 PSCE|PowerShares S&P SmallCap Energy Portfolio|G|N|N|100
@@ -2277,7 +2272,7 @@ QABA|First Trust NASDAQ ABA Community Bank Index Fund|G|N|N|100
 QADA|QAD Inc. - Class A Common Stock|Q|N|N|100
 QADB|QAD Inc. - Common Stock|Q|N|N|100
 QAT|iShares MSCI Qatar Capped ETF|G|N|N|100
-QBAK|Qualstar Corporation - Common Stock|S|N|N|100
+QBAK|Qualstar Corporation - Common Stock|S|N|D|100
 QCCO|QC Holdings, Inc. - Common Stock|G|N|N|100
 QCLN|First Trust NASDAQ Clean Edge Green Energy Index Fund|G|N|N|100
 QCOM|QUALCOMM Incorporated - Common Stock|Q|N|N|100
@@ -2306,7 +2301,7 @@ QRVO|Qorvo, Inc. - Common Stock|Q|N|N|100
 QSII|Quality Systems, Inc. - Common Stock|Q|N|N|100
 QTEC|First Trust NASDAQ-100- Technology Index Fund|G|N|N|100
 QTNT|Quotient Limited - Ordinary Shares|G|N|N|100
-QTWW|Quantum Fuel Systems Technologies Worldwide, Inc. - Common Stock|S|N|N|100
+QTWW|Quantum Fuel Systems Technologies Worldwide, Inc. - Common Stock|S|N|D|100
 QUIK|QuickLogic Corporation - Common Stock|G|N|N|100
 QUMU|Qumu Corporation - Common Stock|Q|N|N|100
 QUNR|Qunar Cayman Islands Limited - American Depositary Shares|G|N|N|100
@@ -3000,6 +2995,7 @@ WING|Wingstop Inc. - Common Stock|Q|N|N|100
 WINS|Wins Finance Holdings Inc. - Ordinary Shares (Cayman Islands)|S|N|D|100
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100
+WKHS|Workhorse Group, Inc. - Common Stock|S|N|N|100
 WLB|Westmoreland Coal Company - Common Stock|G|N|N|100
 WLDN|Willdan Group, Inc. - Common Stock|G|N|N|100
 WLFC|Willis Lease Finance Corporation - Common Stock|G|N|N|100
@@ -3102,4 +3098,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0106201609:30|||||
+File Creation Time: 0108201612:12|||||
