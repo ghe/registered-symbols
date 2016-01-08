@@ -327,7 +327,6 @@ AVD|American Vanguard Corporation Common Stock ($0.10 Par Value)|N|AVD|N|100|N|A
 AVG|AVG Technologies N.V. Ordinary Shares|N|AVG|N|100|N|AVG
 AVH|Avianca Holdings S.A. American Depositary Shares (Each representing 8 preferred Shares)|N|AVH|N|100|N|AVH
 AVK|Advent Claymore Convertible Securities and Income Fund|N|AVK|N|100|N|AVK
-AVOL|Avolon Holdings Limited Common Shares|N|AVOL|N|100|N|AVOL
 AVP|Avon Products, Inc. Common Stock|N|AVP|N|100|N|AVP
 AVT|Avnet, Inc. Common Stock|N|AVT|N|100|N|AVT
 AVV|Aviva plc Subordinated Capital Securities due 2041|N|AVV|N|100|N|AVV
@@ -1091,8 +1090,11 @@ DD$B|E.I. du Pont de Nemours and Company Preferred Stock|N|DDpB|N|100|N|DD-B
 DDC|Dominion Diamond Corporation Common Stock|N|DDC|N|100|N|DDC
 DDD|3D Systems Corporation Common Stock|N|DDD|N|100|N|DDD
 DDE|Dover Downs Gaming & Entertainment Inc Common Stock|N|DDE|N|100|N|DDE
+DDEZ|WisdomTree Dynamic Currency Hedged Europe Equity Fund|Z|DDEZ|Y|100|N|DDEZ
 DDF|Delaware Investments Dividend & Income Fund, Inc. Common Stock|N|DDF|N|100|N|DDF
 DDG|ProShares Short Oil & Gas|P|DDG|Y|100|N|DDG
+DDJP|WisdomTree Dynamic Currency Hedged Japan Equity Fund|Z|DDJP|Y|100|N|DDJP
+DDLS|WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund|Z|DDLS|Y|100|N|DDLS
 DDM|ProShares Ultra Dow30|P|DDM|Y|100|N|DDM
 DDP|DB Commodity Short ETN due April 1, 2038|P|DDP|N|100|N|DDP
 DDR|DDR Corp. Common Stock|N|DDR|N|100|N|DDR
@@ -1100,12 +1102,14 @@ DDR$J|DDR Corporation Dep Shs Repstg 1/20th Pfd Cl J|N|DDRpJ|N|100|N|DDR-J
 DDR$K|DDR Corp. DEPOSITARY SH REPSTG 1/20TH PDF CL K % (United States)|N|DDRpK|N|100|N|DDR-K
 DDS|Dillard's, Inc. Common Stock|N|DDS|N|100|N|DDS
 DDT|Dillard's Capital Trust I|N|DDT|N|100|N|DDT
+DDWM|WisdomTree Dynamic Currency Hedged International Equity Fund|Z|DDWM|Y|100|N|DDWM
 DE|Deere & Company Common Stock|N|DE|N|100|N|DE
 DEA|Easterly Government Properties, Inc. Common Stock|N|DEA|N|100|N|DEA
 DECK|Deckers Outdoor Corporation Common Stock|N|DECK|N|100|N|DECK
 DEE|DB Commodity Double Short ETN due April 1, 2038|P|DEE|N|100|N|DEE
 DEEF|Deutsche X-trackers FTSE Developed ex US Enhanced Beta ETF|P|DEEF|Y|100|N|DEEF
 DEF|Guggenheim Defensive Equity ETF|P|DEF|Y|100|N|DEF
+DEFA|iShares Adaptive Currency Hedged MSCI EAFE ETF|Z|DEFA|Y|100|N|DEFA
 DEG|Etablissements Delhaize Freres et Cie "Le Lion" S.A. Common Stock|N|DEG|N|100|N|DEG
 DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
 DEL|Deltic Timber Corporation Common Stock|N|DEL|N|100|N|DEL
@@ -1114,7 +1118,9 @@ DEO|Diageo plc Common Stock|N|DEO|N|100|N|DEO
 DES|WisdomTree Trust SmallCap Dividend Fund|P|DES|Y|100|N|DES
 DEUS|Deutsche X-trackers Russell 1000 Enhanced Beta ETF|P|DEUS|Y|100|N|DEUS
 DEW|WisdomTree Global High Dividend Fund|P|DEW|Y|100|N|DEW
+DEWJ|iShares Adaptive Currency Hedged MSCI Japan ETF|Z|DEWJ|Y|100|N|DEWJ
 DEX|Delaware Enhanced Global Dividend Common Shares of Beneficial Interest|N|DEX|N|100|N|DEX
+DEZU|iShares Adaptive Currency Hedged MSCI Eurozone ETF|Z|DEZU|Y|100|N|DEZU
 DF|Dean Foods Company Common Stock|N|DF|N|100|N|DF
 DFE|WisdomTree Europe SmallCap Dividend Fund|P|DFE|Y|100|N|DFE
 DFJ|WisdomTree Japan SmallCap Fund|P|DFJ|Y|100|N|DFJ
@@ -3407,7 +3413,6 @@ NOBL|ProShares S&P 500 Dividend Aristocrats ETF|P|NOBL|Y|100|N|NOBL
 NOC|Northrop Grumman Corporation Common Stock|N|NOC|N|100|N|NOC
 NOG|Northern Oil and Gas, Inc. Common Stock|A|NOG|N|100|N|NOG
 NOK|Nokia Corporation Sponsored American Depositary Shares|N|NOK|N|100|N|NOK
-NOK.V|Nokia Corporation American Depositary Shares (Additional Shares) When Issued|N|NOKw|N|100|N|NOK#
 NOM|Nuveen Missouri Premium Income Municipal Fund Common Shares of Beneficial Interest|A|NOM|N|100|N|NOM
 NOMD.V|Nomad Foods Limited Ordinary Shares When Issued|N|NOMDw|N|100|N|NOMD#
 NORD|Nord Anglia Education, Inc. Ordinary Shares|N|NORD|N|100|N|NORD
@@ -3952,7 +3957,6 @@ QVM|Arrow QVM Equity Factor ETF|P|QVM|Y|100|N|QVM
 QWLD|SPDR MSCI World Quality Mix ETF|P|QWLD|Y|100|N|QWLD
 R|Ryder System, Inc. Common Stock|N|R|N|100|N|R
 RACE|Ferrari N.V. Common Shares|N|RACE|N|100|N|RACE
-RACE.V|Ferrari N.V. Common Shares When-Issued|N|RACEw|N|100|N|RACE#
 RAD|Rite Aid Corporation Common Stock|N|RAD|N|100|N|RAD
 RAI|Reynolds American Inc Common Stock|N|RAI|N|100|N|RAI
 RALS|ProShares RAFI Long Short ETF|P|RALS|Y|100|N|RALS
@@ -4245,7 +4249,6 @@ SCS|Steelcase Inc. Common Stock|N|SCS|N|100|N|SCS
 SCTO|Global X JPMorgan US Sector Rotator Index ETF|P|SCTO|Y|100|N|SCTO
 SCX|L.S. Starrett Company (The) Common Stock|N|SCX|N|100|N|SCX
 SCZ|iShares MSCI EAFE Small-Cap ETF|P|SCZ|Y|100|N|SCZ
-SD|Sandridge Energy Inc. Common Stock|N|SD|N|100|N|SD
 SDD|ProShares UltraShort SmallCap600|P|SDD|Y|100|N|SDD
 SDEM|Global X SuperDividend Emerging Markets ETF|P|SDEM|Y|100|N|SDEM
 SDIV|Global X SuperDividend ETF|P|SDIV|Y|100|N|SDIV
@@ -4793,7 +4796,6 @@ TYC|Tyco International plc (Ireland) Ordinary Share|N|TYC|N|100|N|TYC
 TYD|Direxion Daily 10-Yr Treasury Bull 3x Shrs|P|TYD|Y|100|N|TYD
 TYG|Tortoise Energy Infrastructure Corporation Common Stock|N|TYG|N|100|N|TYG
 TYG$B|Tortoise Energy Infrastructure Corporation Mandatory Red Pfd Ser B|N|TYGpB|N|100|N|TYG-B
-TYG$C|Tortoise Energy Infrastructure Corporation Series C Mandatory Redeemable Preferred Shares|N|TYGpC/CL|N|100|N|TYG-C*
 TYL|Tyler Technologies, Inc. Common Stock|N|TYL|N|100|N|TYL
 TYNS|Direxion Daily 7 10 Year Treasury Bear 1X Shares|P|TYNS|Y|100|N|TYNS
 TYO|Direxion Daily 10-Yr Treasury Bear 3x Shrs|P|TYO|Y|100|N|TYO
@@ -5115,7 +5117,6 @@ WGO|Winnebago Industries, Inc. Common Stock|N|WGO|N|100|N|WGO
 WGP|Western Gas Equity Partners, LP Common Units Representing Limited Partner Interests|N|WGP|N|100|N|WGP
 WHG|Westwood Holdings Group Inc Common Stock|N|WHG|N|100|N|WHG
 WHR|Whirlpool Corporation Common Stock|N|WHR|N|100|N|WHR
-WHZ|Whiting USA Trust II Units of Beneficial Interest|N|WHZ|N|100|N|WHZ
 WIA|Western Asset/Claymore Inflation-Linked Securities & Income Fund Common Shares of Beneficial Interest|N|WIA|N|100|N|WIA
 WIL|Barclays PLC Barclays Women in Leadership ETN|P|WIL|N|100|N|WIL
 WIP|SPDR DB International Government Inflation-Protected Bond ETF|P|WIP|Y|100|N|WIP
@@ -5288,4 +5289,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0106201609:30||||||
+File Creation Time: 0108201612:12||||||
