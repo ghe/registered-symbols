@@ -1735,7 +1735,7 @@ MB|MINDBODY, Inc. - Class A Common Stock|G|N|N|100
 MBCN|Middlefield Banc Corp. - Common Stock|S|N|N|100
 MBFI|MB Financial Inc. - Common Stock|Q|N|N|100
 MBFIP|MB Financial Inc. - Perpetual Non-Cumulative Preferred Stock, Series A|Q|N|N|100
-MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|D|100
+MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|N|100
 MBLX|Metabolix, Inc. - Common Stock|S|N|N|100
 MBRG|Middleburg Financial Corporation - Common Stock|S|N|N|100
 MBSD|FlexShares Disciplined Duration MBS Index Fund|G|N|N|100
@@ -3098,4 +3098,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0108201612:12|||||
+File Creation Time: 0108201621:33|||||
