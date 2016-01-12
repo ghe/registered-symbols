@@ -116,7 +116,7 @@ AKAM|Akamai Technologies, Inc. - Common Stock|Q|N|N|100
 AKAO|Achaogen, Inc. - Common Stock|G|N|N|100
 AKBA|Akebia Therapeutics, Inc. - Common Stock|G|N|N|100
 AKER|Akers Biosciences Inc - Common Stock|S|N|N|100
-AKRX|Akorn, Inc. - Common Stock|Q|N|E|100
+AKRX|Akorn, Inc. - Common Stock|Q|N|H|100
 AKTX|Akari Therapeutics Plc - American Depositary Shares|S|N|N|100
 ALCO|Alico, Inc. - Common Stock|Q|N|N|100
 ALDR|Alder BioPharmaceuticals, Inc. - Common Stock|G|N|N|100
@@ -277,7 +277,7 @@ AVGR|Avinger, Inc. - Common Stock|G|N|N|100
 AVHI|A V Homes, Inc. - Common Stock|Q|N|N|100
 AVID|Avid Technology, Inc. - Common Stock|Q|N|N|100
 AVNU|Avenue Financial Holdings, Inc. - Common Stock|Q|N|N|100
-AVNW|Aviat Networks, Inc. - Common Stock|Q|N|N|100
+AVNW|Aviat Networks, Inc. - Common Stock|Q|N|D|100
 AVXL|Anavex Life Sciences Corp. - Common Stock|S|N|N|100
 AWRE|Aware, Inc. - Common Stock|G|N|N|100
 AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
@@ -1484,7 +1484,8 @@ INTL|INTL FCStone Inc. - Common Stock|Q|N|N|100
 INTLL|INTL FCStone Inc. - 8.5% Senior Notes Due 2020|Q|N|N|100
 INTU|Intuit Inc. - Common Stock|Q|N|N|100
 INTX|Intersections, Inc. - Common Stock|G|N|N|100
-INVE|Identiv, Inc. - Common Stock|S|N|E|100
+INVA|Innoviva, Inc. - Common Stock|Q|N|N|100
+INVE|Identiv, Inc. - Common Stock|S|N|H|100
 INVT|Inventergy Global, Inc. - Common Stock|S|N|D|100
 INWK|InnerWorkings, Inc. - Common Stock|Q|N|N|100
 IONS|Ionis Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -2721,7 +2722,6 @@ TGTX|TG Therapeutics, Inc. - Common Stock|S|N|N|100
 THFF|First Financial Corporation Indiana - Common Stock|Q|N|N|100
 THLD|Threshold Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 THRM|Gentherm Inc - Common Stock|Q|N|N|100
-THRX|Theravance, Inc. - Common Stock|Q|N|N|100
 THST|Truett-Hurst, Inc. - Class A Common Stock|S|N|N|100
 THTI|THT Heat Transfer Technology, Inc. - Common Stock|S|N|D|100
 TICC|TICC Capital Corp. - Closed End Fund|Q|N|N|100
@@ -3098,4 +3098,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0108201621:33|||||
+File Creation Time: 0112201611:04|||||
