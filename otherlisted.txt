@@ -32,7 +32,6 @@ ACCO|Acco Brands Corporation Common Stock|N|ACCO|N|100|N|ACCO
 ACE|Ace Limited Common Stock|N|ACE|N|100|N|ACE
 ACG|Alliancebernstein Income Fund|N|ACG|N|100|N|ACG
 ACH|Aluminum Corporation of China Limited American Depositary Shares|N|ACH|N|100|N|ACH
-ACI|Arch Coal, Inc. Common Stock|N|ACI|N|100|N|ACI
 ACIM|SPDR MSCI ACWI IMI ETF|P|ACIM|Y|100|N|ACIM
 ACM|AECOM Common Stock|N|ACM|N|100|N|ACM
 ACN|Accenture plc. Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
@@ -3216,7 +3215,6 @@ MTB|M&T Bank Corporation Common Stock|N|MTB|N|100|N|MTB
 MTB$|M&T Bank Corporation Fixed Rate Cumulative Perpetual Preferred Stock, Series A|N|MTBp|N|100|N|MTB-
 MTB$C|M&T Bank Corporation Fixed Rate Cumulative Perpetual Preferred Stock, Series C|N|MTBpC|N|100|N|MTB-C
 MTB.W|M&T Bank Corporation Warrant (Expiring December 23, 2018)|N|MTB/WS|N|100|N|MTB+
-MTCN|ArcelorMittal 6.00% Mandatorily Convertible Subordinated Notes due 2016|N|MTCN|N|100|N|MTCN
 MTD|Mettler-Toledo International, Inc. Common Stock|N|MTD|N|100|N|MTD
 MTDR|Matador Resources Company Common Stock|N|MTDR|N|100|N|MTDR
 MTG|MGIC Investment Corporation Common Stock|N|MTG|N|100|N|MTG
@@ -3414,7 +3412,7 @@ NOC|Northrop Grumman Corporation Common Stock|N|NOC|N|100|N|NOC
 NOG|Northern Oil and Gas, Inc. Common Stock|A|NOG|N|100|N|NOG
 NOK|Nokia Corporation Sponsored American Depositary Shares|N|NOK|N|100|N|NOK
 NOM|Nuveen Missouri Premium Income Municipal Fund Common Shares of Beneficial Interest|A|NOM|N|100|N|NOM
-NOMD.V|Nomad Foods Limited Ordinary Shares When Issued|N|NOMDw|N|100|N|NOMD#
+NOMD|Nomad Foods Limited Ordinary Shares|N|NOMD|N|100|N|NOMD
 NORD|Nord Anglia Education, Inc. Ordinary Shares|N|NORD|N|100|N|NORD
 NORW|Global X MSCI Norway ETF|P|NORW|Y|100|N|NORW
 NOV|National Oilwell Varco, Inc. Common Stock|N|NOV|N|100|N|NOV
@@ -3980,7 +3978,6 @@ RBS$L|Royal Bank of Scotland Group Plc (The) ADR representing One Non-cumulative
 RBS$R|Royal Bank of Scotland Group Plc (The) ADR repstg USD Pfd Shs Ser R (United Kingdom)|N|RBSpR|N|100|N|RBS-R
 RBS$S|Royal Bank of Scotland Group Plc (The) Sponsored ADR Repstg Pref Ser S (United Kingdom)|N|RBSpS|N|100|N|RBS-S
 RBS$T|Royal Bank of Scotland Group Plc (The) Sponsored ADR Representing Pfef shs ser T (United Kingdom)|N|RBSpT|N|100|N|RBS-T
-RBY|Rubicon Minerals Corporation Ordinary Shares (Canada)|A|RBY|N|100|N|RBY
 RCD|Guggenheim S&P 500 Equal Weight Consumer Discretionary ETF|P|RCD|Y|100|N|RCD
 RCG|RENN Fund, Inc Common Stock|A|RCG|N|100|N|RCG
 RCI|Rogers Communication, Inc. Common Stock|N|RCI|N|100|N|RCI
@@ -5289,4 +5286,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0108201621:33||||||
+File Creation Time: 0112201611:04||||||
