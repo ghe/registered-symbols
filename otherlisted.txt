@@ -3870,7 +3870,6 @@ PUK$|Prudential Public Limited Company 6.75% Perpetual Subordinated Captial Secu
 PUK$A|Prudential Public Limited Company 6.50% Perpetual Subordinated Capital Securities Exchangeable at the Issuer's Option Into Non-Cumulative Dollar Denominated Preference Shares|N|PUKpA|N|100|N|PUK-A
 PUTX|ALPS ETF Trust ALPS Enhanced Put Write Strategy ETF|P|PUTX|Y|100|N|PUTX
 PUW|PowerShares WilderHill Progressive Energy Portfolio|P|PUW|Y|100|N|PUW
-PVA|Penn Virginia Corporation Common Stock|N|PVA|N|100|N|PVA
 PVCT|Provectus Biopharmaceuticals, Inc.|A|PVCT|N|100|N|PVCT
 PVCT.W|Provectus Biopharmaceuticals, Inc. Warrant|A|PVCT/WS|N|100|N|PVCT+
 PVG|Pretium Resources, Inc. Ordinary Shares (Canada)|N|PVG|N|100|N|PVG
@@ -5286,4 +5285,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0112201611:04||||||
+File Creation Time: 0113201609:30||||||
