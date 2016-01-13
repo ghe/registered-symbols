@@ -446,8 +446,8 @@ CALL|magicJack VocalTec Ltd - Ordinary Shares|G|N|N|100
 CALM|Cal-Maine Foods, Inc. - Common Stock|Q|N|N|100
 CAMP|CalAmp Corp. - Common Stock|Q|N|N|100
 CAMT|Camtek Ltd. - Ordinary Shares|G|N|N|100
-CAPN|Capnia, Inc. - Common Stock|S|N|D|100
-CAPNW|Capnia, Inc. - Series A Warrant|S|N|D|100
+CAPN|Capnia, Inc. - Common Stock|S|N|N|100
+CAPNW|Capnia, Inc. - Series A Warrant|S|N|N|100
 CAPR|Capricor Therapeutics, Inc. - Common Stock|S|N|N|100
 CAPX|Elkhorn S&P 500 Capital Expenditures Portfolio|G|N|N|100
 CAR|Avis Budget Group, Inc. - Common Stock|Q|N|N|100
@@ -1460,7 +1460,7 @@ IMKTA|Ingles Markets, Incorporated - Class A Common Stock|Q|N|N|100
 IMMR|Immersion Corporation - Common Stock|Q|N|N|100
 IMMU|Immunomedics, Inc. - Common Stock|G|N|N|100
 IMMY|Imprimis Pharmaceuticals, Inc. - Common Stock|S|N|N|100
-IMNP|Immune Pharmaceuticals Inc. - Common Stock|S|N|N|100
+IMNP|Immune Pharmaceuticals Inc. - Common Stock|S|N|D|100
 IMOS|ChipMOS TECHNOLOGIES (Bermuda) LTD. - Common Shares|S|N|N|100
 INAP|Internap Corporation - Common Stock|Q|N|N|100
 INBK|First Internet Bancorp - Common Stock|S|N|N|100
@@ -1569,7 +1569,6 @@ JYNT|The Joint Corp. - Common Stock|S|N|N|100
 KALU|Kaiser Aluminum Corporation - Common Stock|Q|N|N|100
 KANG|iKang Healthcare Group, Inc. - American Depositary Shares|Q|N|N|100
 KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100
-KBIO|KaloBios Pharmaceuticals, Inc. - Common Stock|G|N|K|100
 KBSF|KBS Fashion Group Limited - Common Stock|S|N|N|100
 KCAP|KCAP Financial, Inc. - common stock|Q|N|N|100
 KE|Kimball Electronics, Inc. - Common Stock|Q|N|N|100
@@ -3098,4 +3097,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0112201611:04|||||
+File Creation Time: 0113201609:30|||||
