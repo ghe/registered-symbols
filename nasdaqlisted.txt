@@ -1248,6 +1248,7 @@ GNCMA|General Communication, Inc. - Class A Common Stock|Q|N|N|100
 GNMA|iShares GNMA Bond ETF|G|N|N|100
 GNMK|GenMark Diagnostics, Inc. - Common Stock|G|N|N|100
 GNOW|American Caresource Holdings Inc - Common Stock|S|N|D|100
+GNRX|Market Vectors Generic Drugs ETF|G|N|N|100
 GNTX|Gentex Corporation - Common Stock|Q|N|N|100
 GNVC|GenVec, Inc. - Common Stock|S|N|N|100
 GOGL|Golden Ocean Group Limited - Common Stock|Q|N|N|100
@@ -1936,7 +1937,7 @@ NK|NantKwest, Inc. - Common Stock|Q|N|N|100
 NKSH|National Bankshares, Inc. - Common Stock|S|N|N|100
 NKTR|Nektar Therapeutics - Common Stock|Q|N|N|100
 NLNK|NewLink Genetics Corporation - Common Stock|G|N|N|100
-NLST|Netlist, Inc. - Common Stock|G|N|D|100
+NLST|Netlist, Inc. - Common Stock|S|N|D|100
 NMIH|NMI Holdings Inc - Common Stock|G|N|N|100
 NMRX|Numerex Corp. - Class A Common Stock|Q|N|N|100
 NNBR|NN, Inc. - Common Stock|Q|N|N|100
@@ -2440,7 +2441,7 @@ SBCP|Sunshine Bancorp, Inc. - Common Stock|S|N|N|100
 SBFG|SB Financial Group, Inc. - Common Stock|S|N|N|100
 SBFGP|SB Financial Group, Inc. - Depositary Shares each representing a 1/100th interest in a 6.50% Noncumulative convertible perpetual preferred share, Series A|S|N|N|100
 SBGI|Sinclair Broadcast Group, Inc. - Class A Common Stock|Q|N|N|100
-SBLK|Star Bulk Carriers Corp. - Common Stock|Q|N|N|100
+SBLK|Star Bulk Carriers Corp. - Common Stock|Q|N|D|100
 SBLKL|Star Bulk Carriers Corp. - 8.00% Senior Notes Due 2019|Q|N|N|100
 SBNY|Signature Bank - Common Stock|Q|N|N|100
 SBNYW|Signature Bank - Warrants 12/12/2018|Q|N|N|100
@@ -2722,7 +2723,6 @@ THFF|First Financial Corporation Indiana - Common Stock|Q|N|N|100
 THLD|Threshold Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 THRM|Gentherm Inc - Common Stock|Q|N|N|100
 THST|Truett-Hurst, Inc. - Class A Common Stock|S|N|N|100
-THTI|THT Heat Transfer Technology, Inc. - Common Stock|S|N|D|100
 TICC|TICC Capital Corp. - Closed End Fund|Q|N|N|100
 TIL|Till Capital Ltd. - Restricted Voting Shares|S|N|N|100
 TILE|Interface, Inc. - Common Stock|Q|N|N|100
@@ -3008,7 +3008,7 @@ WMGIZ|Wright Medical Group N.V. - Contingent Value Right|G|N|N|100
 WMIH|WMIH Corp. - Common Stock|S|N|N|100
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100
 WOOF|VCA Inc.  - Common Stock|Q|N|N|100
-WOWO|Wowo Limited - ADS|G|N|N|100
+WOWO|Wowo Limited - ADS|G|N|E|100
 WPCS|WPCS International Incorporated - Common Stock|S|N|N|100
 WPPGY|WPP plc - American Depositary Shares each representing five Ordinary Shares|Q|N|N|100
 WPRT|Westport Innovations Inc - Ordinary Shares|Q|N|N|100
@@ -3097,4 +3097,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0113201609:30|||||
+File Creation Time: 0114201610:01|||||
