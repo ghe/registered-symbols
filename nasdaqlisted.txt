@@ -608,7 +608,7 @@ CLNE|Clean Energy Fuels Corp. - Common Stock|Q|N|N|100
 CLNT|Cleantech Solutions International, Inc. - Common Stock|S|N|N|100
 CLRB|Cellectar Biosciences, Inc. - Common Stock|S|N|D|100
 CLRBW|Cellectar Biosciences, Inc. - Warrants|S|N|D|100
-CLRO|ClearOne, Inc. - Common Stock|S|N|E|100
+CLRO|ClearOne, Inc. - Common Stock|S|N|N|100
 CLSN|Celsion Corporation - Common Stock|S|N|N|100
 CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|N|100
 CLVS|Clovis Oncology, Inc. - Common Stock|Q|N|N|100
@@ -1736,7 +1736,7 @@ MB|MINDBODY, Inc. - Class A Common Stock|G|N|N|100
 MBCN|Middlefield Banc Corp. - Common Stock|S|N|N|100
 MBFI|MB Financial Inc. - Common Stock|Q|N|N|100
 MBFIP|MB Financial Inc. - Perpetual Non-Cumulative Preferred Stock, Series A|Q|N|N|100
-MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|N|100
+MBII|Marrone Bio Innovations, Inc. - Common Stock|G|N|D|100
 MBLX|Metabolix, Inc. - Common Stock|S|N|N|100
 MBRG|Middleburg Financial Corporation - Common Stock|S|N|N|100
 MBSD|FlexShares Disciplined Duration MBS Index Fund|G|N|N|100
@@ -2220,8 +2220,8 @@ PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
 PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100
-PRSN|Perseon Corporation - Common Stock|S|N|D|100
-PRSNW|Perseon Corporation - Warrants|S|N|D|100
+PRSN|Perseon Corporation - Common Stock|S|N|N|100
+PRSNW|Perseon Corporation - Warrants|S|N|N|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
 PRTA|Prothena Corporation plc - Ordinary Shares|Q|N|N|100
 PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100
@@ -2843,7 +2843,7 @@ UNFI|United Natural Foods, Inc. - Common Stock|Q|N|N|100
 UNIS|Unilife Corporation - Common Stock|G|N|D|100
 UNTD|United Online, Inc. - Common Stock|Q|N|N|100
 UNTY|Unity Bancorp, Inc. - Common Stock|G|N|N|100
-UNXL|Uni-Pixel, Inc. - Common Stock|S|N|N|100
+UNXL|Uni-Pixel, Inc. - Common Stock|S|N|D|100
 UPIP|Unwired Planet, Inc. - Common Stock|Q|N|D|100
 UPLD|Upland Software, Inc. - Common Stock|G|N|N|100
 URBN|Urban Outfitters, Inc. - Common Stock|Q|N|N|100
@@ -3096,4 +3096,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0115201609:45|||||
+File Creation Time: 0115201621:32|||||
