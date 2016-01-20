@@ -314,7 +314,6 @@ BCOR|Blucora, Inc. - Common Stock|Q|N|N|100
 BCOV|Brightcove Inc. - Common Stock|Q|N|N|100
 BCPC|Balchem Corporation - Common Stock|Q|N|N|100
 BCRX|BioCryst Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
-BDBD|Boulder Brands, Inc. - Common Stock|Q|N|N|100
 BDE|Black Diamond, Inc. - Common Stock|Q|N|N|100
 BDGE|Bridge Bancorp, Inc. - Common Stock|Q|N|N|100
 BDMS|Birner Dental Management Services, Inc. - Common Stock|S|N|D|100
@@ -683,7 +682,7 @@ CRAI|CRA International,Inc. - Common Stock|Q|N|N|100
 CRAY|Cray Inc - Common Stock|Q|N|N|100
 CRBP|Corbus Pharmaceuticals Holdings, Inc. - Common Stock|S|N|N|100
 CRDC|Cardica, Inc. - Common Stock|S|N|D|100
-CRDS|Crossroads Systems, Inc. - Common Stock|S|N|D|100
+CRDS|Crossroads Systems, Inc. - Common Stock|S|N|N|100
 CRDT|WisdomTree Strategic Corporate Bond Fund|G|N|N|100
 CREE|Cree, Inc. - Common Stock|Q|N|N|100
 CREG|China Recycling Energy Corporation - Common Stock|S|N|D|100
@@ -1921,7 +1920,7 @@ NEWS|NewStar Financial, Inc. - Common Stock|Q|N|N|100
 NEWT|Newtek Business Services Corp. - Common Stock|G|N|N|100
 NEWTZ|Newtek Business Services Corp. - Notes due 2022|G|N|N|100
 NFBK|Northfield Bancorp, Inc. - Common Stock|Q|N|N|100
-NFEC|NF Energy Saving Corporation - Common Stock|S|N|N|100
+NFEC|NF Energy Saving Corporation - Common Stock|S|N|D|100
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100
 NGHC|National General Holdings Corp - Common Stock|G|N|N|100
 NGHCO|National General Holdings Corp - Depositary Shares|G|N|N|100
@@ -1983,7 +1982,6 @@ NVGN|Novogen Limited - American Depositary Shares each representing twenty five 
 NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|G|N|N|100
 NVLS|Nivalis Therapeutics, Inc. - Common Stock|G|N|N|100
 NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares|Q|N|N|100
-NVSL|Naugatuck Valley Financial Corporation - Common Stock|G|N|N|100
 NWBI|Northwest Bancshares, Inc. - Common Stock|Q|N|N|100
 NWBO|Northwest Biotherapeutics, Inc. - Common Stock|S|N|N|100
 NWBOW|Northwest Biotherapeutics, Inc. - Warrant|S|N|N|100
@@ -2180,7 +2178,6 @@ PLUG|Plug Power, Inc. - Common Stock|S|N|N|100
 PLUS|ePlus inc. - Common Stock|Q|N|N|100
 PLXS|Plexus Corp. - Common Stock|Q|N|N|100
 PMBC|Pacific Mercantile Bancorp - Common Stock|Q|N|N|100
-PMCS|PMC - Sierra, Inc. - Common Stock|Q|N|N|100
 PMD|Psychemedics Corporation - Common Stock|S|N|N|100
 PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares|S|N|N|100
 PMTS|CPI Card Group Inc. - Common Stock|Q|N|N|100
@@ -2220,8 +2217,6 @@ PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100
 PRPH|ProPhase Labs, Inc. - Common Stock|G|N|N|100
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100
 PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100
-PRSN|Perseon Corporation - Common Stock|S|N|N|100
-PRSNW|Perseon Corporation - Warrants|S|N|N|100
 PRSS|CafePress Inc. - Common Stock|Q|N|N|100
 PRTA|Prothena Corporation plc - Ordinary Shares|Q|N|N|100
 PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100
@@ -2467,6 +2462,7 @@ SEAC|SeaChange International, Inc. - Common Stock|Q|N|N|100
 SEDG|SolarEdge Technologies, Inc. - Common Stock|Q|N|N|100
 SEED|Origin Agritech Limited - Common Stock|Q|N|N|100
 SEIC|SEI Investments Company - Common Stock|Q|N|N|100
+SELF|Self Storage Group, Inc. - Common Stock|S|N|N|100
 SEMI|SunEdison Semiconductor Limited - Ordinary Shares|Q|N|N|100
 SENEA|Seneca Foods Corp. - Class A Common Stock|Q|N|N|100
 SENEB|Seneca Foods Corp. - Class B Common Stock|Q|N|N|100
@@ -2584,6 +2580,7 @@ SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|N|100
 SPDC|Speed Commerce, Inc. - Common Stock|S|N|D|100
 SPEX|Spherix Incorporated - Common Stock|S|N|D|100
 SPHS|Sophiris Bio, Inc. - Common Shares|S|N|N|100
+SPI|SPI Energy Co., Ltd. - American Depositary Shares|Q|N|N|100
 SPIL|Siliconware Precision Industries Company, Ltd. - ADS represents common shares|Q|N|N|100
 SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100
 SPLK|Splunk Inc. - Common Stock|Q|N|N|100
@@ -3096,4 +3093,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0115201621:32|||||
+File Creation Time: 0120201612:11|||||
