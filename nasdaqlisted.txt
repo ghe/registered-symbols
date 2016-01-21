@@ -522,7 +522,7 @@ CENX|Century Aluminum Company - Common Stock|Q|N|N|100
 CERC|Cerecor Inc. - Common Stock|S|N|N|100
 CERCW|Cerecor Inc. - Class A Warrants|S|N|N|100
 CERCZ|Cerecor Inc. - Class B Warrants|S|N|N|100
-CERE|Ceres, Inc. - Common Stock|S|N|N|100
+CERE|Ceres, Inc. - Common Stock|S|N|D|100
 CERN|Cerner Corporation - Common Stock|Q|N|N|100
 CERS|Cerus Corporation - Common Stock|G|N|N|100
 CERU|Cerulean Pharma Inc. - Common Stock|G|N|N|100
@@ -1407,7 +1407,7 @@ HYLS|First Trust High Yield Long/Short ETF|G|N|N|100
 HYND|WisdomTree BofA Merrill Lynch High Yield Bond Negative Duration Fund|G|N|N|100
 HYZD|WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fund|G|N|N|100
 HZNP|Horizon Pharma plc - common stock|Q|N|N|100
-IACI|IAC/InterActiveCorp - Common Stock|Q|N|N|100
+IAC|IAC/InterActiveCorp - Common Stock|Q|N|N|100
 IART|Integra LifeSciences Holdings Corporation - Common Stock|Q|N|N|100
 IBB|iShares Nasdaq Biotechnology Index Fund|G|N|N|100
 IBCP|Independent Bank Corporation - Common Stock|Q|N|N|100
@@ -1756,7 +1756,7 @@ MDAS|MedAssets, Inc. - Common Stock|Q|N|N|100
 MDCA|MDC Partners Inc. - Class A Subordinate Voting Shares|Q|N|N|100
 MDCO|The Medicines Company - Common Stock|Q|N|N|100
 MDGS|Medigus Ltd. - American Depositary Share|S|N|N|100
-MDIV|Multi-Asset Diversified Income Index Fund|G|N|N|100
+MDIV|First Trust Multi-Asset Diversified Income Index Fund|G|N|N|100
 MDLZ|Mondelez International, Inc. - Class A Common Stock|Q|N|N|100
 MDM|Mountain Province Diamonds Inc. - Common Stock|Q|N|N|100
 MDRX|Allscripts Healthcare Solutions, Inc. - common stock|Q|N|N|100
@@ -2358,7 +2358,7 @@ RITTW|RIT Technologies Ltd. - Warrants|S|N|N|100
 RIVR|River Valley Bancorp. - Common Stock|S|N|N|100
 RJET|Republic Airways Holdings, Inc. - Common Stock|Q|N|N|100
 RKDA|Arcadia Biosciences, Inc. - Common Stock|G|N|N|100
-RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|N|100
+RLJE|RLJ Entertainment, Inc. - Common Stock|S|N|D|100
 RLOC|ReachLocal, Inc. - Common Stock|Q|N|N|100
 RLOG|Rand Logistics, Inc. - Common Stock|S|N|N|100
 RLYP|Relypsa, Inc. - Common Stock|Q|N|N|100
@@ -2382,7 +2382,6 @@ ROLL|RBC Bearings Incorporated - Common Stock|Q|N|N|100
 ROSG|Rosetta Genomics Ltd. - ordinary shares|S|N|N|100
 ROST|Ross Stores, Inc. - Common Stock|Q|N|N|100
 ROVI|Rovi Corporation - Common Stock|Q|N|N|100
-ROYL|Royale Energy, Inc. - Common Stock|S|N|D|100
 RP|RealPage, Inc. - Common Stock|Q|N|N|100
 RPD|Rapid7, Inc. - Common Stock|G|N|N|100
 RPRX|Repros Therapeutics Inc. - Common Stock|S|N|N|100
@@ -2540,7 +2539,7 @@ SMBK|SmartFinancial, Inc. - Common Stock|S|N|N|100
 SMCI|Super Micro Computer, Inc. - Common Stock|Q|N|N|100
 SMCP|AlphaMark Actively Managed Small Cap ETF|G|N|N|100
 SMED|Sharps Compliance Corp - Common Stock|S|N|N|100
-SMIT|Schmitt Industries, Inc. - Common Stock|S|N|N|100
+SMIT|Schmitt Industries, Inc. - Common Stock|S|N|D|100
 SMLR|Semler Scientific, Inc. - Common Stock|S|N|D|100
 SMMF|Summit Financial Group, Inc. - Common Stock|S|N|N|100
 SMMT|Summit Therapeutics plc - American Depositary Shares|G|N|N|100
@@ -2577,7 +2576,6 @@ SP|SP Plus Corporation - Common Stock|Q|N|N|100
 SPAN|Span-America Medical Systems, Inc. - Common Stock|G|N|N|100
 SPAR|Spartan Motors, Inc. - Common Stock|Q|N|N|100
 SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|N|100
-SPDC|Speed Commerce, Inc. - Common Stock|S|N|D|100
 SPEX|Spherix Incorporated - Common Stock|S|N|D|100
 SPHS|Sophiris Bio, Inc. - Common Shares|S|N|N|100
 SPI|SPI Energy Co., Ltd. - American Depositary Shares|Q|N|N|100
@@ -3093,4 +3091,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0120201612:11|||||
+File Creation Time: 0121201610:02|||||
