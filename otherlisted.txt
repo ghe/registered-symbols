@@ -3820,6 +3820,7 @@ PRTY|Party City Holdco Inc. Common Stock|N|PRTY|N|100|N|PRTY
 PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
 PSA$A|Public Storage Depositary Shares each representing 1/1,000 of a 5.875% Cumulative Preferred SBI, Series A|N|PSApA|N|100|N|PSA-A
+PSA$B|Public Storage Depositary Shares, each representing 1/1,000 of a 5.40% Cumulative Preferred Share of Beneficial Interest|N|PSApB|N|100|N|PSA-B
 PSA$Q|Public Storage DEPOSITARY SHS REPSTG 1/1000TH PFD SHS BEN INT SER Q|N|PSApQ|N|100|N|PSA-Q
 PSA$R|Public Storage Depository Sh Repstg 1/1000th Pfd Ser R|N|PSApR|N|100|N|PSA-R
 PSA$S|Public Storage DEP SH REPSTG PFD SH BEN INT SER S|N|PSApS|N|100|N|PSA-S
@@ -5137,7 +5138,6 @@ WPC|W.P. Carey Inc. REIT|N|WPC|N|100|N|WPC
 WPG|WP Glimcher Inc. Common Stock|N|WPG|N|100|N|WPG
 WPG$H|Washington Prime Group Inc. 7.5% Series H Cumulative Redeemable Preferred SBI|N|WPGpH|N|100|N|WPG-H
 WPG$I|Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Preferred SBI|N|WPGpI|N|100|N|WPG-I
-WPP|Wausau Paper Corp. Common Stock|N|WPP|N|100|N|WPP
 WPS|iShares International Developed Property ETF|P|WPS|Y|100|N|WPS
 WPT|World Point Terminals, LP Common Units representing Limited Partner Interests|N|WPT|N|100|N|WPT
 WPX|WPX Energy, Inc. Common Stock|N|WPX|N|100|N|WPX
@@ -5281,4 +5281,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0120201612:11||||||
+File Creation Time: 0121201610:02||||||
