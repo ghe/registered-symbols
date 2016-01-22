@@ -457,7 +457,7 @@ CART|Carolina Trust Bank - Common Stock|S|N|N|100
 CARV|Carver Bancorp, Inc. - Common Stock|S|N|N|100
 CARZ|First Trust NASDAQ Global Auto Index Fund|G|N|N|100
 CASH|Meta Financial Group, Inc. - Common Stock|Q|N|N|100
-CASI|CASI Pharmaceuticals, Inc. - Common Stock|S|N|N|100
+CASI|CASI Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 CASM|CAS Medical Systems, Inc. - Common Stock|S|N|N|100
 CASS|Cass Information Systems, Inc - Common Stock|Q|N|N|100
 CASY|Caseys General Stores, Inc. - Common Stock|Q|N|N|100
@@ -722,7 +722,7 @@ CSWI|CSW Industrials, Inc. - Common Stock|Q|N|N|100
 CSX|CSX Corporation - Common Stock|Q|N|N|100
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100
-CTCM|CTC Media, Inc. - Common Stock|Q|N|N|100
+CTCM|CTC Media, Inc. - Common Stock|Q|N|D|100
 CTCT|Constant Contact, Inc. - Common Stock|Q|N|N|100
 CTG|Computer Task Group, Incorporated - Common Stock|Q|N|N|100
 CTHR|Charles & Colvard Ltd - Common Stock|Q|N|N|100
@@ -3091,4 +3091,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0121201610:02|||||
+File Creation Time: 0122201609:30|||||
