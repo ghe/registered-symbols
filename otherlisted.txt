@@ -2885,7 +2885,6 @@ LB|L Brands, Inc.|N|LB|N|100|N|LB
 LBDC|2xLeveraged Long ETRACS Wells Fargo Business Development Company Index Series B due May 24, 2041|P|LBDC|N|100|N|LBDC
 LBF|Deutsche Global High Income Fund, Inc. Common Stock|N|LBF|N|100|N|LBF
 LBJ|Direxion Daily Latin America 3x Bull Shares|P|LBJ|Y|100|N|LBJ
-LBMH|Liberator Medical Holdings, Inc. Common Stock|A|LBMH|N|100|N|LBMH
 LBND|DB 3x Long 25 Year Treasury Bond ETN|P|LBND|N|100|N|LBND
 LBY|Libbey, Inc. Common Stock|A|LBY|N|100|N|LBY
 LC|LendingClub Corporation Common Stock|N|LC|N|100|N|LC
@@ -5281,4 +5280,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0121201610:02||||||
+File Creation Time: 0122201609:30||||||
