@@ -787,7 +787,7 @@ DATE|Jiayuan.com International Ltd. - American Depositary Shares|Q|N|N|100
 DAVE|Famous Dave's of America, Inc. - Common Stock|Q|N|N|100
 DAX|Recon Capital DAX Germany ETF|G|N|N|100
 DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100
-DCIX|Diana Containerships Inc. - Common Shares|Q|N|N|100
+DCIX|Diana Containerships Inc. - Common Shares|Q|N|D|100
 DCOM|Dime Community Bancshares, Inc. - Common Stock|Q|N|N|100
 DCTH|Delcath Systems, Inc. - Common Stock|S|N|D|100
 DDBI|Legg Mason Developed EX-US Diversified Core ETF|G|N|N|100
@@ -935,7 +935,7 @@ EMCF|Emclaire Financial Corp - Common Stock|S|N|N|100
 EMCG|WisdomTree Emerging Markets Consumer Growth Fund|G|N|N|100
 EMCI|EMC Insurance Group Inc. - Common Stock|Q|N|N|100
 EMIF|iShares S&P Emerging Markets Infrastructure Index Fund|G|N|N|100
-EMITF|Elbit Imaging Ltd. - Ordinary Shares|Q|N|N|100
+EMITF|Elbit Imaging Ltd. - Ordinary Shares|Q|N|D|100
 EMKR|EMCORE Corporation - Common Stock|G|N|N|100
 EML|Eastern Company (The) - Common Stock|G|N|N|100
 EMMS|Emmis Communications Corporation - Class A Common Stock|Q|N|D|100
@@ -980,7 +980,7 @@ ESRX|Express Scripts Holding Company - Common Stock|Q|N|N|100
 ESSA|ESSA Bancorp, Inc. - common stock|Q|N|N|100
 ESXB|Community Bankers Trust Corporation. - Common Stock|S|N|N|100
 ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100
-ETRM|EnteroMedics Inc. - Common Stock|S|N|D|100
+ETRM|EnteroMedics Inc. - Common Stock|S|N|N|100
 ETSY|Etsy, Inc. - Common Stock|Q|N|N|100
 EUFN|iShares MSCI Europe Financials Sector Index Fund|G|N|N|100
 EVAR|Lombard Medical, Inc. - Ordinary Shares|G|N|N|100
@@ -3091,4 +3091,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0122201609:30|||||
+File Creation Time: 0122201621:33|||||
