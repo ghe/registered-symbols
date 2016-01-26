@@ -1895,6 +1895,7 @@ GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
 GCH|Aberdeen Greater China Fund, Inc. Common Stock|N|GCH|N|100|N|GCH
 GCI|Gannett Co., Inc. Common Stock|N|GCI|N|100|N|GCI
 GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
+GCP.V|GCP Applied Technologies Inc. Common Stock When Issued|N|GCPw|N|100|N|GCP#
 GCV|Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock|N|GCV|N|100|N|GCV
 GCV$B|Gabelli Convertible and Income Securities Fund, Inc. (The) Series B 6.00% Cumulative Preferred Stock|N|GCVpB|N|100|N|GCV-B
 GD|General Dynamics Corporation Common Stock|N|GD|N|100|N|GD
@@ -2033,6 +2034,7 @@ GPT$A|Gramercy Property Trust Inc. 7.125% Series A Cumulative Redeemable Preferr
 GPX|GP Strategies Corporation Common Stock|N|GPX|N|100|N|GPX
 GQRE|FlexShares Global Quality Real Estate Index Fund|P|GQRE|Y|100|N|GQRE
 GRA|W.R. Grace & Co. Common Stock|N|GRA|N|100|N|GRA
+GRA.V|W.R. Grace & Co. Common Stock Ex-Distribution When Issued|N|GRAw|N|100|N|GRA#
 GRAM|Grana y Montero S.A.A. American Depositary Shares, each representing five Common Shares|N|GRAM|N|100|N|GRAM
 GRC|Gorman-Rupp Company (The) Common Stock|A|GRC|N|100|N|GRC
 GREK|Global X FTSE Greece 20 ETF|P|GREK|Y|100|N|GREK
@@ -5280,4 +5282,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0122201621:33||||||
+File Creation Time: 0126201610:01||||||
