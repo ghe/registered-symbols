@@ -871,7 +871,6 @@ DXLG|Destination XL Group, Inc. - Common Stock|Q|N|N|100
 DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|N|100
 DXPS|WisdomTree United Kingdom Hedged Equity Fund|G|N|N|100
 DXYN|The Dixie Group, Inc. - Common Stock|G|N|N|100
-DYAX|Dyax Corp. - Common Stock|G|N|N|100
 DYNT|Dynatronics Corporation - Common Stock|S|N|N|100
 DYSL|Dynasil Corporation of America - Common Stock|S|N|N|100
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100
@@ -1761,7 +1760,7 @@ MDLZ|Mondelez International, Inc. - Class A Common Stock|Q|N|N|100
 MDM|Mountain Province Diamonds Inc. - Common Stock|Q|N|N|100
 MDRX|Allscripts Healthcare Solutions, Inc. - common stock|Q|N|N|100
 MDSO|Medidata Solutions, Inc. - Common Stock|Q|N|N|100
-MDSY|ModSys International Ltd. - Ordinary Shares|G|N|D|100
+MDSY|ModSys International Ltd. - Ordinary Shares|S|N|N|100
 MDVN|Medivation, Inc. - Common Stock|Q|N|N|100
 MDVX|Medovex Corp. - Common Stock|S|N|N|100
 MDVXW|Medovex Corp. - Class A Warrant|S|N|N|100
@@ -2857,7 +2856,6 @@ USMD|USMD Holdings, Inc. - Common Stock|S|N|N|100
 UTEK|Ultratech, Inc. - Common Stock|Q|N|N|100
 UTES|Reaves Utilities ETF|G|N|N|100
 UTHR|United Therapeutics Corporation - Common Stock|Q|N|N|100
-UTIW|UTi Worldwide Inc. - Ordinary Shares|Q|N|N|100
 UTMD|Utah Medical Products, Inc. - Common Stock|Q|N|N|100
 UTSI|UTStarcom Holdings Corp - Ordinary Shares|Q|N|N|100
 UVSP|Univest Corporation of Pennsylvania - Common Stock|Q|N|N|100
@@ -2885,7 +2883,7 @@ VGSH|Vanguard Short-Term Government ETF|G|N|N|100
 VIA|Viacom Inc. - Class A Common Stock|Q|N|N|100
 VIAB|Viacom Inc. - Class B Common Stock|Q|N|N|100
 VIAV|Viavi Solutions Inc. - Common Stock|Q|N|N|100
-VICL|Vical Incorporated - Common Stock|Q|N|D|100
+VICL|Vical Incorporated - Common Stock|S|N|D|100
 VICR|Vicor Corporation - Common Stock|Q|N|N|100
 VIDI|Vident International Equity Fund|G|N|N|100
 VIIX|Credit Suisse AG - VelocityShares VIX Short Term ETN|G|N|N|100
@@ -2913,7 +2911,6 @@ VONG|Vanguard Russell 1000 Growth ETF|G|N|N|100
 VONV|Vanguard Russell 1000 Value ETF|G|N|N|100
 VOXX|VOXX International Corporation - Class A Common Stock|Q|N|N|100
 VPCO|Vapor Corp. - Common Stock|S|N|D|100
-VPCOU|Vapor Corp. - Unit|S|N|N|100
 VRA|Vera Bradley, Inc. - Common Stock|Q|N|N|100
 VRML|Vermillion, Inc. - Common Stock|S|N|N|100
 VRNG|Vringo, Inc. - Common Stock|S|N|N|100
@@ -3091,4 +3088,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0122201621:33|||||
+File Creation Time: 0126201610:01|||||
