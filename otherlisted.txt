@@ -1415,6 +1415,7 @@ EMCD|SPDR BofA Merrill Emerging Markets Corporate Bond ETF|P|EMCD|Y|100|N|EMCD
 EMCR|EGShares Emerging Markets CORE ETF|P|EMCR|Y|100|N|EMCR
 EMD|Western Asset Emerging Markets Income Fund, Inc. Common Stock|N|EMD|N|100|N|EMD
 EMDD|EGShares Emerging Markets Domestic Demand ETF|P|EMDD|Y|100|N|EMDD
+EMDV|ProShares MSCI Emerging Markets Dividend Growers ETF|Z|EMDV|Y|100|N|EMDV
 EME|EMCOR Group, Inc. Common Stock|N|EME|N|100|N|EME
 EMES|Emerge Energy Services LP Common Units representing Limited Partner Interests|N|EMES|N|100|N|EMES
 EMF|Templeton Emerging Markets Fund Common Stock|N|EMF|N|100|N|EMF
@@ -1595,15 +1596,14 @@ EWJ|iShares MSCI Japan Index Fund|P|EWJ|Y|100|N|EWJ
 EWK|iShares MSCI Belgium Capped Investable Market Index Fund|P|EWK|Y|100|N|EWK
 EWL|iShares MSCI Switzerland Capped Index Fund|P|EWL|Y|100|N|EWL
 EWM|iShares MSCI Malaysia Index Fund|P|EWM|Y|100|N|EWM
+EWMC|Guggenheim S&P MidCap 400 Equal Weight ETF|P|EWMC|Y|100|N|EWMC
 EWN|iShares MSCI Netherlands Index Fund|P|EWN|Y|100|N|EWN
 EWO|iShares MSCI Austria Capped Investable Market Index Fund|P|EWO|Y|100|N|EWO
 EWP|iShares MSCI Spain Capped Index Fund|P|EWP|Y|100|N|EWP
 EWQ|iShares MSCI France Index Fund|P|EWQ|Y|100|N|EWQ
 EWRE|Guggenheim S&P 500 Equal Weight Real Estate ETF|P|EWRE|Y|100|N|EWRE
-EWRI|Guggenheim Russell 1000 Equal Weight ETF|P|EWRI|Y|100|N|EWRI
-EWRM|Guggenheim Russell MidCap Equal Weight ETF|P|EWRM|Y|100|N|EWRM
-EWRS|Guggenheim Russell 2000 Equal Weight ETF|P|EWRS|Y|100|N|EWRS
 EWS|iShares MSCI Singapore Index Fund|P|EWS|Y|100|N|EWS
+EWSC|Guggenheim S&P SmallCap 600 Equal Weight ETF|P|EWSC|Y|100|N|EWSC
 EWT|iShares MSCI Taiwan Index Fund|P|EWT|Y|100|N|EWT
 EWU|iShares MSCI United Kingdom ETF|P|EWU|Y|100|N|EWU
 EWUS|Ishares MSCI United Kingdom Small Cap ETF|Z|EWUS|Y|100|N|EWUS
@@ -3349,6 +3349,7 @@ NGLS|Targa Resources Partners LP Common Units Representing Limited Partnership I
 NGLS$A|Targa Resources Partners LP 9.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing preferred equity interests|N|NGLSpA|N|100|N|NGLS-A
 NGS|Natural Gas Services Group, Inc. Common Stock|N|NGS|N|100|N|NGS
 NGVC|Natural Grocers by Vitamin Cottage, Inc. Common Stock|N|NGVC|N|100|N|NGVC
+NHA|Nuveen Municipal 2021 Target Term Fund Fund|N|NHA|N|100|N|NHA
 NHC|National HealthCare Corporation Common Stock|A|NHC|N|100|N|NHC
 NHF|NexPoint Credit Strategies Fund|N|NHF|N|100|N|NHF
 NHI|National Health Investors, Inc. Common Stock|N|NHI|N|100|N|NHI
@@ -5072,7 +5073,6 @@ WBIL|WBI Tactical LCS Shares|P|WBIL|Y|100|N|WBIL
 WBK|Westpac Banking Corporation Common Stock|N|WBK|N|100|N|WBK
 WBS|Webster Financial Corporation Common Stock|N|WBS|N|100|N|WBS
 WBS$E|Webster Financial Corporation Dep Shs Repstg 1/1000th Perp Pfd Ser E|N|WBSpE|N|100|N|WBS-E
-WBS.W|Webster Financial Corporation Warrant (expiring November 21, 2018)|N|WBS/WS|N|100|N|WBS+
 WCC|WESCO International, Inc. Common Stock|N|WCC|N|100|N|WCC
 WCG|Wellcare Health Plans, Inc. Common Stock|N|WCG|N|100|N|WCG
 WCIC|WCI Communities, Inc. Common Stock|N|WCIC|N|100|N|WCIC
@@ -5194,7 +5194,7 @@ XLB|Materials Select Sector SPDR|P|XLB|Y|100|N|XLB
 XLE|SPDR Select Sector Fund - Energy Select Sector|P|XLE|Y|100|N|XLE
 XLF|SPDR Select Sector Fund - Financial|P|XLF|Y|100|N|XLF
 XLFS|Financial Services Select Sector SPDR Fund (The)|P|XLFS|Y|100|N|XLFS
-XLG|Guggenheim Russell Top 50 Mega Cap ETF|P|XLG|Y|100|N|XLG
+XLG|Guggenheim S&P 500 Top 50 ETF|P|XLG|Y|100|N|XLG
 XLI|SPDR Select Sector Fund - Industrial|P|XLI|Y|100|N|XLI
 XLK|SPDR Select Sector Fund - Technology|P|XLK|Y|100|N|XLK
 XLP|SPDR Select Sector Fund - Consumer Staples|P|XLP|Y|100|N|XLP
@@ -5282,4 +5282,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0126201610:01||||||
+File Creation Time: 0127201609:30||||||
