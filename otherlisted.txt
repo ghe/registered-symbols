@@ -526,7 +526,6 @@ BML$I|Bank of America Corporation Bank of America Corporation Depositary Shares 
 BML$J|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)|N|BMLpJ|N|100|N|BML-J
 BML$L|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)|N|BMLpL|N|100|N|BML-L
 BMO|Bank Of Montreal Common Stock|N|BMO|N|100|N|BMO
-BMR|Biomed Realty Trust Common Stock|N|BMR|N|100|N|BMR
 BMS|Bemis Company, Inc. Common Stock|N|BMS|N|100|N|BMS
 BMY|Bristol-Myers Squibb Company Common Stock|N|BMY|N|100|N|BMY
 BND|Vanguard Total Bond Market ETF|P|BND|Y|100|N|BND
@@ -947,7 +946,6 @@ CRVP|Crystal Rock Holdings, Inc. Class A Common Stock|A|CRVP|N|100|N|CRVP
 CRY|CryoLife, Inc. Common Stock|N|CRY|N|100|N|CRY
 CS|Credit Suisse Group American Depositary Shares|N|CS|N|100|N|CS
 CSC|Computer Sciences Corporation Common Stock|N|CSC|N|100|N|CSC
-CSCB|Credit Suisse X-Links Commodity Benchmark ETNs due June 15, 2033|P|CSCB|N|100|N|CSCB
 CSCR|Credit Suisse X-Links Commodity Rotation ETNs due June 15, 2033|P|CSCR|N|100|N|CSCR
 CSD|Guggenheim Spin-Off ETF|P|CSD|Y|100|N|CSD
 CSH|Cash America International, Inc. Common Stock|N|CSH|N|100|N|CSH
@@ -5282,4 +5280,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0127201609:30||||||
+File Creation Time: 0128201609:30||||||
