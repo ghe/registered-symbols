@@ -790,6 +790,7 @@ DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100
 DCIX|Diana Containerships Inc. - Common Shares|Q|N|D|100
 DCOM|Dime Community Bancshares, Inc. - Common Stock|Q|N|N|100
 DCTH|Delcath Systems, Inc. - Common Stock|S|N|D|100
+DDAY|DraftDay Fantasy Sports, Inc. - Common Stock|S|N|D|100
 DDBI|Legg Mason Developed EX-US Diversified Core ETF|G|N|N|100
 DELT|Delta Technology Holdings Limited - Ordinary Shares|S|N|N|100
 DELTW|Delta Technology Holdings Limited - Warrant|S|N|N|100
@@ -1751,7 +1752,6 @@ MCOX|Mecox Lane Limited - American Depositary Shares|Q|N|N|100
 MCRB|Seres Therapeutics, Inc. - Common Stock|Q|N|N|100
 MCRI|Monarch Casino & Resort, Inc. - Common Stock|Q|N|N|100
 MCUR|Macrocure Ltd. - Ordinary Shares|G|N|N|100
-MDAS|MedAssets, Inc. - Common Stock|Q|N|N|100
 MDCA|MDC Partners Inc. - Class A Subordinate Voting Shares|Q|N|N|100
 MDCO|The Medicines Company - Common Stock|Q|N|N|100
 MDGS|Medigus Ltd. - American Depositary Share|S|N|N|100
@@ -2728,7 +2728,7 @@ TKAI|Tokai Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 TLF|Tandy Leather Factory, Inc. - Common Stock|G|N|N|100
 TLGT|Teligent, Inc. - Common Stock|Q|N|N|100
 TLMR|Talmer Bancorp, Inc. - Class A Common Stock|S|N|N|100
-TLOG|TetraLogic Pharmaceuticals Corporation - Common Stock|G|N|N|100
+TLOG|TetraLogic Pharmaceuticals Corporation - Common Stock|G|N|D|100
 TMUS|T-Mobile US, Inc. - Common Stock|Q|N|N|100
 TMUSP|T-Mobile US, Inc. - 5.50% Mandatory Convertible Preferred Stock, Series A|Q|N|N|100
 TNAV|Telenav, Inc. - Common Stock|Q|N|N|100
@@ -2838,7 +2838,7 @@ UNIS|Unilife Corporation - Common Stock|G|N|D|100
 UNTD|United Online, Inc. - Common Stock|Q|N|N|100
 UNTY|Unity Bancorp, Inc. - Common Stock|G|N|N|100
 UNXL|Uni-Pixel, Inc. - Common Stock|S|N|D|100
-UPIP|Unwired Planet, Inc. - Common Stock|Q|N|D|100
+UPIP|Unwired Planet, Inc. - Common Stock|Q|N|N|100
 UPLD|Upland Software, Inc. - Common Stock|G|N|N|100
 URBN|Urban Outfitters, Inc. - Common Stock|Q|N|N|100
 URRE|Uranium Resources, Inc. - Common Stock|S|N|D|100
@@ -2876,7 +2876,6 @@ VCYT|Veracyte, Inc. - Common Stock|G|N|N|100
 VDSI|VASCO Data Security International, Inc. - Common Stock|S|N|N|100
 VDTH|Videocon d2h Limited - American Depositary Shares|Q|N|N|100
 VECO|Veeco Instruments Inc. - Common Stock|Q|N|N|100
-VGGL|Viggle Inc. - Common Stock|S|N|D|100
 VGIT|Vanguard Intermediate -Term Government Bond ETF|G|N|N|100
 VGLT|Vanguard Long-Term Government Bond ETF|G|N|N|100
 VGSH|Vanguard Short-Term Government ETF|G|N|N|100
@@ -3088,4 +3087,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0127201609:30|||||
+File Creation Time: 0128201609:30|||||
