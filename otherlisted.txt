@@ -2101,7 +2101,6 @@ GVA|Granite Construction Incorporated Common Stock|N|GVA|N|100|N|GVA
 GVAL|Cambria Global Value ETF|P|GVAL|Y|100|N|GVAL
 GVI|iShares Intermediate Government/Credit Bond ETF|P|GVI|Y|100|N|GVI
 GVP|GSE Systems, Inc. Common Stock|A|GVP|N|100|N|GVP
-GVT|Columbia Select Large Cap Value ETF|P|GVT|Y|100|N|GVT
 GWB|Great Western Bancorp, Inc. Common Stock|N|GWB|N|100|N|GWB
 GWL|SPDR S&P World ex-US ETF|P|GWL|Y|100|N|GWL
 GWR|Genesee & Wyoming Inc. Class A Common Stock|N|GWR|N|100|N|GWR
@@ -3041,9 +3040,6 @@ MEG|Media General, Inc. Common Stock|N|MEG|N|100|N|MEG
 MEI|Methode Electronics, Inc. Common Stock|N|MEI|N|100|N|MEI
 MEN|Blackrock MuniEnhanced Fund, Inc Common Stock|N|MEN|N|100|N|MEN
 MEP|Midcoast Energy Partners, L.P. Common units representing limited partner interests|N|MEP|N|100|N|MEP
-MER$D|Merrill Lynch & Co., Inc. Preferred Stock|N|MERpD/CL|N|100|N|MER-D*
-MER$E|Merrill Lynch & Co., Inc. Preferred Stock|N|MERpE/CL|N|100|N|MER-E*
-MER$F|Merrill Lynch & Co., Inc. Preferred Stock|N|MERpF/CL|N|100|N|MER-F*
 MER$K|Merrill Lynch & Co., Inc. 6.45% Trust Preferred Securities|N|MERpK|N|100|N|MER-K
 MER$M|Merrill Lynch & Co., Inc. 6.45% Trust Preferred Securities|N|MERpM|N|100|N|MER-M
 MER$P|Merrill Lynch & Co., Inc. Merrill Lynch Capital Trust III 7.375% Trust Preferred Securities|N|MERpP|N|100|N|MER-P
@@ -4092,7 +4088,6 @@ RPM|RPM International Inc. Common Stock|N|RPM|N|100|N|RPM
 RPT|Ramco-Gershenson Properties Trust Common Stock|N|RPT|N|100|N|RPT
 RPT$D|Ramco-Gershenson Properties Trust 7.25% PERP PFD CONV SHS BEN INT SER D|N|RPTpD|N|100|N|RPT-D
 RPV|Guggenheim S&P 500 Pure Value ETF|P|RPV|Y|100|N|RPV
-RPX|Columbia Large Cap Growth ETF|P|RPX|Y|100|N|RPX
 RQI|Cohen & Steers Quality Income Realty Fund Inc Common Shares|N|RQI|N|100|N|RQI
 RRC|Range Resources Corporation Common Stock|N|RRC|N|100|N|RRC
 RRF|WisdomTree Global Real Return Fund|P|RRF|Y|100|N|RRF
@@ -4125,7 +4120,6 @@ RVNU|Deutsche X-Trackers Municipal Infrastructure Revenue Bond ETF|P|RVNU|Y|100|
 RVP|Retractable Technologies, Inc. Common Stock|A|RVP|N|100|N|RVP
 RVT|Royce Value Trust, Inc. Common Stock|N|RVT|N|100|N|RVT
 RWC|RELM Wireless Corporation Common Stock|A|RWC|N|100|N|RWC
-RWG|Columbia  Select Large Cap Growth ETF|P|RWG|Y|100|N|RWG
 RWJ|Oppenheimer Small Cap Revenue ETF|P|RWJ|Y|100|N|RWJ
 RWK|Oppenheimer Mid Cap Revenue ETF|P|RWK|Y|100|N|RWK
 RWL|Oppenheimer Large Cap Revenue ETF|P|RWL|Y|100|N|RWL
@@ -5280,4 +5274,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0128201609:30||||||
+File Creation Time: 0129201609:45||||||
