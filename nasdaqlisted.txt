@@ -54,7 +54,6 @@ ACWI|iShares MSCI ACWI Index Fund|G|N|N|100
 ACWX|iShares MSCI ACWI ex US Index Fund|G|N|N|100
 ACXM|Acxiom Corporation - Common Stock|Q|N|N|100
 ADAP|Adaptimmune Therapeutics plc - American Depositary Shares|Q|N|N|100
-ADAT|Authentidate Holding Corp. - Common Stock|S|N|D|100
 ADBE|Adobe Systems Incorporated - Common Stock|Q|N|N|100
 ADHD|Alcobra Ltd. - Ordinary Shares|G|N|N|100
 ADI|Analog Devices, Inc. - Common Stock|Q|N|N|100
@@ -298,7 +297,7 @@ BASI|Bioanalytical Systems, Inc. - Common Stock|S|N|N|100
 BBBY|Bed Bath & Beyond Inc. - Common Stock|Q|N|N|100
 BBC|BioShares Biotechnology Clinical Trials Fund|G|N|N|100
 BBCN|BBCN Bancorp, Inc. - Common Stock|Q|N|N|100
-BBEP|Breitburn Energy Partners LP - Common Units Representing Limited Partnership|Q|N|N|100
+BBEP|Breitburn Energy Partners LP - Common Units Representing Limited Partnership|Q|N|D|100
 BBEPP|Breitburn Energy Partners LP - 8.25% Series A Cumulative Redeemable Perpetual Preferred Units|Q|N|N|100
 BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|G|N|N|100
 BBLU|Blue Earth, Inc. - Common Stock|S|N|D|100
@@ -798,6 +797,7 @@ DENN|Denny's Corporation - Common Stock|S|N|N|100
 DEPO|Depomed, Inc. - Common Stock|Q|N|N|100
 DERM|Dermira, Inc. - Common Stock|Q|N|N|100
 DEST|Destination Maternity Corporation - Common Stock|Q|N|N|100
+DFBG|Differential Brands Group Inc. - Common Stock|S|N|D|100
 DFRG|Del Frisco's Restaurant Group, Inc. - Common Stock|Q|N|N|100
 DFVL|Barclays PLC - iPath US Treasury 5 Year Bull ETN|G|N|N|100
 DFVS|Barclays PLC - iPath US Treasury 5-year Bear ETN|G|N|N|100
@@ -1555,7 +1555,6 @@ JKHY|Jack Henry & Associates, Inc. - Common Stock|Q|N|N|100
 JMBA|Jamba, Inc. - Common Stock|G|N|N|100
 JNP|Juniper Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 JOBS|51job, Inc. - American Depositary Shares, each representing two common shares|Q|N|N|100
-JOEZ|Joe's Jeans Inc. - Common Stock|S|N|D|100
 JOUT|Johnson Outdoors Inc. - Class A Common Stock|Q|N|N|100
 JRJC|China Finance Online Co. Limited - American Depositary Shares representing 5 ordinary shares|Q|N|N|100
 JRVR|James River Group Holdings, Ltd. - Common Shares|Q|N|N|100
@@ -2043,7 +2042,7 @@ ONVI|Onvia, Inc. - Common Stock|S|N|N|100
 OPB|Opus Bank - Common Stock|Q|N|N|100
 OPGN|OpGen, Inc. - Common Stock|S|N|N|100
 OPGNW|OpGen, Inc. - Warrant|S|N|N|100
-OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|D|100
+OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|N|100
 OPHT|Ophthotech Corporation - Common Stock|Q|N|N|100
 OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100
 OPTT|Ocean Power Technologies, Inc. - Common Stock|S|N|N|100
@@ -2076,7 +2075,6 @@ OUTR|Outerwall Inc. - Common Stock|Q|N|N|100
 OVAS|OvaScience Inc. - Common Stock|G|N|N|100
 OVBC|Ohio Valley Banc Corp. - Common Stock|G|N|N|100
 OVLY|Oak Valley Bancorp (CA) - Common Stock|S|N|N|100
-OVTI|OmniVision Technologies, Inc. - Common Stock|Q|N|N|100
 OXBR|Oxbridge Re Holdings Limited - Ordinary Shares|S|N|N|100
 OXBRW|Oxbridge Re Holdings Limited - Warrant|S|N|N|100
 OXFD|Oxford Immunotec Global PLC - Ordinary Shares|G|N|N|100
@@ -2187,7 +2185,7 @@ PNNT|PennantPark Investment Corporation - common stock|Q|N|N|100
 PNQI|PowerShares Nasdaq Internet Portfolio|G|N|N|100
 PNRA|Panera Bread Company - Class A Common Stock|Q|N|N|100
 PNRG|PrimeEnergy Corporation - Common Stock|S|N|N|100
-PNTR|Pointer Telocation Ltd. - Ordinary Shares|S|N|D|100
+PNTR|Pointer Telocation Ltd. - Ordinary Shares|S|N|N|100
 PODD|Insulet Corporation - Common Stock|Q|N|N|100
 POOL|Pool Corporation - Common Stock|Q|N|N|100
 POPE|Pope Resources - Limited Partnership|S|N|N|100
@@ -2489,7 +2487,7 @@ SGYPU|Synergy Pharmaceuticals, Inc. - Unit|S|N|N|100
 SGYPW|Synergy Pharmaceuticals, Inc. - Warrants|S|N|N|100
 SHBI|Shore Bancshares Inc - Common Stock|Q|N|N|100
 SHEN|Shenandoah Telecommunications Co - Common Stock|Q|N|N|100
-SHIP|Seanergy Maritime Holdings Corp - Common Stock|S|N|D|100
+SHIP|Seanergy Maritime Holdings Corp - Common Stock|S|N|N|100
 SHLD|Sears Holdings Corporation - Common Stock|Q|N|N|100
 SHLDW|Sears Holdings Corporation - Warrant|Q|N|N|100
 SHLM|A. Schulman, Inc. - Common Stock|Q|N|N|100
@@ -2713,7 +2711,7 @@ TGEN|Tecogen Inc. - Common Stock|S|N|N|100
 TGLS|Tecnoglass Inc. - Ordinary Shares|S|N|N|100
 TGTX|TG Therapeutics, Inc. - Common Stock|S|N|N|100
 THFF|First Financial Corporation Indiana - Common Stock|Q|N|N|100
-THLD|Threshold Pharmaceuticals, Inc. - Common Stock|S|N|N|100
+THLD|Threshold Pharmaceuticals, Inc. - Common Stock|S|N|D|100
 THRM|Gentherm Inc - Common Stock|Q|N|N|100
 THST|Truett-Hurst, Inc. - Class A Common Stock|S|N|N|100
 TICC|TICC Capital Corp. - Closed End Fund|Q|N|N|100
@@ -3087,4 +3085,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0128201609:30|||||
+File Creation Time: 0129201609:45|||||
