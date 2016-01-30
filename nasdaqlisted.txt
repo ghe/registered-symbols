@@ -3080,9 +3080,10 @@ ZNGA|Zynga Inc. - Class A Common Stock|Q|N|N|100
 ZNWAA|Zion Oil & Gas Inc - Warrants|G|N|N|100
 ZSAN|Zosano Pharma Corporation - Common Stock|S|N|N|100
 ZUMZ|Zumiez Inc. - Common Stock|Q|N|N|100
+ZVZZC|NASDAQ TEST STOCK Nextshares Test Security|G|Y|N|100
 ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0129201609:45|||||
+File Creation Time: 0129201621:33|||||
