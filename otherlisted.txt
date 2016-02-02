@@ -128,7 +128,6 @@ AHT$A|Ashford Hospitality Trust Inc 8.55% Cum Preferred Series A|N|AHTpA|N|100|N
 AHT$D|Ashford Hospitality Trust Inc 8.45% Series D Cumulative Preferred Stock|N|AHTpD|N|100|N|AHT-D
 AHT$E|Ashford Hospitality Trust Inc 9.00% Series E Cumulative Preferred Stock|N|AHTpE|N|100|N|AHT-E
 AI|Arlington Asset Investment Corp Class A (new)|N|AI|N|100|N|AI
-AIA|iShares Asia 50 ETF|P|AIA|Y|100|N|AIA
 AIB|Apollo Investment Corporation 6.625% Senior Notes due 2042|N|AIB|N|100|N|AIB
 AIC|Arlington Asset Investment Corp 6.750% Notes due 2025|N|AIC|N|100|N|AIC
 AIF|Apollo Tactical Income Fund Inc. Common Stock|N|AIF|N|100|N|AIF
@@ -365,6 +364,7 @@ BAB|PowerShares Build America Bond Portfolio|P|BAB|Y|100|N|BAB
 BABA|Alibaba Group Holding Limited American Depositary Shares each representing one Ordinary share|N|BABA|N|100|N|BABA
 BABS|SPDR Nuveen Barclays Build America Bond ETF|P|BABS|Y|100|N|BABS
 BAC|Bank of America Corporation Common Stock|N|BAC|N|100|N|BAC
+BAC$C|Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 6.200% Non-Cumulative Preferred Stock, Series C|N|BACpC|N|100|N|BAC-C
 BAC$D|Bank of America Corporation Depositary Shares Rpstg 1/1000th Interest in Sh of Non Cum Pfd Stk Ser D|N|BACpD|N|100|N|BAC-D
 BAC$E|Bank of America Corporation Depositary Sh repstg 1/1000th Perp Pfd Ser E|N|BACpE|N|100|N|BAC-E
 BAC$I|Bank Amer Corp Dep Sh Repstg 1/1000th Pfd Ser I|N|BACpI|N|100|N|BAC-I
@@ -389,7 +389,6 @@ BBD|Banco Bradesco Sa American Depositary Shares|N|BBD|N|100|N|BBD
 BBDO|Banco Bradesco Sa American Depositary Shares (each representing one Common Share)|N|BBDO|N|100|N|BBDO
 BBF|BlackRock Municipal Income Investment Trust|N|BBF|N|100|N|BBF
 BBG|Bill Barrett Corporation Common Stock|N|BBG|N|100|N|BBG
-BBH|Market Vectors Biotech ETF|P|BBH|Y|100|N|BBH
 BBK|Blackrock Municipal Bond Trust|N|BBK|N|100|N|BBK
 BBL|BHP Billiton plc Sponsored ADR|N|BBL|N|100|N|BBL
 BBN|BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest|N|BBN|N|100|N|BBN
@@ -826,7 +825,6 @@ CLNY$B|Colony Capital, Inc. Perp Pfd Ser B %|N|CLNYpB|N|100|N|CLNY-B
 CLNY$C|Colony Capital, Inc 7.125% Series C Cumulative Redeemable Perpetual Preferred Stock|N|CLNYpC|N|100|N|CLNY-C
 CLR|Continental Resources, Inc. Common Stock|N|CLR|N|100|N|CLR
 CLS|Celestica, Inc. Common Stock|N|CLS|N|100|N|CLS
-CLV|Cliffs Natural Resources Inc. Depositary Shares Representing 1/40th Preferred Convertible Series A|N|CLV|N|100|N|CLV
 CLW|Clearwater Paper Corporation Common Stock|N|CLW|N|100|N|CLW
 CLX|Clorox Company (The) Common Stock|N|CLX|N|100|N|CLX
 CLY|iShares 10  Year Credit Bond ETF|P|CLY|Y|100|N|CLY
@@ -962,6 +960,7 @@ CST|CST Brands, Inc. Common Stock|N|CST|N|100|N|CST
 CSTM|Constellium N.V. Ordinary Shares|N|CSTM|N|100|N|CSTM
 CSU|Capital Senior Living Corporation Common Stock|N|CSU|N|100|N|CSU
 CSV|Carriage Services, Inc. Common Stock|N|CSV|N|100|N|CSV
+CTAA|Qwest Corporation 7% Notes due 2056|N|CTAA|N|100|N|CTAA
 CTB|Cooper Tire & Rubber Company Common Stock|N|CTB|N|100|N|CTB
 CTF|Nuveen Long/Short Commodity Total Return Fund Common Units of Beneficial Interest|A|CTF|N|100|N|CTF
 CTL|CenturyLink, Inc. Common Stock|N|CTL|N|100|N|CTL
@@ -983,6 +982,7 @@ CUBE|CubeSmart Common Shares|N|CUBE|N|100|N|CUBE
 CUBE$A|CubeSmart 7.75% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest|N|CUBEpA|N|100|N|CUBE-A
 CUBI|Customers Bancorp, Inc Common Stock|N|CUBI|N|100|N|CUBI
 CUBI$C|Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C|N|CUBIpC|N|100|N|CUBI-C
+CUBI$D|Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D|N|CUBIpD|N|100|N|CUBI-D
 CUBS|Customers Bancorp, Inc 6.375% Senior Notes due 2018|N|CUBS|N|100|N|CUBS
 CUDA|Barracuda Networks, Inc. Common Stock|N|CUDA|N|100|N|CUDA
 CUK|Carnival Plc ADS ADS|N|CUK|N|100|N|CUK
@@ -1446,7 +1446,7 @@ ENFR|Alerian Energy Infrastructure ETF|P|ENFR|Y|100|N|ENFR
 ENH|Endurance Specialty Holdings Ltd Common Stock|N|ENH|N|100|N|ENH
 ENH$B|Endurance Specialty Holdings Ltd PFD SER B (Bermuda)|N|ENHpB|N|100|N|ENH-B
 ENH$C|Endurance Specialty Holdings Ltd Depositary Shares, each Representing a 1/1000th Interest in a Share of 6.350% Non-Cumulative Preferred Shares, Series C, $1.00 par value|N|ENHpC|N|100|N|ENH-C
-ENI|Enersis S A Common Stock|N|ENI|N|100|N|ENI
+ENI|Enersis Americas S.A. American Depositary Shares|N|ENI|N|100|N|ENI
 ENJ|Entergy New Orleans, Inc. First Mortgage Bonds, 5.0% Series due December 1, 2052|N|ENJ|N|100|N|ENJ
 ENLC|EnLink Midstream, LLC Common Units representing Limited Partner Interests|N|ENLC|N|100|N|ENLC
 ENLK|EnLink Midstream Partners, LP Common Units Representing Limited Partnership Interests|N|ENLK|N|100|N|ENLK
@@ -1461,7 +1461,6 @@ ENVA|Enova International, Inc. Common Stock|N|ENVA|N|100|N|ENVA
 ENX|Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value|A|ENX|N|100|N|ENX
 ENY|Guggenheim Canadian Energy Income ETF|P|ENY|Y|100|N|ENY
 ENZ|Enzo Biochem, Inc. Common Stock ($0.01 Par Value)|N|ENZ|N|100|N|ENZ
-ENZL|iShares MSCI New Zealand Capped ETF|P|ENZL|Y|100|N|ENZL
 EOC|Empresa Nacional de Electricidad S.A. Common Stock|N|EOC|N|100|N|EOC
 EOD|Wells Fargo Global Dividend Opportunity Fund|N|EOD|N|100|N|EOD
 EOG|EOG Resources, Inc. Common Stock|N|EOG|N|100|N|EOG
@@ -1610,7 +1609,6 @@ EWW|iShares MSCI Mexico Capped Investable Market Index Fund|P|EWW|Y|100|N|EWW
 EWX|SPDR S&P Emerging Markets Small Cap ETF|P|EWX|Y|100|N|EWX
 EWY|iShares MSCI South Korea Capped Index Fund|P|EWY|Y|100|N|EWY
 EWZ|iShares MSCI Brazil Capped Index Fund|P|EWZ|Y|100|N|EWZ
-EWZS|iShares MSCI Brazil Small-Cap ETF|P|EWZS|Y|100|N|EWZS
 EXAM|ExamWorks Group, Inc. Common Stock|N|EXAM|N|100|N|EXAM
 EXAR|Exar Corporation Common Stock|N|EXAR|N|100|N|EXAR
 EXC|Exelon Corporation Common Stock|N|EXC|N|100|N|EXC
@@ -1629,7 +1627,7 @@ EZJ|ProShares Ultra MSCI Japan|P|EZJ|Y|100|N|EZJ
 EZM|WisdomTree MidCap Earnings Fund|P|EZM|Y|100|N|EZM
 EZR|WisdomTree Europe Local Recovery Fund|Z|EZR|Y|100|N|EZR
 EZT|Entergy Texas Inc First Mortgage Bonds 5.625% Series due June 1, 2064|N|EZT|N|100|N|EZT
-EZU|iShares MSCI Eurozone ETF|P|EZU|Y|100|N|EZU
+EZU|iShares MSCI Eurozone ETF|Z|EZU|Y|100|N|EZU
 EZY|WisdomTree Low P/E Fund|P|EZY|Y|100|N|EZY
 F|Ford Motor Company Common Stock|N|F|N|100|N|F
 FAB|First Trust Multi Cap Value AlphaDEX Fund|P|FAB|Y|100|N|FAB
@@ -2174,7 +2172,6 @@ HEGE|Direxion Daily MSCI Europe Currency Hedged Bull 2X Shares|P|HEGE|Y|100|N|HE
 HEGJ|Direxion Daily MSCI Japan Currency Hedged Bull 2X Shares|P|HEGJ|Y|100|N|HEGJ
 HEI|Heico Corporation Common Stock|N|HEI|N|100|N|HEI
 HEI.A|Heico Corporation Common Stock|N|HEI/A|N|100|N|HEI.A
-HELI|CHC Group Ltd. Ordinary Shares|N|HELI|N|100|N|HELI
 HEMV|iShares Currency Hedged MSCI EM Minimum Volatility ETF|Z|HEMV|Y|100|N|HEMV
 HEP|Holly Energy Partners, L.P. Common Stock|N|HEP|N|100|N|HEP
 HEQ|John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest|N|HEQ|N|100|N|HEQ
@@ -2429,7 +2426,6 @@ IGC|India Globalization Capital Inc. Common Stock|A|IGC|N|100|N|IGC
 IGC.W|India Globalization Capital Inc. Warrants|A|IGC/WS|N|100|N|IGC+
 IGD|Voya Global Equity Dividend and Premium Opportunity Fund|N|IGD|N|100|N|IGD
 IGE|iShares North American Natural Resources ETF|P|IGE|Y|100|N|IGE
-IGF|iShares Global Infrastructure ETF|P|IGF|Y|100|N|IGF
 IGHG|ProShares Investment Grade-Interest Rate Hedged|Z|IGHG|Y|100|N|IGHG
 IGI|Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock|N|IGI|N|100|N|IGI
 IGIH|Deutsche X-trackers Investment Grade Bond - Interest Rate Hedged ETF|P|IGIH|Y|100|N|IGIH
@@ -2613,7 +2609,6 @@ IXG|iShares Global Financial ETF|P|IXG|Y|100|N|IXG
 IXJ|iShares Global Healthcare ETF|P|IXJ|Y|100|N|IXJ
 IXN|iShares Global Tech ETF|P|IXN|Y|100|N|IXN
 IXP|iShares Global Telecom ETF|P|IXP|Y|100|N|IXP
-IXUS|iShares Core MSCI Total International Stock ETF|P|IXUS|Y|100|N|IXUS
 IYC|iShares U.S. Consumer Services ETF|P|IYC|Y|100|N|IYC
 IYE|iShares U.S. Energy ETF|P|IYE|Y|100|N|IYE
 IYF|iShares U.S. Financial ETF|P|IYF|Y|100|N|IYF
@@ -2684,7 +2679,6 @@ JKE|iShares Morningstar Large-Cap Growth ETF|P|JKE|Y|100|N|JKE
 JKF|iShares Morningstar Large-Cap  Value ETF|P|JKF|Y|100|N|JKF
 JKG|iShares Morningstar Mid-Cap ETF|P|JKG|Y|100|N|JKG
 JKH|iShares Morningstar Mid-Cap Growth ETF|P|JKH|Y|100|N|JKH
-JKI|iShares Morningstar Mid-Cap Value ETF|P|JKI|Y|100|N|JKI
 JKJ|iShares Morningstar Small-Cap ETF|P|JKJ|Y|100|N|JKJ
 JKK|iShares Morningstar Small-Cap Growth ETF|P|JKK|Y|100|N|JKK
 JKL|iShares Morningstar Small-Cap Value ETFnd|P|JKL|Y|100|N|JKL
@@ -3007,7 +3001,6 @@ MCA|Blackrock MuniYield California Quality Fund, Inc. Common Stock|N|MCA|N|100|N
 MCC|Medley Capital Corporation Common Stock|N|MCC|N|100|N|MCC
 MCD|McDonald's Corporation Common Stock|N|MCD|N|100|N|MCD
 MCF|Contango Oil & Gas Company Common Stock|A|MCF|N|100|N|MCF
-MCHI|iShares MSCI China ETF|P|MCHI|Y|100|N|MCHI
 MCI|Babson Capital Corporate Investors Common Stock|N|MCI|N|100|N|MCI
 MCK|McKesson Corporation Common Stock|N|MCK|N|100|N|MCK
 MCN|Madison Covered Call & Equity Strategy Fund Common Stock|N|MCN|N|100|N|MCN
@@ -3115,11 +3108,9 @@ MLPC|C-Tracks ETNs based on Performance of the Miller/Howard MLP Fundamental Ind
 MLPG|UBS AG Exchange Traded Access Securities (E-TRACS) Linked to the Alerian Natural Gas MLP Index due July 9, 2040|P|MLPG|N|100|N|MLPG
 MLPI|UBS AG ETN|P|MLPI|N|100|N|MLPI
 MLPJ|Global X Junior MLP ETF|P|MLPJ|Y|100|N|MLPJ
-MLPL|UBS AG 2X Monthly Leveraged Long Exchnage Traded Access Securities (E-TRACS) linked to the Alerian MLP Infrastructure Index due July 9, 2040 ETN|P|MLPL|N|100|N|MLPL
 MLPN|Credit Suisse X-Links Cushings MLP Infrastructure due April 20, 2020 Linked to the Cushing 30 MLP Index|P|MLPN|N|100|N|MLPN
 MLPO|Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S&P MLP Index|P|MLPO|N|100|N|MLPO
 MLPS|UBS AG  1xMonthly Short Exchange Traded Access Securities (E-TRACS) Linked to the Alerian MLP Infrastructure Total Return Index due October 1, 2040|P|MLPS|N|100|N|MLPS
-MLPV|ETRACS 2xMonthly Leveraged S&P MLP Index ETN due July 14, 2045|P|MLPV|N|100|N|MLPV
 MLPW|UBS AG Exchange Traded Access Securities (E0TRACS) Linked to the Wells fargo MLP Index due October 29, 2040|P|MLPW|N|100|N|MLPW
 MLPX|Global X MLP & Energy Infrastructure ETF|P|MLPX|Y|100|N|MLPX
 MLPY|Morgan Stanley Cushing MLP High Income Index ETN|P|MLPY|N|100|N|MLPY
@@ -3243,7 +3234,6 @@ MVG|Mag Silver Corporation Oridinary Shares|A|MVG|N|100|N|MVG
 MVO|MV Oil Trust Units of Beneficial Interests|N|MVO|N|100|N|MVO
 MVT|Blackrock MuniVest Fund II, Inc.  Common Stock|N|MVT|N|100|N|MVT
 MVV|ProShares Ultra MidCap400|P|MVV|Y|100|N|MVV
-MW|Men's Wearhouse, Inc. (The) Common Stock|N|MW|N|100|N|MW
 MWA|MUELLER WATER PRODUCTS Common Stock|N|MWA|N|100|N|MWA
 MWG|Morgan Stanley Cap Tr IV Gtd Cap Secs|N|MWG|N|100|N|MWG
 MWO|Morgan Stanley Cap Tr V Gtd Cap Secs|N|MWO|N|100|N|MWO
@@ -3639,7 +3629,6 @@ PCK|Pimco California Municipal Income Fund II Common Shares of Beneficial Intere
 PCL|Plum Creek Timber Company, Inc. Common Stock|N|PCL|N|100|N|PCL
 PCM|PCM Fund, Inc. Common Stock|N|PCM|N|100|N|PCM
 PCN|Pimco Corporate & Income Strategy Fund Common Stock|N|PCN|N|100|N|PCN
-PCP|Precision Castparts Corporation Common Stock|N|PCP|N|100|N|PCP
 PCQ|PIMCO California Municipal Income Fund Common Stock|N|PCQ|N|100|N|PCQ
 PCY|PowerShares Emerging Markets Sovereign Debt Portfolio|P|PCY|Y|100|N|PCY
 PDI|PIMCO Dynamic Income Fund Common Stock|N|PDI|N|100|N|PDI
@@ -3787,7 +3776,6 @@ POT|Potash Corporation of Saskatchewan Inc. Common Stock|N|POT|N|100|N|POT
 POWR|PowerSecure International, Inc. Common Stock|N|POWR|N|100|N|POWR
 PPA|PowerShares Aerospace & Defense|P|PPA|Y|100|N|PPA
 PPG|PPG Industries, Inc. Common Stock|N|PPG|N|100|N|PPG
-PPH|Market Vectors Pharmaceutical ETF|P|PPH|Y|100|N|PPH
 PPL|PP&L Corporation Common Stock|N|PPL|N|100|N|PPL
 PPLT|ETFS Physical Platinum Shares|P|PPLT|Y|100|N|PPLT
 PPP|Primero Mining Corp.  New Common Shares (Canada)|N|PPP|N|100|N|PPP
@@ -4235,7 +4223,6 @@ SCQ|Stellus Capital Investment Corporation 6.50% Notes due 2019|N|SCQ|N|100|N|SC
 SCS|Steelcase Inc. Common Stock|N|SCS|N|100|N|SCS
 SCTO|Global X JPMorgan US Sector Rotator Index ETF|P|SCTO|Y|100|N|SCTO
 SCX|L.S. Starrett Company (The) Common Stock|N|SCX|N|100|N|SCX
-SCZ|iShares MSCI EAFE Small-Cap ETF|P|SCZ|Y|100|N|SCZ
 SDD|ProShares UltraShort SmallCap600|P|SDD|Y|100|N|SDD
 SDEM|Global X SuperDividend Emerging Markets ETF|P|SDEM|Y|100|N|SDEM
 SDIV|Global X SuperDividend ETF|P|SDIV|Y|100|N|SDIV
@@ -4331,7 +4318,6 @@ SLG$I|SL Green Realty Corporation Preferred Series I|N|SLGpI|N|100|N|SLG-I
 SLH|Solera Holdings, Inc. Solera Holdings, Inc. Common Stock|N|SLH|N|100|N|SLH
 SLI|SL Industries, Inc. Common Stock (DE)|A|SLI|N|100|N|SLI
 SLOW|ALPS Sector Low Volatility ETF|P|SLOW|Y|100|N|SLOW
-SLQD|iShares 0-5 Year Investment Grade Corporate Bond ETF|P|SLQD|Y|100|N|SLQD
 SLRA|Solar Capital Ltd. 6.75% Senior Notes due 2042|N|SLRA|N|100|N|SLRA
 SLTB|Scorpio Bulkers Inc. 7.50% Senior Notes due 2019|N|SLTB|N|100|N|SLTB
 SLV|iShares Silver Trust|P|SLV|Y|100|N|SLV
@@ -4526,7 +4512,6 @@ SXE|Southcross Energy Partners, L.P. Common Units representing limited partner i
 SXI|Standex International Corporation Common Stock|N|SXI|N|100|N|SXI
 SXL|Sunoco Logistics Partners LP Common Units representing limited partner interests|N|SXL|N|100|N|SXL
 SXT|Sensient Technologies Corporation Common Stock|N|SXT|N|100|N|SXT
-SYA|Symetra Financial Corporation Common Stock $0.01 par value|N|SYA|N|100|N|SYA
 SYE|SPDR MFS Systematic Core Equity ETF|P|SYE|Y|100|N|SYE
 SYF|Synchrony Financial Common Stock|N|SYF|N|100|N|SYF
 SYG|SPDR MFS Systematic Growth Equity ETF|P|SYG|Y|100|N|SYG
@@ -4660,7 +4645,7 @@ TLN|Talen Energy Corporation Common Stock|N|TLN|N|100|N|TLN
 TLO|SPDR Barclays Long Term Treasury ETF|P|TLO|Y|100|N|TLO
 TLP|Transmontaigne Partners L.P. Transmontaigne Partners L.P. Common Units representing limited partner interests|N|TLP|N|100|N|TLP
 TLR|Timberline Resources Corporation Common Stock (DE)|A|TLR|N|100|N|TLR
-TLT|iShares 20 Year Treasury Bond ETF|P|TLT|Y|100|N|TLT
+TLRD|Tailored Brands, Inc. Common Stock|N|TLRD|N|100|N|TLRD
 TLTD|FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund|P|TLTD|Y|100|N|TLTD
 TLTE|FlexShares Morningstar Emerging Markets Factor Tilt Index Fund|P|TLTE|Y|100|N|TLTE
 TLYS|Tilly's, Inc. Common Stock|N|TLYS|N|100|N|TLYS
@@ -5092,6 +5077,7 @@ WFC$Q|Wells Fargo & Company Depositary Shares Representing 1/1000th Interest Per
 WFC$R|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Perp Pfd Cl A (Ser R Fixed To Flltg)|N|WFCpR|N|100|N|WFC-R
 WFC$T|Wells Fargo & Company New Depository Share Representing 1/1000th Perp. Preferred Class A Series T|N|WFCpT|N|100|N|WFC-T
 WFC$V|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series V|N|WFCpV|N|100|N|WFC-V
+WFC$W|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series W|N|WFCpW|N|100|N|WFC-W
 WFC.W|Wells Fargo & Company Warrants expiring October 28, 2018|N|WFC/WS|N|100|N|WFC+
 WFE$A|Wells Fargo & Company Cumulative Perpetual Preferred Stock, Series A, Liquidation Preference $25 per share|N|WFEpA|N|100|N|WFE-A
 WFT|Weatherford International plc (Ireland)|N|WFT|N|100|N|WFT
@@ -5274,4 +5260,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0129201621:33||||||
+File Creation Time: 0202201610:02||||||
