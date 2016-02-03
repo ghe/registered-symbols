@@ -2565,7 +2565,7 @@ ITE|SPDR Barclays Intermediate Term Treasury ETF|P|ITE|Y|100|N|ITE
 ITG|Investment Technology Group, Inc. Common Stock|N|ITG|N|100|N|ITG
 ITI|Iteris, Inc. Common Stock|A|ITI|N|100|N|ITI
 ITIP|iShares International Inflation-Linked Bond ETF|P|ITIP|Y|100|N|ITIP
-ITM|Market Vectors Intermediate Municipal Index ETF|P|ITM|Y|100|N|ITM
+ITM|Market Vectors AMT-Free Intermediate Municipal Index ETF|P|ITM|Y|100|N|ITM
 ITOT|iShares Core S&P Total U.S. Stock Market ETF|P|ITOT|Y|100|N|ITOT
 ITR|SPDR Barclays Intermediate Term Corporate Bond ETF (based on Barclays Capital Intermediate U.S. Corporate Index symbol LD06TRUU|P|ITR|Y|100|N|ITR
 ITT|ITT Corporation Common Stock New|N|ITT|N|100|N|ITT
@@ -3100,7 +3100,7 @@ MKC.V|McCormick & Company, Incorporated Common Stock|N|MKC/V|N|100|N|MKC.V
 MKL|Markel Corporation Common Stock|N|MKL|N|100|N|MKL
 MLI|Mueller Industries, Inc. Common Stock|N|MLI|N|100|N|MLI
 MLM|Martin Marietta Materials, Inc. Common Stock|N|MLM|N|100|N|MLM
-MLN|Market Vectors Long Municipal Index ETF|P|MLN|Y|100|N|MLN
+MLN|Market Vectors AMT-Free Long Municipal Index ETF|P|MLN|Y|100|N|MLN
 MLP|Maui Land & Pineapple Company, Inc. Common Stock|N|MLP|N|100|N|MLP
 MLPA|Global X MLP ETF|P|MLPA|Y|100|N|MLPA
 MLPB|ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040|P|MLPB|N|100|N|MLPB
@@ -4328,7 +4328,7 @@ SLY|SPDR S&P 600 Small Cap ETF (based on S&P SmallCap 600 Index -- symbol SML)|P
 SLYG|SPDR S&P 600 Small Cap Growth ETF (based on S&P SmallCap 600 Growth Index --symbol CGK)|P|SLYG|Y|100|N|SLYG
 SLYV|SPDR S&P 600 Small Cap Value ETF (based on S&P SmallCap Value Index--symbol--CVK|P|SLYV|Y|100|N|SLYV
 SM|SM Energy Company Common Stock|N|SM|N|100|N|SM
-SMB|Market Vectors Short Municipal Index ETF|P|SMB|Y|100|N|SMB
+SMB|Market Vectors AMT-Free Short Municipal Index ETF|P|SMB|Y|100|N|SMB
 SMDD|UltraPro Short MidCap400|P|SMDD|Y|100|N|SMDD
 SMDV|ProShares Russell 2000 Dividend Growers ETF|Z|SMDV|Y|100|N|SMDV
 SMEZ|SPDR EURO STOXX Small Cap ETF|P|SMEZ|Y|100|N|SMEZ
@@ -5260,4 +5260,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0202201610:02||||||
+File Creation Time: 0203201609:30||||||
