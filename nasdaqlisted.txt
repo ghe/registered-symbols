@@ -328,6 +328,7 @@ BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100
 BFIN|BankFinancial Corporation - Common Stock|Q|N|N|100
 BGCP|BGC Partners, Inc. - Class A Common Stock|Q|N|N|100
 BGFV|Big 5 Sporting Goods Corporation - Common Stock|Q|N|N|100
+BGNE|BeiGene, Ltd. - American Depositary Shares|Q|N|N|100
 BHAC|Barington/Hilco Acquisition Corp. - Common Stock|S|N|N|100
 BHACR|Barington/Hilco Acquisition Corp. - Rights|S|N|N|100
 BHACU|Barington/Hilco Acquisition Corp. - Units|S|N|N|100
@@ -836,7 +837,7 @@ DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100
 DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100
 DPRX|Dipexium Pharmaceuticals, Inc. - Common Stock|S|N|N|100
 DRAD|Digirad Corporation - Common Stock|G|N|N|100
-DRAM|Dataram Corporation - Common Stock|S|N|N|100
+DRAM|Dataram Corporation - Common Stock|S|N|D|100
 DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 DRRX|DURECT Corporation - Common Stock|G|N|N|100
 DRWI|DragonWave Inc - Common Shares|S|N|D|100
@@ -902,6 +903,7 @@ EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary 
 EDBI|Legg Mason Emerging Markets Diversified Core ETF|G|N|N|100
 EDGE|Edge Therapeutics, Inc. - Common Stock|Q|N|N|100
 EDGW|Edgewater Technology, Inc. - Common Stock|G|N|N|100
+EDIT|Editas Medicine, Inc. - Common Stock|Q|N|N|100
 EDUC|Educational Development Corporation - Common Stock|G|N|N|100
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100
 EEI|Ecology and Environment, Inc. - Class A Common Stock|G|N|N|100
@@ -910,7 +912,7 @@ EEML|iShares MSCI Emerging Markets Latin America Index Fund|G|N|N|100
 EFII|Electronics for Imaging, Inc. - Common Stock|Q|N|N|100
 EFOI|Energy Focus, Inc. - Common Stock|S|N|N|100
 EFSC|Enterprise Financial Services Corporation - Common Stock|Q|N|N|100
-EFUT|eFuture Information Technology Inc. - Ordinary Shares|S|N|N|100
+EFUT|eFuture Holding Inc. - Ordinary Shares|S|N|D|100
 EGAN|eGain Corporation - Common Stock|S|N|N|100
 EGBN|Eagle Bancorp, Inc. - Common Stock|S|N|N|100
 EGHT|8x8 Inc - Common Stock|Q|N|N|100
@@ -2389,8 +2391,6 @@ ROVI|Rovi Corporation - Common Stock|Q|N|N|100
 RP|RealPage, Inc. - Common Stock|Q|N|N|100
 RPD|Rapid7, Inc. - Common Stock|G|N|N|100
 RPRX|Repros Therapeutics Inc. - Common Stock|S|N|N|100
-RPRXW|Repros Therapeutics Inc. - Series A Warrant|S|N|N|100
-RPRXZ|Repros Therapeutics Inc. - Series B warrant|S|N|N|100
 RPTP|Raptor Pharmaceutical Corp. - Common Stock|G|N|N|100
 RPXC|RPX Corporation - Common Stock|Q|N|N|100
 RRD|R.R. Donnelley & Sons Company - Common Stock|Q|N|N|100
@@ -3096,4 +3096,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0203201609:30|||||
+File Creation Time: 0204201610:02|||||
