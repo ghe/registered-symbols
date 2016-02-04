@@ -1891,7 +1891,7 @@ GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
 GCH|Aberdeen Greater China Fund, Inc. Common Stock|N|GCH|N|100|N|GCH
 GCI|Gannett Co., Inc. Common Stock|N|GCI|N|100|N|GCI
 GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
-GCP.V|GCP Applied Technologies Inc. Common Stock When Issued|N|GCPw|N|100|N|GCP#
+GCP|GCP Applied Technologies Inc. Common Stock|N|GCP|N|100|N|GCP
 GCV|Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock|N|GCV|N|100|N|GCV
 GCV$B|Gabelli Convertible and Income Securities Fund, Inc. (The) Series B 6.00% Cumulative Preferred Stock|N|GCVpB|N|100|N|GCV-B
 GD|General Dynamics Corporation Common Stock|N|GD|N|100|N|GD
@@ -2030,7 +2030,6 @@ GPT$A|Gramercy Property Trust Inc. 7.125% Series A Cumulative Redeemable Preferr
 GPX|GP Strategies Corporation Common Stock|N|GPX|N|100|N|GPX
 GQRE|FlexShares Global Quality Real Estate Index Fund|P|GQRE|Y|100|N|GQRE
 GRA|W.R. Grace & Co. Common Stock|N|GRA|N|100|N|GRA
-GRA.V|W.R. Grace & Co. Common Stock Ex-Distribution When Issued|N|GRAw|N|100|N|GRA#
 GRAM|Grana y Montero S.A.A. American Depositary Shares, each representing five Common Shares|N|GRAM|N|100|N|GRAM
 GRC|Gorman-Rupp Company (The) Common Stock|A|GRC|N|100|N|GRC
 GREK|Global X FTSE Greece 20 ETF|P|GREK|Y|100|N|GREK
@@ -3158,7 +3157,6 @@ MPA|Blackrock MuniYield Pennsylvania Quality Fund Common Stock|N|MPA|N|100|N|MPA
 MPC|Marathon Petroleum Corporation Common Stock|N|MPC|N|100|N|MPC
 MPG|Metaldyne Performance Group Inc. Common Stock|N|MPG|N|100|N|MPG
 MPLX|MPLX LP Common Units Representing Limited Partner Interests|N|MPLX|N|100|N|MPLX
-MPO|Midstates Petroleum Company, Inc. Common Stock|N|MPO|N|100|N|MPO
 MPSX|Multi Packaging Solutions International Limited Common Shares|N|MPSX|N|100|N|MPSX
 MPV|Babson Capital Participation Investors Common Stock|N|MPV|N|100|N|MPV
 MPW|Medical Properties Trust, Inc. common stock|N|MPW|N|100|N|MPW
@@ -3611,7 +3609,6 @@ PBR.A|Petroleo Brasileiro S.A.- Petrobras American Depositary Shares|N|PBR/A|N|1
 PBS|PowerShares Dynamic Media|P|PBS|Y|100|N|PBS
 PBT|Permian Basin Royalty Trust Common Stock|N|PBT|N|100|N|PBT
 PBW|PowerShares WilderHill Clean Energy Portfolio|P|PBW|Y|100|N|PBW
-PBY|Pep Boys-Manny, Moe & Jack (The) Common Stock|N|PBY|N|100|N|PBY
 PBYI|Puma Biotechnology Inc Common Stock|N|PBYI|N|100|N|PBYI
 PCEF|PowerShares CEF Income Composite Portfolio|P|PCEF|Y|100|N|PCEF
 PCF|Putnam High Income Securities Fund Common Stock|N|PCF|N|100|N|PCF
@@ -5260,4 +5257,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0203201609:30||||||
+File Creation Time: 0204201610:02||||||
