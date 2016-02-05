@@ -799,7 +799,7 @@ DENN|Denny's Corporation - Common Stock|S|N|N|100
 DEPO|Depomed, Inc. - Common Stock|Q|N|N|100
 DERM|Dermira, Inc. - Common Stock|Q|N|N|100
 DEST|Destination Maternity Corporation - Common Stock|Q|N|N|100
-DFBG|Differential Brands Group Inc. - Common Stock|S|N|D|100
+DFBG|Differential Brands Group Inc. - Common Stock|S|N|N|100
 DFRG|Del Frisco's Restaurant Group, Inc. - Common Stock|Q|N|N|100
 DFVL|Barclays PLC - iPath US Treasury 5 Year Bull ETN|G|N|N|100
 DFVS|Barclays PLC - iPath US Treasury 5-year Bear ETN|G|N|N|100
@@ -2045,7 +2045,7 @@ ONB|Old National Bancorp - Common Stock|Q|N|N|100
 ONCE|Spark Therapeutics, Inc. - Common Stock|Q|N|N|100
 ONCS|OncoSec Medical Incorporated - Common Stock|S|N|N|100
 ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100
-ONTX|Onconova Therapeutics, Inc. - Common Stock|Q|N|D|100
+ONTX|Onconova Therapeutics, Inc. - Common Stock|S|N|D|100
 ONTY|Oncothyreon Inc. - Common Shares|Q|N|N|100
 ONVI|Onvia, Inc. - Common Stock|S|N|N|100
 OPB|Opus Bank - Common Stock|Q|N|N|100
@@ -2446,7 +2446,7 @@ SBNYW|Signature Bank - Warrants 12/12/2018|Q|N|N|100
 SBOT|Stellar Biotechnologies, Inc. - Common Stock|S|N|N|100
 SBRA|Sabra Healthcare REIT, Inc. - Common Stock|Q|N|N|100
 SBRAP|Sabra Healthcare REIT, Inc. - 7.125% Preferred Series A (United States)|Q|N|N|100
-SBSA|Spanish Broadcasting System, Inc. - Class A Common Stock|G|N|N|100
+SBSA|Spanish Broadcasting System, Inc. - Class A Common Stock|G|N|D|100
 SBSI|Southside Bancshares, Inc. - Common Stock|Q|N|N|100
 SBUX|Starbucks Corporation - Common Stock|Q|N|N|100
 SCAI|Surgical Care Affiliates, Inc. - Common Stock|Q|N|N|100
@@ -2755,7 +2755,6 @@ TREE|LendingTree, Inc. - Common Stock|Q|N|N|100
 TRIB|Trinity Biotech plc - American Depositary Shares each representing 4 A Ordinary Shares|Q|N|N|100
 TRIL|Trillium Therapeutics Inc. - Common Shares|S|N|N|100
 TRIP|TripAdvisor, Inc. - Common Stock|Q|N|N|100
-TRIV|TriVascular Technologies, Inc. - Common Stock|Q|N|N|100
 TRMB|Trimble Navigation Limited - Common Stock|Q|N|N|100
 TRMK|Trustmark Corporation - Common Stock|Q|N|N|100
 TRNS|Transcat, Inc. - Common Stock|G|N|N|100
@@ -3096,4 +3095,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0204201610:02|||||
+File Creation Time: 0205201609:30|||||
