@@ -144,7 +144,7 @@ AMCC|Applied Micro Circuits Corporation - Common Stock|Q|N|N|100
 AMCN|AirMedia Group Inc - American Depositary Shares, each representing two ordinary shares|Q|N|N|100
 AMCX|AMC Networks Inc. - Class A Common Stock|Q|N|N|100
 AMD|Advanced Micro Devices, Inc. - Common Stock|S|N|N|100
-AMDA|Amedica Corporation - Common Stock|S|N|D|100
+AMDA|Amedica Corporation - Common Stock|S|N|N|100
 AMED|Amedisys Inc - Common Stock|Q|N|N|100
 AMGN|Amgen Inc. - Common Stock|Q|N|N|100
 AMIC|American Independence Corp. - Common Stock|S|N|N|100
@@ -214,6 +214,7 @@ ARII|American Railcar Industries, Inc. - Common Stock|Q|N|N|100
 ARIS|ARI Network Services, Inc. - Common Stock|S|N|N|100
 ARKR|Ark Restaurants Corp. - Common Stock|G|N|N|100
 ARLP|Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests|Q|N|N|100
+ARLZ|Aralez Pharmaceuticals Inc. - Common Shares|Q|N|N|100
 ARMH|ARM Holdings plc - American Depositary Shares each representing 3 Ordinary Shares|Q|N|N|100
 ARNA|Arena Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 AROW|Arrow Financial Corporation - Common Stock|Q|N|N|100
@@ -283,8 +284,6 @@ AWRE|Aware, Inc. - Common Stock|G|N|N|100
 AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
 AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100
 AXGN|AxoGen, Inc. - Common Stock|S|N|N|100
-AXPW|Axion Power International, Inc. - Common Stock|S|N|N|100
-AXPWW|Axion Power International, Inc. - Series A Warrants|S|N|D|100
 AXSM|Axsome Therapeutics, Inc. - Common Stock|S|N|N|100
 AXTI|AXT Inc - Common Stock|Q|N|N|100
 AYA|Amaya Inc. - Common Stock|Q|N|N|100
@@ -1532,6 +1531,7 @@ ISTR|Investar Holding Corporation - Common Stock|G|N|N|100
 ITCI|Intra-Cellular Therapies Inc. - Common Stock|Q|N|N|100
 ITEK|Inotek Pharmaceuticals Corporation - Common Stock|G|N|N|100
 ITEQ|BlueStar TA-BIGITech Israel Technology ETF|G|N|N|100
+ITI|Iteris, Inc. - Common Stock|S|N|N|100
 ITIC|Investors Title Company - Common Stock|Q|N|N|100
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100
@@ -2007,7 +2007,6 @@ NYMTO|New York Mortgage Trust, Inc. - 7.875% Series C Cumulative Redeemable Pref
 NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock|Q|N|N|100
 NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|N|100
 NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
-NYNYR|Empire Resorts, Inc. - Subscription Rights|G|N|N|100
 OASM|Oasmia Pharmaceutical AB - American Depositary Shares|S|N|N|100
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100
@@ -2200,7 +2199,6 @@ POOL|Pool Corporation - Common Stock|Q|N|N|100
 POPE|Pope Resources - Limited Partnership|S|N|N|100
 POWI|Power Integrations, Inc. - Common Stock|Q|N|N|100
 POWL|Powell Industries, Inc. - Common Stock|Q|N|N|100
-POZN|Pozen, Inc. - Common Stock|Q|N|N|100
 PPBI|Pacific Premier Bancorp Inc - Common Stock|Q|N|N|100
 PPC|Pilgrim's Pride Corporation - Common Stock|Q|N|N|100
 PPH|Market Vectors Pharmaceutical ETF|G|N|N|100
@@ -2466,7 +2464,7 @@ SEAC|SeaChange International, Inc. - Common Stock|Q|N|N|100
 SEDG|SolarEdge Technologies, Inc. - Common Stock|Q|N|N|100
 SEED|Origin Agritech Limited - Common Stock|Q|N|N|100
 SEIC|SEI Investments Company - Common Stock|Q|N|N|100
-SELF|Self Storage Group, Inc. - Common Stock|S|N|N|100
+SELF|Global Self Storage, Inc. - Common Stock|S|N|N|100
 SEMI|SunEdison Semiconductor Limited - Ordinary Shares|Q|N|N|100
 SENEA|Seneca Foods Corp. - Class A Common Stock|Q|N|N|100
 SENEB|Seneca Foods Corp. - Class B Common Stock|Q|N|N|100
@@ -2477,7 +2475,7 @@ SFLY|Shutterfly, Inc. - Common Stock|Q|N|N|100
 SFM|Sprouts Farmers Market, Inc. - Common Stock|Q|N|N|100
 SFNC|Simmons First National Corporation - Common Stock|Q|N|N|100
 SFST|Southern First Bancshares, Inc. - Common Stock|G|N|N|100
-SFXE|SFX Entertainment, Inc. - Common Stock|Q|N|D|100
+SFXE|SFX Entertainment, Inc. - Common Stock|Q|N|G|100
 SGBK|Stonegate Bank - Common Stock|Q|N|N|100
 SGC|Superior Uniform Group, Inc. - Common Stock|G|N|N|100
 SGEN|Seattle Genetics, Inc. - Common Stock|Q|N|N|100
@@ -2956,7 +2954,7 @@ WAFD|Washington Federal, Inc. - Common Stock|Q|N|N|100
 WAFDW|Washington Federal, Inc. - Warrants 11/14/2018|Q|N|N|100
 WASH|Washington Trust Bancorp, Inc. - Common Stock|Q|N|N|100
 WATT|Energous Corporation - Common Stock|S|N|N|100
-WAVX|Wave Systems Corp. - Class A Common Stock|S|N|D|100
+WAVX|Wave Systems Corp. - Class A Common Stock|S|N|G|100
 WAYN|Wayne Savings Bancshares Inc. - Common Stock|G|N|N|100
 WB|Weibo Corporation - American Depositary Share|Q|N|N|100
 WBA|Walgreens Boots Alliance, Inc. - Common Stock|Q|N|N|100
@@ -3095,4 +3093,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0205201621:32|||||
+File Creation Time: 0209201611:02|||||
