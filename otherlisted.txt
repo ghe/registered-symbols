@@ -382,6 +382,7 @@ BAM|Brookfield Asset Management Inc. Common Stock|N|BAM|N|100|N|BAM
 BANC|Banc of California, Inc. Common Stock|N|BANC|N|100|N|BANC
 BANC$C|Banc of California, Inc. Depositary Shares|N|BANCpC|N|100|N|BANC-C
 BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th interest in a share of 7.375% Non-Cumulative Perpetual Preferred Stock, Series D|N|BANCpD|N|100|N|BANC-D
+BANC$E|Banc of California, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% Non-Cumulative Perpetual Preferred Stock, Series E|N|BANCpE|N|100|N|BANC-E
 BAP|Credicorp Ltd. Common Stock|N|BAP|N|100|N|BAP
 BAS|Basic Energy Services, Inc. Common Stock|N|BAS|N|100|N|BAS
 BAX|Baxter International Inc. Common Stock|N|BAX|N|100|N|BAX
@@ -653,6 +654,7 @@ C$K|Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser K|N|CpK|N|100|N|C-K
 C$L|Citigroup Inc. Depositary Share representing 1/1000 interest in a share of noncumulative series L|N|CpL|N|100|N|C-L
 C$N|Citigroup Capital VIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS)|N|CpN|N|100|N|C-N
 C$P|Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser AA|N|CpP|N|100|N|C-P
+C$S|Citigroup Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.300% Noncumulative Preferred Stock, Series S|N|CpS|N|100|N|C-S
 C.A|Citigroup Inc. Warrants Class A expiring January 4, 2019|N|C/WS/A|N|100|N|C+A
 CAA|CalAtlantic Group, Inc. Common Stock|N|CAA|N|100|N|CAA
 CAB|Cabela's Inc Class A Common Stock|N|CAB|N|100|N|CAB
@@ -2562,7 +2564,6 @@ ITB|iShares U.S. Home Construction ETF|P|ITB|Y|100|N|ITB
 ITC|ITC Holdings Corp. Common Stock|N|ITC|N|100|N|ITC
 ITE|SPDR Barclays Intermediate Term Treasury ETF|P|ITE|Y|100|N|ITE
 ITG|Investment Technology Group, Inc. Common Stock|N|ITG|N|100|N|ITG
-ITI|Iteris, Inc. Common Stock|A|ITI|N|100|N|ITI
 ITIP|iShares International Inflation-Linked Bond ETF|P|ITIP|Y|100|N|ITIP
 ITM|Market Vectors AMT-Free Intermediate Municipal Index ETF|P|ITM|Y|100|N|ITM
 ITOT|iShares Core S&P Total U.S. Stock Market ETF|P|ITOT|Y|100|N|ITOT
@@ -3109,10 +3110,12 @@ MLPI|UBS AG ETN|P|MLPI|N|100|N|MLPI
 MLPJ|Global X Junior MLP ETF|P|MLPJ|Y|100|N|MLPJ
 MLPN|Credit Suisse X-Links Cushings MLP Infrastructure due April 20, 2020 Linked to the Cushing 30 MLP Index|P|MLPN|N|100|N|MLPN
 MLPO|Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S&P MLP Index|P|MLPO|N|100|N|MLPO
+MLPQ|UBS AG ETRACS 2xMonthly Leveraged Alerian MLP Infrastructure Index  ETN Series B due February 12, 2046|P|MLPQ|N|100|N|MLPQ
 MLPS|UBS AG  1xMonthly Short Exchange Traded Access Securities (E-TRACS) Linked to the Alerian MLP Infrastructure Total Return Index due October 1, 2040|P|MLPS|N|100|N|MLPS
 MLPW|UBS AG Exchange Traded Access Securities (E0TRACS) Linked to the Wells fargo MLP Index due October 29, 2040|P|MLPW|N|100|N|MLPW
 MLPX|Global X MLP & Energy Infrastructure ETF|P|MLPX|Y|100|N|MLPX
 MLPY|Morgan Stanley Cushing MLP High Income Index ETN|P|MLPY|N|100|N|MLPY
+MLPZ|UBS AG ETRACS ETRACS 2xMonthly Leveraged S&P MLP Index ETN Series B due February 12, 2046|P|MLPZ|N|100|N|MLPZ
 MLR|Miller Industries, Inc. Common Stock|N|MLR|N|100|N|MLR
 MLSS|Milestone Scientific, Inc. Common Stock|A|MLSS|N|100|N|MLSS
 MLTI|Credit Suisse X-Links Multi-Asset High Income Exchange Traded Notes (ETNs) due September 28, 2035|P|MLTI|Y|100|N|MLTI
@@ -3529,6 +3532,7 @@ OIBR|Oi S.A. American Depositary Shares (Each representing 1 Preferred Share)|N|
 OIBR.C|Oi S.A. American Depositary Shares, (Each representing 1 Common Share)|N|OIBR/C|N|100|N|OIBR.C
 OIH|Market Vectors Oil Services ETF|P|OIH|Y|100|N|OIH
 OII|Oceaneering International, Inc. Common Stock|N|OII|N|100|N|OII
+OIIL|Credit Suisse X-Links WTI Crude Oil Index ETNs due February 8, 2016|P|OIIL|N|100|N|OIIL
 OIL|Barclays Bank Plc iPath Exchange Traded Notes Linked to Goldman Sachs Crude Oil Total Return|P|OIL|N|100|N|OIL
 OIS|Oil States International, Inc. Common Stock|N|OIS|N|100|N|OIS
 OKE|ONEOK, Inc. Common Stock|N|OKE|N|100|N|OKE
@@ -3636,7 +3640,7 @@ PDS|Precision Drilling Corporation Common Stock|N|PDS|N|100|N|PDS
 PDT|John Hancock Premium Dividend Fund|N|PDT|N|100|N|PDT
 PE|Parsley Energy, Inc. Class A Common Stock|N|PE|N|100|N|PE
 PEB|Pebblebrook Hotel Trust Common Shares of Beneficial Interest|N|PEB|N|100|N|PEB
-PEB$A|Pebblebrook Hotel Trust PFD SER A|N|PEBpA|N|100|N|PEB-A
+PEB$A|Pebblebrook Hotel Trust PFD SER A|N|PEBpA/CL|N|100|N|PEB-A*
 PEB$B|Pebblebrook Hotel Trust Preferred Series B|N|PEBpB|N|100|N|PEB-B
 PEB$C|Pebblebrook Hotel Trust 6.50% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest|N|PEBpC|N|100|N|PEB-C
 PED|Pedevco Corp. Common Stock|A|PED|N|100|N|PED
@@ -4495,7 +4499,6 @@ SVXY|ProShares Short VIX Short Term Futures ETF|P|SVXY|Y|100|N|SVXY
 SWC|Stillwater Mining Company Common Stock ($0.01 Par Value)|N|SWC|N|100|N|SWC
 SWFT|Swift Transportation Company Class A Common Stock|N|SWFT|N|100|N|SWFT
 SWH|Stanley Black & Decker, Inc. Corp Unit 2013|N|SWH|N|100|N|SWH
-SWI|Solarwinds, Inc. Common Stock|N|SWI|N|100|N|SWI
 SWJ|Stanley Black & Decker, Inc. 5.75% Junior Subordinated Debenture due 2052|N|SWJ|N|100|N|SWJ
 SWK|Stanley Black & Decker, Inc. Common Stock|N|SWK|N|100|N|SWK
 SWM|Schweitzer-Mauduit International, Inc. Common Stock|N|SWM|N|100|N|SWM
@@ -5256,4 +5259,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0205201621:32||||||
+File Creation Time: 0209201611:02||||||
