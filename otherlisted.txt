@@ -2084,6 +2084,7 @@ GTE|Gran Tierra Energy Inc. Common Stock|A|GTE|N|100|N|GTE
 GTIP|iShares Global Inflation Linked Bond ETF|P|GTIP|Y|100|N|GTIP
 GTN|Gray Communications Systems, Inc. Common Stock|N|GTN|N|100|N|GTN
 GTN.A|Gray Television, Inc. CLass A Common Stock|N|GTN/A|N|100|N|GTN.A
+GTO|Guggenheim Total Return Bond ETF|P|GTO|Y|100|N|GTO
 GTS|Triple-S Management Corporation Class B Common Stock|N|GTS|N|100|N|GTS
 GTT|GTT Communications, Inc. Common Stock|N|GTT|N|100|N|GTT
 GTY|Getty Realty Corporation Common Stock|N|GTY|N|100|N|GTY
@@ -5259,4 +5260,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0209201611:02||||||
+File Creation Time: 0210201609:30||||||
