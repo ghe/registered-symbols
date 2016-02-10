@@ -723,7 +723,6 @@ CSX|CSX Corporation - Common Stock|Q|N|N|100
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100
 CTCM|CTC Media, Inc. - Common Stock|Q|N|D|100
-CTCT|Constant Contact, Inc. - Common Stock|Q|N|N|100
 CTG|Computer Task Group, Incorporated - Common Stock|Q|N|N|100
 CTHR|Charles & Colvard Ltd - Common Stock|Q|N|N|100
 CTIB|CTI Industries Corporation - Common Stock|S|N|N|100
@@ -944,7 +943,7 @@ EMMS|Emmis Communications Corporation - Class A Common Stock|Q|N|D|100
 EMMSP|Emmis Communications Corporation - 6.25% Series A Cumulative Convertible Preferred Stock|Q|N|D|100
 ENDP|Endo International plc - Ordinary Shares|Q|N|N|100
 ENFC|Entegra Financial Corp. - Common Stock|G|N|N|100
-ENG|ENGlobal Corporation - Common Stock|S|N|N|100
+ENG|ENGlobal Corporation - Common Stock|S|N|D|100
 ENOC|EnerNOC, Inc. - Common Stock|Q|N|N|100
 ENPH|Enphase Energy, Inc. - Common Stock|G|N|N|100
 ENSG|The Ensign Group, Inc. - Common Stock|Q|N|N|100
@@ -2212,7 +2211,7 @@ PRCP|Perceptron, Inc. - Common Stock|G|N|N|100
 PRFT|Perficient, Inc. - Common Stock|Q|N|N|100
 PRFZ|PowerShares FTSE RAFI US 1500 Small-Mid Portfolio|G|N|N|100
 PRGN|Paragon Shipping Inc. - Common Stock|S|N|D|100
-PRGNL|Paragon Shipping Inc. - 8.375% Senior Notes due 2021|S|N|N|100
+PRGNL|Paragon Shipping Inc. - 8.375% Senior Notes due 2021|G|N|N|100
 PRGS|Progress Software Corporation - Common Stock|Q|N|N|100
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100
 PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100
@@ -2227,7 +2226,6 @@ PRTA|Prothena Corporation plc - Ordinary Shares|Q|N|N|100
 PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100
 PRTO|Proteon Therapeutics, Inc. - Common Stock|G|N|N|100
 PRTS|U.S. Auto Parts Network, Inc. - Common Stock|Q|N|N|100
-PRXI|Premier Exhibitions, Inc. - Common Stock|S|N|D|100
 PRXL|PAREXEL International Corporation - Common Stock|Q|N|N|100
 PRZM|Prism Technologies Group, Inc. - Common Stock|S|N|N|100
 PSAU|PowerShares Global Gold & Precious Metals Portfolio|G|N|N|100
@@ -2475,7 +2473,6 @@ SFLY|Shutterfly, Inc. - Common Stock|Q|N|N|100
 SFM|Sprouts Farmers Market, Inc. - Common Stock|Q|N|N|100
 SFNC|Simmons First National Corporation - Common Stock|Q|N|N|100
 SFST|Southern First Bancshares, Inc. - Common Stock|G|N|N|100
-SFXE|SFX Entertainment, Inc. - Common Stock|Q|N|G|100
 SGBK|Stonegate Bank - Common Stock|Q|N|N|100
 SGC|Superior Uniform Group, Inc. - Common Stock|G|N|N|100
 SGEN|Seattle Genetics, Inc. - Common Stock|Q|N|N|100
@@ -2485,7 +2482,7 @@ SGMO|Sangamo BioSciences, Inc. - Common Stock|Q|N|N|100
 SGMS|Scientific Games Corp - Class A Common Stock|Q|N|N|100
 SGNL|Signal Genetics, Inc. - Common Stock|S|N|D|100
 SGNT|Sagent Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
-SGOC|SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)|S|N|D|100
+SGOC|SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)|S|N|N|100
 SGRP|SPAR Group, Inc. - Common Stock|S|N|N|100
 SGRY|Surgery Partners, Inc. - Common Stock|Q|N|N|100
 SGYP|Synergy Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -2954,7 +2951,6 @@ WAFD|Washington Federal, Inc. - Common Stock|Q|N|N|100
 WAFDW|Washington Federal, Inc. - Warrants 11/14/2018|Q|N|N|100
 WASH|Washington Trust Bancorp, Inc. - Common Stock|Q|N|N|100
 WATT|Energous Corporation - Common Stock|S|N|N|100
-WAVX|Wave Systems Corp. - Class A Common Stock|S|N|G|100
 WAYN|Wayne Savings Bancshares Inc. - Common Stock|G|N|N|100
 WB|Weibo Corporation - American Depositary Share|Q|N|N|100
 WBA|Walgreens Boots Alliance, Inc. - Common Stock|Q|N|N|100
@@ -3073,7 +3069,7 @@ ZFGN|Zafgen, Inc. - Common Stock|Q|N|N|100
 ZG|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
 ZGNX|Zogenix, Inc. - Common Stock|G|N|N|100
 ZHNE|Zhone Technologies, Inc. - Common Stock|S|N|N|100
-ZINC|Horsehead Holding Corp. - Common Stock|Q|N|N|100
+ZINC|Horsehead Holding Corp. - Common Stock|Q|N|Q|100
 ZION|Zions Bancorporation - Common Stock|Q|N|N|100
 ZIONW|Zions Bancorporation - Warrants 05/21/2020|Q|N|N|100
 ZIONZ|Zions Bancorporation - Warrants|Q|N|N|100
@@ -3093,4 +3089,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0209201611:02|||||
+File Creation Time: 0210201609:30|||||
