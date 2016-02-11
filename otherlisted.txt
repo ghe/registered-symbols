@@ -1797,6 +1797,7 @@ FRC$C|FIRST REPUBLIC BANK Dep Shs Repstg 1/40th Perp Pfd Ser C|N|FRCpC|N|100|N|F
 FRC$D|First Republic Bank San Francisco California Depositary Shares Representing 1/40th Perpetual Preferred Series D|N|FRCpD|N|100|N|FRC-D
 FRC$E|FIRST REPUBLIC BANK Depositary Shs Repstg 1/40th Perp Pfd Ser E Fixed To Fltg (RATE)|N|FRCpE|N|100|N|FRC-E
 FRC$F|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.70% Noncumulative Perpetual Series F Preferred Stock|N|FRCpF|N|100|N|FRC-F
+FRC$G|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series G Preferred Stock|N|FRCpG|N|100|N|FRC-G
 FRD|Friedman Industries Inc. Common Stock|A|FRD|N|100|N|FRD
 FREL|Fidelity MSCI Real Estate Index ETF|P|FREL|Y|100|N|FREL
 FRI|First Trust S&P REIT Index Fund|P|FRI|Y|100|N|FRI
@@ -5260,4 +5261,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0210201609:30||||||
+File Creation Time: 0211201609:45||||||
