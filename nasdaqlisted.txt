@@ -1666,7 +1666,7 @@ LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100
 LKOR|FlexShares Credit-Scored US Long Corporate Bond Index Fund|G|N|N|100
 LKQ|LKQ Corporation - Common Stock|Q|N|N|100
-LLEX|Lilis Energy, Inc. - Common Stock|G|N|D|100
+LLEX|Lilis Energy, Inc. - Common Stock|S|N|D|100
 LLNW|Limelight Networks, Inc. - Common Stock|Q|N|N|100
 LLTC|Linear Technology Corporation - Common Stock|Q|N|N|100
 LMAT|LeMaitre Vascular, Inc. - Common Stock|G|N|N|100
@@ -1942,7 +1942,7 @@ NK|NantKwest, Inc. - Common Stock|Q|N|N|100
 NKSH|National Bankshares, Inc. - Common Stock|S|N|N|100
 NKTR|Nektar Therapeutics - Common Stock|Q|N|N|100
 NLNK|NewLink Genetics Corporation - Common Stock|G|N|N|100
-NLST|Netlist, Inc. - Common Stock|S|N|D|100
+NLST|Netlist, Inc. - Common Stock|S|N|N|100
 NMIH|NMI Holdings Inc - Common Stock|G|N|N|100
 NMRX|Numerex Corp. - Class A Common Stock|Q|N|N|100
 NNBR|NN, Inc. - Common Stock|Q|N|N|100
@@ -2009,7 +2009,6 @@ NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
 OASM|Oasmia Pharmaceutical AB - American Depositary Shares|S|N|N|100
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100
-OCAT|Ocata Therapeutics, Inc. - Common Stock|G|N|N|100
 OCC|Optical Cable Corporation - Common Stock|G|N|N|100
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100
 OCLR|Oclaro, Inc. - Common Stock|Q|N|N|100
@@ -2331,7 +2330,7 @@ RDUS|Radius Health, Inc. - Common Stock|G|N|N|100
 RDVY|First Trust NASDAQ Rising Dividend Achievers ETF|G|N|N|100
 RDWR|Radware Ltd. - Ordinary Shares|Q|N|N|100
 RECN|Resources Connection, Inc. - Common Stock|Q|N|N|100
-REDF|Rediff.com India Limited - American Depositary Shares, each represented by one-half of one equity share|S|N|N|100
+REDF|Rediff.com India Limited - American Depositary Shares, each represented by one-half of one equity share|S|N|D|100
 REFR|Research Frontiers Incorporated - Common Stock|S|N|N|100
 REGI|Renewable Energy Group, Inc. - Common Stock|Q|N|N|100
 REGN|Regeneron Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
@@ -2411,7 +2410,7 @@ RXII|RXi Pharmaceuticals Corporation - Common Stock|S|N|D|100
 RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares|Q|N|N|100
 SAAS|inContact, Inc. - Common Stock|S|N|N|100
 SABR|Sabre Corporation - Common Stock|Q|N|N|100
-SAEX|SAExploration Holdings, Inc. - Common Stock|G|N|N|100
+SAEX|SAExploration Holdings, Inc. - Common Stock|G|N|D|100
 SAFM|Sanderson Farms, Inc. - Common Stock|Q|N|N|100
 SAFT|Safety Insurance Group, Inc. - Common Stock|Q|N|N|100
 SAGE|Sage Therapeutics, Inc. - Common Stock|G|N|N|100
@@ -3069,7 +3068,6 @@ ZFGN|Zafgen, Inc. - Common Stock|Q|N|N|100
 ZG|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100
 ZGNX|Zogenix, Inc. - Common Stock|G|N|N|100
 ZHNE|Zhone Technologies, Inc. - Common Stock|S|N|N|100
-ZINC|Horsehead Holding Corp. - Common Stock|Q|N|Q|100
 ZION|Zions Bancorporation - Common Stock|Q|N|N|100
 ZIONW|Zions Bancorporation - Warrants 05/21/2020|Q|N|N|100
 ZIONZ|Zions Bancorporation - Warrants|Q|N|N|100
@@ -3089,4 +3087,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0210201609:30|||||
+File Creation Time: 0211201609:45|||||
