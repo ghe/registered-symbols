@@ -280,6 +280,7 @@ AVID|Avid Technology, Inc. - Common Stock|Q|N|N|100
 AVNU|Avenue Financial Holdings, Inc. - Common Stock|Q|N|N|100
 AVNW|Aviat Networks, Inc. - Common Stock|Q|N|D|100
 AVXL|Anavex Life Sciences Corp. - Common Stock|S|N|N|100
+AVXS|AveXis, Inc. - Common Stock|Q|N|N|100
 AWRE|Aware, Inc. - Common Stock|G|N|N|100
 AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100
 AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100
@@ -2247,6 +2248,7 @@ PSUN|Pacific Sunwear of California, Inc. - Common Stock|Q|N|D|100
 PTC|PTC Inc. - Common Stock|Q|N|N|100
 PTCT|PTC Therapeutics, Inc. - Common Stock|Q|N|N|100
 PTEN|Patterson-UTI Energy, Inc. - Common Stock|Q|N|N|100
+PTI|Proteostasis Therapeutics, Inc. - Common Stock|G|N|N|100
 PTIE|Pain Therapeutics - Common Stock|Q|N|N|100
 PTLA|Portola Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 PTNR|Partner Communications Company Ltd. - American Depositary Shares, each representing one ordinary share|Q|N|N|100
@@ -2271,7 +2273,6 @@ QADA|QAD Inc. - Class A Common Stock|Q|N|N|100
 QADB|QAD Inc. - Common Stock|Q|N|N|100
 QAT|iShares MSCI Qatar Capped ETF|G|N|N|100
 QBAK|Qualstar Corporation - Common Stock|S|N|D|100
-QCCO|QC Holdings, Inc. - Common Stock|G|N|N|100
 QCLN|First Trust NASDAQ Clean Edge Green Energy Index Fund|G|N|N|100
 QCOM|QUALCOMM Incorporated - Common Stock|Q|N|N|100
 QCRH|QCR Holdings, Inc. - Common Stock|G|N|N|100
@@ -3087,4 +3088,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0211201609:45|||||
+File Creation Time: 0212201609:30|||||
