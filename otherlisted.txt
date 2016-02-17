@@ -1008,7 +1008,6 @@ CVR|Chicago Rivet & Machine Co. Common Stock|A|CVR|N|100|N|CVR
 CVRR|CVR Refining, LP Common Units Representing Limited Partner Interests|N|CVRR|N|100|N|CVRR
 CVRS|Corindus Vascular Robotics, Inc. Common Stock|A|CVRS|N|100|N|CVRS
 CVS|CVS Health Corporation Common Stock|N|CVS|N|100|N|CVS
-CVSL|CVSL Inc. Common Stock|A|CVSL|N|100|N|CVSL
 CVT|CVENT, INC. Common Stock|N|CVT|N|100|N|CVT
 CVU|CPI Aerostructures, Inc. Common Stock|A|CVU|N|100|N|CVU
 CVX|Chevron Corporation Common Stock|N|CVX|N|100|N|CVX
@@ -1711,6 +1710,7 @@ FIA|Falah Russell-IdealRatings U.S. Large Cap ETF|P|FIA|Y|100|N|FIA
 FIBG|CS FI Enhanced Big Cap Growth ETN|P|FIBG|N|100|N|FIBG
 FICO|Fair Isaac Corproation Common Stock|N|FICO|N|100|N|FICO
 FIDU|Fidelity MSCI Industrials Index ETF|P|FIDU|Y|100|N|FIDU
+FIEE|UBS AG FI Enhanced Europe 50 ETN due February 12, 2026|P|FIEE|N|100|N|FIEE
 FIEG|FI Enhanced Gloabl High Yield ETN|P|FIEG|N|100|N|FIEG
 FIEU|FI Enhanced Europe 50 ETN|P|FIEU|N|100|N|FIEU
 FIF|First Trust Energy Infrastructure Fund Common Shares of Beneficial Interest|N|FIF|N|100|N|FIF
@@ -2179,6 +2179,7 @@ HEMV|iShares Currency Hedged MSCI EM Minimum Volatility ETF|Z|HEMV|Y|100|N|HEMV
 HEP|Holly Energy Partners, L.P. Common Stock|N|HEP|N|100|N|HEP
 HEQ|John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest|N|HEQ|N|100|N|HEQ
 HES|Hess Corporation Common Stock|N|HES|N|100|N|HES
+HES$A|Hess Corporation Depositary Shares, each representing 1/20th interest in the Company's 8.00% Series A Mandatory Convertible Preferred Stock|N|HESpA|N|100|N|HES-A
 HEUS|iShares Currency Hedged MSCI Europe Small-Cap ETF|Z|HEUS|Y|100|N|HEUS
 HEUV|iShares Currency Hedged MSCI Europe Minimum Volatility ETF|Z|HEUV|Y|100|N|HEUV
 HEVY|iPath Pure Beta Industrial Metals ETN|P|HEVY|N|100|N|HEVY
@@ -2737,6 +2738,7 @@ JPX|ProShares UltraShort MSCI Pacific ex-Japan|P|JPX|Y|100|N|JPX
 JPXN|iShares JPX-Nikkei 400 ETF|P|JPXN|Y|100|N|JPXN
 JQC|Nuveen Credit Strategies Income Fund Shares of Beneficial Interest|N|JQC|N|100|N|JQC
 JRI|Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest|N|JRI|N|100|N|JRI
+JRJR|CVSL Inc. Common Stock|A|JRJR|N|100|N|JRJR
 JRO|Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest|N|JRO|N|100|N|JRO
 JRS|Nuveen Real Estate Income Fund Common Shares of Beneficial Interest|A|JRS|N|100|N|JRS
 JSC|SPDR Russell/Nomura Small Cap Japan|P|JSC|Y|100|N|JSC
@@ -3043,6 +3045,7 @@ MET$A|MetLife, Inc. Preferred Series A Floating Rate|N|METpA|N|100|N|MET-A
 MFA|MFA Financial, Inc.|N|MFA|N|100|N|MFA
 MFA$B|MFA Financial, Inc. Preferred Series B|N|MFApB|N|100|N|MFA-B
 MFC|Manulife Financial Corporation Common Stock|N|MFC|N|100|N|MFC
+MFCB|MFC Bancorp Ltd.|N|MFCB|N|100|N|MFCB
 MFD|Macquarie/First Trust Global Common Stock|N|MFD|N|100|N|MFD
 MFG|Mizuho Financial Group, Inc. Sponosred ADR (Japan)|N|MFG|N|100|N|MFG
 MFL|Blackrock MuniHoldings Investment Quality Fund Common Shares of Beneficial Interest|N|MFL|N|100|N|MFL
@@ -3084,7 +3087,6 @@ MIC|Macquarie Infrastructure Company Common Stock|N|MIC|N|100|N|MIC
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
 MIDZ|Direxion Mid Cap Bear 3X Shares|P|MIDZ|Y|100|N|MIDZ
 MIE|Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. Common Stock|N|MIE|N|100|N|MIE
-MIL|MFC Industrial Ltd.|N|MIL|N|100|N|MIL
 MIN|MFS Intermediate Income Trust Common Stock|N|MIN|N|100|N|MIN
 MINC|AdvisorShares Newfleet Multi-sector Income ETF|P|MINC|Y|100|N|MINC
 MINT|PIMCO Enhanced Short Maturity Active Exchange-Traded Fund|P|MINT|Y|100|N|MINT
@@ -3331,7 +3333,6 @@ NGD|New Gold Inc.|A|NGD|N|100|N|NGD
 NGE|Global X MSCI Nigeria ETF|P|NGE|Y|100|N|NGE
 NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares|N|NGG|N|100|N|NGG
 NGL|NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests|N|NGL|N|100|N|NGL
-NGLS|Targa Resources Partners LP Common Units Representing Limited Partnership Interests|N|NGLS|N|100|N|NGLS
 NGLS$A|Targa Resources Partners LP 9.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing preferred equity interests|N|NGLSpA|N|100|N|NGLS-A
 NGS|Natural Gas Services Group, Inc. Common Stock|N|NGS|N|100|N|NGS
 NGVC|Natural Grocers by Vitamin Cottage, Inc. Common Stock|N|NGVC|N|100|N|NGVC
@@ -4644,7 +4645,6 @@ TLLP|Tesoro Logistics LP Common Units representing Limited Partner Interests|N|T
 TLN|Talen Energy Corporation Common Stock|N|TLN|N|100|N|TLN
 TLO|SPDR Barclays Long Term Treasury ETF|P|TLO|Y|100|N|TLO
 TLP|Transmontaigne Partners L.P. Transmontaigne Partners L.P. Common Units representing limited partner interests|N|TLP|N|100|N|TLP
-TLR|Timberline Resources Corporation Common Stock (DE)|A|TLR|N|100|N|TLR
 TLRD|Tailored Brands, Inc. Common Stock|N|TLRD|N|100|N|TLRD
 TLTD|FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund|P|TLTD|Y|100|N|TLTD
 TLTE|FlexShares Morningstar Emerging Markets Factor Tilt Index Fund|P|TLTE|Y|100|N|TLTE
@@ -4766,7 +4766,7 @@ TYBS|Direxion Daily 20 Year Treasury Bear 1X Shares|P|TYBS|Y|100|N|TYBS
 TYC|Tyco International plc (Ireland) Ordinary Share|N|TYC|N|100|N|TYC
 TYD|Direxion Daily 10-Yr Treasury Bull 3x Shrs|P|TYD|Y|100|N|TYD
 TYG|Tortoise Energy Infrastructure Corporation Common Stock|N|TYG|N|100|N|TYG
-TYG$B|Tortoise Energy Infrastructure Corporation Mandatory Red Pfd Ser B|N|TYGpB|N|100|N|TYG-B
+TYG$B|Tortoise Energy Infrastructure Corporation Mandatory Red Pfd Ser B|N|TYGpB/CL|N|100|N|TYG-B*
 TYL|Tyler Technologies, Inc. Common Stock|N|TYL|N|100|N|TYL
 TYNS|Direxion Daily 7 10 Year Treasury Bear 1X Shares|P|TYNS|Y|100|N|TYNS
 TYO|Direxion Daily 10-Yr Treasury Bear 3x Shrs|P|TYO|Y|100|N|TYO
@@ -5260,4 +5260,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0212201621:33||||||
+File Creation Time: 0217201610:02||||||
