@@ -1830,6 +1830,7 @@ FUE|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked t
 FUL|H. B. Fuller Company Common Stock|N|FUL|N|100|N|FUL
 FUN|Cedar Fair, L.P. Common Stock|N|FUN|N|100|N|FUN
 FUR|Winthrop Realty Trust New Common Stock|N|FUR|N|100|N|FUR
+FUT|ProShares Managed Futures Strategy ETF|Z|FUT|Y|100|N|FUT
 FUTS|ProShares Managed Futures Strategy|P|FUTS|Y|100|N|FUTS
 FUTY|Fidelity MSCI Utilities Index ETF|P|FUTY|Y|100|N|FUTY
 FVD|First Trust VL Dividend|P|FVD|Y|100|N|FVD
@@ -3052,6 +3053,7 @@ MFL|Blackrock MuniHoldings Investment Quality Fund Common Shares of Beneficial I
 MFLA|iPath Long Enhanced MSCI EAFE Index ETN|P|MFLA|N|100|N|MFLA
 MFM|MFS Municipal Income Trust Common Stock|N|MFM|N|100|N|MFM
 MFO|MFA Financial, Inc. 8.00% Senior Notes due 2042|N|MFO|N|100|N|MFO
+MFS.V|Manitowoc Food Service, Inc. Common Stock When Issued|N|MFSw|N|100|N|MFS#
 MFT|Blackrock MuniYield Investment Quality Fund Common Shares of Beneficial Interest|N|MFT|N|100|N|MFT
 MFV|MFS Special Value Trust Common Stock|N|MFV|N|100|N|MFV
 MG|Mistras Group Inc Common Stock|N|MG|N|100|N|MG
@@ -3217,6 +3219,7 @@ MTT|Western Asset Municipal Defined Opportunity Trust Inc Common Stock|N|MTT|N|1
 MTU|Mitsubishi UFJ Financial Group, Inc. Common Stock|N|MTU|N|100|N|MTU
 MTUM|iShares MSCI USA Momentum Factor ETF|P|MTUM|Y|100|N|MTUM
 MTW|Manitowoc Company, Inc. (The) Common Stock|N|MTW|N|100|N|MTW
+MTW.V|Manitowoc Company, Inc. (The) Common Stock Ex-Distribution When Issued|N|MTWw|N|100|N|MTW#
 MTX|Minerals Technologies Inc. Common Stock|N|MTX|N|100|N|MTX
 MTZ|MasTec, Inc. Common Stock|N|MTZ|N|100|N|MTZ
 MUA|Blackrock MuniAssets Fund, Inc Common Stock|N|MUA|N|100|N|MUA
@@ -3536,6 +3539,7 @@ OIH|Market Vectors Oil Services ETF|P|OIH|Y|100|N|OIH
 OII|Oceaneering International, Inc. Common Stock|N|OII|N|100|N|OII
 OIIL|Credit Suisse X-Links WTI Crude Oil Index ETNs due February 8, 2016|P|OIIL|N|100|N|OIIL
 OIL|Barclays Bank Plc iPath Exchange Traded Notes Linked to Goldman Sachs Crude Oil Total Return|P|OIL|N|100|N|OIL
+OILX|ETRACS S&P GSCI Crude Oil Total Return Index ETN due February 22, 2046|P|OILX|N|100|N|OILX
 OIS|Oil States International, Inc. Common Stock|N|OIS|N|100|N|OIS
 OKE|ONEOK, Inc. Common Stock|N|OKE|N|100|N|OKE
 OKS|ONEOK Partners, L.P. Common Stock|N|OKS|N|100|N|OKS
@@ -5260,4 +5264,4 @@ ZTR|Zweig Total Return Fund, Inc. (The) Common Stock|N|ZTR|N|100|N|ZTR
 ZTS|Zoetis Inc. Class A Common Stock|N|ZTS|N|100|N|ZTS
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZX|China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares.|N|ZX|N|100|N|ZX
-File Creation Time: 0217201610:02||||||
+File Creation Time: 0218201609:30||||||
