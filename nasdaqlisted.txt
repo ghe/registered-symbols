@@ -564,7 +564,7 @@ CHKP|Check Point Software Technologies Ltd. - Ordinary Shares|Q|N|N|100
 CHLN|China Housing & Land Development, Inc. - Common Stock|S|N|N|100
 CHMA|Chiasma, Inc. - Common Stock|Q|N|N|100
 CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100
-CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100
+CHNR|China Natural Resources, Inc. - Common Stock|S|N|D|100
 CHRS|Coherus BioSciences, Inc. - Common Stock|G|N|N|100
 CHRW|C.H. Robinson Worldwide, Inc. - Common Stock|Q|N|N|100
 CHSCL|CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4|Q|N|N|100
@@ -3086,4 +3086,4 @@ ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-File Creation Time: 0217201610:02|||||
+File Creation Time: 0218201609:30|||||
